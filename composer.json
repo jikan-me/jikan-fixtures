@@ -1,0 +1,13 @@
+{
+    "name": "jikan-me/jikan-fixtures",
+    "description": "Fixtures for PHPUnit tests for jikan-me/jikan",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "irfan-dahir",
+            "email": "irfan.dahir@gmail.com"
+        }
+    ],
+    "require": {}
+}
