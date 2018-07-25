@@ -1,7 +1,7 @@
 {
     "name": "jikan-me/jikan-fixtures",
     "description": "Fixtures for PHPUnit tests for jikan-me/jikan",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
