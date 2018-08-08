@@ -2,7 +2,7 @@
 -
     request:
         method: GET
-        url: 'https://myanimelist.net/history/nekomata1037/'
+        url: 'https://myanimelist.net/history/nekomata1037'
         headers:
             Host: myanimelist.net
             Accept-Encoding: null
