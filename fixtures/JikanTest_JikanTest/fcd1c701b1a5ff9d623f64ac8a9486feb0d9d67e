@@ -32,15 +32,15 @@ One Piece - Forum - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='168e8718ef7db429b422ec18f569be316060d3fd'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='c6e80d02b0c54da3e0cb4333f8f6542906482c73'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-5d34853420.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-f4b62a4c41.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-74b3033dda.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-5d34853420.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-f4b62a4c41.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-74b3033dda.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1654739037"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1654739037"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common" data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -101,8 +103,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry" onclick="trackOutboundLink('https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry')">
-  <img src="/c/i/images/event/Mini_Banner_20220602_Writing_Contest_2022_Submission_Window_Opens/mini_banner.png" width="250" height="36" alt="Writing Contest 2022" title="Writing Contest 2022">
+  <a href="https://myanimelist.net/forum/?topicid=2022436&utm_source=MAL&utm_medium=announce_TMB_about-me" onclick="trackOutboundLink('https://myanimelist.net/forum/?topicid=2022436&utm_source=MAL&utm_medium=announce_TMB_about-me')">
+  <img src="/c/i/images/event/Mini_Banner_20220608_About_me/mini_banner.png" width="250" height="36" alt="About me" title="About me">
 </a>
 
 </div>
@@ -209,9 +211,6 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   </div>
 
 <!-- My List -->
-    <div class="di-b mt4 mb8 ac" id="broadcast-block">
-      <a href="javascript:void(0)" onclick="return false;" class="left-info-block-broadcast-button js-broadcast-button ga-click" data-title="One Piece" data-subtitle="" data-raw='{"data":[{"platform":{"id":1,"name":"Crunchyroll","icon":"crunchyroll","type":1},"available":true,"url":"http:\/\/www.crunchyroll.com\/series-257631"},{"platform":{"id":4,"name":"Funimation","icon":"funimation","type":1},"available":false,"url":"https:\/\/www.funimation.com\/shows\/one-piece"},{"platform":{"id":2,"name":"Netflix","icon":"netflix","type":1},"available":false,"url":"https:\/\/www.netflix.com\/title\/80107103"},{"platform":{"id":28,"name":"Shahid","icon":"shahid","type":2},"available":false,"url":"https:\/\/shahid.mbc.net\/en\/series\/One-Piece\/series-826519"}],"count":{"available":1,"typicals":3,"others":1,"total":4}}' data-ga-click-type="broadcast-title-watch-episode" data-ga-click-param="aid:21"><i class="malicon malicon-streaming"></i> Watch Episodes</a>
-    </div>
 
   <div class="profileRows pb0">
     <a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required">Add to My List</a>
@@ -253,7 +252,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <!-- end My List -->
 <div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
 
-<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;text=One%20Piece&amp;hashtags=anime"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;title=One%20Piece"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;name=One%20Piece"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div>  <br />
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;text=One%20Piece&amp;hashtags=anime"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;title=One%20Piece"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;name=One%20Piece"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div>  <br />
 
   <h2>Alternative Titles</h2><div class="spaceit_pad">
     <span class="dark_text">Synonyms:</span> OP
@@ -334,7 +333,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <h2>Statistics</h2>
 <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="spaceit_pad po-r js-statistics-info di-ib" data-id="info1">
   <span class="dark_text">Score:</span>
-  <span itemprop="ratingValue" class="score-label score-8">8.64</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">1069678</span>1,069,678 users)
+  <span itemprop="ratingValue" class="score-label score-8">8.65</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">1082782</span>1,082,782 users)
       <meta itemprop="bestRating" content="10">
     <meta itemprop="worstRating" content="1">
       <div class="statistics-info info1">
@@ -345,7 +344,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #65<sup>2</sup>
+  #63<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -358,11 +357,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Members:</span>
-    1,881,078
+    1,902,484
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Favorites:</span>
-  165,960
+  168,849
 </div>
 
 <br />
@@ -371,7 +370,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <br />
 <h2>Streaming Platforms</h2>
 <div class="pb16 broadcasts"><div class="broadcast">
-      <a href="http://www.crunchyroll.com/series-257631" title="Crunchyroll" class="broadcast-item available ga-click" data-available="1" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:21"><i class="spicon spicon-crunchyroll"></i><div class="caption">Crunchyroll</div></a>
+      <a href="http://www.crunchyroll.com/series-257631" title="Crunchyroll" class="broadcast-item notavailable ga-click" data-available="" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:21"><i class="spicon spicon-crunchyroll"></i><div class="caption">Crunchyroll</div></a>
     </div><div class="broadcast">
       <a href="https://www.funimation.com/shows/one-piece" title="Funimation" class="broadcast-item notavailable ga-click" data-available="" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:21"><i class="spicon spicon-funimation"></i><div class="caption">Funimation</div></a>
     </div><div class="js-streaming-platforms hide"><div class="broadcast">
@@ -447,93 +446,93 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <td width="75" align="center" class="normal_header">Replies</td><td width="130" align="center" class="normal_header">Last Post</td>
         </tr><tr id="topicRow1">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2020871">Who would you rather join the crew? (post-timeskip spoilers)</a> <small></small><br><span class="forum_postusername"><a href="/profile/AOD-MAL">AOD-MAL</a></span> - <span class="lightLink">Jun 5</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">15</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/KillerZoro1">KillerZoro1</a> <a href="/forum/?topicid=2020871&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>33 minutes ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2026520" >My Top 5 Arcs, What Are Yours?</a> <small></small><br><span class="forum_postusername"><a href="/profile/Deanomac2010">Deanomac2010</a></span> - <span class="lightLink">Jun 30</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">30</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Pyto-kun">Pyto-kun</a> <a href="/forum/?topicid=2026520&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>7 minutes ago</td>
             </tr>
             <tr id="topicRow2">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=2020661">One Piece Episode 1020 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/AhriTheS3xyFox">AhriTheS3xyFox</a></span> - <span class="lightLink">Jun 4</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">39</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/LXYXN">LXYXN</a> <a href="/forum/?topicid=2020661&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>2 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2026519" >My Top 5 Arcs, What Are You</a> <small></small><br><span class="forum_postusername"><a href="/profile/Deanomac2010">Deanomac2010</a></span> - <span class="lightLink">Jun 30</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">21</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Reckless_weeb">Reckless_weeb</a> <a href="/forum/?topicid=2026519&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>1 hour ago</td>
             </tr>
             <tr id="topicRow3">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow3"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1767341">One Piece Episode 873 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/alphazero4um">alphazero4um</a></span> - <span class="lightLink">Feb 16, 2019</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">39</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Abdul-Ahad-12345">Abdul-Ahad-12345</a> <a href="/forum/?topicid=1767341&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>4 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=469681" >One Piece Episode 557 Discussion</a> <small> ( <a href="/forum/?topicid=469681&show=0">1</a> <a href="/forum/?topicid=469681&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/ninkendo">ninkendo</a></span> - <span class="lightLink">Jul 28, 2012</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">85</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Jamk_">Jamk_</a> <a href="/forum/?topicid=469681&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>2 hours ago</td>
             </tr>
             <tr id="topicRow4">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow4"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1764989">One Piece Episode 871 Discussion</a> <small> ( <a href="/forum/?topicid=1764989&show=0">1</a> <a href="/forum/?topicid=1764989&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/FMmatron">FMmatron</a></span> - <span class="lightLink">Feb 2, 2019</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">67</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Abdul-Ahad-12345">Abdul-Ahad-12345</a> <a href="/forum/?topicid=1764989&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>5 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=461003" >One Piece Episode 555 Discussion</a> <small> ( <a href="/forum/?topicid=461003&show=0">1</a> <a href="/forum/?topicid=461003&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Kaeji">Kaeji</a></span> - <span class="lightLink">Jul 7, 2012</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">82</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Jamk_">Jamk_</a> <a href="/forum/?topicid=461003&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>3 hours ago</td>
             </tr>
             <tr id="topicRow5">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow5"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1763817">One Piece Episode 870 Discussion</a> <small> ( <a href="/forum/?topicid=1763817&show=0">1</a> <a href="/forum/?topicid=1763817&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/FMmatron">FMmatron</a></span> - <span class="lightLink">Jan 26, 2019</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">98</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Abdul-Ahad-12345">Abdul-Ahad-12345</a> <a href="/forum/?topicid=1763817&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>5 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=126168" >One Piece Episode 164 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/Veethorn">Veethorn</a></span> - <span class="lightLink">Oct 24, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">40</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Mack_Yeager">Mack_Yeager</a> <a href="/forum/?topicid=126168&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>4 hours ago</td>
             </tr>
             <tr id="topicRow6">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow6"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1762627">One Piece Episode 869 Discussion</a> <small> ( <a href="/forum/?topicid=1762627&show=0">1</a> <a href="/forum/?topicid=1762627&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/SamBlack">SamBlack</a></span> - <span class="lightLink">Jan 19, 2019</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">51</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Abdul-Ahad-12345">Abdul-Ahad-12345</a> <a href="/forum/?topicid=1762627&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>5 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2026434" >New Threats</a> <small></small><br><span class="forum_postusername"><a href="/profile/JuggedOtaku">JuggedOtaku</a></span> - <span class="lightLink">Jun 29</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">7</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/BigBoya">BigBoya</a> <a href="/forum/?topicid=2026434&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>7 hours ago</td>
             </tr>
             <tr id="topicRow7">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow7"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=126153">One Piece Episode 163 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/Veethorn">Veethorn</a></span> - <span class="lightLink">Oct 24, 2009</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">34</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/taflinder">taflinder</a> <a href="/forum/?topicid=126153&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>5 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2026278" >About the OP pacing</a> <small></small><br><span class="forum_postusername"><a href="/profile/kobeniscarCSM">kobeniscarCSM</a></span> - <span class="lightLink">Jun 28</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">23</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Mikasa">Mikasa</a> <a href="/forum/?topicid=2026278&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>7 hours ago</td>
             </tr>
             <tr id="topicRow8">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow8"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2020852">Questions about manga </a> <small></small><br><span class="forum_postusername"><a href="/profile/MugenDarou">MugenDarou</a></span> - <span class="lightLink">Jun 5</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">12</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/degenerocity">degenerocity</a> <a href="/forum/?topicid=2020852&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>5 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=122230" >One Piece Episode 30 Discussion</a> <small> ( <a href="/forum/?topicid=122230&show=0">1</a> <a href="/forum/?topicid=122230&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Alicia3000">Alicia3000</a></span> - <span class="lightLink">Oct 9, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">60</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Lookiiii">Lookiiii</a> <a href="/forum/?topicid=122230&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>7 hours ago</td>
             </tr>
             <tr id="topicRow9">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow9"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=126136">One Piece Episode 162 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/Veethorn">Veethorn</a></span> - <span class="lightLink">Oct 24, 2009</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">27</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/taflinder">taflinder</a> <a href="/forum/?topicid=126136&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>6 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=103876" >One Piece Episode 29 Discussion</a> <small> ( <a href="/forum/?topicid=103876&show=0">1</a> <a href="/forum/?topicid=103876&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Kaizokuou">Kaizokuou</a></span> - <span class="lightLink">Aug 4, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">51</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Lookiiii">Lookiiii</a> <a href="/forum/?topicid=103876&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>7 hours ago</td>
             </tr>
             <tr id="topicRow10">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow10"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=1761417">One Piece Episode 868 Discussion</a> <small> ( <a href="/forum/?topicid=1761417&show=0">1</a> <a href="/forum/?topicid=1761417&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/SamBlack">SamBlack</a></span> - <span class="lightLink">Jan 12, 2019</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">72</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Abdul-Ahad-12345">Abdul-Ahad-12345</a> <a href="/forum/?topicid=1761417&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>6 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=122201" >One Piece Episode 28 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/Alicia3000">Alicia3000</a></span> - <span class="lightLink">Oct 9, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">31</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Lookiiii">Lookiiii</a> <a href="/forum/?topicid=122201&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>8 hours ago</td>
             </tr>
             <tr id="topicRow11">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow11"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=2019216">One Piece Episode 1019 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/AhriTheS3xyFox">AhriTheS3xyFox</a></span> - <span class="lightLink">May 28</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">47</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/WolfWood37">WolfWood37</a> <a href="/forum/?topicid=2019216&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>10 hours ago</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=122196" >One Piece Episode 27 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/Alicia3000">Alicia3000</a></span> - <span class="lightLink">Oct 9, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">24</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Lookiiii">Lookiiii</a> <a href="/forum/?topicid=122196&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>8 hours ago</td>
             </tr>
             <tr id="topicRow12">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow12"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=149148">One Piece Episode 260 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/VARIAchan">VARIAchan</a></span> - <span class="lightLink">Jan 5, 2010</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">33</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Jamk_">Jamk_</a> <a href="/forum/?topicid=149148&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 12:04 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=122180" >One Piece Episode 26 Discussion</a> <small> ( <a href="/forum/?topicid=122180&show=0">1</a> <a href="/forum/?topicid=122180&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Alicia3000">Alicia3000</a></span> - <span class="lightLink">Oct 9, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">55</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Lookiiii">Lookiiii</a> <a href="/forum/?topicid=122180&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>9 hours ago</td>
             </tr>
             <tr id="topicRow13">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow13"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=4841">One Piece Episode 258 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/s0kkiplast">s0kkiplast</a></span> - <span class="lightLink">Sep 13, 2007</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">49</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Jamk_">Jamk_</a> <a href="/forum/?topicid=4841&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 10:30 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2026389" >flaws in skypiea</a> <small></small><br><span class="forum_postusername"><a href="/profile/trulymystique">trulymystique</a></span> - <span class="lightLink">Jun 29</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">31</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/ChibiTalha">ChibiTalha</a> <a href="/forum/?topicid=2026389&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>10 hours ago</td>
             </tr>
             <tr id="topicRow14">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow14"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=2014199">Favorite One piece supporting character</a> <small></small><br><span class="forum_postusername"><a href="/profile/OkarinSteiner">OkarinSteiner</a></span> - <span class="lightLink">May 4</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">25</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Killer-King">Killer-King</a> <a href="/forum/?topicid=2014199&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 9:38 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2026081" >Anime vs Manga</a> <small></small><br><span class="forum_postusername"><a href="/profile/ArthurLeywin_">ArthurLeywin_</a></span> - <span class="lightLink">Jun 28</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">18</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/ryzxgum">ryzxgum</a> <a href="/forum/?topicid=2026081&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 4:13 PM</td>
             </tr>
             <tr id="topicRow15">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow15"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=4838">One Piece Episode 257 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/s0kkiplast">s0kkiplast</a></span> - <span class="lightLink">Sep 13, 2007</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">49</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Jamk_">Jamk_</a> <a href="/forum/?topicid=4838&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 8:45 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=443535" >One Piece Episode 548 Discussion</a> <small> ( <a href="/forum/?topicid=443535&show=0">1</a> <a href="/forum/?topicid=443535&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/xochandaox">xochandaox</a></span> - <span class="lightLink">May 19, 2012</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">66</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Jamk_">Jamk_</a> <a href="/forum/?topicid=443535&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 2:35 PM</td>
             </tr>
             </table></div></div>  <div class="mauto clearfix pt24" style="width:760px;">
     <div class="fl-l">
@@ -602,23 +601,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -628,23 +627,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
               <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
             </li>
                       <li>
-              <span class="rank">4</span>
+              <span class="rank">2</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/47194/Summertime_Render">Summertime Render</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
             </li>
                   </ol>
       </div>

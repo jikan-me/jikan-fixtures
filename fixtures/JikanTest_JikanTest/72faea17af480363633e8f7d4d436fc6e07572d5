@@ -32,15 +32,15 @@ Berserk | Manga - Characters &amp; Staff - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='bf129d3d6577c1bf552c28818c8b1959d2a68ee3'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='2c15f60debf55ff8a04adbdea88571c82421eb8f'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-5d34853420.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-f4b62a4c41.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-74b3033dda.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-5d34853420.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-f4b62a4c41.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-74b3033dda.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1654739037"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1654739037"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common" data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -103,8 +105,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry" onclick="trackOutboundLink('https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry')">
-  <img src="/c/i/images/event/Mini_Banner_20220602_Writing_Contest_2022_Submission_Window_Opens/mini_banner.png" width="250" height="36" alt="Writing Contest 2022" title="Writing Contest 2022">
+  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
+  <img src="/c/i/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
 </a>
 
 </div>
@@ -211,11 +213,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         </tr>
         <tr>
         <td class="spaceit">Chap. Read:</td>
-        <td class="spaceit"><input type="text" id="myinfo_chapters" size="3" maxlength="4" class="inputtext" value=""> / <span id="totalChaps">380</span></td>
+        <td class="spaceit"><input type="text" id="myinfo_chapters" size="3" maxlength="4" class="inputtext" value=""> / <span id="totalChaps">?</span></td>
         </tr>
         <tr>
         <td class="spaceit">Vol. Read:</td>
-        <td class="spaceit"><input type="text" id="myinfo_volumes" size="3" maxlength="4" class="inputtext" value=""> / <span id="totalVols">41</span></td>
+        <td class="spaceit"><input type="text" id="myinfo_volumes" size="3" maxlength="4" class="inputtext" value=""> / <span id="totalVols">?</span></td>
         </tr>
         <tr>
         <td class="spaceit">Your Score:</td>
@@ -229,13 +231,13 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 		</table>
     <div id="myinfoDisplay" style="padding-left: 82px; margin-top: 3px;"></div>
 		</div>
-		<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F2%2F_%2Fcharacters&amp;error=login_required" style="font-weight: normal;"><span id="favOutput">Add to Favorites</span></a></div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F2%2FBerserk"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F2%2FBerserk&amp;text=Berserk&amp;hashtags=manga"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F2%2FBerserk&amp;title=Berserk"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F2%2FBerserk&amp;name=Berserk"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div><br><h2>Alternative Titles</h2><div class="spaceit_pad"><span class="dark_text">Synonyms:</span> Berserk: The Prototype</div><div class="spaceit_pad"><span class="dark_text">Japanese:</span> ベルセルク</div><div class="js-alternative-titles hide"><div class="spaceit_pad"><span class="dark_text">English:</span> Berserk</div></div><a href="javascript:void(0);" class="js-manga-toggle-alternative-title-button"><i class="fa-solid fa-chevron-down mr4"></i>More titles</a><br><br><h2>Information</h2><div class="spaceit_pad"><span class="dark_text">Type:</span> <a href="/topmanga.php?type=manga">Manga</a></div>
-<div class="spaceit_pad"><span class="dark_text">Volumes:</span> 41
+		<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F2%2F_%2Fcharacters&amp;error=login_required" style="font-weight: normal;"><span id="favOutput">Add to Favorites</span></a></div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F2%2FBerserk"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F2%2FBerserk&amp;text=Berserk&amp;hashtags=manga"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F2%2FBerserk&amp;title=Berserk"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F2%2FBerserk&amp;name=Berserk"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div><br><h2>Alternative Titles</h2><div class="spaceit_pad"><span class="dark_text">Synonyms:</span> Berserk: The Prototype</div><div class="spaceit_pad"><span class="dark_text">Japanese:</span> ベルセルク</div><div class="js-alternative-titles hide"><div class="spaceit_pad"><span class="dark_text">English:</span> Berserk</div></div><a href="javascript:void(0);" class="js-manga-toggle-alternative-title-button"><i class="fa-solid fa-chevron-down mr4"></i>More titles</a><br><br><h2>Information</h2><div class="spaceit_pad"><span class="dark_text">Type:</span> <a href="/topmanga.php?type=manga">Manga</a></div>
+<div class="spaceit_pad"><span class="dark_text">Volumes:</span> Unknown
 </div>
-<div class="spaceit_pad"><span class="dark_text">Chapters:</span> 380
+<div class="spaceit_pad"><span class="dark_text">Chapters:</span> Unknown
 </div>
-<div class="spaceit_pad"><span class="dark_text">Status:</span> On Hiatus</div>
-<div class="spaceit_pad"><span class="dark_text">Published:</span> Aug  25, 1989 to Sep  10, 2021</div>
+<div class="spaceit_pad"><span class="dark_text">Status:</span> Publishing</div>
+<div class="spaceit_pad"><span class="dark_text">Published:</span> Aug  25, 1989 to ?</div>
         <div class="spaceit_pad">
                     <span class="dark_text">Genres:</span>
                             <span itemprop="genre" style="display:none">Action</span>
@@ -272,17 +274,17 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     
 <div class="spaceit_pad"><span class="dark_text">Serialization:</span>
     <a href="/manga/magazine/2/Young_Animal" title="Young Animal">Young Animal</a></div><div class="spaceit_pad"><span class="dark_text">Authors:</span>
-    <a href="/people/1868/Kentarou_Miura">Miura, Kentarou</a> (Story &amp; Art)</div><br>
-<h2>Statistics</h2><div class="spaceit_pad po-r js-statistics-info di-i" data-id="info1" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" ><span class="dark_text">Score:</span> <span><span itemprop="ratingValue" class="score-label score-9">9.45</span><sup><small>1</small></sup> <small>(scored by <span itemprop="ratingCount" style="display:none;">258664</span>258,664 users)</small><meta itemprop="bestRating" content="10"><meta itemprop="worstRating" content="1"></span><div class="statistics-info info1"><small><sup>1</sup> indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.</small></div></div><div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">  <span class="dark_text">Ranked:</span> #1<sup><small>2</small></sup>  <div class="statistics-info info2"><small><sup>2</sup> based on the <a href="/topmanga.php">top manga</a> page. Please note that 'R18+' titles are excluded.</small></div></div><div class="spaceit_pad"><span class="dark_text">Popularity:</span> #2</div>
-<div class="spaceit_pad"><span class="dark_text">Members:</span> 532,937</div>
-<div class="spaceit_pad"><span class="dark_text">Favorites:</span> 100,311</div><br><h2>External Links</h2><div class="pb16"><a href="http://www.younganimal.com/berserk/index.html" target="_blank">Official Site</a>, <a href="http://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF_%28%E6%BC%AB%E7%94%BB%29" target="_blank">Wikipedia</a></div>  <div class="clearfix mauto mt16" style="width:160px;padding-right10px;">
+    <a href="/people/1868/Kentarou_Miura">Miura, Kentarou</a> (Story &amp; Art), <a href="/people/49592/Studio_Gaga">Studio Gaga</a> (Art)</div><br>
+<h2>Statistics</h2><div class="spaceit_pad po-r js-statistics-info di-i" data-id="info1" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" ><span class="dark_text">Score:</span> <span><span itemprop="ratingValue" class="score-label score-9">9.45</span><sup><small>1</small></sup> <small>(scored by <span itemprop="ratingCount" style="display:none;">263777</span>263,777 users)</small><meta itemprop="bestRating" content="10"><meta itemprop="worstRating" content="1"></span><div class="statistics-info info1"><small><sup>1</sup> indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.</small></div></div><div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">  <span class="dark_text">Ranked:</span> #1<sup><small>2</small></sup>  <div class="statistics-info info2"><small><sup>2</sup> based on the <a href="/topmanga.php">top manga</a> page. Please note that 'R18+' titles are excluded.</small></div></div><div class="spaceit_pad"><span class="dark_text">Popularity:</span> #2</div>
+<div class="spaceit_pad"><span class="dark_text">Members:</span> 542,238</div>
+<div class="spaceit_pad"><span class="dark_text">Favorites:</span> 102,153</div><br><h2>External Links</h2><div class="pb16"><a href="http://www.younganimal.com/berserk/index.html" target="_blank">Official Site</a>, <a href="http://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF_%28%E6%BC%AB%E7%94%BB%29" target="_blank">Wikipedia</a></div>  <div class="clearfix mauto mt16" style="width:160px;padding-right10px;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="160" data-koukoku-height="600">
-        <div id="D_160x600_Leftrail" class="ad-sas mauto ac" data-ad-target="manga_id=2;display=characters;country=LU" data-ad-id="100645" data-ad-pid="1362562" data-ad-sid="394613" data-ad-sticky="sidebar" data-ad-sticky-container="#content"></div>
+        <div id="D_160x600_Leftrail" class="ad-sas mauto ac" data-ad-target="manga_id=2;display=characters;country=PK" data-ad-id="100645" data-ad-pid="1362562" data-ad-sid="394613" data-ad-sticky="sidebar" data-ad-sticky-container="#content"></div>
 
       </div>
     </div></div></td><td valign="top" style="padding-left: 5px;"><div class="rightside js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="728" data-koukoku-height="90">
-        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="manga_id=2;display=characters;country=LU" data-ad-id="99451" data-ad-pid="1362562" data-ad-sid="394613"></div>
+        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="manga_id=2;display=characters;country=PK" data-ad-id="99451" data-ad-pid="1362562" data-ad-sid="394613"></div>
 
       </div>
     </div>
@@ -296,7 +298,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <li><a  href="/manga/2/Berserk/userrecs">Recommendations</a>
 			<li><a  href="/manga/2/Berserk/stacks">Interest Stacks</a>
 			<li><a  href="/manga/2/Berserk/news">News</a></li>
-			<li><a  href="/manga/2/Berserk/forum">Forum</a></li> 
+			<li><a  href="/manga/2/Berserk/forum">Forum</a></li>
 			<li><a  href="/manga/2/Berserk/clubs">Clubs</a></li>
 			<li><a  href="/manga/2/Berserk/pics">Pictures</a></li>
 				<li><a  href="/manga/2/Berserk/moreinfo">More Info</a></li>
@@ -344,7 +346,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_Casca
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          3259
+          3355
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/423/Casca"><h3 class="h3_character_name">Casca</h3></a>
@@ -353,7 +355,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Main</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          3259 Favorites
+          3355 Favorites
         </div>
       </td>
     </tr>
@@ -371,7 +373,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_de Vandimion, Farnese
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          627
+          660
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/7857/Farnese_de_Vandimion"><h3 class="h3_character_name">de Vandimion, Farnese</h3></a>
@@ -380,7 +382,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Main</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          627 Favorites
+          660 Favorites
         </div>
       </td>
     </tr>
@@ -398,7 +400,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_Griffith
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          12533
+          12770
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/424/Griffith"><h3 class="h3_character_name">Griffith</h3></a>
@@ -407,7 +409,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Main</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          12533 Favorites
+          12770 Favorites
         </div>
       </td>
     </tr>
@@ -425,7 +427,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_Guts
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          65206
+          66299
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/422/Guts"><h3 class="h3_character_name">Guts</h3></a>
@@ -434,7 +436,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Main</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          65206 Favorites
+          66299 Favorites
         </div>
       </td>
     </tr>
@@ -452,7 +454,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_Isidro
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          216
+          228
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/7859/Isidro"><h3 class="h3_character_name">Isidro</h3></a>
@@ -461,7 +463,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Main</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          216 Favorites
+          228 Favorites
         </div>
       </td>
     </tr>
@@ -479,7 +481,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_Puck
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          1177
+          1229
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/5060/Puck"><h3 class="h3_character_name">Puck</h3></a>
@@ -488,7 +490,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Main</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          1177 Favorites
+          1229 Favorites
         </div>
       </td>
     </tr>
@@ -506,7 +508,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_Schierke
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          1285
+          1316
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/7864/Schierke"><h3 class="h3_character_name">Schierke</h3></a>
@@ -515,7 +517,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Main</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          1285 Favorites
+          1316 Favorites
         </div>
       </td>
     </tr>
@@ -533,7 +535,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_Serpico
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          694
+          714
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/5059/Serpico"><h3 class="h3_character_name">Serpico</h3></a>
@@ -542,7 +544,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Main</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          694 Favorites
+          714 Favorites
         </div>
       </td>
     </tr>
@@ -641,7 +643,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Bazuso
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          20
+          19
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/49343/Bazuso"><h3 class="h3_character_name">Bazuso</h3></a>
@@ -650,7 +652,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          20 Favorites
+          19 Favorites
         </div>
       </td>
     </tr>
@@ -695,7 +697,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Bonebeard
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          1
+          2
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/182541/Bonebeard"><h3 class="h3_character_name">Bonebeard</h3></a>
@@ -704,7 +706,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          1 Favorites
+          2 Favorites
         </div>
       </td>
     </tr>
@@ -722,7 +724,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Chicchi
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          59
+          60
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/74513/Chicchi"><h3 class="h3_character_name">Chicchi</h3></a>
@@ -731,7 +733,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          59 Favorites
+          60 Favorites
         </div>
       </td>
     </tr>
@@ -776,7 +778,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Collette
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          0
+          1
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/143842/Collette"><h3 class="h3_character_name">Collette</h3></a>
@@ -785,7 +787,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          0 Favorites
+          1 Favorites
         </div>
       </td>
     </tr>
@@ -830,7 +832,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Corkus
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          22
+          23
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/599/Corkus"><h3 class="h3_character_name">Corkus</h3></a>
@@ -839,7 +841,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          22 Favorites
+          23 Favorites
         </div>
       </td>
     </tr>
@@ -884,7 +886,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Donovan
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          219
+          226
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/137923/Donovan"><h3 class="h3_character_name">Donovan</h3></a>
@@ -893,7 +895,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          219 Favorites
+          226 Favorites
         </div>
       </td>
     </tr>
@@ -911,7 +913,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Egg of the Perfect World
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          8
+          9
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/149776/Egg_of_the_Perfect_World"><h3 class="h3_character_name">Egg of the Perfect World</h3></a>
@@ -920,7 +922,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          8 Favorites
+          9 Favorites
         </div>
       </td>
     </tr>
@@ -1046,7 +1048,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Foss
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          4
+          3
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/58301/Foss"><h3 class="h3_character_name">Foss</h3></a>
@@ -1055,7 +1057,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          4 Favorites
+          3 Favorites
         </div>
       </td>
     </tr>
@@ -1154,7 +1156,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Godo
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          43
+          46
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/6848/Godo"><h3 class="h3_character_name">Godo</h3></a>
@@ -1163,7 +1165,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          43 Favorites
+          46 Favorites
         </div>
       </td>
     </tr>
@@ -1181,7 +1183,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Grunbeld
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          6
+          7
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/7868/Grunbeld"><h3 class="h3_character_name">Grunbeld</h3></a>
@@ -1190,7 +1192,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          6 Favorites
+          7 Favorites
         </div>
       </td>
     </tr>
@@ -1235,7 +1237,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Irvine
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          31
+          30
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/7871/Irvine"><h3 class="h3_character_name">Irvine</h3></a>
@@ -1244,7 +1246,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          31 Favorites
+          30 Favorites
         </div>
       </td>
     </tr>
@@ -1262,7 +1264,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Isma
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          30
+          31
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/30669/Isma"><h3 class="h3_character_name">Isma</h3></a>
@@ -1271,7 +1273,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          30 Favorites
+          31 Favorites
         </div>
       </td>
     </tr>
@@ -1316,7 +1318,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Jill
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          15
+          14
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/27057/Jill"><h3 class="h3_character_name">Jill</h3></a>
@@ -1325,7 +1327,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          15 Favorites
+          14 Favorites
         </div>
       </td>
     </tr>
@@ -1370,7 +1372,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Judeau
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          1115
+          1152
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/454/Judeau"><h3 class="h3_character_name">Judeau</h3></a>
@@ -1379,7 +1381,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          1115 Favorites
+          1152 Favorites
         </div>
       </td>
     </tr>
@@ -1505,7 +1507,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Luca
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          74
+          78
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/26394/Luca"><h3 class="h3_character_name">Luca</h3></a>
@@ -1514,7 +1516,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          74 Favorites
+          78 Favorites
         </div>
       </td>
     </tr>
@@ -1586,7 +1588,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Morda
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          16
+          15
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/136922/Morda"><h3 class="h3_character_name">Morda</h3></a>
@@ -1595,7 +1597,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          16 Favorites
+          15 Favorites
         </div>
       </td>
     </tr>
@@ -1613,7 +1615,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Morgan
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          0
+          2
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/150281/Morgan"><h3 class="h3_character_name">Morgan</h3></a>
@@ -1622,7 +1624,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          0 Favorites
+          2 Favorites
         </div>
       </td>
     </tr>
@@ -1640,7 +1642,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Mozgus
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          43
+          44
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/32488/Mozgus"><h3 class="h3_character_name">Mozgus</h3></a>
@@ -1649,7 +1651,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          43 Favorites
+          44 Favorites
         </div>
       </td>
     </tr>
@@ -1694,7 +1696,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Nosferatu, Zodd
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          319
+          325
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/600/Zodd_Nosferatu"><h3 class="h3_character_name">Nosferatu, Zodd</h3></a>
@@ -1703,7 +1705,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          319 Favorites
+          325 Favorites
         </div>
       </td>
     </tr>
@@ -1721,7 +1723,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_of Staufen, Roderick
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          11
+          12
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/55333/Roderick_of_Staufen"><h3 class="h3_character_name">of Staufen, Roderick</h3></a>
@@ -1730,7 +1732,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          11 Favorites
+          12 Favorites
         </div>
       </td>
     </tr>
@@ -1775,7 +1777,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Pippin
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          95
+          99
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/597/Pippin"><h3 class="h3_character_name">Pippin</h3></a>
@@ -1784,7 +1786,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          95 Favorites
+          99 Favorites
         </div>
       </td>
     </tr>
@@ -1883,7 +1885,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Rakshas
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          10
+          11
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/7873/Rakshas"><h3 class="h3_character_name">Rakshas</h3></a>
@@ -1892,7 +1894,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          10 Favorites
+          11 Favorites
         </div>
       </td>
     </tr>
@@ -1937,7 +1939,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Rickert
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          95
+          100
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/598/Rickert"><h3 class="h3_character_name">Rickert</h3></a>
@@ -1946,7 +1948,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          95 Favorites
+          100 Favorites
         </div>
       </td>
     </tr>
@@ -1964,7 +1966,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Rosine
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          21
+          23
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/19553/Rosine"><h3 class="h3_character_name">Rosine</h3></a>
@@ -1973,7 +1975,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          21 Favorites
+          23 Favorites
         </div>
       </td>
     </tr>
@@ -2045,7 +2047,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Slan
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          84
+          86
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/605/Slan"><h3 class="h3_character_name">Slan</h3></a>
@@ -2054,7 +2056,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          84 Favorites
+          86 Favorites
         </div>
       </td>
     </tr>
@@ -2072,7 +2074,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Sonia
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          14
+          15
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/7874/Sonia"><h3 class="h3_character_name">Sonia</h3></a>
@@ -2081,7 +2083,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          14 Favorites
+          15 Favorites
         </div>
       </td>
     </tr>
@@ -2126,7 +2128,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_The Skull Knight
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          1387
+          1442
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/7881/The_Skull_Knight"><h3 class="h3_character_name">The Skull Knight</h3></a>
@@ -2135,7 +2137,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          1387 Favorites
+          1442 Favorites
         </div>
       </td>
     </tr>
@@ -2153,7 +2155,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Theresia
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          0
+          1
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/142623/Theresia"><h3 class="h3_character_name">Theresia</h3></a>
@@ -2162,7 +2164,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          0 Favorites
+          1 Favorites
         </div>
       </td>
     </tr>
@@ -2261,7 +2263,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Void
         </div>
         <div class="js-manga-character-favorites" style="display:none;">
-          57
+          58
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/604/Void"><h3 class="h3_character_name">Void</h3></a>
@@ -2270,7 +2272,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <small>Supporting</small>
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          57 Favorites
+          58 Favorites
         </div>
       </td>
     </tr>
@@ -2333,14 +2335,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <div style="float:left;">
       
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="manga_id=2;display=characters;country=LU" data-ad-id="99455" data-ad-pid="1362562" data-ad-sid="394613"></div>
+        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="manga_id=2;display=characters;country=PK" data-ad-id="99455" data-ad-pid="1362562" data-ad-sid="394613"></div>
 
       </div>
         </div>
     <div style="float:right;">
       
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="manga_id=2;display=characters;country=LU" data-ad-id="99456" data-ad-pid="1362562" data-ad-sid="394613"></div>
+        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="manga_id=2;display=characters;country=PK" data-ad-id="99456" data-ad-pid="1362562" data-ad-sid="394613"></div>
 
       </div>
         </div>
@@ -2416,23 +2418,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -2442,23 +2444,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
               <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
             </li>
                       <li>
-              <span class="rank">4</span>
+              <span class="rank">2</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/47194/Summertime_Render">Summertime Render</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
             </li>
                   </ol>
       </div>

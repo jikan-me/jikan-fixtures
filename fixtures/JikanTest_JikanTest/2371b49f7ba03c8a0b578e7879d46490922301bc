@@ -30,15 +30,15 @@ People - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='ec35251bc422c897d551aefbc80c86f9d7054130'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='9997ea3bf373ae1d06c40f8f2402916635a46987'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-5d34853420.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-f4b62a4c41.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-74b3033dda.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-5d34853420.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-f4b62a4c41.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-74b3033dda.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -54,10 +54,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1654739037"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1654739037"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common" data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -85,8 +87,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce" onclick="trackOutboundLink('https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce')">
-  <img src="/c/i/images/event/Mini_Banner_20220421_TR2022/mini_banner.png" width="250" height="36" alt="TR2022" title="TR2022">
+  <a href="https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry" onclick="trackOutboundLink('https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry')">
+  <img src="/c/i/images/event/Mini_Banner_20220602_Writing_Contest_2022_Submission_Window_Opens/mini_banner.png" width="250" height="36" alt="Writing Contest 2022" title="Writing Contest 2022">
 </a>
 
 </div>
@@ -252,7 +254,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jan  28, 1975
   </td>
   <td class="favorites">
-    102,313
+    102,620
   </td>
 </tr>
 <tr class="ranking-list">
@@ -270,7 +272,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Feb  25, 1989
   </td>
   <td class="favorites">
-    98,298
+    98,434
   </td>
 </tr>
 <tr class="ranking-list">
@@ -288,7 +290,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jun  8, 1983
   </td>
   <td class="favorites">
-    85,394
+    85,812
   </td>
 </tr>
 <tr class="ranking-list">
@@ -306,7 +308,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Sep  3, 1985
   </td>
   <td class="favorites">
-    70,558
+    70,860
   </td>
 </tr>
 <tr class="ranking-list">
@@ -324,7 +326,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jan  5, 1941
   </td>
   <td class="favorites">
-    66,338
+    66,563
   </td>
 </tr>
 <tr class="ranking-list">
@@ -342,7 +344,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     May  29, 1991
   </td>
   <td class="favorites">
-    54,493
+    55,619
   </td>
 </tr>
 <tr class="ranking-list">
@@ -360,7 +362,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     May  4, 1978
   </td>
   <td class="favorites">
-    46,834
+    46,961
   </td>
 </tr>
 <tr class="ranking-list">
@@ -378,7 +380,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jan  1, 1975
   </td>
   <td class="favorites">
-    46,179
+    46,640
   </td>
 </tr>
 <tr class="ranking-list">
@@ -396,7 +398,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Feb  27, 1994
   </td>
   <td class="favorites">
-    45,380
+    45,724
   </td>
 </tr>
 <tr class="ranking-list">
@@ -414,7 +416,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Oct  11, 1980
   </td>
   <td class="favorites">
-    44,584
+    44,760
   </td>
 </tr>
 <tr class="ranking-list">
@@ -432,7 +434,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Oct  24, 1986
   </td>
   <td class="favorites">
-    43,166
+    43,279
   </td>
 </tr>
 <tr class="ranking-list">
@@ -450,7 +452,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     May  30, 1979
   </td>
   <td class="favorites">
-    39,776
+    39,828
   </td>
 </tr>
 <tr class="ranking-list">
@@ -468,7 +470,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jun  7, 1960
   </td>
   <td class="favorites">
-    38,243
+    38,494
   </td>
 </tr>
 <tr class="ranking-list">
@@ -486,7 +488,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jun  2, 1985
   </td>
   <td class="favorites">
-    38,067
+    38,308
   </td>
 </tr>
 <tr class="ranking-list">
@@ -495,7 +497,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/11817/Yoshitsugu_Matsuoka" id="#area" rel="#info">
-      <img width="50" height="78" alt="Matsuoka, Yoshitsugu" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/2/40132.jpg?s=6672e2ad1eb2d3ba08475c30efea1aad" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/2/40132.jpg?s=6672e2ad1eb2d3ba08475c30efea1aad 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/2/40132.jpg?s=061216a986f65f91307c1685ca097f13 2x" />
+      <img width="50" height="78" alt="Matsuoka, Yoshitsugu" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/67404.jpg?s=d671676e366df786622be0dc27f4ec79" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/67404.jpg?s=d671676e366df786622be0dc27f4ec79 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/3/67404.jpg?s=5736a99d88db2fcffd15a5bdc3e4834a 2x" />
     </a>
     <div class="information di-ib mt24">
       <a href="https://myanimelist.net/people/11817/Yoshitsugu_Matsuoka" class="fs14 fw-b">Matsuoka, Yoshitsugu</a><br><span class="fs12 fn-grey6">(松岡 禎丞)</span><br></div>
@@ -504,7 +506,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Sep  17, 1986
   </td>
   <td class="favorites">
-    37,794
+    37,964
   </td>
 </tr>
 <tr class="ranking-list">
@@ -522,7 +524,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Nov  26, 1978
   </td>
   <td class="favorites">
-    34,597
+    34,627
   </td>
 </tr>
 <tr class="ranking-list">
@@ -540,7 +542,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Feb  9, 1973
   </td>
   <td class="favorites">
-    31,043
+    31,152
   </td>
 </tr>
 <tr class="ranking-list">
@@ -558,7 +560,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     May  5, 1967
   </td>
   <td class="favorites">
-    30,406
+    30,669
   </td>
 </tr>
 <tr class="ranking-list">
@@ -576,7 +578,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Feb  20, 1980
   </td>
   <td class="favorites">
-    28,981
+    29,099
   </td>
 </tr>
 <tr class="ranking-list">
@@ -594,7 +596,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jun  11, 1971
   </td>
   <td class="favorites">
-    27,936
+    28,430
   </td>
 </tr>
 <tr class="ranking-list">
@@ -603,7 +605,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/6686/Aoi_Yuuki" id="#area" rel="#info">
-      <img width="50" height="78" alt="Yuuki, Aoi" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/66468.jpg?s=d9785d6f40898be5bf0c26a2fceea9a4" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/66468.jpg?s=d9785d6f40898be5bf0c26a2fceea9a4 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/3/66468.jpg?s=c756850da86f38dfec2e4fe664bfee20 2x" />
+      <img width="50" height="78" alt="Yuuki, Aoi" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/67808.jpg?s=1878769a6c2f2847edb5547f1a4f00ab" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/67808.jpg?s=1878769a6c2f2847edb5547f1a4f00ab 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/3/67808.jpg?s=d15b5d4d24298f2a21629bdea4f2d197 2x" />
     </a>
     <div class="information di-ib mt24">
       <a href="https://myanimelist.net/people/6686/Aoi_Yuuki" class="fs14 fw-b">Yuuki, Aoi</a><br><span class="fs12 fn-grey6">(悠木 碧)</span><br></div>
@@ -612,7 +614,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Mar  27, 1992
   </td>
   <td class="favorites">
-    27,628
+    27,738
   </td>
 </tr>
 <tr class="ranking-list">
@@ -630,7 +632,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Sep  13, 1987
   </td>
   <td class="favorites">
-    25,083
+    25,119
   </td>
 </tr>
 <tr class="ranking-list">
@@ -648,7 +650,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jun  13, 1974
   </td>
   <td class="favorites">
-    24,211
+    24,321
   </td>
 </tr>
 <tr class="ranking-list">
@@ -666,7 +668,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Mar  29, 1972
   </td>
   <td class="favorites">
-    24,144
+    24,267
   </td>
 </tr>
 <tr class="ranking-list">
@@ -684,7 +686,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Sep  12, 1980
   </td>
   <td class="favorites">
-    23,897
+    24,055
   </td>
 </tr>
 <tr class="ranking-list">
@@ -702,7 +704,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Oct  12, 1963
   </td>
   <td class="favorites">
-    22,811
+    22,925
   </td>
 </tr>
 <tr class="ranking-list">
@@ -720,7 +722,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jun  24, 1987
   </td>
   <td class="favorites">
-    22,622
+    22,663
   </td>
 </tr>
 <tr class="ranking-list">
@@ -738,30 +740,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Dec  2, 1995
   </td>
   <td class="favorites">
-    22,043
+    22,231
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">29</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/5111/Hideaki_Anno" id="#area" rel="#info">
-      <img width="50" height="78" alt="Anno, Hideaki" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/2/54280.jpg?s=a2545098f781bcaf029c195147ae8179" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/2/54280.jpg?s=a2545098f781bcaf029c195147ae8179 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/2/54280.jpg?s=aec2e3f93574aafff1109f17c05125a3 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/people/5111/Hideaki_Anno" class="fs14 fw-b">Anno, Hideaki</a><br><span class="fs12 fn-grey6">(庵野 秀明)</span><br></div>
-  </td>
-  <td class="birthday">
-    May  22, 1960
-  </td>
-  <td class="favorites">
-    21,435
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">30</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/1868/Kentarou_Miura" id="#area" rel="#info">
@@ -774,7 +758,25 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jul  11, 1966
   </td>
   <td class="favorites">
-    21,260
+    21,714
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">30</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/5111/Hideaki_Anno" id="#area" rel="#info">
+      <img width="50" height="78" alt="Anno, Hideaki" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/2/54280.jpg?s=a2545098f781bcaf029c195147ae8179" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/2/54280.jpg?s=a2545098f781bcaf029c195147ae8179 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/2/54280.jpg?s=aec2e3f93574aafff1109f17c05125a3 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/people/5111/Hideaki_Anno" class="fs14 fw-b">Anno, Hideaki</a><br><span class="fs12 fn-grey6">(庵野 秀明)</span><br></div>
+  </td>
+  <td class="birthday">
+    May  22, 1960
+  </td>
+  <td class="favorites">
+    21,551
   </td>
 </tr>
 <tr class="ranking-list">
@@ -792,7 +794,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Aug  28, 1993
   </td>
   <td class="favorites">
-    19,859
+    20,034
   </td>
 </tr>
 <tr class="ranking-list">
@@ -800,40 +802,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <span class="lightLink pepole-rank-text rank2">32</span>
   </td>
   <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/2410/Junji_Ito" id="#area" rel="#info">
-      <img width="50" height="78" alt="Ito, Junji" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/54679.jpg?s=7bb472fbd208e2e45047dd19d1c376b6" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/54679.jpg?s=7bb472fbd208e2e45047dd19d1c376b6 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/3/54679.jpg?s=ebd159cdf5bf2baba4a54a07f22855ea 2x" />
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/2410/Junji_Itou" id="#area" rel="#info">
+      <img width="50" height="78" alt="Itou, Junji" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/54679.jpg?s=7bb472fbd208e2e45047dd19d1c376b6" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/54679.jpg?s=7bb472fbd208e2e45047dd19d1c376b6 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/3/54679.jpg?s=ebd159cdf5bf2baba4a54a07f22855ea 2x" />
     </a>
     <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/people/2410/Junji_Ito" class="fs14 fw-b">Ito, Junji</a><br><span class="fs12 fn-grey6">(伊藤 潤二)</span><br></div>
+      <a href="https://myanimelist.net/people/2410/Junji_Itou" class="fs14 fw-b">Itou, Junji</a><br><span class="fs12 fn-grey6">(伊藤 潤二)</span><br></div>
   </td>
   <td class="birthday">
     Jul  31, 1963
   </td>
   <td class="favorites">
-    19,600
+    19,785
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">33</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/4/Aya_Hirano" id="#area" rel="#info">
-      <img width="50" height="78" alt="Hirano, Aya" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/42166.jpg?s=e8195bd8f3fe8f8108ea829735d758bf" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/42166.jpg?s=e8195bd8f3fe8f8108ea829735d758bf 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/3/42166.jpg?s=067c9050fb53642b4de07017835e7a80 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/people/4/Aya_Hirano" class="fs14 fw-b">Hirano, Aya</a><br><span class="fs12 fn-grey6">(平野 綾)</span><br></div>
-  </td>
-  <td class="birthday">
-    Oct  8, 1987
-  </td>
-  <td class="favorites">
-    18,226
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">34</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/11705/Hajime_Isayama" id="#area" rel="#info">
@@ -846,7 +830,25 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Aug  29, 1986
   </td>
   <td class="favorites">
-    18,208
+    18,265
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">34</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/4/Aya_Hirano" id="#area" rel="#info">
+      <img width="50" height="78" alt="Hirano, Aya" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/42166.jpg?s=e8195bd8f3fe8f8108ea829735d758bf" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/3/42166.jpg?s=e8195bd8f3fe8f8108ea829735d758bf 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/3/42166.jpg?s=067c9050fb53642b4de07017835e7a80 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/people/4/Aya_Hirano" class="fs14 fw-b">Hirano, Aya</a><br><span class="fs12 fn-grey6">(平野 綾)</span><br></div>
+  </td>
+  <td class="birthday">
+    Oct  8, 1987
+  </td>
+  <td class="favorites">
+    18,221
   </td>
 </tr>
 <tr class="ranking-list">
@@ -864,7 +866,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Apr  27, 1966
   </td>
   <td class="favorites">
-    17,726
+    17,901
   </td>
 </tr>
 <tr class="ranking-list">
@@ -882,30 +884,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jun  26, 1991
   </td>
   <td class="favorites">
-    17,519
+    17,695
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">37</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/5077/Yuki_Kajiura" id="#area" rel="#info">
-      <img width="50" height="78" alt="Kajiura, Yuki" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/1/53857.jpg?s=2cb807154ed56efee7bb8ec8df29661a" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/1/53857.jpg?s=2cb807154ed56efee7bb8ec8df29661a 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/1/53857.jpg?s=72a742f737d8f0b5e7cb8ea1fae021f4 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/people/5077/Yuki_Kajiura" class="fs14 fw-b">Kajiura, Yuki</a><br><span class="fs12 fn-grey6">(梶浦 由記)</span><br></div>
-  </td>
-  <td class="birthday">
-    Aug  6, 1965
-  </td>
-  <td class="favorites">
-    17,444
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">38</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/82/Romi_Park" id="#area" rel="#info">
@@ -918,7 +902,25 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jan  22, 1972
   </td>
   <td class="favorites">
-    17,414
+    17,469
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">38</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/5077/Yuki_Kajiura" id="#area" rel="#info">
+      <img width="50" height="78" alt="Kajiura, Yuki" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/1/53857.jpg?s=2cb807154ed56efee7bb8ec8df29661a" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/1/53857.jpg?s=2cb807154ed56efee7bb8ec8df29661a 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/1/53857.jpg?s=72a742f737d8f0b5e7cb8ea1fae021f4 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/people/5077/Yuki_Kajiura" class="fs14 fw-b">Kajiura, Yuki</a><br><span class="fs12 fn-grey6">(梶浦 由記)</span><br></div>
+  </td>
+  <td class="birthday">
+    Aug  6, 1965
+  </td>
+  <td class="favorites">
+    17,466
   </td>
 </tr>
 <tr class="ranking-list">
@@ -936,7 +938,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jan  29, 1994
   </td>
   <td class="favorites">
-    17,264
+    17,398
   </td>
 </tr>
 <tr class="ranking-list">
@@ -954,7 +956,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Feb  4, 1990
   </td>
   <td class="favorites">
-    17,059
+    17,084
   </td>
 </tr>
 <tr class="ranking-list">
@@ -972,7 +974,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Jan  2, 1960
   </td>
   <td class="favorites">
-    16,814
+    17,000
   </td>
 </tr>
 <tr class="ranking-list">
@@ -990,7 +992,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Mar  31, 1980
   </td>
   <td class="favorites">
-    16,373
+    16,416
   </td>
 </tr>
 <tr class="ranking-list">
@@ -1008,7 +1010,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Nov  25, 1967
   </td>
   <td class="favorites">
-    16,007
+    16,089
   </td>
 </tr>
 <tr class="ranking-list">
@@ -1026,7 +1028,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Sep  22, 1980
   </td>
   <td class="favorites">
-    15,478
+    15,610
   </td>
 </tr>
 <tr class="ranking-list">
@@ -1044,7 +1046,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Aug  16, 1990
   </td>
   <td class="favorites">
-    15,428
+    15,540
   </td>
 </tr>
 <tr class="ranking-list">
@@ -1062,7 +1064,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Sep  20, 1976
   </td>
   <td class="favorites">
-    15,420
+    15,437
   </td>
 </tr>
 <tr class="ranking-list">
@@ -1080,30 +1082,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Mar  16, 1965
   </td>
   <td class="favorites">
-    15,141
+    15,180
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">48</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/2009/Shinichiro_Watanabe" id="#area" rel="#info">
-      <img width="50" height="78" alt="Watanabe, Shinichiro" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/1/54604.jpg?s=8a7b02c0a4ef1db0633bf3640034a8dd" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/1/54604.jpg?s=8a7b02c0a4ef1db0633bf3640034a8dd 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/1/54604.jpg?s=24fd5eb8968530137e8a668a4847bf4e 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/people/2009/Shinichiro_Watanabe" class="fs14 fw-b">Watanabe, Shinichiro</a><br><span class="fs12 fn-grey6">(渡辺 信一郎)</span><br></div>
-  </td>
-  <td class="birthday">
-    May  24, 1965
-  </td>
-  <td class="favorites">
-    14,403
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">49</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/11184/Nao_Touyama" id="#area" rel="#info">
@@ -1116,7 +1100,25 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     Mar  11, 1992
   </td>
   <td class="favorites">
-    14,337
+    14,448
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">49</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/people/2009/Shinichiro_Watanabe" id="#area" rel="#info">
+      <img width="50" height="78" alt="Watanabe, Shinichiro" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/voiceactors/1/54604.jpg?s=8a7b02c0a4ef1db0633bf3640034a8dd" data-srcset="https://cdn.myanimelist.net/r/50x78/images/voiceactors/1/54604.jpg?s=8a7b02c0a4ef1db0633bf3640034a8dd 1x, https://cdn.myanimelist.net/r/100x156/images/voiceactors/1/54604.jpg?s=24fd5eb8968530137e8a668a4847bf4e 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/people/2009/Shinichiro_Watanabe" class="fs14 fw-b">Watanabe, Shinichiro</a><br><span class="fs12 fn-grey6">(渡辺 信一郎)</span><br></div>
+  </td>
+  <td class="birthday">
+    May  24, 1965
+  </td>
+  <td class="favorites">
+    14,422
   </td>
 </tr>
 <tr class="ranking-list">
@@ -1134,7 +1136,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
      1981
   </td>
   <td class="favorites">
-    13,432
+    13,492
   </td>
 </tr>
 </table><div class="di-b ac pt16 pb16 pagination icon-top-ranking-page-bottom">  <a href="https://myanimelist.net/people.php?limit=50" class="link-blue-box next">Next 50<i class="fa-solid fa-chevron-right ml4"></i></a></div>  <div class="mauto clearfix pt24" style="width:760px;">
@@ -1154,7 +1156,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <div class="side-sUaidzctQfngSNMH side-sUaidzctQfngSNMH--l">
               
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="160" data-koukoku-height="600">
-        <div id="D_300x600_160x600_Left" class="ad-sas mauto ac" data-ad-target="country=LU" data-ad-id="99453" data-ad-pid="1362556" data-ad-sid="394613"></div>
+        <div id="D_300x600_160x600_Left" class="ad-sas mauto ac" data-ad-target="country=PK" data-ad-id="99453" data-ad-pid="1362556" data-ad-sid="394613"></div>
 
       </div>
                 </div>
@@ -1171,7 +1173,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <div class="side-sUaidzctQfngSNMH side-sUaidzctQfngSNMH--r">
               
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="160" data-koukoku-height="600">
-        <div id="D_300x600_160x600_Right" class="ad-sas mauto ac" data-ad-target="country=LU" data-ad-id="99454" data-ad-pid="1362556" data-ad-sid="394613"></div>
+        <div id="D_300x600_160x600_Right" class="ad-sas mauto ac" data-ad-target="country=PK" data-ad-id="99454" data-ad-pid="1362556" data-ad-sid="394613"></div>
 
       </div>
                 </div>
@@ -1226,23 +1228,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -1252,23 +1254,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
               <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
             </li>
                       <li>
-              <span class="rank">4</span>
+              <span class="rank">2</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/47194/Summertime_Render">Summertime Render</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
             </li>
                   </ol>
       </div>
