@@ -32,15 +32,15 @@ Trigun - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='b2d59439a71194c52993efd66a12dab37faa274e'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='0e74721d3eef10e96cd5e76e5ecaeb10b9d95c37'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643295"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643295"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -91,7 +93,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>
 
 <script>
     var trackOutboundLink = function(url) {
@@ -101,8 +103,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce" onclick="trackOutboundLink('https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce')">
-  <img src="/c/i/images/event/Mini_Banner_20220421_TR2022/mini_banner.png" width="250" height="36" alt="TR2022" title="TR2022">
+  <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce" onclick="trackOutboundLink('https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce')">
+  <img src="/c/i/images/event/Mini_Banner_20220915_FAL_FALL_2022/mini-banner.png" width="250" height="36" alt="FAL FALL 2022" title="FAL FALL 2022">
 </a>
 
 </div>
@@ -185,7 +187,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
       <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Trigun</strong></h1></div></div><div class="header-right">
           <a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa-solid fa-pencil mr4"></i>Edit</a>
 <div id="editdiv" class="fw-n fs11">
@@ -250,7 +266,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <!-- end My List -->
 <div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
 
-<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F6%2FTrigun"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F6%2FTrigun&amp;text=Trigun&amp;hashtags=anime"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F6%2FTrigun&amp;title=Trigun"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F6%2FTrigun&amp;name=Trigun"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div>  <br />
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F6%2FTrigun"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F6%2FTrigun&amp;text=Trigun&amp;hashtags=anime"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F6%2FTrigun&amp;title=Trigun"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F6%2FTrigun&amp;name=Trigun"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div>  <br />
 
   <h2>Alternative Titles</h2><div class="spaceit_pad">
     <span class="dark_text">Japanese:</span> トライガン
@@ -332,7 +348,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <h2>Statistics</h2>
 <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="spaceit_pad po-r js-statistics-info di-ib" data-id="info1">
   <span class="dark_text">Score:</span>
-  <span itemprop="ratingValue" class="score-label score-8">8.22</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">327963</span>327,963 users)
+  <span itemprop="ratingValue" class="score-label score-8">8.22</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">336220</span>336,220 users)
       <meta itemprop="bestRating" content="10">
     <meta itemprop="worstRating" content="1">
       <div class="statistics-info info1">
@@ -343,7 +359,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #311<sup>2</sup>
+  #308<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -352,15 +368,15 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Popularity:</span>
-  #242
+  #243
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Members:</span>
-    658,778
+    678,927
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Favorites:</span>
-  13,235
+  13,750
 </div>
 
 <br />
@@ -369,10 +385,13 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <br />
 <h2>Streaming Platforms</h2>
 <div class="pb16 broadcasts"><div class="broadcast">
-      <a href="https://www.funimation.com/shows/trigun" title="Funimation" class="broadcast-item notavailable ga-click" data-available="" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:6"><i class="spicon spicon-funimation"></i><div class="caption">Funimation</div></a>
+      <a href="http://www.crunchyroll.com/series-275669" title="Crunchyroll" class="broadcast-item notavailable ga-click" data-available="" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:6"><i class="spicon spicon-crunchyroll"></i><div class="caption">Crunchyroll</div></a>
     </div><div class="broadcast">
+      <a href="https://www.funimation.com/shows/trigun" title="Funimation" class="broadcast-item notavailable ga-click" data-available="" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:6"><i class="spicon spicon-funimation"></i><div class="caption">Funimation</div></a>
+    </div><div class="js-streaming-platforms hide"><div class="broadcast">
       <a href="https://www.netflix.com/" title="Netflix" class="broadcast-item notavailable ga-click" data-available="" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:6"><i class="spicon spicon-netflix"></i><div class="caption">Netflix</div></a>
-    </div><div class="info mt4">May be unavailable in your region.</div></div>
+    </div></div>
+  <div class="mt4"><a href="javascript:void(0);" class="js-anime-toggle-streaming-platform-button ga-click" data-ga-click-type="broadcast-title-streaming-more" data-ga-click-param="aid:6"><i class="fa-solid fa-chevron-down mr4"></i>More services</a></div><div class="info mt4">May be unavailable in your region.</div></div>
 <div class="pb16">
     </div>
 
@@ -423,7 +442,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="327,963 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.22</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#311</strong></span><span class="numbers popularity">Popularity <strong>#242</strong></span><span class="numbers members">Members <strong>658,778</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/1998/spring">Spring 1998</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/11/Madhouse" title="Madhouse">Madhouse</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="6"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
+	<td valign="top"><div class="pb16"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="336,220 users" title="indicates a weighted score. Please note that 'Not yet aired' titles are excluded."><div class="score-label score-8">8.22</div></div><div class="di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#308</strong></span><span class="numbers popularity">Popularity <strong>#243</strong></span><span class="numbers members">Members <strong>678,927</strong></span></div><div class="information-block di-ib clearfix"><span class="information season"><a href="https://myanimelist.net/anime/season/1998/spring">Spring 1998</a></span><span class="information type"><a href="https://myanimelist.net/topanime.php?type=tv">TV</a></span><span class="information studio author"><a href="/anime/producer/11/Madhouse" title="Madhouse">Madhouse</a></span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r"><input type="hidden" id="myinfo_anime_id" value="6"><input type="hidden" id="myinfo_curstatus" value=""><a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Episodes: <input type="text" id="myinfo_watchedeps" name="myinfo_watchedeps" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="curEps" data-num="26">26</span><a href="javascript:void(0);" class="js-btn-count increase ml4"><i class="fa-solid fa-circle-plus"></i></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div><div class="anime-detail-header-video di-tc va-t pl16" style="width:200px;"><div class="video-promotion"><a class="iframe js-fancybox-video video-unit promotion" href="https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1" style="background-image:url('https://i.ytimg.com/vi/bJVyIXeUznY/mqdefault.jpg')"><div class="info-container"><span class="title pl4 pr4">PV DVD Box version</span></div><span class="btn-play" style="background-color: rgba(255, 255, 255, 0);">play</span></a></div><div class="mt4 ar"><a href="https://myanimelist.net/anime/6/Trigun/video">More videos</a></div></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
 </div><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=6&t=synopsis" style="font-weight: normal;">Edit</a></div><h2>Synopsis</h2></div><p itemprop="description">Vash the Stampede is the man with a $$60,000,000,000 bounty on his head. The reason: he&#039;s a merciless villain who lays waste to all those that oppose him and flattens entire cities for fun, garnering him the title &quot;The Humanoid Typhoon.&quot; He leaves a trail of death and destruction wherever he goes, and anyone can count themselves dead if they so much as make eye contact&mdash;or so the rumors say. In actuality, Vash is a huge softie who claims to have never taken a life and avoids violence at all costs.<br />
 <br />
@@ -431,12 +450,12 @@ With his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses
 <br />
 [Written by MAL Rewrite]</p><div style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?aid=6&t=background" style="font-weight: normal;">Edit</a></div><h2>Background</h2></div>The Japanese release by Victor Entertainment has different openings relating to the specific episode it&#039;s played on. The initial Geneon Entertainment USA (then known as Pioneer) releases on VHS and DVD (singles, Signature Series, and box set) used only the first opening on each episode. This was due to the Japanese licensor providing them clean materials for only the first opening to put the English credits on. Geneon later fixed this mistake on their Limited Edition tin releases in 2005/2006, as well as on the Remix singles. Following Geneon USA&#039;s demise in late 2007, the show went out of print. When FUNimation Entertainment picked up the show in 2010 and released it, they repeated Geneon&#039;s mistake of using only the first opening on every episode. This mistake was later fixed in 2013 on the Anime Classics re-release.<div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="anime_id=6;display=details;country=LU" data-ad-id="99455" data-ad-pid="1362568" data-ad-sid="394613"></div>
+        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="anime_id=6;display=details;country=PK" data-ad-id="99455" data-ad-pid="1362568" data-ad-sid="394613"></div>
 
       </div>
     </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="anime_id=6;display=details;country=LU" data-ad-id="99456" data-ad-pid="1362568" data-ad-sid="394613"></div>
+        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="anime_id=6;display=details;country=PK" data-ad-id="99456" data-ad-pid="1362568" data-ad-sid="394613"></div>
 
       </div>
     </div></div></td></tr><tr><td class="pb24">
@@ -448,28 +467,28 @@ With his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses
   <div class="widget-header">
           </div>
   <div class="widget-content">
-                        <a href="https://mxj.myanimelist.net/nbcuniversal_animexmusic30thproject/result/?utm_source=MAL&amp;utm_medium=title-mxj&amp;utm_content=nbcu">
+                        <a href="https://mxj.myanimelist.net/official-about-me/kumichomusume/?utm_source=MAL&amp;utm_medium=title_mxj_about-me-kumichomusume">
                 <div class="content anime-mxj">
-                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220516_NBCUniversal.png"></div>
-                    <div class="text">The results for the NBCUniversal Anime General Election are out!</div>
+                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220905_about_me.png"></div>
+                    <div class="text">Check out the official Yakuza&#039;s Guide to Babysitting designs for your profile&#039;s About Me! 🍼</div>
                 </div>
             </a>
-                    <a href="https://mhwc.myanimelist.net/?utm_source=MAL&amp;utm_medium=top-mxj&amp;utm_content=writingcontest2022">
+                    <a href="https://mxj.myanimelist.net/official-about-me/garupapicofever/?utm_source=MAL&amp;utm_medium=title_mxj_about-me-garupapicofever">
                 <div class="content anime-mxj">
-                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220602_novel_contest.png"></div>
-                    <div class="text">Web Novel Writing Contest Now Open! 📒</div>
+                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220920_about_me.png"></div>
+                    <div class="text">Check out the official BanG Dream! Girls Band Party designs for your profile&#039;s About Me! 🎤</div>
                 </div>
             </a>
-                    <a href="https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&amp;utm_medium=top-mxj&amp;utm_content=liststyle_TR2022">
+                    <a href="https://mxj.myanimelist.net/virtual-akihabara/?utm_source=MAL&amp;utm_medium=title_mxj_bunkasai-survey">
                 <div class="content anime-mxj">
-                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220421_TR.png"></div>
-                    <div class="text">🎨 Tokyo Revengers List Designs 🎨</div>
+                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220914_bunkasai_survey.png"></div>
+                    <div class="text">VR Survey Giveaway - Play &amp; answer for a chance to win</div>
                 </div>
             </a>
               </div>
 </div>
 </div>
-</td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=6&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/703/Trigun">Trigun</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Side story:</td><td width="100%" class="borderClass"><a href="/anime/4106/Trigun__Badlands_Rumble">Trigun: Badlands Rumble</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/6/Trigun/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+</td></tr><tr><td class="pb24"><br><div><div class="floatRightHeader"><a href="/dbchanges.php?aid=6&t=relations" style="font-weight: normal;">Edit</a></div><h2>Related Anime</h2></div><table class="anime_detail_related_anime" style="border-spacing:0px;"><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Adaptation:</td><td width="100%" class="borderClass"><a href="/manga/703/Trigun">Trigun</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Side story:</td><td width="100%" class="borderClass"><a href="/anime/4106/Trigun__Badlands_Rumble">Trigun: Badlands Rumble</a></td><tr><td nowrap="" valign="top" class="ar fw-n borderClass">Other:</td><td width="100%" class="borderClass"><a href="/anime/52093/Trigun_Stampede">Trigun Stampede</a></td></table><br><div><div class="floatRightHeader"><a href="/anime/6/Trigun/characters" style="font-weight: normal;">More characters</a></div><h2>Characters & Voice Actors</h2></div><div class="detail-characters-list clearfix"><div class="left-column fl-l divider" style="width:392px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td valign="top" width="27" class="ac borderClass">
         <div class="picSurround">
@@ -598,7 +617,7 @@ With his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses
       <td valign="top" width="27" class="ac borderClass">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/715/Legato_Bluesummers" class="fw-n">
-            <img alt="Bluesummers, Legato" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/65970.jpg?s=92211d12f1c9f5a0f7f44462d17bebf4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/65970.jpg?s=92211d12f1c9f5a0f7f44462d17bebf4 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/65970.jpg?s=ef5f6f184275119da43c5dba4cab6bda 2x" class="lazyload" />
+            <img alt="Bluesummers, Legato" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/470869.jpg?s=2f0a0671b2a4f5f0ede8994df098cbce" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/3/470869.jpg?s=2f0a0671b2a4f5f0ede8994df098cbce 1x, https://cdn.myanimelist.net/r/84x124/images/characters/3/470869.jpg?s=74893768eb63e2ae115c4521efe2910e 2x" class="lazyload" />
           </a>
         </div>
       </td>
@@ -780,7 +799,7 @@ With his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses
               </td>
     </tr>
   </table></div></div>
-<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br>
+<br>
 <a name="staff"></a>
 <div>
   <div class="floatRightHeader"><a href="https://myanimelist.net/anime/6/Trigun/characters#staff">More staff</a></div>
@@ -1166,171 +1185,62 @@ With his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses
     </div>
   </div>
 </div>
-<br><br><br><div><span class="floatRightHeader"><a href="/anime/6/Trigun/reviews">More reviews</a></span><h2>Reviews</h2></div>
-              
-<div class="borderDark" style="padding: 4px 0;">
-  <div class="spaceit">
-    <div class="mb8" style="float: right; text-align: right;">
-      <div title="10:14 AM">Jan 24, 2007</div>
-      <div class="lightLink spaceit">
-                  26 of 26 episodes seen
-              </div>
-      <div>
-        <a href="javascript:void(0);" onclick="$('#score82').toggle()">Overall Rating</a>:
-        10
-      </div>
-    </div><div style="float: left;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-                                              <td valign="top" width="60">
-              <div class="picSurround">
-                <a href="https://myanimelist.net/profile/Xinil">
-                  <img src="https://cdn.myanimelist.net/images/userimages/1.jpg?t=1647921600" data-src="https://cdn.myanimelist.net/images/userimages/1.jpg?t=1647921600" border="0" class=" lazyloaded" width="48">
-                </a>
-              </div>
-            </td>
-                    <td valign="top">
-                          <a href="https://myanimelist.net/profile/Xinil">Xinil</a>
-              <small>(<a href="/profile/Xinil/reviews">All reviews</a>)</small><br>
-                        <div class="lightLink spaceit">
-              <strong>
-                <span id="rhelp82">828</span>
-              </strong>
-              people found this review helpful
-            </div>
-                      </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
-        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score82">
-      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
-        <tr>
-          <td class="borderClass bgColor1"><strong>Overall</strong></td>
-          <td class="borderClass bgColor1"><strong>10</strong></td>
-        </tr>
-        <tr>
-          <td class="borderClass" align="left">Story</td>
-          <td class="borderClass">10</td>
-        </tr>
-                  <tr>
-            <td class="borderClass" align="left">Animation</td>
-            <td class="borderClass">9</td>
-          </tr>
-          <tr>
-            <td class="borderClass" align="left">Sound</td>
-            <td class="borderClass">10</td>
-          </tr>
-                <tr>
-          <td class="borderClass" align="left">Character</td>
-          <td class="borderClass">10</td>
-        </tr>
-        <tr>
-          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
-          <td class="borderClass" style="border-width: 0;">10</td>
-        </tr>
-      </table>
-    </div>
-
-                          
-    Trigun is another one of my &quot;must see in your anime career&quot; shows. The easiest way to explain why I believe this can be summed up by one name: Vash. Vash the Stampede is arguably one of the coolest, toughest, and funniest characters ever created. He&#039;s everyone&#039;s favorite superhero (even though he demolishes everything he gets close to). Vash brings forth something that I think everyone has a little in themselves, compassion. If Vash had a middle name, it would be Compassion.<br /><br />As if Vash wasn&#039;t enough for this show, they thought it might be a good idea to throw in a fantastic music score too.
-
-          <span style="display: none;" id="review82">
-        Tsuneo Imahori really hit the nail on the head with his work here. Great opening, great ending, and great background music throughout the show. I like some tracks so much that I often listen to them while exercising.<br /><br />Wolfwood, Meril, and Milly are great supporting characters. The constant bickering between them will trigger plenty of laughter. Not a ton of detail goes into their pasts, but enough is presented to satisfy the viewer.<br /><br />Animation is from the late 90&#039;s, so it&#039;s nothing crazy. It&#039;s great for the time period though.<br /><br />Overall, one of my favorite anime shows. Worth a watch no matter what type of series interests you.
-        
-<div id="revhelp_output_82" class="mt8 js-review-btn-helpful js-review-helpful-82">
-      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F" class="button_form">Helpful</a>
-  </div>
-      </span>
-      <a href="javascript:void(0);" id="reviewToggle82"
-         class="js-toggle-review-button" data-id="82">read more</a>
-      </div>
-  <div>
-    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
-      <div style="float: right;">
-                  <a href="https://myanimelist.net/reviews.php?id=82" class="lightLink"><small>permalink</small></a> |
-                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=82" class="lightLink">
-          <small>report</small>
+<br><br><br><div><span class="floatRightHeader"><a href="/anime/6/Trigun/reviews" class="ga-click" data-ga-click-type="anime-title-more-reviews">More reviews</a></span><h2>Reviews</h2></div>
+                  
+<div class="review-element js-review-element" data-reactions='{"icon":["1","2","4"],"num":842,"count":["838","3","0","1","0","0","0"]}'><div class="thumbbody mt8">
+    <div class="thumb">
+              <a href="https://myanimelist.net/profile/Xinil" class="ga-click" data-ga-click-type="review-anime-reviewer-pic">
+          <img src="https://cdn.myanimelist.net/images/userimages/1.jpg?t=1654813200" data-src="https://cdn.myanimelist.net/images/userimages/1.jpg?t=1654813200" class="lazyloaded" width="48">
         </a>
+          </div>
+    <div class="body">
+      <div title="10:14 AM" class="update_at">Jan 24, 2007</div><div class="username">
+          <a href="https://myanimelist.net/profile/Xinil" class="ga-click" data-ga-click-type="review-anime-reviewer">Xinil</a>
+          </div><div class="tags"><div class="tag recommended btn-label js-btn-label" data-id="1" data-href="https://myanimelist.net/anime/6/Trigun/reviews"><i class="fas fa-star"></i>Recommended</div></div>      <div class="text">
+                Trigun is another one of my &quot;must see in your anime career&quot; shows. The easiest way to explain why I believe this can be summed up by one name: Vash. Vash the Stampede is arguably one of the coolest, toughest, and funniest characters ever created. He&#039;s everyone&#039;s favorite superhero (even though he demolishes everything he gets close to). Vash brings forth something that I think everyone has a little in themselves, compassion. If Vash had a middle name, it would be Compassion.<br /><br />As if Vash wasn&#039;t enough for this show, they thought it might be a good idea to throw in a fantastic music score too.
+                  <span class="js-visible" style="margin-left: -4px;">...</span>
+          <span class="js-hidden" style="display: none;">Tsuneo Imahori really hit the nail on the head with his work here. Great opening, great ending, and great background music throughout the show. I like some tracks so much that I often listen to them while exercising.<br /><br />Wolfwood, Meril, and Milly are great supporting characters. The constant bickering between them will trigger plenty of laughter. Not a ton of detail goes into their pasts, but enough is presented to satisfy the viewer.<br /><br />Animation is from the late 90&#039;s, so it&#039;s nothing crazy. It&#039;s great for the time period though.<br /><br />Overall, one of my favorite anime shows. Worth a watch no matter what type of series interests you.</span>
               </div>
-    </div>
+      <div class="rating mt20 mb20 js-hidden" style="display: none;">
+        Reviewer’s Rating: <span class="num">10</span>
+      </div>
+      <div class="notice mb12 js-hidden" style="display: none;">What did you think of this review?</div>
+      <div class="reaction-box mb8 js-hidden" style="display: none;"><div class="btn-reaction js-btn-reaction nice ga-click" data-ga-click-type="review-anime-reaction-nice" data-id="82" data-val="1" data-more="true">
+              Nice
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f44d.png" alt="Nice"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction loveit ga-click" data-ga-click-type="review-anime-reaction-loveit" data-id="82" data-val="2" data-more="true">
+              Love it
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/2764.png" alt="Love it"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction funny ga-click" data-ga-click-type="review-anime-reaction-funny" data-id="82" data-val="3" data-more="true">
+              Funny
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f602.png" alt="Funny"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction confusing ga-click" data-ga-click-type="review-anime-reaction-confusing" data-id="82" data-val="4" data-more="false" style="display: none;">
+              Confusing
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f928.png" alt="Confusing"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction informative ga-click" data-ga-click-type="review-anime-reaction-informative" data-id="82" data-val="5" data-more="true" style="display: none;">
+              Informative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4a1.png" alt="Informative"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction well-written ga-click" data-ga-click-type="review-anime-reaction-well-written" data-id="82" data-val="6" data-more="true" style="display: none;">
+              Well-written
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4dd.png" alt="Well-written"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction creative ga-click" data-ga-click-type="review-anime-reaction-creative" data-id="82" data-val="7" data-more="true" style="display: none;">
+              Creative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f3a8.png" alt="Creative"><span class="num">0</span></div><div class="more_reviews js-more_reviews" style="display: none;"><a href="/profile/Xinil/reviews" class="ga-click" data-ga-click-type="review-anime-reviewer-all-reviews"><i class="fas fa-angle-right"></i>More reviews by Xinil (<span class="num">17</span>)
+            </a></div><div class="btn-showall js-btn-showall"><i class="fas fa-angle-right"></i>Show all</div></div><div class="bottom-navi"><div class="icon-reaction js-icon-reaction" data-id="82"></div><div class="readmore"><a href="#" class="ga-click js-readmore" data-ga-click-type="review-readmore"><i class="fas fa-angle-down"></i>Read more</a></div><div class="showless" style="display: none;"><a href="#" class="ga-click js-showless" data-ga-click-type="review-showless"><i class="fas fa-angle-up"></i>Show less</a></div><div class="open"><a href="https://myanimelist.net/reviews.php?id=82" class="ga-click" data-ga-click-type="review-permalink"><i class="fas fa-arrow-up-right"></i>Open
+              </a></div><div class="menu"><a href="#" class="btn-popup js-btn-popup"><i class="far fa-ellipsis-h"></i></a><div class="menu-block js-menu-block"><a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=82" class="link ga-click" data-ga-click-type="review-report">Report</a></div></div></div>    </div>
   </div>
 </div>
 
-              
-<div class="borderDark" style="padding: 4px 0;">
-  <div class="spaceit">
-    <div class="mb8" style="float: right; text-align: right;">
-      <div title="1:09 PM">May 17, 2015</div>
-      <div class="lightLink spaceit">
-                  26 of 26 episodes seen
-              </div>
-      <div>
-        <a href="javascript:void(0);" onclick="$('#score188073').toggle()">Overall Rating</a>:
-        5
-      </div>
-    </div><div style="float: left;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-                                              <td valign="top" width="60">
-              <div class="picSurround">
-                <a href="https://myanimelist.net/profile/Cauthan">
-                  <img src="https://cdn.myanimelist.net/images/userimages/3661737.jpg?t=1654479000" data-src="https://cdn.myanimelist.net/images/userimages/3661737.jpg?t=1654479000" border="0" class=" lazyloaded" width="48">
-                </a>
-              </div>
-            </td>
-                    <td valign="top">
-                          <a href="https://myanimelist.net/profile/Cauthan">Cauthan</a>
-              <small>(<a href="/profile/Cauthan/reviews">All reviews</a>)</small><br>
-                        <div class="lightLink spaceit">
-              <strong>
-                <span id="rhelp188073">364</span>
-              </strong>
-              people found this review helpful
-            </div>
-                      </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
-        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score188073">
-      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
-        <tr>
-          <td class="borderClass bgColor1"><strong>Overall</strong></td>
-          <td class="borderClass bgColor1"><strong>5</strong></td>
-        </tr>
-        <tr>
-          <td class="borderClass" align="left">Story</td>
-          <td class="borderClass">6</td>
-        </tr>
-                  <tr>
-            <td class="borderClass" align="left">Animation</td>
-            <td class="borderClass">5</td>
-          </tr>
-          <tr>
-            <td class="borderClass" align="left">Sound</td>
-            <td class="borderClass">4</td>
-          </tr>
-                <tr>
-          <td class="borderClass" align="left">Character</td>
-          <td class="borderClass">5</td>
-        </tr>
-        <tr>
-          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
-          <td class="borderClass" style="border-width: 0;">5</td>
-        </tr>
-      </table>
-    </div>
-
-                          
-    (This is a spoiler-free review adapted for this site)<br />
+                  
+<div class="review-element js-review-element" data-reactions='{"icon":["1","4"],"num":377,"count":["375","0","0","2","0","0","0"]}'><div class="thumbbody mt8">
+    <div class="thumb">
+              <a href="https://myanimelist.net/profile/Cauthan" class="ga-click" data-ga-click-type="review-anime-reviewer-pic">
+          <img src="https://cdn.myanimelist.net/images/userimages/3661737.jpg?t=1664010000" data-src="https://cdn.myanimelist.net/images/userimages/3661737.jpg?t=1664010000" class="lazyloaded" width="48">
+        </a>
+          </div>
+    <div class="body">
+      <div title="1:09 PM" class="update_at">May 17, 2015</div><div class="username">
+          <a href="https://myanimelist.net/profile/Cauthan" class="ga-click" data-ga-click-type="review-anime-reviewer">Cauthan</a>
+          </div><div class="tags"><div class="tag mixed-feelings btn-label js-btn-label" data-id="2" data-href="https://myanimelist.net/anime/6/Trigun/reviews"><i class="fas fa-star-half-stroke"></i>Mixed Feelings</div></div>      <div class="text">
+                (This is a spoiler-free review adapted for this site)<br />
 <br />
 [Synopsis]: Vash the Stampede (Onosaka, Masaya) is a legendary gunslinger with a $60,000,000,000 bounty on his head who has attained the additional title of the ‘humanoid typhoon’ due to the way he leaves a path of destruction in his wake wherever he travels. Because of this rampant devastation, the Bernardelli Insurance Society tasks Meryl Stryfe (Tsuru, Hiromi)  and Milly Thompson (Yukino, Satsuki) to find Vash in order to evaluate insurance claims and attempt to minimize the damage. The story follows these characters across a desert wasteland as it quickly becomes apparent that Vash is more than
-
-          <span style="display: none;" id="review188073">
-        a simple outlaw.<br />
+                  <span class="js-visible" style="margin-left: -4px;">...</span>
+          <span class="js-hidden" style="display: none;">a simple outlaw.<br />
 <br />
 [Characters]:<br />
 <br />
@@ -1367,279 +1277,129 @@ I will preface that my rating of this show is bias in that I am no great lover o
 <br />
 [Recommendations]:<br />
 <br />
-I think that anyone that jumps at the premise of a Sci-Fi western should certainly investigate this show as its setting and characters support the genre well. I would also recommend this show to anyone wanting to explore the more ‘classic’ anime as Trigun is very much one of the more storied shows in medium and is the point of many a conversation. To action fans looking for good gun-slinging fight scenes I would recommend this however admit that other shows probably hold greater potential in this aspect. Lastly, to those interested in the shows comedy – it has decent gag comedy at the beginning but because the show eventually discards many of these gags in favor of a more serious tone I would recommend a different show unless your willing to stick around after the tonal shift.
-        
-<div id="revhelp_output_188073" class="mt8 js-review-btn-helpful js-review-helpful-188073">
-      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F" class="button_form">Helpful</a>
-  </div>
-      </span>
-      <a href="javascript:void(0);" id="reviewToggle188073"
-         class="js-toggle-review-button" data-id="188073">read more</a>
-      </div>
-  <div>
-    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
-      <div style="float: right;">
-                  <a href="https://myanimelist.net/reviews.php?id=188073" class="lightLink"><small>permalink</small></a> |
-                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=188073" class="lightLink">
-          <small>report</small>
-        </a>
+I think that anyone that jumps at the premise of a Sci-Fi western should certainly investigate this show as its setting and characters support the genre well. I would also recommend this show to anyone wanting to explore the more ‘classic’ anime as Trigun is very much one of the more storied shows in medium and is the point of many a conversation. To action fans looking for good gun-slinging fight scenes I would recommend this however admit that other shows probably hold greater potential in this aspect. Lastly, to those interested in the shows comedy – it has decent gag comedy at the beginning but because the show eventually discards many of these gags in favor of a more serious tone I would recommend a different show unless your willing to stick around after the tonal shift.</span>
               </div>
-    </div>
+      <div class="rating mt20 mb20 js-hidden" style="display: none;">
+        Reviewer’s Rating: <span class="num">5</span>
+      </div>
+      <div class="notice mb12 js-hidden" style="display: none;">What did you think of this review?</div>
+      <div class="reaction-box mb8 js-hidden" style="display: none;"><div class="btn-reaction js-btn-reaction nice ga-click" data-ga-click-type="review-anime-reaction-nice" data-id="188073" data-val="1" data-more="true">
+              Nice
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f44d.png" alt="Nice"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction loveit ga-click" data-ga-click-type="review-anime-reaction-loveit" data-id="188073" data-val="2" data-more="true">
+              Love it
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/2764.png" alt="Love it"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction funny ga-click" data-ga-click-type="review-anime-reaction-funny" data-id="188073" data-val="3" data-more="true">
+              Funny
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f602.png" alt="Funny"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction confusing ga-click" data-ga-click-type="review-anime-reaction-confusing" data-id="188073" data-val="4" data-more="false" style="display: none;">
+              Confusing
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f928.png" alt="Confusing"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction informative ga-click" data-ga-click-type="review-anime-reaction-informative" data-id="188073" data-val="5" data-more="true" style="display: none;">
+              Informative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4a1.png" alt="Informative"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction well-written ga-click" data-ga-click-type="review-anime-reaction-well-written" data-id="188073" data-val="6" data-more="true" style="display: none;">
+              Well-written
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4dd.png" alt="Well-written"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction creative ga-click" data-ga-click-type="review-anime-reaction-creative" data-id="188073" data-val="7" data-more="true" style="display: none;">
+              Creative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f3a8.png" alt="Creative"><span class="num">0</span></div><div class="more_reviews js-more_reviews" style="display: none;"><a href="/profile/Cauthan/reviews" class="ga-click" data-ga-click-type="review-anime-reviewer-all-reviews"><i class="fas fa-angle-right"></i>More reviews by Cauthan (<span class="num">42</span>)
+            </a></div><div class="btn-showall js-btn-showall"><i class="fas fa-angle-right"></i>Show all</div></div><div class="bottom-navi"><div class="icon-reaction js-icon-reaction" data-id="188073"></div><div class="readmore"><a href="#" class="ga-click js-readmore" data-ga-click-type="review-readmore"><i class="fas fa-angle-down"></i>Read more</a></div><div class="showless" style="display: none;"><a href="#" class="ga-click js-showless" data-ga-click-type="review-showless"><i class="fas fa-angle-up"></i>Show less</a></div><div class="open"><a href="https://myanimelist.net/reviews.php?id=188073" class="ga-click" data-ga-click-type="review-permalink"><i class="fas fa-arrow-up-right"></i>Open
+              </a></div><div class="menu"><a href="#" class="btn-popup js-btn-popup"><i class="far fa-ellipsis-h"></i></a><div class="menu-block js-menu-block"><a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=188073" class="link ga-click" data-ga-click-type="review-report">Report</a></div></div></div>    </div>
   </div>
 </div>
 
-              
-<div class="borderDark" style="padding: 4px 0;">
-  <div class="spaceit">
-    <div class="mb8" style="float: right; text-align: right;">
-      <div title="3:40 AM">Jun 24, 2008</div>
-      <div class="lightLink spaceit">
-                  26 of 26 episodes seen
-              </div>
-      <div>
-        <a href="javascript:void(0);" onclick="$('#score5752').toggle()">Overall Rating</a>:
-        9
-      </div>
-    </div><div style="float: left;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-                                              <td valign="top" width="60">
-              <div class="picSurround">
-                <a href="https://myanimelist.net/profile/RangFlash">
-                  <img src="https://cdn.myanimelist.net/images/userimages/70985.jpg?t=1246738200" data-src="https://cdn.myanimelist.net/images/userimages/70985.jpg?t=1246738200" border="0" class=" lazyloaded" width="48">
-                </a>
-              </div>
-            </td>
-                    <td valign="top">
-                          <a href="https://myanimelist.net/profile/RangFlash">RangFlash</a>
-              <small>(<a href="/profile/RangFlash/reviews">All reviews</a>)</small><br>
-                        <div class="lightLink spaceit">
-              <strong>
-                <span id="rhelp5752">280</span>
-              </strong>
-              people found this review helpful
-            </div>
-                      </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
-        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score5752">
-      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
-        <tr>
-          <td class="borderClass bgColor1"><strong>Overall</strong></td>
-          <td class="borderClass bgColor1"><strong>9</strong></td>
-        </tr>
-        <tr>
-          <td class="borderClass" align="left">Story</td>
-          <td class="borderClass">10</td>
-        </tr>
-                  <tr>
-            <td class="borderClass" align="left">Animation</td>
-            <td class="borderClass">7</td>
-          </tr>
-          <tr>
-            <td class="borderClass" align="left">Sound</td>
-            <td class="borderClass">9</td>
-          </tr>
-                <tr>
-          <td class="borderClass" align="left">Character</td>
-          <td class="borderClass">10</td>
-        </tr>
-        <tr>
-          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
-          <td class="borderClass" style="border-width: 0;">10</td>
-        </tr>
-      </table>
-    </div>
-
-                          
-    26 episodes of a revolutionary anime that mixed comedy and drama flawlessly. This anime found great popularity in the U.S. and for good reason. Like Wings of Honneamise, it very thoughtfully combined religious themes and pacifism in a morality tale. <br />
+                  
+<div class="review-element js-review-element" data-reactions='{"icon":["1","2"],"num":281,"count":["280","1","0","0","0","0","0"]}'><div class="thumbbody mt8">
+    <div class="thumb">
+              <a href="https://myanimelist.net/profile/RangFlash" class="ga-click" data-ga-click-type="review-anime-reviewer-pic">
+          <img src="https://cdn.myanimelist.net/images/userimages/70985.jpg?t=1246738200" data-src="https://cdn.myanimelist.net/images/userimages/70985.jpg?t=1246738200" class="lazyloaded" width="48">
+        </a>
+          </div>
+    <div class="body">
+      <div title="3:40 AM" class="update_at">Jun 24, 2008</div><div class="username">
+          <a href="https://myanimelist.net/profile/RangFlash" class="ga-click" data-ga-click-type="review-anime-reviewer">RangFlash</a>
+          </div><div class="tags"><div class="tag recommended btn-label js-btn-label" data-id="1" data-href="https://myanimelist.net/anime/6/Trigun/reviews"><i class="fas fa-star"></i>Recommended</div></div>      <div class="text">
+                26 episodes of a revolutionary anime that mixed comedy and drama flawlessly. This anime found great popularity in the U.S. and for good reason. Like Wings of Honneamise, it very thoughtfully combined religious themes and pacifism in a morality tale. <br />
 <br />
 The first half of the series introduces the characters, and may turn some people off by its silliness, but it makes sense throughout the second half. If the entire thing was completely serious, Vash&#039;s character development wouldn&#039;t have the same effect.<br />
 <br />
 The music is very subtle and gets the job done. It&#039;s not overly noticeable, and compliments the scenes quite well. I heard one of the
-
-          <span style="display: none;" id="review5752">
-        members of the band Black Mages composed the music. The music is very recognizable and memorable for how simple it is.<br />
+                  <span class="js-visible" style="margin-left: -4px;">...</span>
+          <span class="js-hidden" style="display: none;">members of the band Black Mages composed the music. The music is very recognizable and memorable for how simple it is.<br />
 <br />
 The characters are extremely well developed and human. Vash the stampede is one of the most multi-dimensional characters created in anime. You may be constantly asking yourself questions about him. So is he a womanizer or a gentleman? Is he a killer or a pacifist? A goofball or a serious, stern person? All of it is very well developed and lets you know that Vash doesn&#039;t have just one side to him. His friend Wolfwood is also very multi-dimensional and developed.<br />
 <br />
 The animation and drawings in Trigun are not so great. They are in fact very mediocre, which is a shame. Many of the lines are drawn poorly, unevenly and the movement is often very choppy and of a low frame-rate (some of the episodes don&#039;t suffer from this, however). The lower quality animation is probably a budget issue, so it&#039;s a little easier to forgive. It must be extremely difficult to craft such a great series under so much pressure.<br />
 <br />
-However, it&#039;s definitely one of the greatest moral dramatic comedies I&#039;ve ever seen. The last few episodes left an impression on me; the show has a very clear and valuable message that has staying power. If you are up for a nice 26 episode series to laugh and cry with, give Trigun a whirl.
-        
-<div id="revhelp_output_5752" class="mt8 js-review-btn-helpful js-review-helpful-5752">
-      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F" class="button_form">Helpful</a>
-  </div>
-      </span>
-      <a href="javascript:void(0);" id="reviewToggle5752"
-         class="js-toggle-review-button" data-id="5752">read more</a>
+However, it&#039;s definitely one of the greatest moral dramatic comedies I&#039;ve ever seen. The last few episodes left an impression on me; the show has a very clear and valuable message that has staying power. If you are up for a nice 26 episode series to laugh and cry with, give Trigun a whirl.</span>
+              </div>
+      <div class="rating mt20 mb20 js-hidden" style="display: none;">
+        Reviewer’s Rating: <span class="num">9</span>
       </div>
-  <div>
-    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
-      <div style="float: right;">
-                  <a href="https://myanimelist.net/reviews.php?id=5752" class="lightLink"><small>permalink</small></a> |
-                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=5752" class="lightLink">
-          <small>report</small>
-        </a>
-              </div>
-    </div>
-  </div>
-</div>
-
-              
-<div class="borderDark" style="padding: 4px 0;">
-  <div class="spaceit">
-    <div class="mb8" style="float: right; text-align: right;">
-      <div title="2:03 PM">Apr 17, 2008</div>
-      <div class="lightLink spaceit">
-                  26 of 26 episodes seen
-              </div>
-      <div>
-        <a href="javascript:void(0);" onclick="$('#score4129').toggle()">Overall Rating</a>:
-        9
-      </div>
-    </div><div style="float: left;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-                                              <td valign="top" width="60">
-              <div class="picSurround">
-                <a href="https://myanimelist.net/profile/Master10K">
-                  <img src="https://cdn.myanimelist.net/images/userimages/18456.jpg?t=1654500000" data-src="https://cdn.myanimelist.net/images/userimages/18456.jpg?t=1654500000" border="0" class=" lazyloaded" width="48">
-                </a>
-              </div>
-            </td>
-                    <td valign="top">
-                          <a href="https://myanimelist.net/profile/Master10K">Master10K</a>
-              <small>(<a href="/profile/Master10K/reviews">All reviews</a>)</small><br>
-                        <div class="lightLink spaceit">
-              <strong>
-                <span id="rhelp4129">148</span>
-              </strong>
-              people found this review helpful
-            </div>
-                      </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
-        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score4129">
-      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
-        <tr>
-          <td class="borderClass bgColor1"><strong>Overall</strong></td>
-          <td class="borderClass bgColor1"><strong>9</strong></td>
-        </tr>
-        <tr>
-          <td class="borderClass" align="left">Story</td>
-          <td class="borderClass">9</td>
-        </tr>
-                  <tr>
-            <td class="borderClass" align="left">Animation</td>
-            <td class="borderClass">9</td>
-          </tr>
-          <tr>
-            <td class="borderClass" align="left">Sound</td>
-            <td class="borderClass">8</td>
-          </tr>
-                <tr>
-          <td class="borderClass" align="left">Character</td>
-          <td class="borderClass">9</td>
-        </tr>
-        <tr>
-          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
-          <td class="borderClass" style="border-width: 0;">10</td>
-        </tr>
-      </table>
-    </div>
-
-                          
-    Trigun is a classic Sci-fi, Action, Adventure, Comedy series with an amazing Western concept. This action-packed show is full of adrenaline fuelled gun battles and an awesome character to back.<br />
-<br />
-The story follows our protagonist Vash, who is known as a terrifying Gunman with a $60,000,000,000 bounty on his head. The story is laid out as an episodic adventure, where each 1 or 2 episodes brings about a different story, involving certain trials and hardships the characters experience. The good thing about this series is that each adventure is nicely linked to the next, so there is a form of progression and development. But this all
-
-          <span style="display: none;" id="review4129">
-        changes later on in the series, where there&amp;rsquo;s a major plot-twist and it becomes clear that this is an adventure with a purpose.<br />
-<br />
-By this being a sort of episodic adventure series, there are a bunch of characters but very few recurring ones. At least the main character (Vash) makes up for all that. Vash is a very complicated protagonist and even in the very first episode you&amp;rsquo;ll know that there&amp;rsquo;s more than meets the eye. What&amp;rsquo;s more is that both voice actors do an excellent job on him, bringing out plenty of comedy and intensity from his dialogue. The other characters do a fine job too but most of them don&amp;rsquo;t do much to stick out.<br />
-<br />
-The quality of the animation in this series is amazing. Taking into consideration the year it was produced (1998); this is certainly one of the best looking, old, action anime of its time. Even though the character designs lack a bit of detail, the well-drawn destructible environments and fluid gun battles make up for it.<br />
-<br />
-The music goes for the whole Country theme which suits this Western anime perfectly. However the soundtrack overall is nothing spectacular, with only a few notably great tunes and the OP and ED themes are pretty tiresome to listen to after a while.<br />
-<br />
-Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;lsquo;em up, but this actually has a very deep story that will make you feel differently about life. Even though there are a lot of characters throughout the series, there are quite a few memorable ones and plenty of memorable moments in the series. This anime did so well in both the comedy and drama areas, which makes this highly entertaining to watch.<br />
-<br />
-^_^
-        
-<div id="revhelp_output_4129" class="mt8 js-review-btn-helpful js-review-helpful-4129">
-      <a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F" class="button_form">Helpful</a>
-  </div>
-      </span>
-      <a href="javascript:void(0);" id="reviewToggle4129"
-         class="js-toggle-review-button" data-id="4129">read more</a>
-      </div>
-  <div>
-    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
-      <div style="float: right;">
-                  <a href="https://myanimelist.net/reviews.php?id=4129" class="lightLink"><small>permalink</small></a> |
-                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=4129" class="lightLink">
-          <small>report</small>
-        </a>
-              </div>
-    </div>
+      <div class="notice mb12 js-hidden" style="display: none;">What did you think of this review?</div>
+      <div class="reaction-box mb8 js-hidden" style="display: none;"><div class="btn-reaction js-btn-reaction nice ga-click" data-ga-click-type="review-anime-reaction-nice" data-id="5752" data-val="1" data-more="true">
+              Nice
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f44d.png" alt="Nice"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction loveit ga-click" data-ga-click-type="review-anime-reaction-loveit" data-id="5752" data-val="2" data-more="true">
+              Love it
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/2764.png" alt="Love it"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction funny ga-click" data-ga-click-type="review-anime-reaction-funny" data-id="5752" data-val="3" data-more="true">
+              Funny
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f602.png" alt="Funny"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction confusing ga-click" data-ga-click-type="review-anime-reaction-confusing" data-id="5752" data-val="4" data-more="false" style="display: none;">
+              Confusing
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f928.png" alt="Confusing"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction informative ga-click" data-ga-click-type="review-anime-reaction-informative" data-id="5752" data-val="5" data-more="true" style="display: none;">
+              Informative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4a1.png" alt="Informative"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction well-written ga-click" data-ga-click-type="review-anime-reaction-well-written" data-id="5752" data-val="6" data-more="true" style="display: none;">
+              Well-written
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4dd.png" alt="Well-written"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction creative ga-click" data-ga-click-type="review-anime-reaction-creative" data-id="5752" data-val="7" data-more="true" style="display: none;">
+              Creative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f3a8.png" alt="Creative"><span class="num">0</span></div><div class="more_reviews js-more_reviews" style="display: none;"><a href="/profile/RangFlash/reviews" class="ga-click" data-ga-click-type="review-anime-reviewer-all-reviews"><i class="fas fa-angle-right"></i>More reviews by RangFlash (<span class="num">10</span>)
+            </a></div><div class="btn-showall js-btn-showall"><i class="fas fa-angle-right"></i>Show all</div></div><div class="bottom-navi"><div class="icon-reaction js-icon-reaction" data-id="5752"></div><div class="readmore"><a href="#" class="ga-click js-readmore" data-ga-click-type="review-readmore"><i class="fas fa-angle-down"></i>Read more</a></div><div class="showless" style="display: none;"><a href="#" class="ga-click js-showless" data-ga-click-type="review-showless"><i class="fas fa-angle-up"></i>Show less</a></div><div class="open"><a href="https://myanimelist.net/reviews.php?id=5752" class="ga-click" data-ga-click-type="review-permalink"><i class="fas fa-arrow-up-right"></i>Open
+              </a></div><div class="menu"><a href="#" class="btn-popup js-btn-popup"><i class="far fa-ellipsis-h"></i></a><div class="menu-block js-menu-block"><a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=5752" class="link ga-click" data-ga-click-type="review-report">Report</a></div></div></div>    </div>
   </div>
 </div>
 <div class="mt4"></div><br><div><div class="floatRightHeader"><a href="/anime/6/Trigun/stacks">More stacks</a></div><h2>Interest Stacks</h2></div>    <div class="detail-stack-block">
       <div class="column-item">
-        <a href="https://myanimelist.net/stacks/6546">
+        <a href="https://myanimelist.net/stacks/3708">
           <div class="img">
-                          <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/10/58041.jpg"></div>
-                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg"></div>
+                          <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/13/80515.jpg"></div>
+                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/13/78318.jpg"></div>
                       </div>
         </a>
         <div class="detail">
-          <div class="title"><a href="https://myanimelist.net/stacks/6546">Don&#039;t Open It (Anime Recommendation)</a></div>
+          <div class="title"><a href="https://myanimelist.net/stacks/3708">GAR</a></div>
           <div class="tag">
             <span class="by">by</span>
-            <a href="https://myanimelist.net/profile/Lixun21">Lixun21</a>          </div>
+            <a href="https://myanimelist.net/profile/Hatul">Hatul</a>          </div>
           <div class="foot">
-            <div class="stat">37 Entries&nbsp;&middot;&nbsp;1&nbsp;Restacks</div>
+            <div class="stat">50 Entries&nbsp;&middot;&nbsp;50&nbsp;Restacks</div>
           </div>
         </div>
       </div>
       <div class="column-item">
-        <a href="https://myanimelist.net/stacks/3512">
+        <a href="https://myanimelist.net/stacks/8153">
           <div class="img">
-                          <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/5/82890.jpg"></div>
-                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/2/85332.jpg"></div>
+                          <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/6/75536.jpg"></div>
+                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/7/20310.jpg"></div>
                       </div>
         </a>
         <div class="detail">
-          <div class="title"><a href="https://myanimelist.net/stacks/3512">Love and Hate Religion</a></div>
+          <div class="title"><a href="https://myanimelist.net/stacks/8153">Kenshi vibes</a></div>
           <div class="tag">
             <span class="by">by</span>
-            <a href="https://myanimelist.net/profile/RokkanShojo">RokkanShojo</a>          </div>
+            <a href="https://myanimelist.net/profile/Muadiziro">Muadiziro</a>          </div>
           <div class="foot">
-            <div class="stat">42 Entries&nbsp;&middot;&nbsp;14&nbsp;Restacks</div>
+            <div class="stat">7 Entries&nbsp;&middot;&nbsp;2&nbsp;Restacks</div>
           </div>
         </div>
       </div>
       <div class="column-item">
-        <a href="https://myanimelist.net/stacks/6310">
+        <a href="https://myanimelist.net/stacks/4417">
           <div class="img">
-                          <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/4/19644.jpg"></div>
-                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/6/7333.jpg"></div>
+                          <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/1223/96541.jpg"></div>
+                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/anime/9/9453.jpg"></div>
                       </div>
         </a>
         <div class="detail">
-          <div class="title"><a href="https://myanimelist.net/stacks/6310">For Fans of Tarantino</a></div>
+          <div class="title"><a href="https://myanimelist.net/stacks/4417">Anime You Must Watch Before You Die.</a></div>
           <div class="tag">
             <span class="by">by</span>
-            <a href="https://myanimelist.net/profile/Emcio0828">Emcio0828</a>          </div>
+            <a href="https://myanimelist.net/profile/Deylin">Deylin</a>          </div>
           <div class="foot">
-            <div class="stat">20 Entries&nbsp;&middot;&nbsp;8&nbsp;Restacks</div>
+            <div class="stat">50 Entries&nbsp;&middot;&nbsp;372&nbsp;Restacks</div>
           </div>
         </div>
       </div>
@@ -1654,7 +1414,7 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
             title="Cowboy Bebop"><a href="https://myanimelist.net/recommendations/anime/1-6" class="link bg-center ga-click"
              data-ga-click-type="anime-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Cowboy Bebop</span><span
-              class="users">81 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/19644.jpg?s=12482a016a312d2f6976be928c35fac1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/19644.jpg?s=12482a016a312d2f6976be928c35fac1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/19644.jpg?s=a76161ce0786a9b5df55dac2757a61b3 2x" width="90" height="140" class="image lazyload" alt="Cowboy Bebop" border="0" ></a></li><li class="btn-anime" style="width:90px"
+              class="users">84 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/4/19644.jpg?s=12482a016a312d2f6976be928c35fac1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/4/19644.jpg?s=12482a016a312d2f6976be928c35fac1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/4/19644.jpg?s=a76161ce0786a9b5df55dac2757a61b3 2x" width="90" height="140" class="image lazyload" alt="Cowboy Bebop" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Rurouni Kenshin: Meiji Kenkaku Romantan"><a href="https://myanimelist.net/recommendations/anime/6-45" class="link bg-center ga-click"
              data-ga-click-type="anime-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Rurouni Kenshin: Meiji Kenkaku Romantan</span><span
@@ -1675,14 +1435,14 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
              data-ga-click-type="anime-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Gungrave</span><span
               class="users">9 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/11/75724.jpg?s=832cefeb32550050ff8d79de744c3bf2" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/11/75724.jpg?s=832cefeb32550050ff8d79de744c3bf2 1x,https://cdn.myanimelist.net/r/180x280/images/anime/11/75724.jpg?s=eda5547e3d3292be3273bbf3f4c05bd7 2x" width="90" height="140" class="image lazyload" alt="Gungrave" border="0" ></a></li><li class="btn-anime" style="width:90px"
+            title="Casshern Sins"><a href="https://myanimelist.net/recommendations/anime/6-4981" class="link bg-center ga-click"
+             data-ga-click-type="anime-user-recommend"
+             style="width:90px;height:140px;"><span class="title fs10">Casshern Sins</span><span
+              class="users">8 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/23336.jpg?s=9a22316c9b8d97a7f750b9004901d658" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/23336.jpg?s=9a22316c9b8d97a7f750b9004901d658 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/23336.jpg?s=dc8a2a84431b68b87066eeb9dc6ac93b 2x" width="90" height="140" class="image lazyload" alt="Casshern Sins" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Kekkai Sensen"><a href="https://myanimelist.net/recommendations/anime/6-24439" class="link bg-center ga-click"
              data-ga-click-type="anime-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Kekkai Sensen</span><span
               class="users">7 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/12/73559.jpg?s=f6e31a8797cf2541bdfc76c2f71d11a1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/12/73559.jpg?s=f6e31a8797cf2541bdfc76c2f71d11a1 1x,https://cdn.myanimelist.net/r/180x280/images/anime/12/73559.jpg?s=dca43aefaaf5cd88126390fbcf96980f 2x" width="90" height="140" class="image lazyload" alt="Kekkai Sensen" border="0" ></a></li><li class="btn-anime" style="width:90px"
-            title="Casshern Sins"><a href="https://myanimelist.net/recommendations/anime/6-4981" class="link bg-center ga-click"
-             data-ga-click-type="anime-user-recommend"
-             style="width:90px;height:140px;"><span class="title fs10">Casshern Sins</span><span
-              class="users">7 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/23336.jpg?s=9a22316c9b8d97a7f750b9004901d658" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/23336.jpg?s=9a22316c9b8d97a7f750b9004901d658 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/23336.jpg?s=dc8a2a84431b68b87066eeb9dc6ac93b 2x" width="90" height="140" class="image lazyload" alt="Casshern Sins" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Grenadier: Hohoemi no Senshi"><a href="https://myanimelist.net/recommendations/anime/6-297" class="link bg-center ga-click"
              data-ga-click-type="anime-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Grenadier: Hohoemi no Senshi</span><span
@@ -1715,6 +1475,10 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
              data-ga-click-type="anime-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Black Lagoon</span><span
               class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/1906/121592.jpg?s=3e61d2197310c4918bdb4efb2c3068f3" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/1906/121592.jpg?s=3e61d2197310c4918bdb4efb2c3068f3 1x,https://cdn.myanimelist.net/r/180x280/images/anime/1906/121592.jpg?s=4ba1d82be25b13121185bda8043dde0c 2x" width="90" height="140" class="image lazyload" alt="Black Lagoon" border="0" ></a></li><li class="btn-anime" style="width:90px"
+            title="City Hunter"><a href="https://myanimelist.net/recommendations/anime/6-1470" class="link bg-center ga-click"
+             data-ga-click-type="anime-user-recommend"
+             style="width:90px;height:140px;"><span class="title fs10">City Hunter</span><span
+              class="users">3 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/20587.jpg?s=af60b3998c032b33c85bc2be867f87e5" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/20587.jpg?s=af60b3998c032b33c85bc2be867f87e5 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/20587.jpg?s=56e7b051b6169e3cd4303cb1dd94ea4f 2x" width="90" height="140" class="image lazyload" alt="City Hunter" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Devil May Cry"><a href="https://myanimelist.net/recommendations/anime/6-1726" class="link bg-center ga-click"
              data-ga-click-type="anime-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Devil May Cry</span><span
@@ -1723,29 +1487,46 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
              data-ga-click-type="anime-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Mob Psycho 100</span><span
               class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/8/80356.jpg?s=6df25533236d30449cfddb53a5993144" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/8/80356.jpg?s=6df25533236d30449cfddb53a5993144 1x,https://cdn.myanimelist.net/r/180x280/images/anime/8/80356.jpg?s=3d824187fa50750b452e03648502d4cb 2x" width="90" height="140" class="image lazyload" alt="Mob Psycho 100" border="0" ></a></li><li class="btn-anime" style="width:90px"
-            title="Great Teacher Onizuka"><a href="https://myanimelist.net/recommendations/anime/6-245" class="link bg-center ga-click"
-             data-ga-click-type="anime-user-recommend"
-             style="width:90px;height:140px;"><span class="title fs10">Great Teacher Onizuka</span><span
-              class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/11460.jpg?s=36a294bf7d654e4a996dcb78190734ab" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/11460.jpg?s=36a294bf7d654e4a996dcb78190734ab 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/11460.jpg?s=ff2db9cc641cee92120b41bd54709cb8 2x" width="90" height="140" class="image lazyload" alt="Great Teacher Onizuka" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Golden Boy"><a href="https://myanimelist.net/recommendations/anime/6-268" class="link bg-center ga-click"
              data-ga-click-type="anime-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Golden Boy</span><span
               class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/62867.jpg?s=ab78ddd23b5dbd58d281a0505720c1e0" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/62867.jpg?s=ab78ddd23b5dbd58d281a0505720c1e0 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/62867.jpg?s=66d9daddf3e81a3df22382061d35df6c 2x" width="90" height="140" class="image lazyload" alt="Golden Boy" border="0" ></a></li><li class="btn-anime" style="width:90px"
-            title="Bleach"><a href="https://myanimelist.net/recommendations/anime/6-269" class="link bg-center ga-click"
+            title="Great Teacher Onizuka"><a href="https://myanimelist.net/recommendations/anime/6-245" class="link bg-center ga-click"
              data-ga-click-type="anime-user-recommend"
-             style="width:90px;height:140px;"><span class="title fs10">Bleach</span><span
-              class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/3/40451.jpg?s=4a061e8a9aa49cd1d8f765f457ae4c59" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/3/40451.jpg?s=4a061e8a9aa49cd1d8f765f457ae4c59 1x,https://cdn.myanimelist.net/r/180x280/images/anime/3/40451.jpg?s=c7e2e92295e2a99f699543d63340185a 2x" width="90" height="140" class="image lazyload" alt="Bleach" border="0" ></a></li></ul></div></div></div><br><div><div class="floatRightHeader"><a href="/anime/6/Trigun/news">More news</a></div><h2>Recent News</h2></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=6"><a href="/anime/6/Trigun/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
-    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+             style="width:90px;height:140px;"><span class="title fs10">Great Teacher Onizuka</span><span
+              class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/anime/13/11460.jpg?s=36a294bf7d654e4a996dcb78190734ab" data-srcset="https://cdn.myanimelist.net/r/90x140/images/anime/13/11460.jpg?s=36a294bf7d654e4a996dcb78190734ab 1x,https://cdn.myanimelist.net/r/180x280/images/anime/13/11460.jpg?s=ff2db9cc641cee92120b41bd54709cb8 2x" width="90" height="140" class="image lazyload" alt="Great Teacher Onizuka" border="0" ></a></li></ul></div></div></div><br><div><div class="floatRightHeader"><a href="/anime/6/Trigun/news">More news</a></div><h2>Recent News</h2></div><div class="clearfix"><div class="picSurround fl-l mr8 ml3 mt4"><a href="/news/66619963" class="image-link"><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1655435003-a0666ccf41cd25e745eba3d8c9f18611.jpeg?s=3fa41e7d92e96fdde7e2705281ccd87a" data-srcset="https://cdn.myanimelist.net/r/50x78/s/common/uploaded_files/1655435003-a0666ccf41cd25e745eba3d8c9f18611.jpeg?s=3fa41e7d92e96fdde7e2705281ccd87a 1x,https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1655435003-a0666ccf41cd25e745eba3d8c9f18611.jpeg?s=420388ad777a823a5a498ced30c23cc1 2x" alt="New &#039;Trigun&#039; Anime Project Announced for 2023" width="50" height="78" class="lazyload"></a></div><p class="spaceit"><a href="/news/66619963"><strong>New &#039;Trigun&#039; Anime Project Announced for 2023</strong></a></p>
+		<div class="clearfix" style="overflow:hidden;"><p> TOHO animation launched an official website for a new anime project for Yasuhiro Nightow&#039;s Trigun manga on Friday, revealing a teaser visual (pictured). The ne...<a href="/news/66619963">read more</a></p></div>
+		<p class="lightLink spaceit">Jun 16, 8:03 PM by <a href="/profile/Vindstot">Vindstot</a> | <a href="/forum/?topicid=2023253">Discuss (89 comments)</a></p></div>
+		<div class="borderClass"></div><br><div><div class="floatRightHeader"><a href="/forum/?animeid=6"><a href="/anime/6/Trigun/forum">More discussions</a></div><h2>Recent Forum Discussion</h2></div><div class="page-forum">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1" data-topic-id="42871">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=31859">Trigun Episode 17 Discussion</a> <small> ( <a href="/forum/?topicid=31859&show=0">1</a> <a href="/forum/?topicid=31859&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Cero">Cero</a></span> - <span class="lightLink">Jul 2, 2008</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">86 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/andysmith45">andysmith45</a> <a href="/forum/?topicid=31859&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Jun 2, 6:12 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=42871" class="ga-click" data-ga-click-type="anime-recent-forum-discussion">Trigun Episode 19 Discussion</a> <small> ( <a href="/forum/?topicid=42871&show=0">1</a> <a href="/forum/?topicid=42871&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/kie_">kie_</a></span> - <span class="lightLink">Sep 11, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">52 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/RaphRika">RaphRika</a> <a href="/forum/?topicid=42871&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 24, 5:29 AM</td>
             </tr>
-            <tr id="topicRow2">
+            <tr id="topicRow2" data-topic-id="31859">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2017183">Is the trigun anime canon? Why is it full of fillers? </a> <small></small><br><span class="forum_postusername"><a href="/profile/Jannie7">Jannie7</a></span> - <span class="lightLink">May 18</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">12 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/BeowulfTheFoldin">BeowulfTheFoldin</a> <a href="/forum/?topicid=2017183&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 19, 2:39 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=31859" class="ga-click" data-ga-click-type="anime-recent-forum-discussion">Trigun Episode 17 Discussion</a> <small> ( <a href="/forum/?topicid=31859&show=0">1</a> <a href="/forum/?topicid=31859&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Cero">Cero</a></span> - <span class="lightLink">Jul 2, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">88 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/AlexanderHD">AlexanderHD</a> <a href="/forum/?topicid=31859&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 24, 1:26 AM</td>
+            </tr>
+            <tr id="topicRow3" data-topic-id="31897">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow3"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=31897" class="ga-click" data-ga-click-type="anime-recent-forum-discussion">Trigun Episode 26 Discussion</a> <small> ( <a href="/forum/?topicid=31897&show=0">1</a> <a href="/forum/?topicid=31897&show=50">2</a> <a href="/forum/?topicid=31897&show=100">3</a> <a href="/forum/?topicid=31897&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Cero">Cero</a></span> - <span class="lightLink">Jul 2, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">167 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/jakeplusyou">jakeplusyou</a> <a href="/forum/?topicid=31897&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 19, 7:21 PM</td>
+            </tr>
+            <tr id="topicRow4" data-topic-id="31883">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow4"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=31883" class="ga-click" data-ga-click-type="anime-recent-forum-discussion">Trigun Episode 23 Discussion</a> <small> ( <a href="/forum/?topicid=31883&show=0">1</a> <a href="/forum/?topicid=31883&show=50">2</a> <a href="/forum/?topicid=31883&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Cero">Cero</a></span> - <span class="lightLink">Jul 2, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">134 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/shingekiN0kyojin">shingekiN0kyojin</a> <a href="/forum/?topicid=31883&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Aug 31, 6:03 PM</td>
+            </tr>
+            <tr id="topicRow5" data-topic-id="31846">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow5"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F6%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=31846" class="ga-click" data-ga-click-type="anime-recent-forum-discussion">Trigun Episode 16 Discussion</a> <small> ( <a href="/forum/?topicid=31846&show=0">1</a> <a href="/forum/?topicid=31846&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Cero">Cero</a></span> - <span class="lightLink">Jul 2, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">65 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/shingekiN0kyojin">shingekiN0kyojin</a> <a href="/forum/?topicid=31846&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Aug 27, 11:17 AM</td>
             </tr>
             </table></div><br><div><div class="floatRightHeader"><a href="/anime/6/Trigun/featured">More featured articles</a></div><h2>Recent Featured Articles</h2></div><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1762,7 +1543,7 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MisterD98">MisterD98</a>
           </p><p class="di-tc pv pr8">
-              <b>716,283</b> views
+              <b>739,789</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/funny" class="tag tag-color-feature-funny" title="Funny">Funny</a></div>
             </div></div>
@@ -1782,7 +1563,7 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Unnamedhero">Unnamedhero</a>
           </p><p class="di-tc pv pr8">
-              <b>60,309</b> views
+              <b>61,233</b> views
             </p></div>
       </div>
     </div>
@@ -1875,19 +1656,19 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -1897,23 +1678,23 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -1931,11 +1712,11 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -2044,7 +1825,7 @@ Overall Trigun on the surface may seem like your typical bang! bang! shoot &amp;
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

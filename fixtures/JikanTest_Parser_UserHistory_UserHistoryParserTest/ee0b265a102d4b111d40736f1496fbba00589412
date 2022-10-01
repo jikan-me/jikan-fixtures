@@ -23,15 +23,15 @@
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='6fdbbd7bfe19404eb564ecbe0136f6555db6bc2b'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='35b2f1729edd0a99a5ec7729de83ea4fb71aaa6e'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -47,9 +47,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643391"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643391"></script>
       </head>
 
-          <body class="page-common  " data-ms="true" data-country-code="LU">
+          <body class="page-common  " data-ms="false" data-country-code="PK">
   
       <div id="myanimelist">
   
@@ -74,8 +76,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
-  <img src="/c/i/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
+  <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce" onclick="trackOutboundLink('https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce')">
+  <img src="/c/i/images/event/Mini_Banner_20220915_FAL_FALL_2022/mini-banner.png" width="250" height="36" alt="FAL FALL 2022" title="FAL FALL 2022">
 </a>
 
 </div>
@@ -160,7 +162,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div>        <div id="contentWrapper" >
+    </div>  </div>                        <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+                  <div id="contentWrapper" >
           <div>
                 <h1 class="h1"><span>morshuwarrior's History</span>
         <div style="float:right;font-weight:normal;">
@@ -173,59 +189,493 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           <li><a class="horiznav_active" href="/history/morshuwarrior">All History</a></li>
           <li><a class="" href="/history/morshuwarrior/anime">Anime History</a></li>
           <li><a class="" href="/history/morshuwarrior/manga">Manga History</a></li>
-          　</ul>
+                  </ul>
       </div>
-      
+
       <div class="history_content_wrapper">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
                         <tr>
             <td colspan="2">
               <div class="normal_header">
-                Last Week
+                Tuesday
                 <span style="font-weight: normal;">
-                  <small>(5)</small>
+                  <small>(7)</small>
                 </span>
               </div>
             </td>
           </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=44807">
-                  Ryuu to Sobakasu no Hime
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=33191">
+                  Kishibe Rohan wa Ugokanai
+                </a>
+                  ep.
+                  <strong>4</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 27, 6:50 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=33191">
+                  Kishibe Rohan wa Ugokanai
+                </a>
+                  ep.
+                  <strong>3</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 27, 6:50 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=33191">
+                  Kishibe Rohan wa Ugokanai
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 27, 6:50 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=2150">
+                  Tanoshii Muumin Ikka
+                </a>
+                  ep.
+                  <strong>6</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 27, 6:50 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=2150">
+                  Tanoshii Muumin Ikka
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 27, 6:50 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=2150">
+                  Tanoshii Muumin Ikka
+                </a>
+                  ep.
+                  <strong>4</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 27, 6:50 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=33191">
+                  Kishibe Rohan wa Ugokanai
                 </a>
                   ep.
                   <strong>1</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 31, 1:36 PM
+              </td><td class="borderClass" align="right">&nbsp;Sep 27, 6:50 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/manga.php?id=13">
-                  One Piece
+                          <tr>
+          <td colspan="2">&nbsp;</td>
+        </tr>
+                        <tr>
+            <td colspan="2">
+              <div class="normal_header">
+                Sunday
+                <span style="font-weight: normal;">
+                  <small>(1)</small>
+                </span>
+              </div>
+            </td>
+          </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=50379">
+                  Shoot! Goal to the Future
                 </a>
-                  chap.
-                  <strong>1051</strong>
-              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Jun 3, 2:56 PM
+                  ep.
+                  <strong>11</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 25, 2:28 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/manga.php?id=13">
-                  One Piece
+                          <tr>
+          <td colspan="2">&nbsp;</td>
+        </tr>
+                        <tr>
+            <td colspan="2">
+              <div class="normal_header">
+                Last Week
+                <span style="font-weight: normal;">
+                  <small>(48)</small>
+                </span>
+              </div>
+            </td>
+          </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1604">
+                  Katekyo Hitman Reborn!
                 </a>
-                  chap.
-                  <strong>1050</strong>
-              </td><td class="borderClass" align="right">&nbsp;Jun 3, 2:56 PM
+                  ep.
+                  <strong>110</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/manga.php?id=13">
-                  One Piece
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1604">
+                  Katekyo Hitman Reborn!
                 </a>
-                  chap.
-                  <strong>1049</strong>
-              </td><td class="borderClass" align="right">&nbsp;Jun 3, 2:56 PM
+                  ep.
+                  <strong>109</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/manga.php?id=13">
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1604">
+                  Katekyo Hitman Reborn!
+                </a>
+                  ep.
+                  <strong>108</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1604">
+                  Katekyo Hitman Reborn!
+                </a>
+                  ep.
+                  <strong>107</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1604">
+                  Katekyo Hitman Reborn!
+                </a>
+                  ep.
+                  <strong>106</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1604">
+                  Katekyo Hitman Reborn!
+                </a>
+                  ep.
+                  <strong>105</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51371">
+                  Bucchigire!
+                </a>
+                  ep.
+                  <strong>12</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=6672">
+                  Video Senshi Lezarion
+                </a>
+                  ep.
+                  <strong>12</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=6672">
+                  Video Senshi Lezarion
+                </a>
+                  ep.
+                  <strong>11</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=6672">
+                  Video Senshi Lezarion
+                </a>
+                  ep.
+                  <strong>10</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=6672">
+                  Video Senshi Lezarion
+                </a>
+                  ep.
+                  <strong>9</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=6672">
+                  Video Senshi Lezarion
+                </a>
+                  ep.
+                  <strong>8</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=50346">
+                  Yofukashi no Uta
+                </a>
+                  ep.
+                  <strong>12</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 24, 3:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=51368">
+                  Orient: Awajishima Gekitou-hen
+                </a>
+                  ep.
+                  <strong>8</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 20, 1:32 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=2993">
+                  Rosario to Vampire
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 19, 2:48 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=50379">
+                  Shoot! Goal to the Future
+                </a>
+                  ep.
+                  <strong>10</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 2:08 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=21">
                   One Piece
                 </a>
+                  ep.
+                  <strong>1033</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:03 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=21">
+                  One Piece
+                </a>
+                  ep.
+                  <strong>1032</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:03 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=21">
+                  One Piece
+                </a>
+                  ep.
+                  <strong>1031</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:02 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>10</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:01 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>9</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:01 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>8</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:01 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>7</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:01 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>6</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:01 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:01 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>4</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:01 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>3</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 19, 11:01 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=33023">
+                  Touken Ranbu: Hanamaru
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 18, 2:16 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=11763">
+                  Sekai de Ichiban Tsuyoku Naritai!
+                </a>
+                  ep.
+                  <strong>4</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 2:12 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=17909">
+                  Uchouten Kazoku
+                </a>
+                  ep.
+                  <strong>6</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 2:12 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42625">
+                  Heion Sedai no Idaten-tachi
+                </a>
+                  ep.
+                  <strong>6</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 2:11 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=18277">
+                  Strike the Blood
+                </a>
+                  ep.
+                  <strong>9</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 2:11 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=11499">
+                  Sankarea
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 2:10 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1200">
+                  Gun-dou Musashi
+                </a>
+                  ep.
+                  <strong>8</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 2:08 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=37007">
+                  Hinomaruzumou
+                </a>
+                  ep.
+                  <strong>14</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 2:01 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=9750">
+                  Itsuka Tenma no Kuro Usagi
+                </a>
+                  ep.
+                  <strong>7</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 1:52 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 1:48 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=42429">
+                  Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
+                </a>
+                  ep.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 1:48 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=2150">
+                  Tanoshii Muumin Ikka
+                </a>
+                  ep.
+                  <strong>3</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 1:44 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=50654">
+                  Yamitsuki Mura: Melty Limit The Animation
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 12:54 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=4015">
+                  School Rumble San Gakki
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 18, 8:40 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/manga.php?id=1517">
+                  JoJo no Kimyou na Bouken Part 1: Phantom Blood
+                </a>
                   chap.
-                  <strong>1048</strong>
-              </td><td class="borderClass" align="right">&nbsp;Jun 3, 2:56 PM
+                  <strong>2</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 23, 10:56 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/manga.php?id=1517">
+                  JoJo no Kimyou na Bouken Part 1: Phantom Blood
+                </a>
+                  chap.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 23, 10:56 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/manga.php?id=1706">
+                  JoJo no Kimyou na Bouken Part 7: Steel Ball Run
+                </a>
+                  chap.
+                  <strong>5</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 23, 10:54 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/manga.php?id=1706">
+                  JoJo no Kimyou na Bouken Part 7: Steel Ball Run
+                </a>
+                  chap.
+                  <strong>4</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 23, 10:54 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/manga.php?id=1706">
+                  JoJo no Kimyou na Bouken Part 7: Steel Ball Run
+                </a>
+                  chap.
+                  <strong>3</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 23, 10:54 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/manga.php?id=1706">
+                  JoJo no Kimyou na Bouken Part 7: Steel Ball Run
+                </a>
+                  chap.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 23, 10:54 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/manga.php?id=1706">
+                  JoJo no Kimyou na Bouken Part 7: Steel Ball Run
+                </a>
+                  chap.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 23, 10:54 AM
               </td>
             </tr>
                           <tr>
@@ -236,49 +686,313 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <div class="normal_header">
                 Two Weeks Ago
                 <span style="font-weight: normal;">
-                  <small>(5)</small>
+                  <small>(38)</small>
                 </span>
               </div>
             </td>
           </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=48505">
-                  Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51088">
+                  Eroriman
                 </a>
                   ep.
-                  <strong>17</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 26, 3:08 PM
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 17, 6:14 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=48505">
-                  Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51736">
+                  J* Genkai Koubi: Goui Sounyuu de Bachibachi Niku Anaka
                 </a>
                   ep.
-                  <strong>16</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 26, 3:08 PM
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 17, 6:14 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=48505">
-                  Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=50346">
+                  Yofukashi no Uta
                 </a>
                   ep.
-                  <strong>15</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 26, 3:08 PM
+                  <strong>11</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 17, 6:12 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=235">
-                  Detective Conan
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=50346">
+                  Yofukashi no Uta
                 </a>
                   ep.
-                  <strong>1044</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 26, 3:08 PM
+                  <strong>10</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 17, 6:12 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=47194">
-                  Summertime Render
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=2463">
+                  Shounan Bakusouzoku
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 16, 9:26 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51368">
+                  Orient: Awajishima Gekitou-hen
+                </a>
+                  ep.
+                  <strong>7</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 16, 9:26 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51371">
+                  Bucchigire!
+                </a>
+                  ep.
+                  <strong>11</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 16, 9:25 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=2150">
+                  Tanoshii Muumin Ikka
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 16, 7:23 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=2150">
+                  Tanoshii Muumin Ikka
+                </a>
+                  ep.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 16, 7:23 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=2463">
+                  Shounan Bakusouzoku
+                </a>
+                  ep.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 16, 7:23 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>12</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 15, 2:30 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>11</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 15, 2:30 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>10</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 15, 2:30 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>9</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 15, 2:30 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>8</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 15, 2:30 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>7</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 15, 2:30 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>6</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 15, 2:30 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=51371">
+                  Bucchigire!
+                </a>
+                  ep.
+                  <strong>10</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 12, 7:37 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 12, 7:34 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>4</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 12, 7:34 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
                 </a>
                   ep.
                   <strong>3</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 26, 3:07 PM
+              </td><td class="borderClass" align="right">&nbsp;Sep 12, 7:34 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 12, 7:34 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51367">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+                </a>
+                  ep.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 12, 7:34 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=50379">
+                  Shoot! Goal to the Future
+                </a>
+                  ep.
+                  <strong>9</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 12, 7:28 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1050">
+                  Bobobo-bo Bo-bobo
+                </a>
+                  ep.
+                  <strong>58</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 12, 7:28 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1050">
+                  Bobobo-bo Bo-bobo
+                </a>
+                  ep.
+                  <strong>57</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 12, 7:28 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1050">
+                  Bobobo-bo Bo-bobo
+                </a>
+                  ep.
+                  <strong>56</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 12, 7:28 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=12347">
+                  Dirty Pair Flash 3
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 10, 9:35 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=12343">
+                  Dirty Pair Flash 2
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 10, 9:34 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>12</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 10, 7:47 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>11</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 10, 7:47 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>10</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 10, 7:47 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>9</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 10, 7:47 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>8</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 10, 7:47 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>7</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 10, 7:47 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>6</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 10, 7:47 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/manga.php?id=13">
+                  One Piece
+                </a>
+                  chap.
+                  <strong>1060</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 16, 3:22 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/manga.php?id=13">
+                  One Piece
+                </a>
+                  chap.
+                  <strong>1059</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 16, 3:22 AM
               </td>
             </tr>
                           <tr>
@@ -289,113 +1003,585 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <div class="normal_header">
                 Three Weeks Ago
                 <span style="font-weight: normal;">
-                  <small>(13)</small>
+                  <small>(72)</small>
                 </span>
               </div>
             </td>
           </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=35072">
+                  Boruto: Jump Festa 2016 Special
+                </a>
+                  ep.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 9, 6:07 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=41084">
+                  Made in Abyss: Retsujitsu no Ougonkyou
+                </a>
+                  ep.
+                  <strong>10</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 8, 12:54 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=41084">
+                  Made in Abyss: Retsujitsu no Ougonkyou
+                </a>
+                  ep.
+                  <strong>9</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 8, 12:54 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 8, 12:53 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>4</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 8, 12:53 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>3</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 8, 12:53 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1050">
+                  Bobobo-bo Bo-bobo
+                </a>
+                  ep.
+                  <strong>55</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 8, 2:30 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1050">
+                  Bobobo-bo Bo-bobo
+                </a>
+                  ep.
+                  <strong>54</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 8, 2:30 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1050">
+                  Bobobo-bo Bo-bobo
+                </a>
+                  ep.
+                  <strong>53</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 8, 2:30 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1050">
+                  Bobobo-bo Bo-bobo
+                </a>
+                  ep.
+                  <strong>52</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 8, 2:30 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=1050">
+                  Bobobo-bo Bo-bobo
+                </a>
+                  ep.
+                  <strong>51</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 8, 2:30 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=51368">
+                  Orient: Awajishima Gekitou-hen
+                </a>
+                  ep.
+                  <strong>6</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 6, 10:46 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 6, 10:46 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48661">
+                  JoJo no Kimyou na Bouken Part 6: Stone Ocean
+                </a>
+                  ep.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 6, 10:45 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>39</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 5, 3:03 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>38</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 5, 3:03 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>37</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 5, 3:03 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>36</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 5, 3:03 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>35</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 5, 3:03 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>34</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 5, 3:03 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>33</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 5, 3:03 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51371">
+                  Bucchigire!
+                </a>
+                  ep.
+                  <strong>9</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 5, 5:05 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=50346">
+                  Yofukashi no Uta
+                </a>
+                  ep.
+                  <strong>9</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 5, 3:18 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=50379">
+                  Shoot! Goal to the Future
+                </a>
+                  ep.
+                  <strong>8</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 4, 3:33 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=50379">
+                  Shoot! Goal to the Future
+                </a>
+                  ep.
+                  <strong>7</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 3:33 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51368">
+                  Orient: Awajishima Gekitou-hen
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 3:32 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>32</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 3:32 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>31</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 3:32 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=37966">
+                  Pokemon Movie 22: Mewtwo no Gyakushuu Evolution
+                </a>
+                  ep.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 1:19 PM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>30</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 10:20 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>29</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 10:20 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>28</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 10:20 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>27</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 10:20 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>56</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 5:28 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>55</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 5:28 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>54</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 5:28 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>53</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 5:28 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>52</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 5:28 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51594">
+                  Otome wa Boku ni Koishiteru: Trinkle Stars The Animation (2022)
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 4:43 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=48651">
+                  Sakusei Byoutou The Animation
+                </a>
+                  ep.
+                  <strong>3</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 4:43 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=51338">
+                  Kisaku Reiwa
+                </a>
+                  ep.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 4:43 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=52185">
+                  Iinchou wa Saimin Appli wo Shinjiteru.
+                </a>
+                  ep.
+                  <strong>1</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 4:42 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>51</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 2:36 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>50</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 2:36 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>49</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 2:36 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>48</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 2:36 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>47</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 2:36 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>46</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 2:36 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
+                </a>
+                  ep.
+                  <strong>45</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 2:36 AM
+              </td>
+            </tr>
                                                           <tr><td class="borderClass"><a href="/anime.php?id=235">
                   Detective Conan
                 </a>
                   ep.
-                  <strong>1043</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+                  <strong>1055</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 1:54 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=145">
-                  Kareshi Kanojo no Jijou
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=235">
+                  Detective Conan
+                </a>
+                  ep.
+                  <strong>1054</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 1:54 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=235">
+                  Detective Conan
+                </a>
+                  ep.
+                  <strong>1053</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 1:54 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=235">
+                  Detective Conan
+                </a>
+                  ep.
+                  <strong>1052</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 1:53 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=235">
+                  Detective Conan
+                </a>
+                  ep.
+                  <strong>1051</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 1:53 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=235">
+                  Detective Conan
+                </a>
+                  ep.
+                  <strong>1050</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 1:53 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=235">
+                  Detective Conan
+                </a>
+                  ep.
+                  <strong>1049</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 4, 1:53 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=4901">
+                  Black Lagoon: Roberta&#039;s Blood Trail
+                </a>
+                  ep.
+                  <strong>5</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 3, 7:31 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=4901">
+                  Black Lagoon: Roberta&#039;s Blood Trail
                 </a>
                   ep.
                   <strong>4</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=145">
-                  Kareshi Kanojo no Jijou
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=4901">
+                  Black Lagoon: Roberta&#039;s Blood Trail
                 </a>
                   ep.
                   <strong>3</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=4901">
+                  Black Lagoon: Roberta&#039;s Blood Trail
+                </a>
+                  ep.
+                  <strong>2</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>26</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>25</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+                </a>
+                  ep.
+                  <strong>24</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
+              </td>
+            </tr>
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
                 </a>
                   ep.
                   <strong>23</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
                 </a>
                   ep.
                   <strong>22</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=31933">
+                  JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
                 </a>
                   ep.
                   <strong>21</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
                 </a>
                   ep.
-                  <strong>20</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+                  <strong>44</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
                 </a>
                   ep.
-                  <strong>19</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+                  <strong>43</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 3, 7:31 AM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/anime.php?id=5658">
+                  Great Mazinger
                 </a>
                   ep.
-                  <strong>18</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+                  <strong>42</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 2, 2:13 PM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
                 </a>
                   ep.
-                  <strong>17</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+                  <strong>41</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 2, 2:13 PM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
+                                                          <tr><td class="borderClass"><a href="/anime.php?id=5658">
+                  Great Mazinger
                 </a>
                   ep.
-                  <strong>16</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+                  <strong>40</strong>
+              </td><td class="borderClass" align="right">&nbsp;Sep 2, 2:13 PM
               </td>
             </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
+                                                          <tr><td class="borderClass" style="border-width: 1px 0;" ><a href="/manga.php?id=13">
+                  One Piece
                 </a>
-                  ep.
-                  <strong>15</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
-              </td>
-            </tr>
-                                                          <tr><td class="borderClass"><a href="/anime.php?id=40834">
-                  Ousama Ranking
-                </a>
-                  ep.
-                  <strong>14</strong>
-              </td><td class="borderClass" align="right">&nbsp;May 14, 10:20 AM
+                  chap.
+                  <strong>1058</strong>
+              </td><td class="borderClass" style="border-width: 1px 0;" align="right">&nbsp;Sep 4, 9:27 AM
               </td>
             </tr>
                           <tr>
@@ -439,19 +1625,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -461,23 +1647,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -495,11 +1681,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -609,7 +1795,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

@@ -32,15 +32,15 @@ Momonga (Overlord) - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='9b3d605e34f2e3e825b9621ced6afcbebb54e1be'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='050e3fa5663ef5a5ed886b5a42790986046a4520'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643311"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643311"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -91,7 +93,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>
 
 <script>
     var trackOutboundLink = function(url) {
@@ -101,8 +103,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce" onclick="trackOutboundLink('https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce')">
-  <img src="/c/i/images/event/Mini_Banner_20220421_TR2022/mini_banner.png" width="250" height="36" alt="TR2022" title="TR2022">
+  <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce" onclick="trackOutboundLink('https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce')">
+  <img src="/c/i/images/event/Mini_Banner_20220915_FAL_FALL_2022/mini-banner.png" width="250" height="36" alt="FAL FALL 2022" title="FAL FALL 2022">
 </a>
 
 </div>
@@ -185,12 +187,26 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper"><div><div class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper"><div><div class="h1 edit-info">
       <div class="h1-title"><h1 class="title-name h1_bold_none"><strong>Momonga &quot;Ainz Ooal Gown, Momon&quot; </strong></h1></div><div class="header-right">
           <a href="https://myanimelist.net/panel.php?go=characters&amp;do=edit&amp;character_id=116281" class="">Edit Character Information</a></div></div></div><div id="content" >
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
-          <td width="225" class="borderClass" style="border-width: 0 1px 0 0;" valign="top"><div style="text-align: center;"><a href="/character/116281/Momonga/pics"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/characters/3/288006.jpg" alt="Momonga "></a></div>
+          <td width="225" class="borderClass" style="border-width: 0 1px 0 0;" valign="top"><div style="text-align: center;"><a href="/character/116281/Momonga/pics"><img class="portrait-225x350 lazyload" data-src="https://cdn.myanimelist.net/images/characters/3/288006.jpg" alt="Momonga "></a></div>
           <div id="profileRows"><div id="v-favorite" data-favorite="{&quot;isFavorite&quot;:false,&quot;type&quot;:&quot;character&quot;,&quot;id&quot;:&quot;116281&quot;}">
   <a href="#" class="js-favorite-button" style="font-weight:normal;" @click.prevent="toggleFavorite()" :disabled="sending">
     <span id="favOutput">
@@ -205,77 +221,77 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <div class="borderClass" :class="isError? 'fn-red1': 'fn-grey5'" v-html="msg"></div>
   </template>
 </div>
-</div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F116281%2FMomonga"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F116281%2FMomonga&amp;text=Momonga%20&amp;hashtags="><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F116281%2FMomonga&amp;title=Momonga%20"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F116281%2FMomonga&amp;name=Momonga%20"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div><br><div class="normal_header">Animeography</div>
+</div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F116281%2FMomonga"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F116281%2FMomonga&amp;text=Momonga%20&amp;hashtags="><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F116281%2FMomonga&amp;title=Momonga%20"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F116281%2FMomonga&amp;name=Momonga%20"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div><br><div class="normal_header">Animeography</div>
 		<table border="0" cellpadding="0" cellspacing="0" width="100%">
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/29803/Overlord"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/7/88019.jpg?s=5a069ff3bdeebefc62a334e9a3a41c18" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/29803/Overlord">Overlord</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:29803">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:29803" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/31138/Overlord__Ple_Ple_Pleiades"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1849/100694.jpg?s=4f35bf722e268c2aa48cfa71b6198af3" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/31138/Overlord__Ple_Ple_Pleiades">Overlord: Ple Ple Pleiades</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:31138">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:31138" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/33372/Overlord__Ple_Ple_Pleiades_-_Nazarick_Saidai_no_Kiki"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/6/80173.jpg?s=49b49aa3a4a14d3a1c2bcb56c829a29a" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/33372/Overlord__Ple_Ple_Pleiades_-_Nazarick_Saidai_no_Kiki">Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:33372">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:33372" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/34161/Overlord_Movie_1__Fushisha_no_Ou"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/12/87759.jpg?s=1f9c69fee6880739dc7ee8a4530a9409" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/34161/Overlord_Movie_1__Fushisha_no_Ou">Overlord Movie 1: Fushisha no Ou</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:34161">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:34161" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/5/87758.jpg?s=bd4a80ad351240fd5c0296aeddf25177" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu">Overlord Movie 2: Shikkoku no Eiyuu</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:34428">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:34428" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/35073/Overlord_II"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1212/113415.jpg?s=f9c86696f5813c05cfe5cafcade80c45" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/35073/Overlord_II">Overlord II</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:35073">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:35073" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/36497/Overlord_Movie__Ple_Ple_Pleiades"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/9/88121.jpg?s=e0d41c10fedcfc0a4b8e91fd3710ebff" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/36497/Overlord_Movie__Ple_Ple_Pleiades">Overlord Movie: Ple Ple Pleiades</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:36497">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:36497" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/37087/Overlord__Ple_Ple_Pleiades_2"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/10/90101.jpg?s=45f69cd5b369503d3194d07d821c3c9a" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/37087/Overlord__Ple_Ple_Pleiades_2">Overlord: Ple Ple Pleiades 2</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:37087">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:37087" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/37675/Overlord_III"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1511/93473.jpg?s=37bf09e2c221aa47e034f8e3a076672d" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/37675/Overlord_III">Overlord III</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:37675">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:37675" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/38472/Isekai_Quartet"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1965/99667.jpg?s=e39be036357e586d28403adf250b830d" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/38472/Isekai_Quartet">Isekai Quartet</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:38472">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:38472" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/39988/Isekai_Quartet_2"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1030/103383.jpg?s=b469e71043d9c1c9da25b971387dd100" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/39988/Isekai_Quartet_2">Isekai Quartet 2</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:39988">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:39988" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/41567/Isekai_Quartet_Movie__Another_World"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1222/122000.jpg?s=0bcd66d4597c9c939e937f60168ab4e4" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/41567/Isekai_Quartet_Movie__Another_World">Isekai Quartet Movie: Another World</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:41567">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:41567" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/48895/Overlord_IV"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1530/120110.jpg?s=1f713747ca9d351553d94acf32c902ba" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/48895/Overlord_IV">Overlord IV</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:48895">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:48895" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
-				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/48896/Overlord_Movie_3__Sei_Oukoku-hen"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1291/115177.jpg?s=d12b90d48b97b554176e316a62c7ae19" border="0"></a></div></td>
+				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/48896/Overlord_Movie_3__Sei_Oukoku-hen"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1271/127174.jpg?s=57503da27bb305fa3a9f84b802000344" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/48896/Overlord_Movie_3__Sei_Oukoku-hen">Overlord Movie 3: Sei Oukoku-hen</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:48896">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:48896" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 		</table>
 		<br />
@@ -284,16 +300,16 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/manga/81667/Overlord"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/manga/3/161407.jpg?s=88c791130b779776693dff85be0cf6ae" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/manga/81667/Overlord">Overlord</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:81667">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:81667" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/manga/81669/Overlord"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/manga/1/160558.jpg?s=bce2f2d8b7ac0be297ee3b6639770872" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/manga/81669/Overlord">Overlord</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:81669">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F116281" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:81669" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 		</table>
 		<br /><br>
-		Member Favorites: 11,523
+		Member Favorites: 12,474
 		</td>
 		<td valign="top" style="padding-left: 5px;"><div style="width:728px; margin:0 auto"></div>
 		<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
@@ -324,12 +340,12 @@ Loyal to his friends and creations, since becoming Lord Ruler of Nazarick in the
 <div class="spoiler"><input type="button" class="button show_button" onClick="this.nextSibling.style.display='inline-block';this.style.display='none';" data-showname="Show spoiler" data-hidename="Hide spoiler" value="Show spoiler"><span class="spoiler_content" style="display:none"><input type="button" class="button hide_button" onClick="this.parentNode.style.display='none';this.parentNode.parentNode.childNodes[0].style.display='inline-block';" value="Hide spoiler"><br>In the New World, he is the Sorcerer King of the Sorcerer Kingdom and the most powerful magic caster in the world. His other identity is famously known as &quot;Momon,&quot; a dark warrior and leader of Darkness, an adamantite ranked adventurer group of that nation. He is an adamantite class adventurer and the strongest adventurer known in E-Rantel. His real name is Satoru Suzuki.</span></div><br />
 (Source: Overlord Wikia)<br /><br /><div style="padding: 20px 40px;display: inline-block;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="country=LU" data-ad-id="99455" data-ad-pid="1362557" data-ad-sid="394613"></div>
+        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="country=PK" data-ad-id="99455" data-ad-pid="1362557" data-ad-sid="394613"></div>
 
       </div>
     </div><div style="padding: 20px 40px 20px 0;display: inline-block;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="country=LU" data-ad-id="99456" data-ad-pid="1362557" data-ad-sid="394613"></div>
+        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="country=PK" data-ad-id="99456" data-ad-pid="1362557" data-ad-sid="394613"></div>
 
       </div>
     </div><div class="normal_header">Voice Actors</div>
@@ -359,7 +375,7 @@ Loyal to his friends and creations, since becoming Lord Ruler of Nazarick in the
 			
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
-				<td class="borderClass" valign="top" width="46"><div class="picSurround"><a href="https://myanimelist.net/people/45750/Charles_Mendiant"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/voiceactors/1/64735.jpg" border="0" width="42"></a></div></td>
+				<td class="borderClass" valign="top" width="46"><div class="picSurround"><a href="https://myanimelist.net/people/45750/Charles_Mendiant"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/voiceactors/1/71537.jpg" border="0" width="42"></a></div></td>
 				<td class="borderClass" valign="top"><a href="https://myanimelist.net/people/45750/Charles_Mendiant">Mendiant, Charles</a>
 				<div style="margin-top: 2px;"><small>French</small></div></td>
 			</tr>
@@ -375,7 +391,7 @@ Loyal to his friends and creations, since becoming Lord Ruler of Nazarick in the
 			
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
-				<td class="borderClass" valign="top" width="46"><div class="picSurround"><a href="https://myanimelist.net/people/57213/Héctor_Mena"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/voiceactors/3/68300.jpg" border="0" width="42"></a></div></td>
+				<td class="borderClass" valign="top" width="46"><div class="picSurround"><a href="https://myanimelist.net/people/57213/Héctor_Mena"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/voiceactors/2/70974.jpg" border="0" width="42"></a></div></td>
 				<td class="borderClass" valign="top"><a href="https://myanimelist.net/people/57213/Héctor_Mena">Mena, Héctor</a>
 				<div style="margin-top: 2px;"><small>Spanish</small></div></td>
 			</tr>
@@ -401,7 +417,7 @@ Loyal to his friends and creations, since becoming Lord Ruler of Nazarick in the
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Shymander">Shymander</a>
           </p><p class="di-tc pv pr8">
-              <b>76,188</b> views
+              <b>78,139</b> views
             </p></div>
       </div>
     </div>
@@ -417,7 +433,7 @@ Loyal to his friends and creations, since becoming Lord Ruler of Nazarick in the
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/Law_Light">Law_Light</a>
           </p><p class="di-tc pv pr8">
-              <b>368,474</b> views
+              <b>370,693</b> views
             </p><div class="tags">
               <div class="tags-inner"><div class="tags-inner-attributes"><span class="tag tag-color-feature-spoiler">Spoiler</span></div><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/analysis" class="tag tag-color-feature-analysis" title="Analysis">Analysis</a><a href="https://myanimelist.net/featured/tag/games" class="tag tag-color-feature-games" title="Games">Games</a><a href="https://myanimelist.net/featured/tag/sao" class="tag tag-color-feature-sao" title="SAO">SAO</a></div>
             </div></div>
@@ -506,19 +522,19 @@ Loyal to his friends and creations, since becoming Lord Ruler of Nazarick in the
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -528,23 +544,23 @@ Loyal to his friends and creations, since becoming Lord Ruler of Nazarick in the
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -562,11 +578,11 @@ Loyal to his friends and creations, since becoming Lord Ruler of Nazarick in the
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -675,7 +691,7 @@ Loyal to his friends and creations, since becoming Lord Ruler of Nazarick in the
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

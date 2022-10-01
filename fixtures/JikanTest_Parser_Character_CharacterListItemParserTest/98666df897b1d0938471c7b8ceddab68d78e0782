@@ -33,15 +33,15 @@ Overlord II - Characters &amp; Staff - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='947816b78d29b80cc704c91adc55dc4d69f0573e'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='de264fd62fa613b17b3435d36d78ad596d590088'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -73,10 +73,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643305"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643305"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -92,7 +94,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
     <script>(deployads = window.deployads || []).pageSegment = 'anime_characters_35073';</script>
 
 
@@ -104,8 +106,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry" onclick="trackOutboundLink('https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry')">
-  <img src="/c/i/images/event/Mini_Banner_20220602_Writing_Contest_2022_Submission_Window_Opens/mini_banner.png" width="250" height="36" alt="Writing Contest 2022" title="Writing Contest 2022">
+  <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce" onclick="trackOutboundLink('https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce')">
+  <img src="/c/i/images/event/Mini_Banner_20220915_FAL_FALL_2022/mini-banner.png" width="250" height="36" alt="FAL FALL 2022" title="FAL FALL 2022">
 </a>
 
 </div>
@@ -188,7 +190,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
       <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Overlord II</strong></h1></div></div><div class="header-right">
           <a href="https://myanimelist.net/login.php?from=%2Fanime%2F35073%2FOverlord_II%2Fcharacters&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa-solid fa-pencil mr4"></i>Edit</a>
 <div id="editdiv" class="fw-n fs11">
@@ -253,7 +269,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <!-- end My List -->
 <div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F35073%2FOverlord_II%2Fcharacters&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
 
-<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F35073%2FOverlord_II"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F35073%2FOverlord_II&amp;text=Overlord%20II&amp;hashtags=anime"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F35073%2FOverlord_II&amp;title=Overlord%20II"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F35073%2FOverlord_II&amp;name=Overlord%20II"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div>  <br />
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F35073%2FOverlord_II"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F35073%2FOverlord_II&amp;text=Overlord%20II&amp;hashtags=anime"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F35073%2FOverlord_II&amp;title=Overlord%20II"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F35073%2FOverlord_II&amp;name=Overlord%20II"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div>  <br />
 
   <h2>Alternative Titles</h2><div class="spaceit_pad">
     <span class="dark_text">Japanese:</span> オーバーロードⅡ
@@ -332,7 +348,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <h2>Statistics</h2>
 <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="spaceit_pad po-r js-statistics-info di-ib" data-id="info1">
   <span class="dark_text">Score:</span>
-  <span itemprop="ratingValue" class="score-label score-7">7.76</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">531220</span>531,220 users)
+  <span itemprop="ratingValue" class="score-label score-7">7.76</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">562062</span>562,062 users)
       <meta itemprop="bestRating" content="10">
     <meta itemprop="worstRating" content="1">
       <div class="statistics-info info1">
@@ -343,7 +359,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #969<sup>2</sup>
+  #960<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -352,15 +368,15 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Popularity:</span>
-  #154
+  #152
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Members:</span>
-    851,171
+    897,422
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Favorites:</span>
-  3,894
+  4,144
 </div>
 
 <br />
@@ -379,14 +395,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
         
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="160" data-koukoku-height="600">
-        <div id="D_160x600_Leftrail" class="ad-sas mauto ac" data-ad-target="anime_id=35073;display=characters;country=LU" data-ad-id="100645" data-ad-pid="1362568" data-ad-sid="394613" data-ad-sticky="sidebar" data-ad-sticky-container="#content"></div>
+        <div id="D_160x600_Leftrail" class="ad-sas mauto ac" data-ad-target="anime_id=35073;display=characters;country=PK" data-ad-id="101363" data-ad-pid="1362568" data-ad-sid="394613" data-ad-sticky="sidebar" data-ad-sticky-container="#content"></div>
 
       </div>
       </div>
 
 </div></td><td valign="top" style="padding-left: 5px;"><div class="rightside js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="728" data-koukoku-height="90">
-        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="anime_id=35073;display=characters;country=LU" data-ad-id="99451" data-ad-pid="1362568" data-ad-sid="394613"></div>
+        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="anime_id=35073;display=characters;country=PK" data-ad-id="99451" data-ad-pid="1362568" data-ad-sid="394613"></div>
 
       </div>
     </div><a name="lower"></a>
@@ -472,7 +488,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_Albedo
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          6724
+          7606
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116275/Albedo"><h3 class="h3_character_name">Albedo</h3></a>
@@ -481,7 +497,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Main&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          6,724 Favorites
+          7,606 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -545,7 +561,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/53382/Thayná_Marciano">
-                    <img alt="Marciano, Thayná" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+                    <img alt="Marciano, Thayná" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/68885.jpg?s=99c00679e17c45a8b386290cf37239ff" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/68885.jpg?s=99c00679e17c45a8b386290cf37239ff 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/68885.jpg?s=3b476dfbfa7f295528da98b0b372a7dc 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -562,6 +578,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/8585/Uschi_Hugo">
                     <img alt="Hugo, Uschi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/33231.jpg?s=2bc1203266d698a42c72e8ae0eeae33a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/33231.jpg?s=2bc1203266d698a42c72e8ae0eeae33a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/33231.jpg?s=9d7842e50b572d6cf25ec2a77c3dd3d7 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/61099/Guadalupe_Macedo_López">Macedo López, Guadalupe</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/61099/Guadalupe_Macedo_López">
+                    <img alt="Macedo López, Guadalupe" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70581.jpg?s=ab68e688c1ad6a8a724a975c3e93c104" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70581.jpg?s=ab68e688c1ad6a8a724a975c3e93c104 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70581.jpg?s=4a4449147bafefe1889f294d7cfad5b3 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -582,7 +614,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           m_Momonga
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          11522
+          12474
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116281/Momonga"><h3 class="h3_character_name">Momonga</h3></a>
@@ -591,7 +623,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Main&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          11,522 Favorites
+          12,474 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -655,7 +687,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/45750/Charles_Mendiant">
-                    <img alt="Mendiant, Charles" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/64735.jpg?s=efc6dc6c9aa974004e1af6f72ae6314a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/64735.jpg?s=efc6dc6c9aa974004e1af6f72ae6314a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/64735.jpg?s=ec267502100bdbefe6e6e6b2cb4f56aa 2x" class="lazyload" />
+                    <img alt="Mendiant, Charles" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71537.jpg?s=3c312a609def4e6f60b788f7e6088ed6" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71537.jpg?s=3c312a609def4e6f60b788f7e6088ed6 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/71537.jpg?s=461726815f3c8bc42a875a33fc6e2900 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -671,7 +703,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/57213/Héctor_Mena">
-                    <img alt="Mena, Héctor" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/68300.jpg?s=494aeca5e1337dff71ae731a2046514d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/68300.jpg?s=494aeca5e1337dff71ae731a2046514d 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/68300.jpg?s=df1e42adacaac4cac31ecd0686589bdb 2x" class="lazyload" />
+                    <img alt="Mena, Héctor" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70974.jpg?s=36b62e15cb54a6e7ef5e6a491981b2b4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70974.jpg?s=36b62e15cb54a6e7ef5e6a491981b2b4 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70974.jpg?s=fd2df769b40e430671aea625096af692 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -708,7 +740,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Aicler, Eclair Acleir
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          22
+          24
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/120503/Eclair_Acleir_Aicler"><h3 class="h3_character_name">Aicler, Eclair Acleir</h3></a>
@@ -717,7 +749,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          22 Favorites
+          24 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -802,7 +834,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Aindra, Lakyus Alvein Dale
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          15
+          17
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/133400/Lakyus_Alvein_Dale_Aindra"><h3 class="h3_character_name">Aindra, Lakyus Alvein Dale</h3></a>
@@ -811,7 +843,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          15 Favorites
+          17 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -879,6 +911,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/60162/Mireya_Jaurez">Jaurez, Mireya</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/60162/Mireya_Jaurez">
+                    <img alt="Jaurez, Mireya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70583.jpg?s=45b8c6d42cb5a9b7a8eabdd37bd0778b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70583.jpg?s=45b8c6d42cb5a9b7a8eabdd37bd0778b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70583.jpg?s=4725957bc6c8a206837858bf2b9441ba 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
@@ -896,7 +944,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Alpha, Yuri
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          49
+          54
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/118351/Yuri_Alpha"><h3 class="h3_character_name">Alpha, Yuri</h3></a>
@@ -905,7 +953,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          49 Favorites
+          54 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -921,7 +969,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/9876/Hiromi_Igarashi">
-                    <img alt="Igarashi, Hiromi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/64084.jpg?s=e9dce50505371b518674f1e24e5652af" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/64084.jpg?s=e9dce50505371b518674f1e24e5652af 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/64084.jpg?s=62a981e3c031c28d6232eac15a3c53e0 2x" class="lazyload" />
+                    <img alt="Igarashi, Hiromi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60165.jpg?s=46de02c10cffec36a49c56a76e095158" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/60165.jpg?s=46de02c10cffec36a49c56a76e095158 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/60165.jpg?s=9b5ac480da2ed53b15ef2ab5a9c2e645 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -973,6 +1021,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/60162/Mireya_Jaurez">Jaurez, Mireya</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/60162/Mireya_Jaurez">
+                    <img alt="Jaurez, Mireya" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70583.jpg?s=45b8c6d42cb5a9b7a8eabdd37bd0778b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70583.jpg?s=45b8c6d42cb5a9b7a8eabdd37bd0778b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70583.jpg?s=4725957bc6c8a206837858bf2b9441ba 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
@@ -990,7 +1054,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Beta, Lupusregina
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          302
+          343
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/118353/Lupusregina_Beta"><h3 class="h3_character_name">Beta, Lupusregina</h3></a>
@@ -999,7 +1063,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          302 Favorites
+          343 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -1067,6 +1131,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59289/Monserrat_Pérez">Pérez, Monserrat</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59289/Monserrat_Pérez">
+                    <img alt="Pérez, Monserrat" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/70975.jpg?s=d8748688e135c86ed6724c5375f29698" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/70975.jpg?s=d8748688e135c86ed6724c5375f29698 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/70975.jpg?s=9491a9e771b19207ef3ad2e0b6b01c43 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
@@ -1084,7 +1164,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Bloodfallen, Shalltear
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          1997
+          2236
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116319/Shalltear_Bloodfallen"><h3 class="h3_character_name">Bloodfallen, Shalltear</h3></a>
@@ -1093,7 +1173,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          1,997 Favorites
+          2,236 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -1157,7 +1237,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/56268/Clara_Soares">
-                    <img alt="Soares, Clara" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/66884.jpg?s=f2f389eb5ed1a1cfac4fd52c0606f173" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/66884.jpg?s=f2f389eb5ed1a1cfac4fd52c0606f173 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/66884.jpg?s=14f70e176e7f6d5281ac187bcf62fb4f 2x" class="lazyload" />
+                    <img alt="Soares, Clara" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71387.jpg?s=579c515e52660544264247968f29fc41" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71387.jpg?s=579c515e52660544264247968f29fc41 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/71387.jpg?s=fbfd2c694d320b8634537add4da38bd6 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -1236,6 +1316,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/38428/Dawn_M_Bennett">
                     <img alt="Bennett, Dawn M." width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/43957.jpg?s=09918392e6942711f21a261b48c7c3f5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/43957.jpg?s=09918392e6942711f21a261b48c7c3f5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/43957.jpg?s=a602c75a44a10e1d4bb5bb5a0d1c6ad1 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/55767/Ana_Paula_Cadamuro">Cadamuro, Ana Paula</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Portuguese (BR)
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/55767/Ana_Paula_Cadamuro">
+                    <img alt="Cadamuro, Ana Paula" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/69297.jpg?s=48967ede3ed319905748d24d9b17ea0d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/69297.jpg?s=48967ede3ed319905748d24d9b17ea0d 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/69297.jpg?s=34eea54d304f40bb8acef6615e40ce93 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -1334,7 +1430,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Climb
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          5
+          8
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/133398/Climb"><h3 class="h3_character_name">Climb</h3></a>
@@ -1343,7 +1439,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          5 Favorites
+          8 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -1375,7 +1471,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/55025/Victor_Niverd">
-                    <img alt="Niverd, Victor" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/65006.jpg?s=f6f52a8dd445c109aa178aa65206621a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/65006.jpg?s=f6f52a8dd445c109aa178aa65206621a 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/65006.jpg?s=f146f22c8a968b85ad58570090211b6c 2x" class="lazyload" />
+                    <img alt="Niverd, Victor" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70756.jpg?s=47f710bb9516f3e5db542cd44e3416fc" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70756.jpg?s=47f710bb9516f3e5db542cd44e3416fc 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70756.jpg?s=1bf8586c420508d06703861ac0cbb64a 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -1392,6 +1488,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/43857/Lucas_Almeida">
                     <img alt="Almeida, Lucas" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/62366.jpg?s=50601b5ddf73733251e4924622817d46" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/62366.jpg?s=50601b5ddf73733251e4924622817d46 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/62366.jpg?s=1822bf5d44f7de983241b31bd73f88f1 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/60756/Comona_Lewin">Lewin, Comona</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  English
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/60756/Comona_Lewin">
+                    <img alt="Lewin, Comona" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/71195.jpg?s=40b1c98eb52bd4454c4f4ea902dbf169" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/71195.jpg?s=40b1c98eb52bd4454c4f4ea902dbf169 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/71195.jpg?s=3253a90426be3c3b7e91a1f13771aee9 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -1469,7 +1581,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/26349/Jean-Pierre_Leblan">
-                    <img alt="Leblan, Jean-Pierre" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/64842.jpg?s=7be4c31241278ce34f61a6cf4eeadbf7" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/64842.jpg?s=7be4c31241278ce34f61a6cf4eeadbf7 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/64842.jpg?s=f6cd488276138acdb70126ce3ea87255 2x" class="lazyload" />
+                    <img alt="Leblan, Jean-Pierre" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/69903.jpg?s=8e1e393b8ad5e286c91676469ebe9260" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/69903.jpg?s=8e1e393b8ad5e286c91676469ebe9260 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/69903.jpg?s=792d2eb2041491a9f25d5061a818f1e7 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -1490,7 +1602,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Cocytus
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          148
+          183
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116321/Cocytus"><h3 class="h3_character_name">Cocytus</h3></a>
@@ -1499,7 +1611,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          148 Favorites
+          183 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -1600,7 +1712,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Cygnaeus, Hilma
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          1
+          2
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/159251/Hilma_Cygnaeus"><h3 class="h3_character_name">Cygnaeus, Hilma</h3></a>
@@ -1609,7 +1721,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          1 Favorites
+          2 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -1626,6 +1738,38 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/13551/Toa_Yukinari">
                     <img alt="Yukinari, Toa" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/50409.jpg?s=64fd1ec7f4b628a2c2d27ef7f14711a2" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/50409.jpg?s=64fd1ec7f4b628a2c2d27ef7f14711a2 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/50409.jpg?s=3dd9323bf67a5197fe6817d10c272b95 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/55846/Luciana_Barbosa">Barbosa, Luciana</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Portuguese (BR)
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/55846/Luciana_Barbosa">
+                    <img alt="Barbosa, Luciana" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/60889/Jo_Lorio">Lorio, Jo</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  English
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/60889/Jo_Lorio">
+                    <img alt="Lorio, Jo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71377.jpg?s=1a8699b1ba0e733bdd625780d1b8dd2d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71377.jpg?s=1a8699b1ba0e733bdd625780d1b8dd2d 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/71377.jpg?s=19f6ace04439269dd9a5c9e3133cb25b 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -1646,7 +1790,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_CZ2128 Delta
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          279
+          298
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/118349/CZ2128_Delta"><h3 class="h3_character_name">CZ2128 Delta</h3></a>
@@ -1655,7 +1799,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          279 Favorites
+          298 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -1704,6 +1848,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/57033/Duda_Meneghetti">
                     <img alt="Meneghetti, Duda" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59464/Dayana_Santiaguillo">Santiaguillo, Dayana</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59464/Dayana_Santiaguillo">
+                    <img alt="Santiaguillo, Dayana" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/71522.jpg?s=9f02fd1ada4f34a305cafed25bce6aad" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/71522.jpg?s=9f02fd1ada4f34a305cafed25bce6aad 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/71522.jpg?s=1e31d551444fe7f91cc8ad8eafddf0ce 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -1786,7 +1946,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Demiurge
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          987
+          1126
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116323/Demiurge"><h3 class="h3_character_name">Demiurge</h3></a>
@@ -1795,7 +1955,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          987 Favorites
+          1,126 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -1860,6 +2020,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/55749/André_Schmidt">
                     <img alt="Schmidt, André" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/61100/César_Echeverría_Casellas">Echeverría Casellas, César</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/61100/César_Echeverría_Casellas">
+                    <img alt="Echeverría Casellas, César" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70582.jpg?s=acdb29c93c0581f53cfe10aa78b702e7" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70582.jpg?s=acdb29c93c0581f53cfe10aa78b702e7 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/70582.jpg?s=3846b2630c0d2cbaed45b4a8aeade8ca 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -1937,7 +2113,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/25817/Caroline_Combes">
-                    <img alt="Combes, Caroline" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65680.jpg?s=5fe0284658335f9b29d7d887d34e5cc8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65680.jpg?s=5fe0284658335f9b29d7d887d34e5cc8 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/65680.jpg?s=1c6618298dbf72300951ed3467938bc3 2x" class="lazyload" />
+                    <img alt="Combes, Caroline" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/69933.jpg?s=07dd38375d3fc162ca8bbd3215e8ef8c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/69933.jpg?s=07dd38375d3fc162ca8bbd3215e8ef8c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/69933.jpg?s=e54a70c65ebf45fbc933924cdb7547e0 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -1958,7 +2134,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Epsilon, Solution
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          71
+          73
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/118355/Solution_Epsilon"><h3 class="h3_character_name">Epsilon, Solution</h3></a>
@@ -1967,7 +2143,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          71 Favorites
+          73 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -2019,6 +2195,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59319/Yanelly_Sandoval">Sandoval, Yanelly</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59319/Yanelly_Sandoval">
+                    <img alt="Sandoval, Yanelly" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/70127.jpg?s=8362b084053b79f6798aeee2063d4b0e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/70127.jpg?s=8362b084053b79f6798aeee2063d4b0e 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/70127.jpg?s=0ec3eddf98a2deecc3ac34ea29de8c7c 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
@@ -2036,7 +2228,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Evileye
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          295
+          315
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/132931/Evileye"><h3 class="h3_character_name">Evileye</h3></a>
@@ -2045,7 +2237,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          295 Favorites
+          315 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -2109,7 +2301,39 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/25817/Caroline_Combes">
-                    <img alt="Combes, Caroline" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65680.jpg?s=5fe0284658335f9b29d7d887d34e5cc8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65680.jpg?s=5fe0284658335f9b29d7d887d34e5cc8 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/65680.jpg?s=1c6618298dbf72300951ed3467938bc3 2x" class="lazyload" />
+                    <img alt="Combes, Caroline" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/69933.jpg?s=07dd38375d3fc162ca8bbd3215e8ef8c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/69933.jpg?s=07dd38375d3fc162ca8bbd3215e8ef8c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/69933.jpg?s=e54a70c65ebf45fbc933924cdb7547e0 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/44372/Mayke_Dähn">Dähn, Mayke</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  German
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/44372/Mayke_Dähn">
+                    <img alt="Dähn, Mayke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/47850.jpg?s=bf12fd0b1e55e7977c8a3648cf2ed2d3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/47850.jpg?s=bf12fd0b1e55e7977c8a3648cf2ed2d3 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/47850.jpg?s=c5c6b3ee10a1e67c7b306e19b0e2b4ab 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59420/Gabriela_Pérez">Pérez, Gabriela</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59420/Gabriela_Pérez">
+                    <img alt="Pérez, Gabriela" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70837.jpg?s=2fa3895d3857f8205534a457a5940f3c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70837.jpg?s=2fa3895d3857f8205534a457a5940f3c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/70837.jpg?s=dec7eeb2cc92a1a7fa0ac17f037ad4ab 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -2130,7 +2354,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Fiora, Aura Bella
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          157
+          197
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116311/Aura_Bella_Fiora"><h3 class="h3_character_name">Fiora, Aura Bella</h3></a>
@@ -2139,7 +2363,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          157 Favorites
+          197 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -2203,7 +2427,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/7669/Adeline_Chetail">
-                    <img alt="Chetail, Adeline" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/69569.jpg?s=0aa8b77beb5e90613b3d9f6b0b3545d0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/69569.jpg?s=0aa8b77beb5e90613b3d9f6b0b3545d0 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/69569.jpg?s=c5f62a3d12a802ea73229cd4e228916f 2x" class="lazyload" />
+                    <img alt="Chetail, Adeline" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70187.jpg?s=fce40cd003df83e136ea8954b8d16feb" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70187.jpg?s=fce40cd003df83e136ea8954b8d16feb 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70187.jpg?s=f500b7ad2f3ae948ec0f4e793af04227 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/60998/Maria_García_Hernández">García Hernández, Maria</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/60998/Maria_García_Hernández">
+                    <img alt="García Hernández, Maria" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/71008.jpg?s=c2afa223d088bb65bc5a01bd692602f4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/71008.jpg?s=c2afa223d088bb65bc5a01bd692602f4 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/71008.jpg?s=9d4085fc68c5fff3ef557973d61cb84e 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -2224,7 +2464,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Fiore, Mare Bello
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          176
+          211
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116313/Mare_Bello_Fiore"><h3 class="h3_character_name">Fiore, Mare Bello</h3></a>
@@ -2233,7 +2473,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          176 Favorites
+          211 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -2297,7 +2537,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/56268/Clara_Soares">
-                    <img alt="Soares, Clara" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/66884.jpg?s=f2f389eb5ed1a1cfac4fd52c0606f173" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/66884.jpg?s=f2f389eb5ed1a1cfac4fd52c0606f173 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/66884.jpg?s=14f70e176e7f6d5281ac187bcf62fb4f 2x" class="lazyload" />
+                    <img alt="Soares, Clara" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71387.jpg?s=579c515e52660544264247968f29fc41" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71387.jpg?s=579c515e52660544264247968f29fc41 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/71387.jpg?s=fbfd2c694d320b8634537add4da38bd6 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -2334,7 +2574,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
-                  <a href="https://myanimelist.net/people/294/Kimiko_Saito">Saito, Kimiko</a>
+                  <a href="https://myanimelist.net/people/294/Kimiko_Saitou">Saitou, Kimiko</a>
                 </div>
                 <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
                   Japanese
@@ -2342,8 +2582,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               </td>
               <td valign="top">
                 <div class="picSurround">
-                  <a href="https://myanimelist.net/people/294/Kimiko_Saito">
-                    <img alt="Saito, Kimiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/33903.jpg?s=137e0ebd1dcb6a7794a396c40d5d1a00" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/33903.jpg?s=137e0ebd1dcb6a7794a396c40d5d1a00 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/33903.jpg?s=157e6b30c38ccf665e3591ab0212cf87 2x" class="lazyload" />
+                  <a href="https://myanimelist.net/people/294/Kimiko_Saitou">
+                    <img alt="Saitou, Kimiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/33903.jpg?s=137e0ebd1dcb6a7794a396c40d5d1a00" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/33903.jpg?s=137e0ebd1dcb6a7794a396c40d5d1a00 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/33903.jpg?s=157e6b30c38ccf665e3591ab0212cf87 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -2412,7 +2652,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Gamma, Narberal
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          1161
+          1267
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/117747/Narberal_Gamma"><h3 class="h3_character_name">Gamma, Narberal</h3></a>
@@ -2421,7 +2661,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          1,161 Favorites
+          1,267 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -2616,7 +2856,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Hamusuke
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          92
+          105
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/128570/Hamusuke"><h3 class="h3_character_name">Hamusuke</h3></a>
@@ -2625,7 +2865,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          92 Favorites
+          105 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -2767,7 +3007,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/26387/Marc_Bretonnière">
-                    <img alt="Bretonnière, Marc" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/66787.jpg?s=594504a05131530a303cab4d129a6e40" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/66787.jpg?s=594504a05131530a303cab4d129a6e40 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/66787.jpg?s=64fb544aaec117ab0b3506c521e1d4d0 2x" class="lazyload" />
+                    <img alt="Bretonnière, Marc" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71268.jpg?s=405c21fe4d7ae302eab353f32540dbda" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71268.jpg?s=405c21fe4d7ae302eab353f32540dbda 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/71268.jpg?s=ce5223833bbcb8a3df750c26b0143826 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -3021,6 +3261,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59312/Ana_Karen_Hernández">Hernández, Ana Karen</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59312/Ana_Karen_Hernández">
+                    <img alt="Hernández, Ana Karen" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70142.jpg?s=ba5d1abb2019e12a665e4672f734cdb3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70142.jpg?s=ba5d1abb2019e12a665e4672f734cdb3 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/70142.jpg?s=b15ee6dfb2c80ddb1d51f9d16b34430b 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
@@ -3063,7 +3319,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/29347/Hiromichi_Tezuka">
-                    <img alt="Tezuka, Hiromichi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54412.jpg?s=56a3aface4728b489b0acca6fb7c5b81" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/54412.jpg?s=56a3aface4728b489b0acca6fb7c5b81 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/54412.jpg?s=c15cffa3323af9ee08da8ee347b99850 2x" class="lazyload" />
+                    <img alt="Tezuka, Hiromichi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71350.jpg?s=28be5ac3b94195f814cd23d5d8b36789" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71350.jpg?s=28be5ac3b94195f814cd23d5d8b36789 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/71350.jpg?s=d60fa523fdcff074eaa85bb06225f635 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -3198,17 +3454,63 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <tr>
       <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
-          <a href="https://myanimelist.net/character/116293/Peroroncino" class="fw-n">
-            <img alt="Peroroncino" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/288004.jpg?s=6ee38c4a0cfd507d8bcb6a86a034ca7d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/288004.jpg?s=6ee38c4a0cfd507d8bcb6a86a034ca7d 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/288004.jpg?s=28f8a5091df38825fc544bcb7652ac24 2x" class="lazyload" />
+          <a href="https://myanimelist.net/character/132818/Pandoras_Actor" class="fw-n">
+            <img alt="Pandora&#039;s Actor" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/7/482199.jpg?s=e735b5a02168549b5cedad54d32ccdaf" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/7/482199.jpg?s=e735b5a02168549b5cedad54d32ccdaf 1x, https://cdn.myanimelist.net/r/84x124/images/characters/7/482199.jpg?s=659fa8f100b17329e7ded13da0550d55 2x" class="lazyload" />
           </a>
         </div>
       </td>
       <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
+          s_Pandora&#039;s Actor
+        </div>
+        <div class="js-anime-character-favorites" style="display:none;">
+          538
+        </div>
+        <div class="spaceit_pad">
+          <a href="https://myanimelist.net/character/132818/Pandoras_Actor"><h3 class="h3_character_name">Pandora&#039;s Actor</h3></a>
+        </div>
+        <div class="spaceit_pad">
+          Supporting&nbsp;
+        </div>
+        <div class="spaceit_pad" style="color: #787878;">
+          538 Favorites
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass bgColor2">
+                <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/65/Mamoru_Miyano">Miyano, Mamoru</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Japanese
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/65/Mamoru_Miyano">
+                    <img alt="Miyano, Mamoru" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/66414.jpg?s=8880db148c2eb5fffd3724f381eec784" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/66414.jpg?s=8880db148c2eb5fffd3724f381eec784 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/66414.jpg?s=e281af5f0d003697122cdbae88344606 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/116293/Peroroncino" class="fw-n">
+            <img alt="Peroroncino" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/288004.jpg?s=6ee38c4a0cfd507d8bcb6a86a034ca7d" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/288004.jpg?s=6ee38c4a0cfd507d8bcb6a86a034ca7d 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/288004.jpg?s=28f8a5091df38825fc544bcb7652ac24 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <div class="js-chara-roll-and-name" style="display:none">
           s_Peroroncino
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          4
+          5
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116293/Peroroncino"><h3 class="h3_character_name">Peroroncino</h3></a>
@@ -3217,10 +3519,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          4 Favorites
+          5 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor2">
+      <td align="right" valign="top" class="borderClass bgColor1">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -3233,7 +3535,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/792/Shinnosuke_Tachibana">
-                    <img alt="Tachibana, Shinnosuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/24301.jpg?s=4b5c3deeaceb769defe6c87d98d9b384" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/24301.jpg?s=4b5c3deeaceb769defe6c87d98d9b384 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/24301.jpg?s=53f6fad04e8fa16c94424f8608a54eab 2x" class="lazyload" />
+                    <img alt="Tachibana, Shinnosuke" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70088.jpg?s=e90337c8ee4c4c33da428c11cf6b4026" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70088.jpg?s=e90337c8ee4c4c33da428c11cf6b4026 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70088.jpg?s=d1ac24fa123d86f92b7ffdcb28bd44db 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59311/Erick_Padilla">Padilla, Erick</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59311/Erick_Padilla">
+                    <img alt="Padilla, Erick" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70121.jpg?s=8a6207045b526654d2313156b0b0ec23" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70121.jpg?s=8a6207045b526654d2313156b0b0ec23 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70121.jpg?s=c3c59259e7407294ccff589a870688f6 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -3242,14 +3560,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/159742/Peshurian" class="fw-n">
             <img alt="Peshurian" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/352527.jpg?s=c11efe7cf8ab620d0e25b0b964f5b713" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/352527.jpg?s=c11efe7cf8ab620d0e25b0b964f5b713 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/352527.jpg?s=6fa93edf5e18eacfeb5e4155cf6d0b2e 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor1">
+      <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Peshurian
         </div>
@@ -3266,7 +3584,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           0 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor1">
+      <td align="right" valign="top" class="borderClass bgColor2">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -3299,24 +3617,40 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/44012/Rodrigo_Nanal">Nanal, Rodrigo</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Portuguese (BR)
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/44012/Rodrigo_Nanal">
+                    <img alt="Nanal, Rodrigo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/63348.jpg?s=e09fe07f0ff06a7cb21f079d4573b9ad" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/63348.jpg?s=e09fe07f0ff06a7cb21f079d4573b9ad 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/63348.jpg?s=1cf1f07a3d07774f68cd154154a4b7a9 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor2">
+      <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/158293/Pestonya_Shortcake_Wanko" class="fw-n">
             <img alt="Pestonya Shortcake Wanko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/370004.jpg?s=f5046d24b61e2977575683e0ed54eee8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/5/370004.jpg?s=f5046d24b61e2977575683e0ed54eee8 1x, https://cdn.myanimelist.net/r/84x124/images/characters/5/370004.jpg?s=5f11e002c542e7ba2139fe5e468bee3d 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Pestonya Shortcake Wanko
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          3
+          4
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/158293/Pestonya_Shortcake_Wanko"><h3 class="h3_character_name">Pestonya Shortcake Wanko</h3></a>
@@ -3325,10 +3659,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          3 Favorites
+          4 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor2">
+      <td align="right" valign="top" class="borderClass bgColor1">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -3377,24 +3711,40 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59464/Dayana_Santiaguillo">Santiaguillo, Dayana</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59464/Dayana_Santiaguillo">
+                    <img alt="Santiaguillo, Dayana" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/71522.jpg?s=9f02fd1ada4f34a305cafed25bce6aad" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/71522.jpg?s=9f02fd1ada4f34a305cafed25bce6aad 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/71522.jpg?s=1e31d551444fe7f91cc8ad8eafddf0ce 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/132829/Elias_Brandt_Dale_Raeven" class="fw-n">
             <img alt="Raeven, Elias Brandt Dale" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/15/290354.jpg?s=58f336752ecb42c91284e9b9610070d0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/15/290354.jpg?s=58f336752ecb42c91284e9b9610070d0 1x, https://cdn.myanimelist.net/r/84x124/images/characters/15/290354.jpg?s=ea8d360e1078617903965930a46614c1 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor1">
+      <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Raeven, Elias Brandt Dale
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          1
+          2
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/132829/Elias_Brandt_Dale_Raeven"><h3 class="h3_character_name">Raeven, Elias Brandt Dale</h3></a>
@@ -3403,10 +3753,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          1 Favorites
+          2 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor1">
+      <td align="right" valign="top" class="borderClass bgColor2">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -3476,19 +3826,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor2">
+      <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/132819/Rororo" class="fw-n">
             <img alt="Rororo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/290347.jpg?s=43f8908aedd05c4a52021606a969ae65" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/290347.jpg?s=43f8908aedd05c4a52021606a969ae65 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/290347.jpg?s=e2da59a30655ac2738f1d0cd9112aad8 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Rororo
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          0
+          1
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/132819/Rororo"><h3 class="h3_character_name">Rororo</h3></a>
@@ -3497,28 +3847,28 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          0 Favorites
+          1 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor2">
+      <td align="right" valign="top" class="borderClass bgColor1">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"></table>
               </td>
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/162917/Jircniv_Rune_Farlord_El_Nix" class="fw-n">
             <img alt="Rune Farlord El Nix, Jircniv" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/15/361831.jpg?s=11e0c9e347a3a72537b2aadba3326508" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/15/361831.jpg?s=11e0c9e347a3a72537b2aadba3326508 1x, https://cdn.myanimelist.net/r/84x124/images/characters/15/361831.jpg?s=fbc39dc3ea4c1b8d5ea7e6a5fee166c4 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor1">
+      <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Rune Farlord El Nix, Jircniv
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          18
+          31
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/162917/Jircniv_Rune_Farlord_El_Nix"><h3 class="h3_character_name">Rune Farlord El Nix, Jircniv</h3></a>
@@ -3527,10 +3877,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          18 Favorites
+          31 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor1">
+      <td align="right" valign="top" class="borderClass bgColor2">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -3591,7 +3941,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/26639/Grégory_Laisné">
-                    <img alt="Laisné, Grégory" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/65120.jpg?s=047975fb5cc753b0101ad1a114e3af74" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/65120.jpg?s=047975fb5cc753b0101ad1a114e3af74 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/65120.jpg?s=fb8860df90b2dc14f1b8f81260dceb03 2x" class="lazyload" />
+                    <img alt="Laisné, Grégory" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71727.jpg?s=a6c47df6d2149d1d084deffbc88ae981" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71727.jpg?s=a6c47df6d2149d1d084deffbc88ae981 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/71727.jpg?s=29c700429c7cdabaf7ffd841aad0c4d2 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -3600,19 +3950,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor2">
+      <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/116279/Sebas_Tian" class="fw-n">
             <img alt="Sebas Tian" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/326139.jpg?s=73650790329b3bfc1cdf34716326491a" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/14/326139.jpg?s=73650790329b3bfc1cdf34716326491a 1x, https://cdn.myanimelist.net/r/84x124/images/characters/14/326139.jpg?s=e719292381e719a23668b32aa4f098e7 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Sebas Tian
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          995
+          1086
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116279/Sebas_Tian"><h3 class="h3_character_name">Sebas Tian</h3></a>
@@ -3621,10 +3971,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          995 Favorites
+          1,086 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor2">
+      <td align="right" valign="top" class="borderClass bgColor1">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -3689,19 +4039,35 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59318/Víctor_Covarrubias">Covarrubias, Víctor</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59318/Víctor_Covarrubias">
+                    <img alt="Covarrubias, Víctor" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70162.jpg?s=feb1e7ccb47bbcd63bd82b86e5e44ca5" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70162.jpg?s=feb1e7ccb47bbcd63bd82b86e5e44ca5 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70162.jpg?s=63589fab81b0052607e3404100aadb25 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/132823/Shasuryu_Shasha" class="fw-n">
             <img alt="Shasha, Shasuryu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/352533.jpg?s=6e29838aeefe7004bbc082e070749ed6" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/8/352533.jpg?s=6e29838aeefe7004bbc082e070749ed6 1x, https://cdn.myanimelist.net/r/84x124/images/characters/8/352533.jpg?s=c1d97e71191210a82c3eb7b04d0be904 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor1">
+      <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Shasha, Shasuryu
         </div>
@@ -3718,7 +4084,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           3 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor1">
+      <td align="right" valign="top" class="borderClass bgColor2">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -3795,7 +4161,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/57216/Óscar_Gómez">
-                    <img alt="Gómez, Óscar" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/68303.jpg?s=26fbf1fc08370962420b6eaa435f8175" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/68303.jpg?s=26fbf1fc08370962420b6eaa435f8175 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/68303.jpg?s=d56a3ee9bebc0fcf67f35dc0ee5d58fc 2x" class="lazyload" />
+                    <img alt="Gómez, Óscar" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/70981.jpg?s=d0a680f28cca0168216ebc284de725d9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/70981.jpg?s=d0a680f28cca0168216ebc284de725d9 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/70981.jpg?s=e55b66a79fbfae9e7f7d0720e6fc6d93 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -3804,14 +4170,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor2">
+      <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/132824/Zaryusu_Shasha" class="fw-n">
             <img alt="Shasha, Zaryusu" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/290350.jpg?s=a711436becd6df23e060886a7ad7cb9c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/290350.jpg?s=a711436becd6df23e060886a7ad7cb9c 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/290350.jpg?s=6a8f7e0580fa92916af51b3179355acb 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Shasha, Zaryusu
         </div>
@@ -3828,7 +4194,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           13 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor2">
+      <td align="right" valign="top" class="borderClass bgColor1">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -3841,7 +4207,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/236/Hiroki_Touchi">
-                    <img alt="Touchi, Hiroki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56738.jpg?s=97820cef0cc09d0f061bd98e1dfc9806" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/56738.jpg?s=97820cef0cc09d0f061bd98e1dfc9806 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/56738.jpg?s=cf08c220db0a5d4feb73552b0ffa88e9 2x" class="lazyload" />
+                    <img alt="Touchi, Hiroki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71277.jpg?s=0d22a4ab9540aedefc5277d0a980e4a4" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71277.jpg?s=0d22a4ab9540aedefc5277d0a980e4a4 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/71277.jpg?s=68bafa517240b5faa8f4f291f04d8d93 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -3873,7 +4239,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/55400/Maxime_Hoareau">
-                    <img alt="Hoareau, Maxime" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65268.jpg?s=fbb553ee829f050906266f5defd846ed" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65268.jpg?s=fbb553ee829f050906266f5defd846ed 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/65268.jpg?s=73945ad2b6ba2ccc64af63967d9f51cb 2x" class="lazyload" />
+                    <img alt="Hoareau, Maxime" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71136.jpg?s=5fa873b7057fc91928dafbbf0f0b90e8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71136.jpg?s=5fa873b7057fc91928dafbbf0f0b90e8 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/71136.jpg?s=200fa9e7d5e4b35e829d2616319cd5cb 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -3889,7 +4255,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/52957/Bernardo_Berro">
-                    <img alt="Berro, Bernardo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+                    <img alt="Berro, Bernardo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/62593.jpg?s=233b2eb08a0d07d82a09ec9468be0ed0" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/62593.jpg?s=233b2eb08a0d07d82a09ec9468be0ed0 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/62593.jpg?s=38002af2fdb1652a78cfa6091cf28b63 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -3898,14 +4264,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/164134/Sous-chef" class="fw-n">
             <img alt="Sous-chef" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/362606.jpg?s=d52cc0d8d728de0965746173991bc489" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/362606.jpg?s=d52cc0d8d728de0965746173991bc489 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/362606.jpg?s=31d8489e37e3d474ab2d37c619ef0d31 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor1">
+      <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Sous-chef
         </div>
@@ -3922,7 +4288,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           0 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor1">
+      <td align="right" valign="top" class="borderClass bgColor2">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -3967,7 +4333,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/26349/Jean-Pierre_Leblan">
-                    <img alt="Leblan, Jean-Pierre" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/64842.jpg?s=7be4c31241278ce34f61a6cf4eeadbf7" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/64842.jpg?s=7be4c31241278ce34f61a6cf4eeadbf7 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/64842.jpg?s=f6cd488276138acdb70126ce3ea87255 2x" class="lazyload" />
+                    <img alt="Leblan, Jean-Pierre" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/69903.jpg?s=8e1e393b8ad5e286c91676469ebe9260" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/69903.jpg?s=8e1e393b8ad5e286c91676469ebe9260 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/69903.jpg?s=792d2eb2041491a9f25d5061a818f1e7 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -3976,19 +4342,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor2">
+      <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/116317/Gazef_Stronoff" class="fw-n">
             <img alt="Stronoff, Gazef" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/340936.jpg?s=a6c6b3ab497eecaea7ae643ea9d64899" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/340936.jpg?s=a6c6b3ab497eecaea7ae643ea9d64899 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/340936.jpg?s=bedf203a0f1d4928127f6bf5c4e1583b 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Stronoff, Gazef
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          31
+          40
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116317/Gazef_Stronoff"><h3 class="h3_character_name">Stronoff, Gazef</h3></a>
@@ -3997,10 +4363,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          31 Favorites
+          40 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor2">
+      <td align="right" valign="top" class="borderClass bgColor1">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -4086,14 +4452,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/159429/Succulent" class="fw-n">
             <img alt="Succulent" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/352529.jpg?s=d69b579a49e830b9935f3ff362956e0e" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/352529.jpg?s=d69b579a49e830b9935f3ff362956e0e 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/352529.jpg?s=e9655429b5ab9708b727470e6937b2ea 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor1">
+      <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Succulent
         </div>
@@ -4110,7 +4476,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           0 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor1">
+      <td align="right" valign="top" class="borderClass bgColor2">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -4164,14 +4530,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor2">
+      <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/159248/Tia" class="fw-n">
-            <img alt="Tia" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/4/352535.jpg?s=8bb70925feffacce71995991c123ad40" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/4/352535.jpg?s=8bb70925feffacce71995991c123ad40 1x, https://cdn.myanimelist.net/r/84x124/images/characters/4/352535.jpg?s=55ff1585098e74b771c60af7014746e1 2x" class="lazyload" />
+            <img alt="Tia" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/488518.jpg?s=9ea5f419387326e9f77224d3ac25f301" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/2/488518.jpg?s=9ea5f419387326e9f77224d3ac25f301 1x, https://cdn.myanimelist.net/r/84x124/images/characters/2/488518.jpg?s=c951b766b458788700c7ed07ecd052cf 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Tia
         </div>
@@ -4188,7 +4554,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           1 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor2">
+      <td align="right" valign="top" class="borderClass bgColor1">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -4217,7 +4583,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/48067/Ariel_Graham">
-                    <img alt="Graham, Ariel" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+                    <img alt="Graham, Ariel" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71064.jpg?s=07f693f0a519955232e0e81ef0ccb388" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71064.jpg?s=07f693f0a519955232e0e81ef0ccb388 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/71064.jpg?s=b3ac169912dc1dfb696a6943accd16cc 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -4249,7 +4615,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/57450/Nadia_Lujambio">
-                    <img alt="Lujambio, Nadia" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/68804.jpg?s=6ade2c6f4fd1f84712f86cfe48c62946" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/68804.jpg?s=6ade2c6f4fd1f84712f86cfe48c62946 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/68804.jpg?s=c224dc16efb276fc844ae919c592a8f8 2x" class="lazyload" />
+                    <img alt="Lujambio, Nadia" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70839.jpg?s=ceac2200023392cfa45a5fedbb3469b3" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70839.jpg?s=ceac2200023392cfa45a5fedbb3469b3 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70839.jpg?s=694b62c937fc22b0232102cfedd1a76e 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -4258,14 +4624,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/159249/Tina" class="fw-n">
             <img alt="Tina" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/352534.jpg?s=0410c8939f95e2ad1b5e0b34d66f18d7" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/11/352534.jpg?s=0410c8939f95e2ad1b5e0b34d66f18d7 1x, https://cdn.myanimelist.net/r/84x124/images/characters/11/352534.jpg?s=8e0a5fbb77ca1ff87300660e113310ab 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor1">
+      <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Tina
         </div>
@@ -4282,7 +4648,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           0 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor1">
+      <td align="right" valign="top" class="borderClass bgColor2">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -4336,19 +4702,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor2">
+      <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/116285/Touch_Me" class="fw-n">
             <img alt="Touch Me" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/282210.jpg?s=74c85fcd918f3c8fc8832af036a2986b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/282210.jpg?s=74c85fcd918f3c8fc8832af036a2986b 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/282210.jpg?s=d180a8aefc6ead10336c93cb1a34563f 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Touch Me
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          31
+          36
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116285/Touch_Me"><h3 class="h3_character_name">Touch Me</h3></a>
@@ -4357,10 +4723,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          31 Favorites
+          36 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor2">
+      <td align="right" valign="top" class="borderClass bgColor1">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -4409,24 +4775,40 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/55766/Fernando_Peiter">Peiter, Fernando</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Portuguese (BR)
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/55766/Fernando_Peiter">
+                    <img alt="Peiter, Fernando" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/66234.jpg?s=7e660d9630f2d142c4a0560daff07832" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/66234.jpg?s=7e660d9630f2d142c4a0560daff07832 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/66234.jpg?s=b361a134d534c2b040576dd1c9a3f7e4 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/118347/Brain_Unglaus" class="fw-n">
             <img alt="Unglaus, Brain" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/9/341019.jpg?s=63fe448e4b2a24c149c9afa165614a6f" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/9/341019.jpg?s=63fe448e4b2a24c149c9afa165614a6f 1x, https://cdn.myanimelist.net/r/84x124/images/characters/9/341019.jpg?s=658286d723223c59dd7fbaa3017e5b77 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor1">
+      <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Unglaus, Brain
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          19
+          32
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/118347/Brain_Unglaus"><h3 class="h3_character_name">Unglaus, Brain</h3></a>
@@ -4435,10 +4817,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          19 Favorites
+          32 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor1">
+      <td align="right" valign="top" class="borderClass bgColor2">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -4503,24 +4885,40 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59316/Víctor_Kuri">Kuri, Víctor</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59316/Víctor_Kuri">
+                    <img alt="Kuri, Víctor" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70125.jpg?s=a50cb1b3e91a4cd33573bd6004638d73" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70125.jpg?s=a50cb1b3e91a4cd33573bd6004638d73 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/70125.jpg?s=d67fa42922cbf069e56d150f1deb7372 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor2">
+      <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/132826/Renner_Theiere_Chardelon_Ryle_Vaiself" class="fw-n">
             <img alt="Vaiself, Renner Theiere Chardelon Ryle" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/13/290352.jpg?s=2e7a53dbd89e0a905f9bc9cf3e58132b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/13/290352.jpg?s=2e7a53dbd89e0a905f9bc9cf3e58132b 1x, https://cdn.myanimelist.net/r/84x124/images/characters/13/290352.jpg?s=1189e62888b2bae112c768c9e65aeb88 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Vaiself, Renner Theiere Chardelon Ryle
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          39
+          84
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/132826/Renner_Theiere_Chardelon_Ryle_Vaiself"><h3 class="h3_character_name">Vaiself, Renner Theiere Chardelon Ryle</h3></a>
@@ -4529,10 +4927,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          39 Favorites
+          84 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor2">
+      <td align="right" valign="top" class="borderClass bgColor1">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -4618,19 +5016,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/character/132828/Zanac_Varleon_Igana_Ryle_Vaiself" class="fw-n">
             <img alt="Vaiself, Zanac Varleon Igana Ryle" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/352538.jpg?s=b822333a67e8618626b6b8799b7dac42" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/16/352538.jpg?s=b822333a67e8618626b6b8799b7dac42 1x, https://cdn.myanimelist.net/r/84x124/images/characters/16/352538.jpg?s=b357ffb72e71ad90d152867edc52e9db 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor1">
+      <td valign="top" class="borderClass bgColor2">
         <div class="js-chara-roll-and-name" style="display:none">
           s_Vaiself, Zanac Varleon Igana Ryle
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          2
+          18
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/132828/Zanac_Varleon_Igana_Ryle_Vaiself"><h3 class="h3_character_name">Vaiself, Zanac Varleon Igana Ryle</h3></a>
@@ -4639,10 +5037,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          2 Favorites
+          18 Favorites
         </div>
       </td>
-      <td align="right" valign="top" class="borderClass bgColor1">
+      <td align="right" valign="top" class="borderClass bgColor2">
                 <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
               <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
                 <div class="spaceit_pad">
@@ -4703,7 +5101,85 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/55400/Maxime_Hoareau">
-                    <img alt="Hoareau, Maxime" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65268.jpg?s=fbb553ee829f050906266f5defd846ed" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65268.jpg?s=fbb553ee829f050906266f5defd846ed 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/65268.jpg?s=73945ad2b6ba2ccc64af63967d9f51cb 2x" class="lazyload" />
+                    <img alt="Hoareau, Maxime" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71136.jpg?s=5fa873b7057fc91928dafbbf0f0b90e8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/71136.jpg?s=5fa873b7057fc91928dafbbf0f0b90e8 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/71136.jpg?s=200fa9e7d5e4b35e829d2616319cd5cb 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59217/Iván_Fernández">Fernández, Iván</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59217/Iván_Fernández">
+                    <img alt="Fernández, Iván" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70076.jpg?s=605019d10a4d89189111c02d17547752" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70076.jpg?s=605019d10a4d89189111c02d17547752 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70076.jpg?s=db037aa21da4e389d1a6a73bcf360f8a 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr></table>
+              </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="js-anime-character-table">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/character/216237/Tsaindorcus_Vaision" class="fw-n">
+            <img alt="Vaision, Tsaindorcus" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/487877.jpg?s=f338d6e7d5ff28362bb752a30c648600" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/487877.jpg?s=f338d6e7d5ff28362bb752a30c648600 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/487877.jpg?s=1265fecba7a3d40f02375162571a12d8 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor1">
+        <div class="js-chara-roll-and-name" style="display:none">
+          s_Vaision, Tsaindorcus
+        </div>
+        <div class="js-anime-character-favorites" style="display:none;">
+          1
+        </div>
+        <div class="spaceit_pad">
+          <a href="https://myanimelist.net/character/216237/Tsaindorcus_Vaision"><h3 class="h3_character_name">Vaision, Tsaindorcus</h3></a>
+        </div>
+        <div class="spaceit_pad">
+          Supporting&nbsp;
+        </div>
+        <div class="spaceit_pad" style="color: #787878;">
+          1 Favorites
+        </div>
+      </td>
+      <td align="right" valign="top" class="borderClass bgColor1">
+                <table border="0" cellpadding="0" cellspacing="0" class="js-anime-character-va"><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/1444/Jin_Yamanoi">Yamanoi, Jin</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Japanese
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/1444/Jin_Yamanoi">
+                    <img alt="Yamanoi, Jin" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54967.jpg?s=e2c3f45c8171ce713c1d3b7c12feba8b" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/54967.jpg?s=e2c3f45c8171ce713c1d3b7c12feba8b 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/54967.jpg?s=85cf36b6583ee9eedd28e0c5577f190d 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/480/R_Bruce_Elliott">Elliott, R. Bruce</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  English
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/480/R_Bruce_Elliott">
+                    <img alt="Elliott, R. Bruce" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/23393.jpg?s=bb80548212ab0bbf4009dc989fa90544" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/23393.jpg?s=bb80548212ab0bbf4009dc989fa90544 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/23393.jpg?s=242db8cf665a6e61a39ceeb13d6f1340 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -4724,7 +5200,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Veyron, Tuareninya
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          17
+          20
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/159242/Tuareninya_Veyron"><h3 class="h3_character_name">Veyron, Tuareninya</h3></a>
@@ -4733,7 +5209,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          17 Favorites
+          20 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -4802,7 +5278,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Victim
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          4
+          8
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/116327/Victim"><h3 class="h3_character_name">Victim</h3></a>
@@ -4811,7 +5287,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          4 Favorites
+          8 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -4941,6 +5417,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                   </a>
                 </div>
               </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59421/Daniel_Valladares">Valladares, Daniel</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59421/Daniel_Valladares">
+                    <img alt="Valladares, Daniel" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70193.jpg?s=f435195e01f56d394f34e233e94bbf83" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70193.jpg?s=f435195e01f56d394f34e233e94bbf83 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/70193.jpg?s=d187cb3dc676145e22d431c8e2b29460 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
             </tr></table>
               </td>
     </tr>
@@ -4958,7 +5450,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Zeta, Entoma Vasilissa
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          428
+          458
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/132067/Entoma_Vasilissa_Zeta"><h3 class="h3_character_name">Zeta, Entoma Vasilissa</h3></a>
@@ -4967,7 +5459,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          428 Favorites
+          458 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor1">
@@ -5036,7 +5528,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           s_Zetsumei, Zesshi
         </div>
         <div class="js-anime-character-favorites" style="display:none;">
-          73
+          86
         </div>
         <div class="spaceit_pad">
           <a href="https://myanimelist.net/character/157611/Zesshi_Zetsumei"><h3 class="h3_character_name">Zetsumei, Zesshi</h3></a>
@@ -5045,7 +5537,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
           Supporting&nbsp;
         </div>
         <div class="spaceit_pad" style="color: #787878;">
-          73 Favorites
+          86 Favorites
         </div>
       </td>
       <td align="right" valign="top" class="borderClass bgColor2">
@@ -5094,6 +5586,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/43999/Letícia_Celini">
                     <img alt="Celini, Letícia" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/63879.jpg?s=f6391d8f4b7ae5b1fbdfedf7eac2dbc1" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/63879.jpg?s=f6391d8f4b7ae5b1fbdfedf7eac2dbc1 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/63879.jpg?s=d7cd205d1329db70606bc50fbb8f10ad 2x" class="lazyload" />
+                  </a>
+                </div>
+              </td>
+            </tr><tr class="js-anime-character-va-lang">
+              <td valign="top" align="right" style="padding: 0 4px;" nowrap="">
+                <div class="spaceit_pad">
+                  <a href="https://myanimelist.net/people/59420/Gabriela_Pérez">Pérez, Gabriela</a>
+                </div>
+                <div class="spaceit_pad js-anime-character-language" style="color: #787878;">
+                  Spanish
+                </div>
+              </td>
+              <td valign="top">
+                <div class="picSurround">
+                  <a href="https://myanimelist.net/people/59420/Gabriela_Pérez">
+                    <img alt="Pérez, Gabriela" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70837.jpg?s=2fa3895d3857f8205534a457a5940f3c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/70837.jpg?s=2fa3895d3857f8205534a457a5940f3c 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/70837.jpg?s=dec7eeb2cc92a1a7fa0ac17f037ad4ab 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -5155,7 +5663,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <td valign="top">
                 <div class="picSurround">
                   <a href="https://myanimelist.net/people/26387/Marc_Bretonnière">
-                    <img alt="Bretonnière, Marc" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/66787.jpg?s=594504a05131530a303cab4d129a6e40" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/66787.jpg?s=594504a05131530a303cab4d129a6e40 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/66787.jpg?s=64fb544aaec117ab0b3506c521e1d4d0 2x" class="lazyload" />
+                    <img alt="Bretonnière, Marc" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71268.jpg?s=405c21fe4d7ae302eab353f32540dbda" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71268.jpg?s=405c21fe4d7ae302eab353f32540dbda 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/71268.jpg?s=ce5223833bbcb8a3df750c26b0143826 2x" class="lazyload" />
                   </a>
                 </div>
               </td>
@@ -5165,12 +5673,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   </table></div>
 <div style="padding: 20px 40px;display: inline-block;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="anime_id=35073;display=characters;country=LU" data-ad-id="99455" data-ad-pid="1362568" data-ad-sid="394613"></div>
+        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="anime_id=35073;display=characters;country=PK" data-ad-id="99455" data-ad-pid="1362568" data-ad-sid="394613"></div>
 
       </div>
     </div><div style="padding: 20px 0px;display: inline-block;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="anime_id=35073;display=characters;country=LU" data-ad-id="99456" data-ad-pid="1362568" data-ad-sid="394613"></div>
+        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="anime_id=35073;display=characters;country=PK" data-ad-id="99456" data-ad-pid="1362568" data-ad-sid="394613"></div>
 
       </div>
     </div><br>
@@ -5201,7 +5709,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/people/37118/Fumiyuki_Gou" class="fw-n">
-            <img alt="Gou, Fumiyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+            <img alt="Gou, Fumiyuki" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/63242.jpg?s=14a622b100af71197c315a1ef7ea8997" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/63242.jpg?s=14a622b100af71197c315a1ef7ea8997 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/63242.jpg?s=8c600e6f2d1d3a047bfa91294cfd5b56 2x" class="lazyload" />
           </a>
         </div>
       </td>
@@ -5408,12 +5916,28 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <tr>
       <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
+          <a href="https://myanimelist.net/people/47411/Yuuichi_Karasawa" class="fw-n">
+            <img alt="Karasawa, Yuuichi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/47411/Yuuichi_Karasawa">Karasawa, Yuuichi</a>
+        <div class="spaceit_pad">
+          <small>Animation Director, Key Animation</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
           <a href="https://myanimelist.net/people/31861/Shuuji_Katayama" class="fw-n">
             <img alt="Katayama, Shuuji" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/32947.jpg?s=342595d249925cacf26e483696d10558" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/32947.jpg?s=342595d249925cacf26e483696d10558 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/32947.jpg?s=283fa10408b79b9c6aca855a664347f4 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <a href="https://myanimelist.net/people/31861/Shuuji_Katayama">Katayama, Shuuji</a>
         <div class="spaceit_pad">
           <small>Music</small>
@@ -5422,15 +5946,31 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     </tr>
   </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <td valign="top" width="27" class="ac borderClass bgColor1">
+      <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
           <a href="https://myanimelist.net/people/26639/Grégory_Laisné" class="fw-n">
-            <img alt="Laisné, Grégory" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/65120.jpg?s=047975fb5cc753b0101ad1a114e3af74" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/65120.jpg?s=047975fb5cc753b0101ad1a114e3af74 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/65120.jpg?s=fb8860df90b2dc14f1b8f81260dceb03 2x" class="lazyload" />
+            <img alt="Laisné, Grégory" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71727.jpg?s=a6c47df6d2149d1d084deffbc88ae981" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/71727.jpg?s=a6c47df6d2149d1d084deffbc88ae981 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/71727.jpg?s=29c700429c7cdabaf7ffd841aad0c4d2 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/26639/Grégory_Laisné">Laisné, Grégory</a>
+        <div class="spaceit_pad">
+          <small>ADR Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/52947/Rodrigo_Martim" class="fw-n">
+            <img alt="Martim, Rodrigo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/62592.jpg?s=839aa936527bbe849a9f26ea9f7561f8" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/62592.jpg?s=839aa936527bbe849a9f26ea9f7561f8 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/62592.jpg?s=f81bd79778a9c4c7522d358e58a6689d 2x" class="lazyload" />
           </a>
         </div>
       </td>
       <td valign="top" class="borderClass bgColor1">
-        <a href="https://myanimelist.net/people/26639/Grégory_Laisné">Laisné, Grégory</a>
+        <a href="https://myanimelist.net/people/52947/Rodrigo_Martim">Martim, Rodrigo</a>
         <div class="spaceit_pad">
           <small>ADR Director</small>
         </div>
@@ -5440,13 +5980,13 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <tr>
       <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
-          <a href="https://myanimelist.net/people/52947/Rodrigo_Martim" class="fw-n">
-            <img alt="Martim, Rodrigo" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/67355.jpg?s=67f4bce12cedea56ecc9e6c9f88cb496" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/67355.jpg?s=67f4bce12cedea56ecc9e6c9f88cb496 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/67355.jpg?s=848e1eee0be38b7fe49e03f9510579f9 2x" class="lazyload" />
+          <a href="https://myanimelist.net/people/37873/Azucena_Martínez" class="fw-n">
+            <img alt="Martínez, Azucena" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/40032.jpg?s=3794ae38f294161effbde3d18e1dbe29" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/40032.jpg?s=3794ae38f294161effbde3d18e1dbe29 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/40032.jpg?s=e33901b32dc2ca2ab788c02f4b98c470 2x" class="lazyload" />
           </a>
         </div>
       </td>
       <td valign="top" class="borderClass bgColor2">
-        <a href="https://myanimelist.net/people/52947/Rodrigo_Martim">Martim, Rodrigo</a>
+        <a href="https://myanimelist.net/people/37873/Azucena_Martínez">Martínez, Azucena</a>
         <div class="spaceit_pad">
           <small>ADR Director</small>
         </div>
@@ -5457,7 +5997,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
           <a href="https://myanimelist.net/people/24221/Kugane_Maruyama" class="fw-n">
-            <img alt="Maruyama, Kugane" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+            <img alt="Maruyama, Kugane" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/59170.jpg?s=79f8e8feefbc47a6edc69f56f0285df9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/59170.jpg?s=79f8e8feefbc47a6edc69f56f0285df9 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/59170.jpg?s=a65a54142e490e5431e4c1b15a6934e9 2x" class="lazyload" />
           </a>
         </div>
       </td>
@@ -5504,15 +6044,15 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <tr>
       <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
-          <a href="https://myanimelist.net/people/19811/Kyle_Phillips" class="fw-n">
-            <img alt="Phillips, Kyle" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/25359.jpg?s=6ed7ff34fed851ccb56ecb6d3f24e502" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/25359.jpg?s=6ed7ff34fed851ccb56ecb6d3f24e502 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/25359.jpg?s=dd77be2c5a418bff5266d40fba42fdb5 2x" class="lazyload" />
+          <a href="https://myanimelist.net/people/40521/Masatsune_Noguchi" class="fw-n">
+            <img alt="Noguchi, Masatsune" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
           </a>
         </div>
       </td>
       <td valign="top" class="borderClass bgColor2">
-        <a href="https://myanimelist.net/people/19811/Kyle_Phillips">Phillips, Kyle</a>
+        <a href="https://myanimelist.net/people/40521/Masatsune_Noguchi">Noguchi, Masatsune</a>
         <div class="spaceit_pad">
-          <small>ADR Director</small>
+          <small>Key Animation</small>
         </div>
       </td>
     </tr>
@@ -5520,13 +6060,13 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <tr>
       <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
-          <a href="https://myanimelist.net/people/44011/André_Rinaldi" class="fw-n">
-            <img alt="Rinaldi, André" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/62369.jpg?s=eb5b54e5a7cc0fd20a399934ea7036e9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/62369.jpg?s=eb5b54e5a7cc0fd20a399934ea7036e9 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/62369.jpg?s=4c069aa5c521512f3939a730cbba443a 2x" class="lazyload" />
+          <a href="https://myanimelist.net/people/19811/Kyle_Phillips" class="fw-n">
+            <img alt="Phillips, Kyle" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/25359.jpg?s=6ed7ff34fed851ccb56ecb6d3f24e502" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/25359.jpg?s=6ed7ff34fed851ccb56ecb6d3f24e502 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/25359.jpg?s=dd77be2c5a418bff5266d40fba42fdb5 2x" class="lazyload" />
           </a>
         </div>
       </td>
       <td valign="top" class="borderClass bgColor1">
-        <a href="https://myanimelist.net/people/44011/André_Rinaldi">Rinaldi, André</a>
+        <a href="https://myanimelist.net/people/19811/Kyle_Phillips">Phillips, Kyle</a>
         <div class="spaceit_pad">
           <small>ADR Director</small>
         </div>
@@ -5536,13 +6076,45 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <tr>
       <td valign="top" width="27" class="ac borderClass bgColor2">
         <div class="picSurround">
+          <a href="https://myanimelist.net/people/44011/André_Rinaldi" class="fw-n">
+            <img alt="Rinaldi, André" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/62369.jpg?s=eb5b54e5a7cc0fd20a399934ea7036e9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/62369.jpg?s=eb5b54e5a7cc0fd20a399934ea7036e9 1x, https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/62369.jpg?s=4c069aa5c521512f3939a730cbba443a 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/44011/André_Rinaldi">Rinaldi, André</a>
+        <div class="spaceit_pad">
+          <small>ADR Director</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor1">
+        <div class="picSurround">
           <a href="https://myanimelist.net/people/53737/Masahiko_Suzuki" class="fw-n">
             <img alt="Suzuki, Masahiko" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
           </a>
         </div>
       </td>
-      <td valign="top" class="borderClass bgColor2">
+      <td valign="top" class="borderClass bgColor1">
         <a href="https://myanimelist.net/people/53737/Masahiko_Suzuki">Suzuki, Masahiko</a>
+        <div class="spaceit_pad">
+          <small>Character Design</small>
+        </div>
+      </td>
+    </tr>
+  </table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="27" class="ac borderClass bgColor2">
+        <div class="picSurround">
+          <a href="https://myanimelist.net/people/44739/Satoshi_Tasaki" class="fw-n">
+            <img alt="Tasaki, Satoshi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          </a>
+        </div>
+      </td>
+      <td valign="top" class="borderClass bgColor2">
+        <a href="https://myanimelist.net/people/44739/Satoshi_Tasaki">Tasaki, Satoshi</a>
         <div class="spaceit_pad">
           <small>Character Design</small>
         </div>
@@ -5552,15 +6124,15 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <tr>
       <td valign="top" width="27" class="ac borderClass bgColor1">
         <div class="picSurround">
-          <a href="https://myanimelist.net/people/44739/Satoshi_Tasaki" class="fw-n">
-            <img alt="Tasaki, Satoshi" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
+          <a href="https://myanimelist.net/people/60753/Takenori_Tsukuma" class="fw-n">
+            <img alt="Tsukuma, Takenori" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c" data-srcset="https://cdn.myanimelist.net/r/42x62/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c 1x, https://cdn.myanimelist.net/r/84x124/images/questionmark_23.gif?s=b2caae0942e99347ceebbfe730682689 2x" class="lazyload" />
           </a>
         </div>
       </td>
       <td valign="top" class="borderClass bgColor1">
-        <a href="https://myanimelist.net/people/44739/Satoshi_Tasaki">Tasaki, Satoshi</a>
+        <a href="https://myanimelist.net/people/60753/Takenori_Tsukuma">Tsukuma, Takenori</a>
         <div class="spaceit_pad">
-          <small>Character Design</small>
+          <small>Key Animation</small>
         </div>
       </td>
     </tr>
@@ -5667,19 +6239,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -5689,23 +6261,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -5723,11 +6295,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -5836,7 +6408,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

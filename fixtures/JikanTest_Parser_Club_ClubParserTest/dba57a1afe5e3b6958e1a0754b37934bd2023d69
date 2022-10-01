@@ -31,16 +31,16 @@ Cowboy Bebop - Club - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='77b51184905f764c13b0004ad8309082e1ccb704'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/js/ss_jscript.js?v=1654052894" />
+<meta name='csrf_token' content='5188d390d911b8bb6886fd974a5c38119c9fdee4'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/js/ss_jscript.js?v=1664643313" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 <meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'>
 <script>
@@ -48,7 +48,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </script>
 <script src='https://www.google.com/recaptcha/api.js?render=6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4' async defer></script>
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/js/ss_jscript.js?v=1654052894"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/ss_jscript.js?v=1664643313"></script>
 
 <link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
 
@@ -62,10 +62,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643313"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643313"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -81,7 +83,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>
 
 <script>
     var trackOutboundLink = function(url) {
@@ -91,8 +93,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce" onclick="trackOutboundLink('https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce')">
-  <img src="/c/i/images/event/Mini_Banner_20220421_TR2022/mini_banner.png" width="250" height="36" alt="TR2022" title="TR2022">
+  <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce" onclick="trackOutboundLink('https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce')">
+  <img src="/c/i/images/event/Mini_Banner_20220915_FAL_FALL_2022/mini-banner.png" width="250" height="36" alt="FAL FALL 2022" title="FAL FALL 2022">
 </a>
 
 </div>
@@ -175,7 +177,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper"><div><h1 class="h1">Cowboy Bebop</h1></div><div id="content">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper"><div><h1 class="h1">Cowboy Bebop</h1></div><div id="content">
     <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
     <td class="borderClass" style="border-width: 0 1px 0 0 ;" valign="top">
@@ -188,68 +204,68 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
 &lt;object width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;<a href="http://youtube.com/v/PTETY8Db07k&amp;rel=1&quot;&gt;&lt;/param&gt;&lt;param" target="_blank" rel="nofollow noopener noreferrer">http://youtube.com/v/PTETY8Db07k&amp;rel=1&quot;&gt;&lt;/param&gt;&lt;param</a> name=&quot;wmode&quot; value=&quot;transparent&quot;&gt;&lt;/param&gt;&lt;embed src=&quot;<a href="http://www.youtube.com/v/PTETY8Db07k&amp;rel=1&quot;" target="_blank" rel="nofollow noopener noreferrer">http://www.youtube.com/v/PTETY8Db07k&amp;rel=1&quot;</a> type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;!--center--&gt;&lt;/div&gt;</div>
     <br />
     <br />
-    <div class="normal_header"><div class="floatRightHeader"><a href="https://myanimelist.net/clubs.php?id=1&amp;action=view&amp;t=members" style="font-weight: normal;">See All (1378)</a></div>Club Members</div><table border="0" cellpadding="10" cellspacing="0" width="100%"><tr><td align="center"  class="borderClass">
-                <div style="margin-bottom: 7px;"><a href="/profile/Constitution">Constitution</a></div>
-                <div class="picSurround"><a href="/profile/Constitution"><img class="lazyload" data-src="/images/userimages/5437172.jpg?t=1654434000" border="0" width="48"></a></div>
+    <div class="normal_header"><div class="floatRightHeader"><a href="https://myanimelist.net/clubs.php?id=1&amp;action=view&amp;t=members" style="font-weight: normal;">See All (1381)</a></div>Club Members</div><table border="0" cellpadding="10" cellspacing="0" width="100%"><tr><td align="center"  class="borderClass">
+                <div style="margin-bottom: 7px;"><a href="/profile/azufendei">azufendei</a></div>
+                <div class="picSurround"><a href="/profile/azufendei"><img class="lazyload" data-src="/images/userimages/15149479.jpg?t=1664623800" border="0" width="48"></a></div>
                 </td><td align="center"  class="borderClass">
-                <div style="margin-bottom: 7px;"><a href="/profile/BUTTERYWEINER">BUTTERYWEINER</a></div>
-                <div class="picSurround"><a href="/profile/BUTTERYWEINER"><img class="lazyload" data-src="/images/userimages/14679501.jpg?t=1648875600" border="0" width="48"></a></div>
+                <div style="margin-bottom: 7px;"><a href="/profile/FreedomSweetTea">FreedomSweetTea</a></div>
+                <div class="picSurround"><a href="/profile/FreedomSweetTea"><img class="lazyload" data-src="/images/userimages/15337396.jpg?t=1662730800" border="0" width="48"></a></div>
                 </td><td align="center"  class="borderClass">
-                <div style="margin-bottom: 7px;"><a href="/profile/schumo">schumo</a></div>
-                <div class="picSurround"><a href="/profile/schumo"><img class="lazyload" data-src="/images/userimages/12968894.jpg?t=1654090200" border="0" width="48"></a></div>
+                <div style="margin-bottom: 7px;"><a href="/profile/MarijuanaCat">MarijuanaCat</a></div>
+                <div class="picSurround"><a href="/profile/MarijuanaCat"><img class="lazyload" data-src="/images/userimages/9786985.jpg?t=1664586000" border="0" width="48"></a></div>
                 </td><td align="center"  class="borderClass">
-                <div style="margin-bottom: 7px;"><a href="/profile/cr0okedwheel">cr0okedwheel</a></div>
-                <div class="picSurround"><a href="/profile/cr0okedwheel"><img class="lazyload" data-src="/images/userimages/14005088.jpg?t=1652769600" border="0" width="48"></a></div>
+                <div style="margin-bottom: 7px;"><a href="/profile/D2084">D2084</a></div>
+                <div class="picSurround"><a href="/profile/D2084"><img class="lazyload" data-src="/images/userimages/8509890.jpg?t=1664641800" border="0" width="48"></a></div>
                 </td><td align="center"  class="borderClass">
-                <div style="margin-bottom: 7px;"><a href="/profile/Lihrki">Lihrki</a></div>
-                <div class="picSurround"><a href="/profile/Lihrki"><img class="lazyload" data-src="/images/userimages/14488581.jpg?t=1654200600" border="0" width="48"></a></div>
+                <div style="margin-bottom: 7px;"><a href="/profile/wulcis">wulcis</a></div>
+                <div class="picSurround"><a href="/profile/wulcis"><img class="lazyload" data-src="/images/userimages/10898503.jpg?t=1664220600" border="0" width="48"></a></div>
                 </td><td align="center"  class="borderClass">
-                <div style="margin-bottom: 7px;"><a href="/profile/SoulessGhouL">SoulessGhouL</a></div>
-                <div class="picSurround"><a href="/profile/SoulessGhouL"><img class="lazyload" data-src="/images/userimages/13995777.jpg?t=1646194800" border="0" width="48"></a></div>
+                <div style="margin-bottom: 7px;"><a href="/profile/Shake9090">Shake9090</a></div>
+                <div class="picSurround"><a href="/profile/Shake9090"><img class="lazyload" data-src="/images/userimages/14445650.jpg?t=1661751600" border="0" width="48"></a></div>
                 </td><td align="center"  class="borderClass">
-                <div style="margin-bottom: 7px;"><a href="/profile/StreetliteSonata">StreetliteSonata</a></div>
-                <div class="picSurround"><a href="/profile/StreetliteSonata"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/questionmark_50.gif" vspace="4" width="50" height="50" border="0"></a></div>
+                <div style="margin-bottom: 7px;"><a href="/profile/14km1ku">14km1ku</a></div>
+                <div class="picSurround"><a href="/profile/14km1ku"><img class="lazyload" data-src="/images/userimages/13599505.jpg?t=1664548200" border="0" width="48"></a></div>
                 </td></tr></table>
         <br />
         <div class="normal_header"><div class="floatRightHeader"><a href="/editclub.php?cid=1&action=picture">Add Picture</a> - <a href="clubs.php?action=view&t=pictures&id=1">See All (25)</a></div>Club Pictures</div><table border="0" cellpadding="0" cellspacing="10" width="100%">
-            <tr><td align="center" width="20%"><div class="picSurround"><a href="?action=view&t=pic&id=1&pid=838"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/clubs/3/838_thumb.jpg" border="0"></a></div><div class="spaceit">0 comments</div>
-                    </td><td align="center" width="20%"><div class="picSurround"><a href="?action=view&t=pic&id=1&pid=4485"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/clubs/2/4485_thumb.jpg" border="0"></a></div><div class="spaceit">1 comments</div>
-                    </td><td align="center" width="20%"><div class="picSurround"><a href="?action=view&t=pic&id=1&pid=15421"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/clubs/1/15421_thumb.jpg" border="0"></a></div><div class="spaceit">2 comments</div>
+            <tr><td align="center" width="20%"><div class="picSurround"><a href="?action=view&t=pic&id=1&pid=1"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/clubs/2/1_thumb.jpg" border="0"></a></div><div class="spaceit">3 comments</div>
+                    </td><td align="center" width="20%"><div class="picSurround"><a href="?action=view&t=pic&id=1&pid=15424"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/clubs/3/15424_thumb.jpg" border="0"></a></div><div class="spaceit">8 comments</div>
+                    </td><td align="center" width="20%"><div class="picSurround"><a href="?action=view&t=pic&id=1&pid=15426"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/clubs/2/15426_thumb.jpg" border="0"></a></div><div class="spaceit">0 comments</div>
+                    </td><td align="center" width="20%"><div class="picSurround"><a href="?action=view&t=pic&id=1&pid=15427"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/clubs/1/15427_thumb.jpg" border="0"></a></div><div class="spaceit">3 comments</div>
                     </td><td align="center" width="20%"><div class="picSurround"><a href="?action=view&t=pic&id=1&pid=16227"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/clubs/5/16227_thumb.jpg" border="0"></a></div><div class="spaceit">1 comments</div>
-                    </td><td align="center" width="20%"><div class="picSurround"><a href="?action=view&t=pic&id=1&pid=185955"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/clubs/11/185955_thumb.jpg" border="0"></a></div><div class="spaceit">0 comments</div>
                     </td></tr>
             </table>
         <br />
         <br />
         <div class="page-forum">
         <div class="normal_header" style="margin-bottom: 0;"><div class="floatRightHeader">Displaying 5 of 16 topics | <a href="/forum/?clubid=1">See All</a></div>Club Discussion</div>
-    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1" data-topic-id="389205">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fclubs.php%3Fcid%3D1&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=389205">Favourite character?</a> <small></small><br><span class="forum_postusername"><a href="/profile/Gurenn">Gurenn</a></span> - <span class="lightLink">Jan 14, 2012</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">28 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Gabeoclock">Gabeoclock</a> <a href="/forum/?topicid=389205&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Apr 25, 2021 2:27 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=389205" >Favourite character?</a> <small></small><br><span class="forum_postusername"><a href="/profile/Gurenn">Gurenn</a></span> - <span class="lightLink">Jan 14, 2012</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">29 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/azufendei">azufendei</a> <a href="/forum/?topicid=389205&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 28, 11:16 PM</td>
             </tr>
-            <tr id="topicRow2">
+            <tr id="topicRow2" data-topic-id="278731">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fclubs.php%3Fcid%3D1&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=278731">Ed is SO annoying!</a> <small></small><br><span class="forum_postusername"><a href="/profile/Pitrocks14">Pitrocks14</a></span> - <span class="lightLink">Dec 30, 2010</span></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=278731" >Ed is SO annoying!</a> <small></small><br><span class="forum_postusername"><a href="/profile/Pitrocks14">Pitrocks14</a></span> - <span class="lightLink">Dec 30, 2010</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">18 replies</td>
                 <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Gabeoclock">Gabeoclock</a> <a href="/forum/?topicid=278731&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Apr 25, 2021 2:15 AM</td>
             </tr>
-            <tr id="topicRow3">
+            <tr id="topicRow3" data-topic-id="11720">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow3"><a href="https://myanimelist.net/login.php?from=%2Fclubs.php%3Fcid%3D1&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=11720">The end  of Cowboy Bebop - SPOILER ALERT - do not read if you haven&#039;t finished watching the show</a> <small> ( <a href="/forum/?topicid=11720&show=0">1</a> <a href="/forum/?topicid=11720&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/daya">daya</a></span> - <span class="lightLink">Jan 22, 2008</span></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=11720" >The end  of Cowboy Bebop - SPOILER ALERT - do not read if you haven&#039;t finished watching the show</a> <small> ( <a href="/forum/?topicid=11720&show=0">1</a> <a href="/forum/?topicid=11720&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/daya">daya</a></span> - <span class="lightLink">Jan 22, 2008</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">58 replies</td>
                 <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/AshPikaKetchum">AshPikaKetchum</a> <a href="/forum/?topicid=11720&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Apr 30, 2020 4:53 PM</td>
             </tr>
-            <tr id="topicRow4">
+            <tr id="topicRow4" data-topic-id="6129">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow4"><a href="https://myanimelist.net/login.php?from=%2Fclubs.php%3Fcid%3D1&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=6129">Favorite Track</a> <small> ( <a href="/forum/?topicid=6129&show=0">1</a> <a href="/forum/?topicid=6129&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/daya">daya</a></span> - <span class="lightLink">Oct 16, 2007</span></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=6129" >Favorite Track</a> <small> ( <a href="/forum/?topicid=6129&show=0">1</a> <a href="/forum/?topicid=6129&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/daya">daya</a></span> - <span class="lightLink">Oct 16, 2007</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">53 replies</td>
                 <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/AshPikaKetchum">AshPikaKetchum</a> <a href="/forum/?topicid=6129&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Apr 30, 2020 4:43 PM</td>
             </tr>
-            <tr id="topicRow5">
+            <tr id="topicRow5" data-topic-id="99206">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow5"><a href="https://myanimelist.net/login.php?from=%2Fclubs.php%3Fcid%3D1&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=99206">Favorite episodes</a> <small></small><br><span class="forum_postusername"><a href="/profile/cbkh915">cbkh915</a></span> - <span class="lightLink">Jul 14, 2009</span></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=99206" >Favorite episodes</a> <small></small><br><span class="forum_postusername"><a href="/profile/cbkh915">cbkh915</a></span> - <span class="lightLink">Jul 14, 2009</span></td>
               <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">24 replies</td>
                 <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/NickDen">NickDen</a> <a href="/forum/?topicid=99206&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Mar 6, 2018 10:18 AM</td>
             </tr>
@@ -259,7 +275,7 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
             <div class="normal_header"><div class="floatRightHeader"><a href="https://myanimelist.net/clubs.php?id=1&amp;action=view&amp;t=comments">See All</a></div>Club Comments</div>
             <div style="width: 733px; overflow: hidden;"><div id="comment16133069" class="bgColor1"><table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
-          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/Falkern"><img class="lazyload" data-src="/images/userimages/12671025.jpg?t=1651999800" vspace="4" border="0" width="48"></a></div></td>
+          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/Falkern"><img class="lazyload" data-src="/images/userimages/12671025.jpg?t=1662483600" vspace="4" border="0" width="48"></a></div></td>
           <td class="borderClass" style="border: 0;" valign="top">
           <div style="margin-bottom: 6px;"><a href="/profile/Falkern">Falkern</a> <small><span style="font-weight: normal;"> | Sep 26, 2021 12:33 PM</span></small></div>
           hell yeah i joined the first mal club nice（￣︶￣）<br />
@@ -269,7 +285,7 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
             </div>
             <br><div id="comment16044996" class="bgNone"><table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
-          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/huhimadethis"><img class="lazyload" data-src="/images/userimages/10990395.jpg?t=1653909000" vspace="4" border="0" width="48"></a></div></td>
+          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/huhimadethis"><img class="lazyload" data-src="/images/userimages/10990395.jpg?t=1664246400" vspace="4" border="0" width="48"></a></div></td>
           <td class="borderClass" style="border: 0;" valign="top">
           <div style="margin-bottom: 6px;"><a href="/profile/huhimadethis">huhimadethis</a> <small><span style="font-weight: normal;"> | Jan 20, 2021 7:49 PM</span></small></div>
           Hello guys</td>
@@ -278,7 +294,7 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
             </div>
             <br><div id="comment16044121" class="bgColor1"><table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
-          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/Spiku_St"><img class="lazyload" data-src="/images/userimages/11258193.jpg?t=1642872600" vspace="4" border="0" width="48"></a></div></td>
+          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/Spiku_St"><img class="lazyload" data-src="/images/userimages/11258193.jpg?t=1663003200" vspace="4" border="0" width="48"></a></div></td>
           <td class="borderClass" style="border: 0;" valign="top">
           <div style="margin-bottom: 6px;"><a href="/profile/Spiku_St">Spiku_St</a> <small><span style="font-weight: normal;"> | Jan 17, 2021 7:47 PM</span></small></div>
           Hey wu guys ! This is my first club. Cowboy Bebop is my all time favourite anime, I think that&#039;s the most important thing about me haha</td>
@@ -287,7 +303,7 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
             </div>
             <br><div id="comment15995100" class="bgNone"><table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
-          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/kayshinonome"><img class="lazyload" data-src="/images/userimages/9337807.jpg?t=1654502400" vspace="4" border="0" width="48"></a></div></td>
+          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/kayshinonome"><img class="lazyload" data-src="/images/userimages/9337807.jpg?t=1664605800" vspace="4" border="0" width="48"></a></div></td>
           <td class="borderClass" style="border: 0;" valign="top">
           <div style="margin-bottom: 6px;"><a href="/profile/kayshinonome">kayshinonome</a> <small><span style="font-weight: normal;"> | Aug 16, 2020 10:54 AM</span></small></div>
           I think this is the first club</td>
@@ -296,7 +312,7 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
             </div>
             <br><div id="comment15988406" class="bgColor1"><table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
-          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/AllMyAnimes1"><img class="lazyload" data-src="/images/userimages/10005476.jpg?t=1649195400" vspace="4" border="0" width="48"></a></div></td>
+          <td valign="top" width="60" align="center" class="borderClass" style="border: 0;"><div class="picSurround"><a href="/profile/AllMyAnimes1"><img class="lazyload" data-src="/images/userimages/10005476.jpg?t=1663884600" vspace="4" border="0" width="48"></a></div></td>
           <td class="borderClass" style="border: 0;" valign="top">
           <div style="margin-bottom: 6px;"><a href="/profile/AllMyAnimes1">AllMyAnimes1</a> <small><span style="font-weight: normal;"> | Jul 22, 2020 4:30 AM</span></small></div>
           hello<br />
@@ -341,7 +357,7 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
     <div id="profileRows">
     </div>
     <div class="normal_header">Club Stats</div>
-    <div class="spaceit_pad"><span class="dark_text">Members:</span> 1378</div>
+    <div class="spaceit_pad"><span class="dark_text">Members:</span> 1381</div>
     <div class="spaceit_pad"><span class="dark_text">Pictures:</span> 25</div>
     <div class="spaceit_pad"><span class="dark_text">Category:</span> Anime</div>
     <!--
@@ -443,19 +459,19 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -465,23 +481,23 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -499,11 +515,11 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -612,7 +628,7 @@ Banner by &lt;!--link--&gt;&lt;a href=&quot;<a href="http://myanimelist.net/prof
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

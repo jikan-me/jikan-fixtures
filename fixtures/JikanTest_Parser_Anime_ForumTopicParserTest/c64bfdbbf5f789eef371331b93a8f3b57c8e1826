@@ -32,15 +32,15 @@ Cowboy Bebop - Forum - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='2189c487e5606da4a72a81abdf1a272893561ae1'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='868e96201853c982272731deb3ccdc9b535fc2fb'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643317"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643317"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -91,7 +93,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>
 
 <script>
     var trackOutboundLink = function(url) {
@@ -101,8 +103,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
-  <img src="/c/i/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
+  <a href="https://mxj.myanimelist.net/bluehunter/art2/?utm_source=MAL&utm_medium=all_TMB_bluehunter2" onclick="trackOutboundLink('https://mxj.myanimelist.net/bluehunter/art2/?utm_source=MAL&utm_medium=all_TMB_bluehunter2')">
+  <img src="/c/i/images/event/Mini_Banner_20220909_BLUE_HUNTER_art_contest2/mini-banner.gif" width="250" height="36" alt="BLUE HUNTER art contest2" title="BLUE HUNTER art contest2">
 </a>
 
 </div>
@@ -185,7 +187,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
       <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Cowboy Bebop</strong></h1></div></div><div class="header-right">
           <a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa-solid fa-pencil mr4"></i>Edit</a>
 <div id="editdiv" class="fw-n fs11">
@@ -250,7 +266,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <!-- end My List -->
 <div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
 
-<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F1%2FCowboy_Bebop"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F1%2FCowboy_Bebop&amp;text=Cowboy%20Bebop&amp;hashtags=anime"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F1%2FCowboy_Bebop&amp;title=Cowboy%20Bebop"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F1%2FCowboy_Bebop&amp;name=Cowboy%20Bebop"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div>  <br />
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F1%2FCowboy_Bebop"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F1%2FCowboy_Bebop&amp;text=Cowboy%20Bebop&amp;hashtags=anime"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F1%2FCowboy_Bebop&amp;title=Cowboy%20Bebop"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F1%2FCowboy_Bebop&amp;name=Cowboy%20Bebop"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div>  <br />
 
   <h2>Alternative Titles</h2><div class="spaceit_pad">
     <span class="dark_text">Japanese:</span> カウボーイビバップ
@@ -329,7 +345,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <h2>Statistics</h2>
 <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="spaceit_pad po-r js-statistics-info di-ib" data-id="info1">
   <span class="dark_text">Score:</span>
-  <span itemprop="ratingValue" class="score-label score-8">8.76</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">831444</span>831,444 users)
+  <span itemprop="ratingValue" class="score-label score-8">8.75</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">861630</span>861,630 users)
       <meta itemprop="bestRating" content="10">
     <meta itemprop="worstRating" content="1">
       <div class="statistics-info info1">
@@ -340,7 +356,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #37<sup>2</sup>
+  #38<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -349,15 +365,15 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Popularity:</span>
-  #42
+  #43
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Members:</span>
-    1,615,083
+    1,668,641
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Favorites:</span>
-  71,694
+  74,169
 </div>
 
 <br />
@@ -435,95 +451,95 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               <h2 class="h2_overwrite">Forum</h2></div>
     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr class="forum-table-header"><td align="center" class="normal_header" colspan="2">All Topics | <a href="https://myanimelist.net/anime/1/Cowboy_Bebop/forum?topic=episode">Episodes</a> | <a href="https://myanimelist.net/anime/1/Cowboy_Bebop/forum?topic=other">Other</a></td>
             <td width="75" align="center" class="normal_header">Replies</td><td width="130" align="center" class="normal_header">Last Post</td>
-        </tr><tr id="topicRow1">
+        </tr><tr id="topicRow1" data-topic-id="24838">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=2017180">Is Cowboy Bebop worth watching?</a> <small></small><br><span class="forum_postusername"><a href="/profile/IsmailDX">IsmailDX</a></span> - <span class="lightLink">May 18</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">48</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/barsoapguy219">barsoapguy219</a> <a href="/forum/?topicid=2017180&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 25, 8:15 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=24838" >Cowboy Bebop Episode 26 Discussion</a> <small> ( <a href="/forum/?topicid=24838&show=0">1</a> <a href="/forum/?topicid=24838&show=50">2</a> <a href="/forum/?topicid=24838&show=100">3</a> <a href="/forum/?topicid=24838&show=150">4</a> <a href="/forum/?topicid=24838&show=200">5</a>  ... <a href="/forum/?topicid=24838&show=500">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Metty">Metty</a></span> - <span class="lightLink">May 14, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">546</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/usvapeikko">usvapeikko</a> <a href="/forum/?topicid=24838&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Yesterday, 9:29 AM</td>
             </tr>
-            <tr id="topicRow2">
+            <tr id="topicRow2" data-topic-id="36204">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=24838">Cowboy Bebop Episode 26 Discussion</a> <small> ( <a href="/forum/?topicid=24838&show=0">1</a> <a href="/forum/?topicid=24838&show=50">2</a> <a href="/forum/?topicid=24838&show=100">3</a> <a href="/forum/?topicid=24838&show=150">4</a> <a href="/forum/?topicid=24838&show=200">5</a>  ... <a href="/forum/?topicid=24838&show=500">Last Page</a> ) </small><br><span class="forum_postusername"><a href="/profile/Metty">Metty</a></span> - <span class="lightLink">May 14, 2008</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">530</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Crack">Crack</a> <a href="/forum/?topicid=24838&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 24, 11:08 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=36204" >Cowboy Bebop Episode 12 Discussion</a> <small> ( <a href="/forum/?topicid=36204&show=0">1</a> <a href="/forum/?topicid=36204&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Scribbly">Scribbly</a></span> - <span class="lightLink">Aug 1, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">97</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Pocky007213">Pocky007213</a> <a href="/forum/?topicid=36204&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 28, 9:22 PM</td>
             </tr>
-            <tr id="topicRow3">
+            <tr id="topicRow3" data-topic-id="24885">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow3"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=29264">Cowboy Bebop Episode 1 Discussion</a> <small> ( <a href="/forum/?topicid=29264&show=0">1</a> <a href="/forum/?topicid=29264&show=50">2</a> <a href="/forum/?topicid=29264&show=100">3</a> <a href="/forum/?topicid=29264&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/ManU-Alchemist">ManU-Alchemist</a></span> - <span class="lightLink">Jun 13, 2008</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">171</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/princedarkly77">princedarkly77</a> <a href="/forum/?topicid=29264&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 24, 3:41 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=24885" >Cowboy Bebop Episode 18 Discussion</a> <small> ( <a href="/forum/?topicid=24885&show=0">1</a> <a href="/forum/?topicid=24885&show=50">2</a> <a href="/forum/?topicid=24885&show=100">3</a> <a href="/forum/?topicid=24885&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/FighterZ">FighterZ</a></span> - <span class="lightLink">May 14, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">160</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Daiko">Daiko</a> <a href="/forum/?topicid=24885&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 28, 5:21 PM</td>
             </tr>
-            <tr id="topicRow4">
+            <tr id="topicRow4" data-topic-id="52861">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow4"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=101461">Cowboy Bebop Episode 9 Discussion</a> <small> ( <a href="/forum/?topicid=101461&show=0">1</a> <a href="/forum/?topicid=101461&show=50">2</a> <a href="/forum/?topicid=101461&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/KillthisAccount">KillthisAccount</a></span> - <span class="lightLink">Jul 24, 2009</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">104</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/TheMAM">TheMAM</a> <a href="/forum/?topicid=101461&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 24, 1:21 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=52861" >Cowboy Bebop Episode 17 Discussion</a> <small> ( <a href="/forum/?topicid=52861&show=0">1</a> <a href="/forum/?topicid=52861&show=50">2</a> <a href="/forum/?topicid=52861&show=100">3</a> <a href="/forum/?topicid=52861&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/aaronluis26">aaronluis26</a></span> - <span class="lightLink">Nov 15, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">157</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Daiko">Daiko</a> <a href="/forum/?topicid=52861&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 28, 4:51 PM</td>
             </tr>
-            <tr id="topicRow5">
+            <tr id="topicRow5" data-topic-id="101265">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow5"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"> <a href="/forum/?topicid=1949810">How is the dub</a> <small></small><br><span class="forum_postusername"><a href="/profile/AltPlusF4">AltPlusF4</a></span> - <span class="lightLink">Aug 18, 2021</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">40</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/misasdeathnote0">misasdeathnote0</a> <a href="/forum/?topicid=1949810&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 22, 11:27 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=101265" >Cowboy Bebop Episode 7 Discussion</a> <small> ( <a href="/forum/?topicid=101265&show=0">1</a> <a href="/forum/?topicid=101265&show=50">2</a> <a href="/forum/?topicid=101265&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/KillthisAccount">KillthisAccount</a></span> - <span class="lightLink">Jul 23, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">103</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/cspiteri">cspiteri</a> <a href="/forum/?topicid=101265&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 27, 5:37 PM</td>
             </tr>
-            <tr id="topicRow6">
+            <tr id="topicRow6" data-topic-id="29264">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow6"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=40846">Cowboy Bebop Episode 20 Discussion</a> <small> ( <a href="/forum/?topicid=40846&show=0">1</a> <a href="/forum/?topicid=40846&show=50">2</a> <a href="/forum/?topicid=40846&show=100">3</a> <a href="/forum/?topicid=40846&show=150">4</a> <a href="/forum/?topicid=40846&show=200">5</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Issun">Issun</a></span> - <span class="lightLink">Aug 29, 2008</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">209</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Crack">Crack</a> <a href="/forum/?topicid=40846&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 21, 7:40 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=29264" >Cowboy Bebop Episode 1 Discussion</a> <small> ( <a href="/forum/?topicid=29264&show=0">1</a> <a href="/forum/?topicid=29264&show=50">2</a> <a href="/forum/?topicid=29264&show=100">3</a> <a href="/forum/?topicid=29264&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/ManU-Alchemist">ManU-Alchemist</a></span> - <span class="lightLink">Jun 13, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">179</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/KPBouvier">KPBouvier</a> <a href="/forum/?topicid=29264&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 26, 2:25 PM</td>
             </tr>
-            <tr id="topicRow7">
+            <tr id="topicRow7" data-topic-id="40846">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow7"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=60625">Cowboy Bebop Episode 19 Discussion</a> <small> ( <a href="/forum/?topicid=60625&show=0">1</a> <a href="/forum/?topicid=60625&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Scribbly">Scribbly</a></span> - <span class="lightLink">Jan 3, 2009</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">89</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Crack">Crack</a> <a href="/forum/?topicid=60625&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 20, 4:07 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=40846" >Cowboy Bebop Episode 20 Discussion</a> <small> ( <a href="/forum/?topicid=40846&show=0">1</a> <a href="/forum/?topicid=40846&show=50">2</a> <a href="/forum/?topicid=40846&show=100">3</a> <a href="/forum/?topicid=40846&show=150">4</a> <a href="/forum/?topicid=40846&show=200">5</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Issun">Issun</a></span> - <span class="lightLink">Aug 29, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">212</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/The_Kingmaker">The_Kingmaker</a> <a href="/forum/?topicid=40846&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 25, 4:32 PM</td>
             </tr>
-            <tr id="topicRow8">
+            <tr id="topicRow8" data-topic-id="24084">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow8"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=24885">Cowboy Bebop Episode 18 Discussion</a> <small> ( <a href="/forum/?topicid=24885&show=0">1</a> <a href="/forum/?topicid=24885&show=50">2</a> <a href="/forum/?topicid=24885&show=100">3</a> <a href="/forum/?topicid=24885&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/FighterZ">FighterZ</a></span> - <span class="lightLink">May 14, 2008</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">155</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Crack">Crack</a> <a href="/forum/?topicid=24885&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 19, 12:29 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=24084" >Cowboy Bebop Episode 13 Discussion</a> <small> ( <a href="/forum/?topicid=24084&show=0">1</a> <a href="/forum/?topicid=24084&show=50">2</a> <a href="/forum/?topicid=24084&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/FighterZ">FighterZ</a></span> - <span class="lightLink">May 7, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">125</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Adnash">Adnash</a> <a href="/forum/?topicid=24084&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 23, 9:22 PM</td>
             </tr>
-            <tr id="topicRow9">
+            <tr id="topicRow9" data-topic-id="22879">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow9"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=133101">Cowboy Bebop Episode 16 Discussion</a> <small> ( <a href="/forum/?topicid=133101&show=0">1</a> <a href="/forum/?topicid=133101&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Kappaka">Kappaka</a></span> - <span class="lightLink">Nov 21, 2009</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">80</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Crack">Crack</a> <a href="/forum/?topicid=133101&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 17, 12:29 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=22879" >Cowboy Bebop Episode 5 Discussion</a> <small> ( <a href="/forum/?topicid=22879&show=0">1</a> <a href="/forum/?topicid=22879&show=50">2</a> <a href="/forum/?topicid=22879&show=100">3</a> <a href="/forum/?topicid=22879&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/FighterZ">FighterZ</a></span> - <span class="lightLink">Apr 27, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">159</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Silkoh">Silkoh</a> <a href="/forum/?topicid=22879&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 23, 3:21 PM</td>
             </tr>
-            <tr id="topicRow10">
+            <tr id="topicRow10" data-topic-id="35320">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow10"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=85746">Cowboy Bebop Episode 15 Discussion</a> <small> ( <a href="/forum/?topicid=85746&show=0">1</a> <a href="/forum/?topicid=85746&show=50">2</a> <a href="/forum/?topicid=85746&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/HaiAlwaysHungry">HaiAlwaysHungry</a></span> - <span class="lightLink">May 18, 2009</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">106</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Crack">Crack</a> <a href="/forum/?topicid=85746&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 14, 6:56 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=35320" >Cowboy Bebop Episode 11 Discussion</a> <small> ( <a href="/forum/?topicid=35320&show=0">1</a> <a href="/forum/?topicid=35320&show=50">2</a> <a href="/forum/?topicid=35320&show=100">3</a> <a href="/forum/?topicid=35320&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Scribbly">Scribbly</a></span> - <span class="lightLink">Jul 26, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">194</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/HisokaUA">HisokaUA</a> <a href="/forum/?topicid=35320&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 23, 1:08 PM</td>
             </tr>
-            <tr id="topicRow11">
+            <tr id="topicRow11" data-topic-id="23465">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow11"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;"><i class="fa-regular fa-lg fa-lock-keyhole"></i> <a href="/forum/?topicid=7">Best anime ever?</a> <small> ( <a href="/forum/?topicid=7&show=0">1</a> <a href="/forum/?topicid=7&show=50">2</a> <a href="/forum/?topicid=7&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/jason3">jason3</a></span> - <span class="lightLink">Dec 11, 2006</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">148</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Phloup">Phloup</a> <a href="/forum/?topicid=7&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 13, 10:10 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=23465" >Cowboy Bebop Episode 10 Discussion</a> <small> ( <a href="/forum/?topicid=23465&show=0">1</a> <a href="/forum/?topicid=23465&show=50">2</a> <a href="/forum/?topicid=23465&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/FighterZ">FighterZ</a></span> - <span class="lightLink">May 2, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">116</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Adnash">Adnash</a> <a href="/forum/?topicid=23465&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 21, 9:57 PM</td>
             </tr>
-            <tr id="topicRow12">
+            <tr id="topicRow12" data-topic-id="50217">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow12"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=101049">Cowboy Bebop Episode 6 Discussion</a> <small> ( <a href="/forum/?topicid=101049&show=0">1</a> <a href="/forum/?topicid=101049&show=50">2</a>  ) </small><br><span class="forum_postusername"><a href="/profile/KillthisAccount">KillthisAccount</a></span> - <span class="lightLink">Jul 22, 2009</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">98</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Crack">Crack</a> <a href="/forum/?topicid=101049&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 11, 1:19 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=50217" >Cowboy Bebop Episode 4 Discussion</a> <small> ( <a href="/forum/?topicid=50217&show=0">1</a> <a href="/forum/?topicid=50217&show=50">2</a> <a href="/forum/?topicid=50217&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/HaiAlwaysHungry">HaiAlwaysHungry</a></span> - <span class="lightLink">Oct 29, 2008</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">107</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Daiko">Daiko</a> <a href="/forum/?topicid=50217&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 21, 7:02 PM</td>
             </tr>
-            <tr id="topicRow13">
+            <tr id="topicRow13" data-topic-id="6487">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow13"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=22879">Cowboy Bebop Episode 5 Discussion</a> <small> ( <a href="/forum/?topicid=22879&show=0">1</a> <a href="/forum/?topicid=22879&show=50">2</a> <a href="/forum/?topicid=22879&show=100">3</a> <a href="/forum/?topicid=22879&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/FighterZ">FighterZ</a></span> - <span class="lightLink">Apr 27, 2008</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">154</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Crack">Crack</a> <a href="/forum/?topicid=22879&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 10, 4:36 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=6487" >Cowboy Bebop Episode 23 Discussion</a> <small> ( <a href="/forum/?topicid=6487&show=0">1</a> <a href="/forum/?topicid=6487&show=50">2</a> <a href="/forum/?topicid=6487&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/RoadLord">RoadLord</a></span> - <span class="lightLink">Oct 24, 2007</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">124</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Pepper179">Pepper179</a> <a href="/forum/?topicid=6487&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 21, 7:00 PM</td>
             </tr>
-            <tr id="topicRow14">
+            <tr id="topicRow14" data-topic-id="62654">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow14"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=50217">Cowboy Bebop Episode 4 Discussion</a> <small> ( <a href="/forum/?topicid=50217&show=0">1</a> <a href="/forum/?topicid=50217&show=50">2</a> <a href="/forum/?topicid=50217&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/HaiAlwaysHungry">HaiAlwaysHungry</a></span> - <span class="lightLink">Oct 29, 2008</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">106</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Crack">Crack</a> <a href="/forum/?topicid=50217&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 9, 11:42 PM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=62654" >Cowboy Bebop Episode 22 Discussion</a> <small> ( <a href="/forum/?topicid=62654&show=0">1</a> <a href="/forum/?topicid=62654&show=50">2</a> <a href="/forum/?topicid=62654&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Scribbly">Scribbly</a></span> - <span class="lightLink">Jan 15, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">145</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Pepper179">Pepper179</a> <a href="/forum/?topicid=62654&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 21, 6:28 PM</td>
             </tr>
-            <tr id="topicRow15">
+            <tr id="topicRow15" data-topic-id="101461">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow15"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F1%2F_%2Fforum&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=41342">Cowboy Bebop Episode 24 Discussion</a> <small> ( <a href="/forum/?topicid=41342&show=0">1</a> <a href="/forum/?topicid=41342&show=50">2</a> <a href="/forum/?topicid=41342&show=100">3</a> <a href="/forum/?topicid=41342&show=150">4</a>  ) </small><br><span class="forum_postusername"><a href="/profile/Issun">Issun</a></span> - <span class="lightLink">Sep 1, 2008</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">195</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/XeroBeat">XeroBeat</a> <a href="/forum/?topicid=41342&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 5, 8:19 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=101461" >Cowboy Bebop Episode 9 Discussion</a> <small> ( <a href="/forum/?topicid=101461&show=0">1</a> <a href="/forum/?topicid=101461&show=50">2</a> <a href="/forum/?topicid=101461&show=100">3</a>  ) </small><br><span class="forum_postusername"><a href="/profile/KillthisAccount">KillthisAccount</a></span> - <span class="lightLink">Jul 24, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">105</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Adnash">Adnash</a> <a href="/forum/?topicid=101461&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 20, 9:47 PM</td>
             </tr>
             </table></div></div>  <div class="mauto clearfix pt24" style="width:760px;">
     <div class="fl-l">
@@ -596,19 +612,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -618,23 +634,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -652,11 +668,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -765,7 +781,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

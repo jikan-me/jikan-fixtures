@@ -32,15 +32,15 @@ Naruto | Manga - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='e382612fb543eb6079cc82e149d9153da64fd0e6'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='ef662d51f912a84c69420abfab457a47a4436e6f'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643328"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643328"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -91,7 +93,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>
 
 <script>
     var trackOutboundLink = function(url) {
@@ -101,8 +103,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry" onclick="trackOutboundLink('https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry')">
-  <img src="/c/i/images/event/Mini_Banner_20220602_Writing_Contest_2022_Submission_Window_Opens/mini_banner.png" width="250" height="36" alt="Writing Contest 2022" title="Writing Contest 2022">
+  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
+  <img src="/c/i/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
 </a>
 
 </div>
@@ -185,7 +187,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/Product"><div><h1 class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper" itemscope itemtype="http://schema.org/Product"><div><h1 class="h1 edit-info">
       <span class="h1-title"><span itemprop="name">Naruto</span></span><div class="header-right">
           <a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F&amp;error=login_required" class="js-manga-edit-info-button"><i class="fa-solid fa-pencil mr4"></i>Edit</a>
 <div id="editdiv" class="fw-n fs11">
@@ -227,7 +243,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 		</table>
     <div id="myinfoDisplay" style="padding-left: 82px; margin-top: 3px;"></div>
 		</div>
-		<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F&amp;error=login_required" style="font-weight: normal;"><span id="favOutput">Add to Favorites</span></a></div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F11%2FNaruto"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F11%2FNaruto&amp;text=Naruto&amp;hashtags=manga"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F11%2FNaruto&amp;title=Naruto"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F11%2FNaruto&amp;name=Naruto"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div><br><h2>Alternative Titles</h2><div class="spaceit_pad"><span class="dark_text">Japanese:</span> NARUTO―ナルト―</div><div class="js-alternative-titles hide"><div class="spaceit_pad"><span class="dark_text">English:</span> Naruto</div></div><a href="javascript:void(0);" class="js-manga-toggle-alternative-title-button"><i class="fa-solid fa-chevron-down mr4"></i>More titles</a><br><br><h2>Information</h2><div class="spaceit_pad"><span class="dark_text">Type:</span> <a href="/topmanga.php?type=manga">Manga</a></div>
+		<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F&amp;error=login_required" style="font-weight: normal;"><span id="favOutput">Add to Favorites</span></a></div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F11%2FNaruto"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F11%2FNaruto&amp;text=Naruto&amp;hashtags=manga"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F11%2FNaruto&amp;title=Naruto"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F11%2FNaruto&amp;name=Naruto"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div><br><h2>Alternative Titles</h2><div class="spaceit_pad"><span class="dark_text">Japanese:</span> NARUTO―ナルト―</div><div class="js-alternative-titles hide"><div class="spaceit_pad"><span class="dark_text">English:</span> Naruto</div></div><a href="javascript:void(0);" class="js-manga-toggle-alternative-title-button"><i class="fa-solid fa-chevron-down mr4"></i>More titles</a><br><br><h2>Information</h2><div class="spaceit_pad"><span class="dark_text">Type:</span> <a href="/topmanga.php?type=manga">Manga</a></div>
 <div class="spaceit_pad"><span class="dark_text">Volumes:</span> 72
 </div>
 <div class="spaceit_pad"><span class="dark_text">Chapters:</span> 700
@@ -257,9 +273,9 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="spaceit_pad"><span class="dark_text">Serialization:</span>
     <a href="/manga/magazine/83/Shounen_Jump_Weekly" title="Shounen Jump (Weekly)">Shounen Jump (Weekly)</a></div><div class="spaceit_pad"><span class="dark_text">Authors:</span>
     <a href="/people/1879/Masashi_Kishimoto">Kishimoto, Masashi</a> (Story &amp; Art)</div><br>
-<h2>Statistics</h2><div class="spaceit_pad po-r js-statistics-info di-i" data-id="info1" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" ><span class="dark_text">Score:</span> <span><span itemprop="ratingValue" class="score-label score-8">8.06</span><sup><small>1</small></sup> <small>(scored by <span itemprop="ratingCount" style="display:none;">250288</span>250,288 users)</small><meta itemprop="bestRating" content="10"><meta itemprop="worstRating" content="1"></span><div class="statistics-info info1"><small><sup>1</sup> indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.</small></div></div><div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">  <span class="dark_text">Ranked:</span> #594<sup><small>2</small></sup>  <div class="statistics-info info2"><small><sup>2</sup> based on the <a href="/topmanga.php">top manga</a> page. Please note that 'R18+' titles are excluded.</small></div></div><div class="spaceit_pad"><span class="dark_text">Popularity:</span> #8</div>
-<div class="spaceit_pad"><span class="dark_text">Members:</span> 377,720</div>
-<div class="spaceit_pad"><span class="dark_text">Favorites:</span> 41,940</div><br><h2>External Links</h2><div class="pb16"><a href="http://ja.wikipedia.org/wiki/NARUTO_-%E3%83%8A%E3%83%AB%E3%83%88-" target="_blank">Wikipedia</a></div>  <div class="clearfix mauto mt16" style="width:160px;padding-right10px;"></div></div></td><td valign="top" style="padding-left: 5px;"><div class="rightside js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div>
+<h2>Statistics</h2><div class="spaceit_pad po-r js-statistics-info di-i" data-id="info1" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" ><span class="dark_text">Score:</span> <span><span itemprop="ratingValue" class="score-label score-8">8.07</span><sup><small>1</small></sup> <small>(scored by <span itemprop="ratingCount" style="display:none;">254718</span>254,718 users)</small><meta itemprop="bestRating" content="10"><meta itemprop="worstRating" content="1"></span><div class="statistics-info info1"><small><sup>1</sup> indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.</small></div></div><div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">  <span class="dark_text">Ranked:</span> #577<sup><small>2</small></sup>  <div class="statistics-info info2"><small><sup>2</sup> based on the <a href="/topmanga.php">top manga</a> page. Please note that 'R18+' titles are excluded.</small></div></div><div class="spaceit_pad"><span class="dark_text">Popularity:</span> #8</div>
+<div class="spaceit_pad"><span class="dark_text">Members:</span> 385,378</div>
+<div class="spaceit_pad"><span class="dark_text">Favorites:</span> 42,312</div><br><h2>External Links</h2><div class="pb16"><a href="http://ja.wikipedia.org/wiki/NARUTO_-%E3%83%8A%E3%83%AB%E3%83%88-" target="_blank">Wikipedia</a></div>  <div class="clearfix mauto mt16" style="width:160px;padding-right10px;"></div></div></td><td valign="top" style="padding-left: 5px;"><div class="rightside js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div>
 	<a name="lower"></a>
 	<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
 			<ul style="margin-right: 0; padding-right: 0;">
@@ -270,7 +286,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <li><a  href="/manga/11/Naruto/userrecs">Recommendations</a>
 			<li><a  href="/manga/11/Naruto/stacks">Interest Stacks</a>
 			<li><a  href="/manga/11/Naruto/news">News</a></li>
-			<li><a  href="/manga/11/Naruto/forum">Forum</a></li> 
+			<li><a  href="/manga/11/Naruto/forum">Forum</a></li>
 			<li><a  href="/manga/11/Naruto/clubs">Clubs</a></li>
 			<li><a  href="/manga/11/Naruto/pics">Pictures</a></li>
 				<li><a  href="/manga/11/Naruto/moreinfo">More Info</a></li>
@@ -291,7 +307,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tr>
-	<td valign="top"><div class="pb24"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="250,288 users" title="indicates a weighted score. Please note that 'Not yet published' titles are excluded."><div class="score-label score-8">8.06</div></div><div class="po-a di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#594</strong></span><span class="numbers popularity">Popularity <strong>#8</strong></span><span class="numbers members">Members <strong>377,720</strong></span></div><div class="information-block di-ib clearfix"><span class="information type"><a href="https://myanimelist.net/topmanga.php?type=manga">Manga</a></span><span class="information season"><a href="/manga/magazine/83/Shounen_Jump_Weekly" title="Shounen Jump (Weekly)">Shounen Jump (Weekly)</a></span><span class="information studio author"><a href="/people/1879/Masashi_Kishimoto">Kishimoto, Masashi</a> (Story &amp; Art)
+	<td valign="top"><div class="pb24"><div class="di-t w100 mt12"><div class="anime-detail-header-stats di-tc va-t "><div class="stats-block po-r clearfix"><div class="fl-l score" data-title="score" data-user="254,718 users" title="indicates a weighted score. Please note that 'Not yet published' titles are excluded."><div class="score-label score-8">8.07</div></div><div class="po-a di-ib ml12 pl20 pt8"><span class="numbers ranked" title="based on the top anime page. Please note that 'Not yet aired' and 'R18+' titles are excluded.">Ranked <strong>#577</strong></span><span class="numbers popularity">Popularity <strong>#8</strong></span><span class="numbers members">Members <strong>385,378</strong></span></div><div class="information-block di-ib clearfix"><span class="information type"><a href="https://myanimelist.net/topmanga.php?type=manga">Manga</a></span><span class="information season"><a href="/manga/magazine/83/Shounen_Jump_Weekly" title="Shounen Jump (Weekly)">Shounen Jump (Weekly)</a></span><span class="information studio author"><a href="/people/1879/Masashi_Kishimoto">Kishimoto, Masashi</a> (Story &amp; Art)
         </span></div></div><div class="user-status-block js-user-status-block fn-grey6 clearfix al mt8 po-r" data-type="manga"><input type="hidden" id="myinfo_anime_id" value="11"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F&amp;error=login_required" class="btn-user-status-add-list">Add to List</a><select name="myinfo_score" id="myinfo_score" class="form-user-score js-form-user-score ml8" disabled="disabled"><option selected="selected" value="0">Select</option><option value="10">(10) Masterpiece</option><option value="9">(9) Great</option><option value="8">(8) Very Good</option><option value="7">(7) Good</option><option value="6">(6) Fine</option><option value="5">(5) Average</option><option value="4">(4) Bad</option><option value="3">(3) Very Bad</option><option value="2">(2) Horrible</option><option value="1">(1) Appalling</option></select><div class="di-ib form-user-episode ml8 disabled">
         Volumes: <input type="text" id="myinfo_volumes" name="myinfo_volumes" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="totalVols" data-num="72">72</span><a href="javascript:void(0);" class="js-btn-count increase volume ml4"><i class="fa-solid fa-circle-plus"></i></a></div><div class="di-ib form-user-episode ml8 disabled">
         Chapters: <input type="text" id="myinfo_chapters" name="myinfo_chapters" size="3" class="inputtext js-user-episode-seen" value="0" disabled>/<span id="totalChaps" data-num="700">700</span><a href="javascript:void(0);" class="js-btn-count increase chapter ml4"><i class="fa-solid fa-circle-plus"></i></a></div></div><span class="notice_open_public pt4">* Your list is public by default.</span></div></div><div class="js-myinfo-error badresult-text al pb4" style="display:none;"></div>
@@ -299,18 +315,18 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <br />
 And so when he is assigned to Team 7&mdash;along with his new teammates Sasuke Uchiha and Sakura Haruno, under the mentorship of veteran ninja Kakashi Hatake&mdash;Naruto is forced to work together with other people for the first time in his life. Through undergoing vigorous training and taking on challenging missions, Naruto must learn what it means to work in a team and carve his own route toward becoming a full-fledged ninja recognized by his village.<br />
 <br />
-[Written by MAL Rewrite]</span><h2 style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?mid=11&t=background" style="font-weight: normal;">Edit</a></div>Background</h2><i>Naruto</i> has sold over 220 million copies worldwide as of 2015, making it the 4th highest grossing manga series of all time. It was nominated for the 19th Tezuka Osamu Cultural Prize in 2014, and in the same year Masashi Kishimoto was awarded Rookie of the Year in the media fine arts category by Japan&#039;s Agency for Cultural Affairs.<br />
+[Written by MAL Rewrite]</span><h2 style="margin-top: 15px;"><div class="floatRightHeader"><a href="/dbchanges.php?mid=11&t=background" style="font-weight: normal;">Edit</a></div>Background</h2><i>Naruto</i> has sold over 250 million copies worldwide as of 2020, making it the 4th highest grossing manga series of all time. It was nominated for the 19th Tezuka Osamu Cultural Prize in 2014, and in the same year Masashi Kishimoto was awarded Rookie of the Year in the media fine arts category by Japan&#039;s Agency for Cultural Affairs.<br />
 <br />
 Numerous databooks, artbooks, novels, and fanbooks on the series have been released. Eight summary volumes featuring unaltered color pages, larger dimensions, and exclusive interviews, covering the first part of the series were released between November 7, 2008 and April 10, 2009.<br />
 <br />
-The series was published in English by VIZ Media under the Shonen Jump imprint from August 16, 2003 to October 6, 2015. In the last four months of 2007, the campaign titled &quot;Naruto Nation&quot; was launched, in which three volumes were published each month so that US releases would be closer to Japan&#039;s, the same practice was done in February through April of 2009 this time titled &quot;Generation Ninja.&quot; A 3-in-1 omnibus edition has also been released since May 3, 2011. A box set containing volumes 1-27 was released on August 6, 2008, another one containing volumes 28-48 on July 7, 2015, and the final box set with volumes 49-72 on January 5, 2016. It was also published in Brazilian Portuguese by Panini Comics/Planet Manga from May 2007 to June 2015, and again as <i>Naruto Gold</i> edition since July 2015. <div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">
+The series was published in English by VIZ Media under the Shonen Jump imprint from August 16, 2003 to October 6, 2015. In the last four months of 2007, the campaign titled &quot;Naruto Nation&quot; was launched, in which three volumes were published each month so that US releases would be closer to Japan&#039;s, the same practice was done in February through April of 2009 this time titled &quot;Generation Ninja.&quot; A 3-in-1 omnibus edition has also been released since May 3, 2011. A box set containing volumes 1-27 was released on August 6, 2008, another one containing volumes 28-48 on July 7, 2015, and the final box set with volumes 49-72 on January 5, 2016. It was also published in Brazilian Portuguese by Panini Comics/Planet Manga from May 2007 to June 2015, and again as <i>Naruto Gold</i> edition since July 2015.<div class="border_top" style="padding:16px 0px 0px 0px;margin:14px 0px 0px 0px;"><div style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="manga_id=11;display=details;country=LU" data-ad-id="99455" data-ad-pid="1362562" data-ad-sid="394613"></div>
+        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="manga_id=11;display=details;country=PK" data-ad-id="99455" data-ad-pid="1362562" data-ad-sid="394613"></div>
 
       </div>
     </div><div style="padding: 20px 40px 20px 0; float: right; position: relative;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="manga_id=11;display=details;country=LU" data-ad-id="99456" data-ad-pid="1362562" data-ad-sid="394613"></div>
+        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="manga_id=11;display=details;country=PK" data-ad-id="99456" data-ad-pid="1362562" data-ad-sid="394613"></div>
 
       </div>
     </div></div></td></tr><tr><td class="pb24">
@@ -322,22 +338,22 @@ The series was published in English by VIZ Media under the Shonen Jump imprint f
   <div class="widget-header">
           </div>
   <div class="widget-content">
-                        <a href="https://mxj.myanimelist.net/nbcuniversal_animexmusic30thproject/result/?utm_source=MAL&amp;utm_medium=title-mxj&amp;utm_content=nbcu">
+                        <a href="https://otsukai.com/product/search?tags=Bunkasai2022&amp;has_stocks=1&amp;order_by=id,desc&amp;page=1&amp;utm_source=MAL&amp;utm_medium=title_mxj_bunkasai-sale">
                 <div class="content anime-mxj">
-                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220516_NBCUniversal.png"></div>
-                    <div class="text">The results for the NBCUniversal Anime General Election are out!</div>
+                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220912_mal_bunkasai_sale.png"></div>
+                    <div class="text">Official MAL T-shirts pre-orders now open! 💙</div>
                 </div>
             </a>
-                    <a href="https://mhwc.myanimelist.net/?utm_source=MAL&amp;utm_medium=top-mxj&amp;utm_content=writingcontest2022">
+                    <a href="https://mxj.myanimelist.net/bluehunter/art2/?utm_source=MAL&amp;utm_medium=title_mxj_bluehunter2">
                 <div class="content anime-mxj">
-                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220602_novel_contest.png"></div>
-                    <div class="text">Web Novel Writing Contest Now Open! 📒</div>
+                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220909_blue_hunter.png"></div>
+                    <div class="text">BLUE HUNTER Art Contest round 2 is go! 🐠</div>
                 </div>
             </a>
-                    <a href="https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&amp;utm_medium=top-mxj&amp;utm_content=liststyle_TR2022">
+                    <a href="https://mxj.myanimelist.net/official-about-me/kumichomusume/?utm_source=MAL&amp;utm_medium=title_mxj_about-me-kumichomusume">
                 <div class="content anime-mxj">
-                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220421_TR.png"></div>
-                    <div class="text">🎨 Tokyo Revengers List Designs 🎨</div>
+                    <div class="image"><img src="https://cdn.myanimelist.net/resources/mxj_panel/2022/20220905_about_me.png"></div>
+                    <div class="text">Check out the official Yakuza&#039;s Guide to Babysitting designs for your profile&#039;s About Me! 🍼</div>
                 </div>
             </a>
               </div>
@@ -459,13 +475,13 @@ The series was published in English by VIZ Media under the Shonen Jump imprint f
     <tr>
       <td valign="top" width="27" class="ac borderClass">
         <div class="picSurround">
-          <a href="https://myanimelist.net/character/1555/Hinata_Hyuuga" class="fw-n">
-            <img alt="Hyuuga, Hinata" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/278736.jpg?s=1c81cde434fdba4fc95be8fd209e101a 2x" class="lazyload" />
+          <a href="https://myanimelist.net/character/1662/Gaara" class="fw-n">
+            <img alt="Gaara" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/293375.jpg?s=67f83159c23c98cf92e3a67fe478b92c 2x" class="lazyload" />
           </a>
         </div>
       </td>
       <td valign="top" class="borderClass">
-        <a href="https://myanimelist.net/character/1555/Hinata_Hyuuga">Hyuuga, Hinata</a>
+        <a href="https://myanimelist.net/character/1662/Gaara">Gaara</a>
         <div class="spaceit_pad">
           <small>Supporting</small>
         </div>
@@ -475,13 +491,13 @@ The series was published in English by VIZ Media under the Shonen Jump imprint f
     <tr>
       <td valign="top" width="27" class="ac borderClass">
         <div class="picSurround">
-          <a href="https://myanimelist.net/character/1662/Gaara" class="fw-n">
-            <img alt="Gaara" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101 1x, https://cdn.myanimelist.net/r/84x124/images/characters/10/293375.jpg?s=67f83159c23c98cf92e3a67fe478b92c 2x" class="lazyload" />
+          <a href="https://myanimelist.net/character/1555/Hinata_Hyuuga" class="fw-n">
+            <img alt="Hyuuga, Hinata" width="42" height="62" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9" data-srcset="https://cdn.myanimelist.net/r/42x62/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9 1x, https://cdn.myanimelist.net/r/84x124/images/characters/6/278736.jpg?s=1c81cde434fdba4fc95be8fd209e101a 2x" class="lazyload" />
           </a>
         </div>
       </td>
       <td valign="top" class="borderClass">
-        <a href="https://myanimelist.net/character/1662/Gaara">Gaara</a>
+        <a href="https://myanimelist.net/character/1555/Hinata_Hyuuga">Hyuuga, Hinata</a>
         <div class="spaceit_pad">
           <small>Supporting</small>
         </div>
@@ -504,80 +520,27 @@ The series was published in English by VIZ Media under the Shonen Jump imprint f
       </td>
     </tr>
   </table></div></div>
-<div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div><br><h2><span class="floatRightHeader"><a href="/manga/11/Naruto/reviews">More reviews</a></span>Reviews</h2>
-              
-<div class="borderDark" style="padding: 4px 0;">
-  <div class="spaceit">
-    <div class="mb8" style="float: right; text-align: right;">
-      <div title="10:23 AM">Nov 6, 2014</div>
-      <div class="lightLink spaceit">
-                  700 of 700 chapters read
-              </div>
-      <div>
-        <a href="javascript:void(0);" onclick="$('#score167609').toggle()">Overall Rating</a>:
-        3
-      </div>
-    </div><div style="float: left;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-                                              <td valign="top" width="60">
-              <div class="picSurround">
-                <a href="https://myanimelist.net/profile/Kaiskov">
-                  <img src="https://cdn.myanimelist.net/images/userimages/3557383.jpg?t=1641645000" data-src="https://cdn.myanimelist.net/images/userimages/3557383.jpg?t=1641645000" border="0" class=" lazyloaded" width="48">
-                </a>
-              </div>
-            </td>
-                    <td valign="top">
-                          <a href="https://myanimelist.net/profile/Kaiskov">Kaiskov</a>
-              <small>(<a href="/profile/Kaiskov/reviews">All reviews</a>)</small><br>
-                        <div class="lightLink spaceit">
-              <strong>
-                <span id="rhelp167609">481</span>
-              </strong>
-              people found this review helpful
-            </div>
-                      </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
-        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score167609">
-      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
-        <tr>
-          <td class="borderClass bgColor1"><strong>Overall</strong></td>
-          <td class="borderClass bgColor1"><strong>3</strong></td>
-        </tr>
-        <tr>
-          <td class="borderClass" align="left">Story</td>
-          <td class="borderClass">3</td>
-        </tr>
-                  <tr>
-            <td class="borderClass" align="left">Art</td>
-            <td class="borderClass">6</td>
-          </tr>
-                <tr>
-          <td class="borderClass" align="left">Character</td>
-          <td class="borderClass">3</td>
-        </tr>
-        <tr>
-          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
-          <td class="borderClass" style="border-width: 0;">4</td>
-        </tr>
-      </table>
-    </div>
-
-                          
-    WARNING SPOILERS BELOW<br />
+<br><h2><span class="floatRightHeader"><a href="/manga/11/Naruto/reviews" class="ga-click" data-ga-click-type="manga-title-more-reviews">More reviews</a></span>Reviews</h2>
+                  
+<div class="review-element js-review-element" data-reactions='{"icon":["1","4","3"],"num":501,"count":["497","0","1","2","0","1","0"]}'><div class="thumbbody mt8">
+    <div class="thumb">
+              <a href="https://myanimelist.net/profile/Kaiskov" class="ga-click" data-ga-click-type="review-manga-reviewer-pic">
+          <img src="https://cdn.myanimelist.net/images/userimages/3557383.jpg?t=1641645000" data-src="https://cdn.myanimelist.net/images/userimages/3557383.jpg?t=1641645000" class="lazyloaded" width="48">
+        </a>
+          </div>
+    <div class="body">
+      <div title="10:23 AM" class="update_at">Nov 6, 2014</div><div class="username">
+          <a href="https://myanimelist.net/profile/Kaiskov" class="ga-click" data-ga-click-type="review-manga-reviewer">Kaiskov</a>
+          </div><div class="tags"><div class="tag not-recommended btn-label js-btn-label" data-id="3" data-href="https://myanimelist.net/manga/11/Naruto/reviews"><i class="far fa-star"></i>Not Recommended</div></div>      <div class="text">
+                WARNING SPOILERS BELOW<br />
 <br />
 I can&#039;t believe this... I really can&#039;t believe this...<br />
 <br />
 Naruto is a manga that has been running for 15 years, I still remember catching up with the first seasons of the anime back when I was 12, I remember skipping the dreadful filler second half from the original series and going straight to Shippuuden, I remember ALL of it and it is suddenly over. Wow... feels like an entire era ending.<br />
 <br />
 Anyway, Naruto was one of the first anime series I have ever watched (Dragon Ball being my first), and even though I had lost my interest and enjoyment in it for a very long
-
-          <span style="display: none;" id="review167609">
-        time (I dropped it REALLY early when I had just started Shippuuden, it just wasn&#039;t doing it for me anymore), I still made an attempt at catching up with the manga because people told me it was ending and I wanted to see my late childhood fall apart just like that.<br />
+                  <span class="js-visible" style="margin-left: -4px;">...</span>
+          <span class="js-hidden" style="display: none;">time (I dropped it REALLY early when I had just started Shippuuden, it just wasn&#039;t doing it for me anymore), I still made an attempt at catching up with the manga because people told me it was ending and I wanted to see my late childhood fall apart just like that.<br />
 <br />
 As for the actual review, Naruto started out as a fairly decent shounen manga, it told the story of a ninja called Naruto that was treated like shit by everyone else in the Hidden Leaf Village because he had the Nine-Tailed Fox sealed inside him. At first, he&#039;s completely useless and kinda annoying, all he really did at first was yelling &quot;I&#039;M GONNA BECOME THE HOKAGE&quot; like if there was no tomorrow. And for those wondering, the Hokage is the ruler of the village.<br />
 <br />
@@ -589,96 +552,48 @@ And Naruto himself did not get any better too, he was turned into one hell of a 
 <br />
 Another thing I have to point out is that the story simply couldn&#039;t keep one consistent bad guy. The timeskip arrives and we are left with Sasuke running away to eventually become a bad guy, a psychotic ninja that wants to achieve immortality and a secret society dedicated to capturing the Tailed Beasts such as Naruto&#039;s Nine-Tailed Fox. Wanna guess which one was the real big baddie? NONE OF THEM! Sasuke? He becomes a good guy after a while. Orochimaru? Same thing. Pain, the leader of Akatsuki? Turns out he was a puppet after all. Tobi, the guy behind him? Same thing, a puppet as well. Madara? Not this one either. Black Zetsu, the guy that never had any spotlight? Nope, also a puppet! As it turns out (And here comes a big spoiler), the real big bad just so happened to be the entity that created the energy force they use in their battles? How, because she was somehow resurrected...<br />
 <br />
-Overall, Naruto is a manga that does a fair job on the first part, but completely blows it near the end. If you wanna know if it&#039;s worth reading? Not really, unless you are planning to stop just before the timeskip begins
-        
-<div id="revhelp_output_167609" class="mt8 js-review-btn-helpful js-review-helpful-167609">
-      <a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F" class="button_form">Helpful</a>
-  </div>
-      </span>
-      <a href="javascript:void(0);" id="reviewToggle167609"
-         class="js-toggle-review-button" data-id="167609">read more</a>
-      </div>
-  <div>
-    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
-      <div style="float: right;">
-                  <a href="https://myanimelist.net/reviews.php?id=167609" class="lightLink"><small>permalink</small></a> |
-                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=167609" class="lightLink">
-          <small>report</small>
-        </a>
+Overall, Naruto is a manga that does a fair job on the first part, but completely blows it near the end. If you wanna know if it&#039;s worth reading? Not really, unless you are planning to stop just before the timeskip begins</span>
               </div>
-    </div>
+      <div class="rating mt20 mb20 js-hidden" style="display: none;">
+        Reviewer’s Rating: <span class="num">3</span>
+      </div>
+      <div class="notice mb12 js-hidden" style="display: none;">What did you think of this review?</div>
+      <div class="reaction-box mb8 js-hidden" style="display: none;"><div class="btn-reaction js-btn-reaction nice ga-click" data-ga-click-type="review-manga-reaction-nice" data-id="167609" data-val="1" data-more="true">
+              Nice
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f44d.png" alt="Nice"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction loveit ga-click" data-ga-click-type="review-manga-reaction-loveit" data-id="167609" data-val="2" data-more="true">
+              Love it
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/2764.png" alt="Love it"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction funny ga-click" data-ga-click-type="review-manga-reaction-funny" data-id="167609" data-val="3" data-more="true">
+              Funny
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f602.png" alt="Funny"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction confusing ga-click" data-ga-click-type="review-manga-reaction-confusing" data-id="167609" data-val="4" data-more="false" style="display: none;">
+              Confusing
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f928.png" alt="Confusing"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction informative ga-click" data-ga-click-type="review-manga-reaction-informative" data-id="167609" data-val="5" data-more="true" style="display: none;">
+              Informative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4a1.png" alt="Informative"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction well-written ga-click" data-ga-click-type="review-manga-reaction-well-written" data-id="167609" data-val="6" data-more="true" style="display: none;">
+              Well-written
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4dd.png" alt="Well-written"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction creative ga-click" data-ga-click-type="review-manga-reaction-creative" data-id="167609" data-val="7" data-more="true" style="display: none;">
+              Creative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f3a8.png" alt="Creative"><span class="num">0</span></div><div class="more_reviews js-more_reviews" style="display: none;"><a href="/profile/Kaiskov/reviews" class="ga-click" data-ga-click-type="review-manga-reviewer-all-reviews"><i class="fas fa-angle-right"></i>More reviews by Kaiskov (<span class="num">3</span>)
+            </a></div><div class="btn-showall js-btn-showall"><i class="fas fa-angle-right"></i>Show all</div></div><div class="bottom-navi"><div class="icon-reaction js-icon-reaction" data-id="167609"></div><div class="readmore"><a href="#" class="ga-click js-readmore" data-ga-click-type="review-readmore"><i class="fas fa-angle-down"></i>Read more</a></div><div class="showless" style="display: none;"><a href="#" class="ga-click js-showless" data-ga-click-type="review-showless"><i class="fas fa-angle-up"></i>Show less</a></div><div class="open"><a href="https://myanimelist.net/reviews.php?id=167609" class="ga-click" data-ga-click-type="review-permalink"><i class="fas fa-arrow-up-right"></i>Open
+              </a></div><div class="menu"><a href="#" class="btn-popup js-btn-popup"><i class="far fa-ellipsis-h"></i></a><div class="menu-block js-menu-block"><a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=167609" class="link ga-click" data-ga-click-type="review-report">Report</a></div></div></div>    </div>
   </div>
 </div>
 
-              
-<div class="borderDark" style="padding: 4px 0;">
-  <div class="spaceit">
-    <div class="mb8" style="float: right; text-align: right;">
-      <div title="11:15 AM">Nov 6, 2014</div>
-      <div class="lightLink spaceit">
-                  700 of 700 chapters read
-              </div>
-      <div>
-        <a href="javascript:void(0);" onclick="$('#score167619').toggle()">Overall Rating</a>:
-        9
-      </div>
-    </div><div style="float: left;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-                                              <td valign="top" width="60">
-              <div class="picSurround">
-                <a href="https://myanimelist.net/profile/JiroUmezu">
-                  <img src="https://cdn.myanimelist.net/images/userimages/3495997.jpg?t=1502299200" data-src="https://cdn.myanimelist.net/images/userimages/3495997.jpg?t=1502299200" border="0" class=" lazyloaded" width="48">
-                </a>
-              </div>
-            </td>
-                    <td valign="top">
-                          <a href="https://myanimelist.net/profile/JiroUmezu">JiroUmezu</a>
-              <small>(<a href="/profile/JiroUmezu/reviews">All reviews</a>)</small><br>
-                        <div class="lightLink spaceit">
-              <strong>
-                <span id="rhelp167619">328</span>
-              </strong>
-              people found this review helpful
-            </div>
-                      </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
-        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score167619">
-      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
-        <tr>
-          <td class="borderClass bgColor1"><strong>Overall</strong></td>
-          <td class="borderClass bgColor1"><strong>9</strong></td>
-        </tr>
-        <tr>
-          <td class="borderClass" align="left">Story</td>
-          <td class="borderClass">9</td>
-        </tr>
-                  <tr>
-            <td class="borderClass" align="left">Art</td>
-            <td class="borderClass">8</td>
-          </tr>
-                <tr>
-          <td class="borderClass" align="left">Character</td>
-          <td class="borderClass">9</td>
-        </tr>
-        <tr>
-          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
-          <td class="borderClass" style="border-width: 0;">10</td>
-        </tr>
-      </table>
-    </div>
-
-                          
-    *THIS REVIEW CONTAINS SPOILERS*<br />
+                  
+<div class="review-element js-review-element" data-reactions='{"icon":["1"],"num":330,"count":["330","0","0","0","0","0","0"]}'><div class="thumbbody mt8">
+    <div class="thumb">
+              <a href="https://myanimelist.net/profile/JiroUmezu" class="ga-click" data-ga-click-type="review-manga-reviewer-pic">
+          <img src="https://cdn.myanimelist.net/images/userimages/3495997.jpg?t=1502299200" data-src="https://cdn.myanimelist.net/images/userimages/3495997.jpg?t=1502299200" class="lazyloaded" width="48">
+        </a>
+          </div>
+    <div class="body">
+      <div title="11:15 AM" class="update_at">Nov 6, 2014</div><div class="username">
+          <a href="https://myanimelist.net/profile/JiroUmezu" class="ga-click" data-ga-click-type="review-manga-reviewer">JiroUmezu</a>
+          </div><div class="tags"><div class="tag recommended btn-label js-btn-label" data-id="1" data-href="https://myanimelist.net/manga/11/Naruto/reviews"><i class="fas fa-star"></i>Recommended</div></div>      <div class="text">
+                *THIS REVIEW CONTAINS SPOILERS*<br />
 <br />
 It&#039;s hard writing this review straight after finishing the manga but I wanted to do it when It&#039;s all fresh in my mind. Naruto is a story manga and anime fans over the world know, hate or love, It is easily the most detested manga of all time but yet one of the most popular. The story is about a young boy called Naruto Uzumaki, with his entire village despising and fearing him he is practically alone in the village and because of that he as a character values friendship more than the comman man and that leads to him going above
-
-          <span style="display: none;" id="review167619">
-        and beyond to bring his best friend Sasuke back. With many arcs and a monumental timeskip Naruto is a long story and not for people who don&#039;t have any patience, the land of waves arc, the chunin exams arc, the invasion of konoha arc, the search for tsunade arc and the sasuke retrieval arc comprised was part 1 and the flow of the arcs was great, it had practically no slow points and the emotion is high.<br />
+                  <span class="js-visible" style="margin-left: -4px;">...</span>
+          <span class="js-hidden" style="display: none;">and beyond to bring his best friend Sasuke back. With many arcs and a monumental timeskip Naruto is a long story and not for people who don&#039;t have any patience, the land of waves arc, the chunin exams arc, the invasion of konoha arc, the search for tsunade arc and the sasuke retrieval arc comprised was part 1 and the flow of the arcs was great, it had practically no slow points and the emotion is high.<br />
 <br />
 With the land of the waves being the arc that fans usually remember as the arc that hooked them to Naruto with the crazy techiques and really showed of what a ninja is. The chunin exams is a favorite to many and is my favorite arc with crazy battles and learning about many tragic past to characters it is easily the arc that develops more characters than any. The Invasion of konoha arc is something that could of waited till a certain part in the story was concluded but as it was it was an amazing part in the manga and it did bring tears and epic fighting, still could of been handled differently. The search for Tsunade arc is simply the calm before the storm arc, Naruto gets training from Jiraiya and learns the infamous Rasengan while looking for the next Hokage, the dynamics between Naruto, Jiraiya and Tsunade is very well done and the ending of the arc is a pinnacle point in the series. The final arc of part 1 is outstanding to say the least, the battles in this arc are probably the biggest in part 1 and in the series and the final fight is full of emotion which Kishi is well at, overall the arc changed the story but opened up the story for different possibilities.<br />
 <br />
@@ -686,100 +601,52 @@ Each arc focuses on something new and trhat&#039;s what I liked about part 1 and
 <br />
 Moving to the more recent arcs the Five Kage summit was something that was needed, we needed for the kages to interact and to show that the shinobi world wasn&#039;t perfect and the dynamic between them all proved that the world still needed to  change. Events happened in the arc which led to a big change, something that would start a beggining of a new era, overall a great arc. The confining the jinchuriki arc was an interesting one which focused on characters we don&#039;t get to see much and going more in depth with them as well as learning more about the past. The 4th shinobi world war arc was slow and the fighting wasn&#039;t that good but the ending proved it not to be the worst in the story. The ten tails revival arc was much better as we learn a truth about a certain person and the stakes really are higher, this is one of the best arcs and especially when read in a sitting instead of once a week for 3 years like some. Next is the final arc which could be seen as the best arc in the series as it focused on a select number of characters and it had very shocking moments and overall it concluded the story well and I didn&#039;t know if Kishimoto sensei could do it but he did, he concluded it perfectly. <br />
 <br />
-I&#039;ll say some points about the art, characters, my enjoyment and why I gave the manga a 9/10 overall. Well the art I rate an 8/10, for a weekly manga it is rare to find one with superb art every chapter and the Naruto series has allot of great art but then it can be very shabby as well. Characters I would rate them as 9/10, in part 1 it would be 10/10 but because of shippuden and less characters got development I think a 9 is suitable becuase still characters like Naruto, Gaara, Sasuke, Itachi and Shikamaru etc have great development. My enjoyment wise a 10/10, no less, I love Naruto the series, It&#039;s my favorite manga and i can look pass the not so good bits because it has everything I look for in a shounen manga. Overall I give it a 9/10, in reality it&#039;s something between an 8.5-9/10 but I think I will just give it a 9 instead of an 8. The story is really an amazing jouney and I always wanted my first review to be Naruto when it finished and here it is ... the story of a boy and his dream!
-        
-<div id="revhelp_output_167619" class="mt8 js-review-btn-helpful js-review-helpful-167619">
-      <a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F" class="button_form">Helpful</a>
-  </div>
-      </span>
-      <a href="javascript:void(0);" id="reviewToggle167619"
-         class="js-toggle-review-button" data-id="167619">read more</a>
-      </div>
-  <div>
-    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
-      <div style="float: right;">
-                  <a href="https://myanimelist.net/reviews.php?id=167619" class="lightLink"><small>permalink</small></a> |
-                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=167619" class="lightLink">
-          <small>report</small>
-        </a>
+I&#039;ll say some points about the art, characters, my enjoyment and why I gave the manga a 9/10 overall. Well the art I rate an 8/10, for a weekly manga it is rare to find one with superb art every chapter and the Naruto series has allot of great art but then it can be very shabby as well. Characters I would rate them as 9/10, in part 1 it would be 10/10 but because of shippuden and less characters got development I think a 9 is suitable becuase still characters like Naruto, Gaara, Sasuke, Itachi and Shikamaru etc have great development. My enjoyment wise a 10/10, no less, I love Naruto the series, It&#039;s my favorite manga and i can look pass the not so good bits because it has everything I look for in a shounen manga. Overall I give it a 9/10, in reality it&#039;s something between an 8.5-9/10 but I think I will just give it a 9 instead of an 8. The story is really an amazing jouney and I always wanted my first review to be Naruto when it finished and here it is ... the story of a boy and his dream!</span>
               </div>
-    </div>
+      <div class="rating mt20 mb20 js-hidden" style="display: none;">
+        Reviewer’s Rating: <span class="num">9</span>
+      </div>
+      <div class="notice mb12 js-hidden" style="display: none;">What did you think of this review?</div>
+      <div class="reaction-box mb8 js-hidden" style="display: none;"><div class="btn-reaction js-btn-reaction nice ga-click" data-ga-click-type="review-manga-reaction-nice" data-id="167619" data-val="1" data-more="true">
+              Nice
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f44d.png" alt="Nice"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction loveit ga-click" data-ga-click-type="review-manga-reaction-loveit" data-id="167619" data-val="2" data-more="true">
+              Love it
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/2764.png" alt="Love it"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction funny ga-click" data-ga-click-type="review-manga-reaction-funny" data-id="167619" data-val="3" data-more="true">
+              Funny
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f602.png" alt="Funny"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction confusing ga-click" data-ga-click-type="review-manga-reaction-confusing" data-id="167619" data-val="4" data-more="false" style="display: none;">
+              Confusing
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f928.png" alt="Confusing"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction informative ga-click" data-ga-click-type="review-manga-reaction-informative" data-id="167619" data-val="5" data-more="true" style="display: none;">
+              Informative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4a1.png" alt="Informative"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction well-written ga-click" data-ga-click-type="review-manga-reaction-well-written" data-id="167619" data-val="6" data-more="true" style="display: none;">
+              Well-written
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4dd.png" alt="Well-written"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction creative ga-click" data-ga-click-type="review-manga-reaction-creative" data-id="167619" data-val="7" data-more="true" style="display: none;">
+              Creative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f3a8.png" alt="Creative"><span class="num">0</span></div><div class="more_reviews js-more_reviews" style="display: none;"><a href="/profile/JiroUmezu/reviews" class="ga-click" data-ga-click-type="review-manga-reviewer-all-reviews"><i class="fas fa-angle-right"></i>More reviews by JiroUmezu (<span class="num">1</span>)
+            </a></div><div class="btn-showall js-btn-showall"><i class="fas fa-angle-right"></i>Show all</div></div><div class="bottom-navi"><div class="icon-reaction js-icon-reaction" data-id="167619"></div><div class="readmore"><a href="#" class="ga-click js-readmore" data-ga-click-type="review-readmore"><i class="fas fa-angle-down"></i>Read more</a></div><div class="showless" style="display: none;"><a href="#" class="ga-click js-showless" data-ga-click-type="review-showless"><i class="fas fa-angle-up"></i>Show less</a></div><div class="open"><a href="https://myanimelist.net/reviews.php?id=167619" class="ga-click" data-ga-click-type="review-permalink"><i class="fas fa-arrow-up-right"></i>Open
+              </a></div><div class="menu"><a href="#" class="btn-popup js-btn-popup"><i class="far fa-ellipsis-h"></i></a><div class="menu-block js-menu-block"><a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=167619" class="link ga-click" data-ga-click-type="review-report">Report</a></div></div></div>    </div>
   </div>
 </div>
 
-              
-<div class="borderDark" style="padding: 4px 0;">
-  <div class="spaceit">
-    <div class="mb8" style="float: right; text-align: right;">
-      <div title="7:45 AM">Nov 11, 2014</div>
-      <div class="lightLink spaceit">
-                  700 of 700 chapters read
-              </div>
-      <div>
-        <a href="javascript:void(0);" onclick="$('#score168197').toggle()">Overall Rating</a>:
-        10
-      </div>
-    </div><div style="float: left;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-                                              <td valign="top" width="60">
-              <div class="picSurround">
-                <a href="https://myanimelist.net/profile/viviviv13">
-                  <img src="https://cdn.myanimelist.net/images/userimages/4119949.jpg?t=1602325800" data-src="https://cdn.myanimelist.net/images/userimages/4119949.jpg?t=1602325800" border="0" class=" lazyloaded" width="48">
-                </a>
-              </div>
-            </td>
-                    <td valign="top">
-                          <a href="https://myanimelist.net/profile/viviviv13">viviviv13</a>
-              <small>(<a href="/profile/viviviv13/reviews">All reviews</a>)</small><br>
-                        <div class="lightLink spaceit">
-              <strong>
-                <span id="rhelp168197">272</span>
-              </strong>
-              people found this review helpful
-            </div>
-                      </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
-        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score168197">
-      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
-        <tr>
-          <td class="borderClass bgColor1"><strong>Overall</strong></td>
-          <td class="borderClass bgColor1"><strong>10</strong></td>
-        </tr>
-        <tr>
-          <td class="borderClass" align="left">Story</td>
-          <td class="borderClass">9</td>
-        </tr>
-                  <tr>
-            <td class="borderClass" align="left">Art</td>
-            <td class="borderClass">10</td>
-          </tr>
-                <tr>
-          <td class="borderClass" align="left">Character</td>
-          <td class="borderClass">10</td>
-        </tr>
-        <tr>
-          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
-          <td class="borderClass" style="border-width: 0;">9</td>
-        </tr>
-      </table>
-    </div>
-
-                          
-    Mod Edit: This review may contain spoilers<br />
+                  
+<div class="review-element js-review-element" data-reactions='{"icon":["1","2","3"],"num":277,"count":["275","1","1","0","0","0","0"]}'><div class="thumbbody mt8">
+    <div class="thumb">
+              <a href="https://myanimelist.net/profile/viviviv13" class="ga-click" data-ga-click-type="review-manga-reviewer-pic">
+          <img src="https://cdn.myanimelist.net/images/userimages/4119949.jpg?t=1602325800" data-src="https://cdn.myanimelist.net/images/userimages/4119949.jpg?t=1602325800" class="lazyloaded" width="48">
+        </a>
+          </div>
+    <div class="body">
+      <div title="7:45 AM" class="update_at">Nov 11, 2014</div><div class="username">
+          <a href="https://myanimelist.net/profile/viviviv13" class="ga-click" data-ga-click-type="review-manga-reviewer">viviviv13</a>
+          </div><div class="tags"><div class="tag recommended btn-label js-btn-label" data-id="1" data-href="https://myanimelist.net/manga/11/Naruto/reviews"><i class="fas fa-star"></i>Recommended</div></div>      <div class="text">
+                Mod Edit: This review may contain spoilers<br />
 <br />
 I know there is many other people here on this site that have reviewed this Manga before, but i felt that i wanted to give my says about it since it now have ended.<br />
 <br />
 For 3 years ago, i didn&#039;t like Naruto at all because it was so popular and so mainstream at that time. Other reasons is bacause i was afraid of going away from my other interestes in favor for Naruto. Oh man, i was wrong xD.<br />
 <br />
 One day, i was sick and pretty bored, so i decided to watch an Episode of Naruto. I was pretty neutral there.
-
-          <span style="display: none;" id="review168197">
-        Afterwards i read af few chapters of the Manga, and it got more interesting. Then i saw the battle between Naruto VS Kyubi, and that&#039;s the true beggining of my Naruto-hype xD.<br />
+                  <span class="js-visible" style="margin-left: -4px;">...</span>
+          <span class="js-hidden" style="display: none;">Afterwards i read af few chapters of the Manga, and it got more interesting. Then i saw the battle between Naruto VS Kyubi, and that&#039;s the true beggining of my Naruto-hype xD.<br />
 <br />
 Now for the Review itself.<br />
 <br />
@@ -803,173 +670,80 @@ Enjoyment - 9/10<br />
 I did enjoy Naruto from start to finish. It was a great journey xD.<br />
 <br />
 Overall - 10/10<br />
-I can say i will read Naruto again some time in the future. I can definitly recommend it to anyone interested in a long manga.<br />
-
-        
-<div id="revhelp_output_168197" class="mt8 js-review-btn-helpful js-review-helpful-168197">
-      <a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F" class="button_form">Helpful</a>
-  </div>
-      </span>
-      <a href="javascript:void(0);" id="reviewToggle168197"
-         class="js-toggle-review-button" data-id="168197">read more</a>
+I can say i will read Naruto again some time in the future. I can definitly recommend it to anyone interested in a long manga.</span>
+              </div>
+      <div class="rating mt20 mb20 js-hidden" style="display: none;">
+        Reviewer’s Rating: <span class="num">10</span>
       </div>
-  <div>
-    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
-      <div style="float: right;">
-                  <a href="https://myanimelist.net/reviews.php?id=168197" class="lightLink"><small>permalink</small></a> |
-                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=168197" class="lightLink">
-          <small>report</small>
-        </a>
-              </div>
-    </div>
-  </div>
-</div>
-
-              
-<div class="borderDark" style="padding: 4px 0;">
-  <div class="spaceit">
-    <div class="mb8" style="float: right; text-align: right;">
-      <div title="7:04 AM">Nov 6, 2014</div>
-      <div class="lightLink spaceit">
-                  700 of 700 chapters read
-              </div>
-      <div>
-        <a href="javascript:void(0);" onclick="$('#score167595').toggle()">Overall Rating</a>:
-        5
-      </div>
-    </div><div style="float: left;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-                                              <td valign="top" width="60">
-              <div class="picSurround">
-                <a href="https://myanimelist.net/profile/KappaKappaKappa">
-                  <img src="https://cdn.myanimelist.net/images/userimages/3465017.jpg?t=1649457600" data-src="https://cdn.myanimelist.net/images/userimages/3465017.jpg?t=1649457600" border="0" class=" lazyloaded" width="48">
-                </a>
-              </div>
-            </td>
-                    <td valign="top">
-                          <a href="https://myanimelist.net/profile/KappaKappaKappa">KappaKappaKappa</a>
-              <small>(<a href="/profile/KappaKappaKappa/reviews">All reviews</a>)</small><br>
-                        <div class="lightLink spaceit">
-              <strong>
-                <span id="rhelp167595">229</span>
-              </strong>
-              people found this review helpful
-            </div>
-                      </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-  <div class="spaceit textReadability word-break pt8 mt8" style="clear: both; border-top: 1px solid #ebebeb;">
-        <div style="float: left; display: none; margin: 0 10px 10px 0" id="score167595">
-      <table border="0" width="105" cellpadding="0" cellspacing="0" class="borderClass" style="border-width: 1px;">
-        <tr>
-          <td class="borderClass bgColor1"><strong>Overall</strong></td>
-          <td class="borderClass bgColor1"><strong>5</strong></td>
-        </tr>
-        <tr>
-          <td class="borderClass" align="left">Story</td>
-          <td class="borderClass">4</td>
-        </tr>
-                  <tr>
-            <td class="borderClass" align="left">Art</td>
-            <td class="borderClass">5</td>
-          </tr>
-                <tr>
-          <td class="borderClass" align="left">Character</td>
-          <td class="borderClass">2</td>
-        </tr>
-        <tr>
-          <td class="borderClass" style="border-width: 0;" align="left">Enjoyment</td>
-          <td class="borderClass" style="border-width: 0;">8</td>
-        </tr>
-      </table>
-    </div>
-
-                          
-    It&#039;s done! The end of Naruto marks the end of an 15-year period, about half of which I spent waiting for weekly updates for the manga that was my very first. <br />
-<br />
-Was it worth it? Maybe. I have a gut feeling that Naruto is going to be one of those manga that took great benefit from having a long-ass run time, and that a lot of the attraction towards Naruto was the fact that, well, &quot;everyone else was reading it too.&quot; Reading Naruto was as much of a social exercise as it was a reading one, since it&#039;s mega popularity ensured that there would always
-
-          <span style="display: none;" id="review167595">
-        be one or two people that you know that would be following it as well. <br />
-<br />
-As far as the actual writing is concerned, I&#039;d have to liken it to Harry Potter: ultimately flawed, but relatable. The themes of believing in yourself and the Power of Friendship™ have been explored numerous times before (and in a much better fashion by other manga/anime), and Naruto itself is a manga that I&#039;m pretty sure could have been written in 200-300 chapters as opposed to the monstrous 700 that have presented over its 15 year run. Many, many, many characters are introduced, given their time in the limelight, and then thrown away because ultimately, it&#039;s all about Naruto. Kishimoto doesn&#039;t understand how to use scale to properly create climactic moments, and by the end, Naruto&#039;s supreme dominance over any of the other characters makes their attempts to seem relevant laughable and almost pitiable. The fact of the matter is, there are so many &quot;oh, but this isn&#039;t my final form!&quot; moments in the manga that reading the damn thing became a chore near the end due to the fact that Kishimoto isn&#039;t a very creative writer. <br />
-<br />
-So why did I read all 700 chapters of what seems to be a quite mediocre effort? Well, Naruto was my first manga. Arguably, this fact combined with its existence as a social phenomenon made Naruto quite enjoyable to read (see my enjoyment score) despite its glaring flaws. It was fun to discuss the manga&#039;s weekly happenings with other people through its ups and downs--the experience was similar to that of following a sports team with other fans. <br />
-<br />
-So, should you read Naruto? Probably not, unless you really, really like shounen&#039;s. It&#039;s a stunningly middle-of-the-road affair with little original thematic content that was made enjoyable to read due to the fact that it was mega-popular. <br />
-<br />
-Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).  
-        
-<div id="revhelp_output_167595" class="mt8 js-review-btn-helpful js-review-helpful-167595">
-      <a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F" class="button_form">Helpful</a>
-  </div>
-      </span>
-      <a href="javascript:void(0);" id="reviewToggle167595"
-         class="js-toggle-review-button" data-id="167595">read more</a>
-      </div>
-  <div>
-    <div class="mt12 pt4 pb4 pl0 pr0 clearfix">
-      <div style="float: right;">
-                  <a href="https://myanimelist.net/reviews.php?id=167595" class="lightLink"><small>permalink</small></a> |
-                        <a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=167595" class="lightLink">
-          <small>report</small>
-        </a>
-              </div>
-    </div>
+      <div class="notice mb12 js-hidden" style="display: none;">What did you think of this review?</div>
+      <div class="reaction-box mb8 js-hidden" style="display: none;"><div class="btn-reaction js-btn-reaction nice ga-click" data-ga-click-type="review-manga-reaction-nice" data-id="168197" data-val="1" data-more="true">
+              Nice
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f44d.png" alt="Nice"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction loveit ga-click" data-ga-click-type="review-manga-reaction-loveit" data-id="168197" data-val="2" data-more="true">
+              Love it
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/2764.png" alt="Love it"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction funny ga-click" data-ga-click-type="review-manga-reaction-funny" data-id="168197" data-val="3" data-more="true">
+              Funny
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f602.png" alt="Funny"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction confusing ga-click" data-ga-click-type="review-manga-reaction-confusing" data-id="168197" data-val="4" data-more="false" style="display: none;">
+              Confusing
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f928.png" alt="Confusing"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction informative ga-click" data-ga-click-type="review-manga-reaction-informative" data-id="168197" data-val="5" data-more="true" style="display: none;">
+              Informative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4a1.png" alt="Informative"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction well-written ga-click" data-ga-click-type="review-manga-reaction-well-written" data-id="168197" data-val="6" data-more="true" style="display: none;">
+              Well-written
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f4dd.png" alt="Well-written"><span class="num">0</span></div><div class="btn-reaction js-btn-reaction creative ga-click" data-ga-click-type="review-manga-reaction-creative" data-id="168197" data-val="7" data-more="true" style="display: none;">
+              Creative
+              <img src="https://cdn.myanimelist.net/images/emoticon/72x72/1f3a8.png" alt="Creative"><span class="num">0</span></div><div class="more_reviews js-more_reviews" style="display: none;"><a href="/profile/viviviv13/reviews" class="ga-click" data-ga-click-type="review-manga-reviewer-all-reviews"><i class="fas fa-angle-right"></i>More reviews by viviviv13 (<span class="num">2</span>)
+            </a></div><div class="btn-showall js-btn-showall"><i class="fas fa-angle-right"></i>Show all</div></div><div class="bottom-navi"><div class="icon-reaction js-icon-reaction" data-id="168197"></div><div class="readmore"><a href="#" class="ga-click js-readmore" data-ga-click-type="review-readmore"><i class="fas fa-angle-down"></i>Read more</a></div><div class="showless" style="display: none;"><a href="#" class="ga-click js-showless" data-ga-click-type="review-showless"><i class="fas fa-angle-up"></i>Show less</a></div><div class="open"><a href="https://myanimelist.net/reviews.php?id=168197" class="ga-click" data-ga-click-type="review-permalink"><i class="fas fa-arrow-up-right"></i>Open
+              </a></div><div class="menu"><a href="#" class="btn-popup js-btn-popup"><i class="far fa-ellipsis-h"></i></a><div class="menu-block js-menu-block"><a href="https://myanimelist.net/dbchanges.php?go=reportreview&amp;id=168197" class="link ga-click" data-ga-click-type="review-report">Report</a></div></div></div>    </div>
   </div>
 </div>
 <div class="mt4"></div><br><div><div class="floatRightHeader"><a href="/manga/11/Naruto/stacks">More stacks</a></div><h2>Interest Stacks</h2></div>    <div class="detail-stack-block">
       <div class="column-item">
-        <a href="https://myanimelist.net/stacks/6540">
+        <a href="https://myanimelist.net/stacks/15305">
           <div class="img">
-                          <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/2/198213.jpg"></div>
-                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/3/253274.jpg"></div>
+                          <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/2/205751.jpg"></div>
+                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/1/157897.jpg"></div>
                       </div>
         </a>
         <div class="detail">
-          <div class="title"><a href="https://myanimelist.net/stacks/6540">Long Running Series</a></div>
+          <div class="title"><a href="https://myanimelist.net/stacks/15305">(1.10.22) The Masked Man Top 100 Manga Part 1</a></div>
           <div class="tag">
             <span class="by">by</span>
-            <a href="https://myanimelist.net/profile/carlosbg">carlosbg</a>          </div>
+            <a href="https://myanimelist.net/profile/ohadthedude">ohadthedude</a>          </div>
           <div class="foot">
-            <div class="stat">28 Entries&nbsp;&middot;&nbsp;1&nbsp;Restacks</div>
+            <div class="stat">50 Entries&nbsp;&middot;&nbsp;4&nbsp;Restacks</div>
           </div>
         </div>
       </div>
       <div class="column-item">
-        <a href="https://myanimelist.net/stacks/6358">
+        <a href="https://myanimelist.net/stacks/11207">
           <div class="img">
-                          <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/3/249658.jpg"></div>
-                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/2/253146.jpg"></div>
+                          <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/3/167273.jpg"></div>
+                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/2/101333.jpg"></div>
                       </div>
         </a>
         <div class="detail">
-          <div class="title"><a href="https://myanimelist.net/stacks/6358">Popular Battle Shounen Manga</a></div>
+          <div class="title"><a href="https://myanimelist.net/stacks/11207">Supernatural beings inhabiting humans</a></div>
           <div class="tag">
             <span class="by">by</span>
-            <a href="https://myanimelist.net/profile/JoshyKage">JoshyKage</a>          </div>
+            <a href="https://myanimelist.net/profile/Nightmare_Eyes">Nightmare_Eyes</a>          </div>
           <div class="foot">
-            <div class="stat">22 Entries&nbsp;&middot;&nbsp;3&nbsp;Restacks</div>
+            <div class="stat">26 Entries&nbsp;&middot;&nbsp;30&nbsp;Restacks</div>
           </div>
         </div>
       </div>
       <div class="column-item">
-        <a href="https://myanimelist.net/stacks/6218">
+        <a href="https://myanimelist.net/stacks/14680">
           <div class="img">
-                          <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/2/244752.jpg"></div>
-                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/3/258755.jpg"></div>
+                          <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/2/201605.jpg"></div>
+                                      <div class="edge"><img src="https://cdn.myanimelist.net/images/manga/3/209406.jpg"></div>
                       </div>
         </a>
         <div class="detail">
-          <div class="title"><a href="https://myanimelist.net/stacks/6218">Battle Shonen to read (1979 - 1999)</a></div>
+          <div class="title"><a href="https://myanimelist.net/stacks/14680">Dragon Ball Legacy Manga</a></div>
           <div class="tag">
             <span class="by">by</span>
-            <a href="https://myanimelist.net/profile/elvishawk">elvishawk</a>          </div>
+            <a href="https://myanimelist.net/profile/Eksevis">Eksevis</a>          </div>
           <div class="foot">
-            <div class="stat">20 Entries&nbsp;&middot;&nbsp;2&nbsp;Restacks</div>
+            <div class="stat">12 Entries&nbsp;&middot;&nbsp;5&nbsp;Restacks</div>
           </div>
         </div>
       </div>
@@ -993,19 +767,19 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
             title="666 Satan"><a href="https://myanimelist.net/recommendations/manga/11-32" class="link bg-center ga-click"
              data-ga-click-type="manga-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">666 Satan</span><span
-              class="users">10 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/3/511.jpg?s=20cf7a6e3638586981587eb9548c64ed" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/3/511.jpg?s=20cf7a6e3638586981587eb9548c64ed 1x,https://cdn.myanimelist.net/r/180x280/images/manga/3/511.jpg?s=c927520c0125cfe3a2272881230aaecd 2x" width="90" height="140" class="image lazyload" alt="666 Satan" border="0" ></a></li><li class="btn-anime" style="width:90px"
+              class="users">10 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/3/267783.jpg?s=f5ec92f8f8cbdab2c7b23527ee4a463e" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/3/267783.jpg?s=f5ec92f8f8cbdab2c7b23527ee4a463e 1x,https://cdn.myanimelist.net/r/180x280/images/manga/3/267783.jpg?s=911af9214125120a4a59e9ec774d7522 2x" width="90" height="140" class="image lazyload" alt="666 Satan" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Ao no Exorcist"><a href="https://myanimelist.net/recommendations/manga/11-13492" class="link bg-center ga-click"
              data-ga-click-type="manga-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Ao no Exorcist</span><span
               class="users">7 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/2/188810.jpg?s=5d7c52e2397baaa81ae2310ad93f269a" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/2/188810.jpg?s=5d7c52e2397baaa81ae2310ad93f269a 1x,https://cdn.myanimelist.net/r/180x280/images/manga/2/188810.jpg?s=bad6c1f7c693c41aedc87b51ff4df243 2x" width="90" height="140" class="image lazyload" alt="Ao no Exorcist" border="0" ></a></li><li class="btn-anime" style="width:90px"
+            title="Black Clover"><a href="https://myanimelist.net/recommendations/manga/11-86337" class="link bg-center ga-click"
+             data-ga-click-type="manga-user-recommend"
+             style="width:90px;height:140px;"><span class="title fs10">Black Clover</span><span
+              class="users">7 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/2/166254.jpg?s=4b92f41e2248ece29aafdb5b66ce462b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/2/166254.jpg?s=4b92f41e2248ece29aafdb5b66ce462b 1x,https://cdn.myanimelist.net/r/180x280/images/manga/2/166254.jpg?s=8b0e9a4c740548ed73a58945728269d0 2x" width="90" height="140" class="image lazyload" alt="Black Clover" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Hunter x Hunter"><a href="https://myanimelist.net/recommendations/manga/11-26" class="link bg-center ga-click"
              data-ga-click-type="manga-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Hunter x Hunter</span><span
               class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/2/253119.jpg?s=f13f12d9b363d99d5947e0941ac9a533" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/2/253119.jpg?s=f13f12d9b363d99d5947e0941ac9a533 1x,https://cdn.myanimelist.net/r/180x280/images/manga/2/253119.jpg?s=7e5faee97a538084f9ff78c0518cb7fa 2x" width="90" height="140" class="image lazyload" alt="Hunter x Hunter" border="0" ></a></li><li class="btn-anime" style="width:90px"
-            title="Black Clover"><a href="https://myanimelist.net/recommendations/manga/11-86337" class="link bg-center ga-click"
-             data-ga-click-type="manga-user-recommend"
-             style="width:90px;height:140px;"><span class="title fs10">Black Clover</span><span
-              class="users">6 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/2/166254.jpg?s=4b92f41e2248ece29aafdb5b66ce462b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/2/166254.jpg?s=4b92f41e2248ece29aafdb5b66ce462b 1x,https://cdn.myanimelist.net/r/180x280/images/manga/2/166254.jpg?s=8b0e9a4c740548ed73a58945728269d0 2x" width="90" height="140" class="image lazyload" alt="Black Clover" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Bleach"><a href="https://myanimelist.net/recommendations/manga/11-12" class="link bg-center ga-click"
              data-ga-click-type="manga-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Bleach</span><span
@@ -1033,7 +807,7 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
             title="Dragon Ball"><a href="https://myanimelist.net/recommendations/manga/11-42" class="link bg-center ga-click"
              data-ga-click-type="manga-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Dragon Ball</span><span
-              class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/2/54545.jpg?s=4b87b0ca8554cadc3728a45a78f59d26" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/2/54545.jpg?s=4b87b0ca8554cadc3728a45a78f59d26 1x,https://cdn.myanimelist.net/r/180x280/images/manga/2/54545.jpg?s=394f5110ef34f8eda55a9801e7b3b240 2x" width="90" height="140" class="image lazyload" alt="Dragon Ball" border="0" ></a></li><li class="btn-anime" style="width:90px"
+              class="users">2 Users</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/1/267793.jpg?s=bca9cac25d2a76683380c5fcae2e6e63" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/1/267793.jpg?s=bca9cac25d2a76683380c5fcae2e6e63 1x,https://cdn.myanimelist.net/r/180x280/images/manga/1/267793.jpg?s=14f2bbca9ffc887148a9beebdbdb4aed 2x" width="90" height="140" class="image lazyload" alt="Dragon Ball" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Rekka no Honoo"><a href="https://myanimelist.net/recommendations/manga/11-136" class="link bg-center ga-click"
              data-ga-click-type="manga-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Rekka no Honoo</span><span
@@ -1050,14 +824,14 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
              data-ga-click-type="manga-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Break Blade</span><span
               class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/3/160213.jpg?s=509c9b687fddd6f298268ae0f2d327a1" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/3/160213.jpg?s=509c9b687fddd6f298268ae0f2d327a1 1x,https://cdn.myanimelist.net/r/180x280/images/manga/3/160213.jpg?s=17be7f558b5af5392e2a30fa66ffcbaa 2x" width="90" height="140" class="image lazyload" alt="Break Blade" border="0" ></a></li><li class="btn-anime" style="width:90px"
-            title="Katekyo Hitman Reborn!"><a href="https://myanimelist.net/recommendations/manga/11-47" class="link bg-center ga-click"
-             data-ga-click-type="manga-user-recommend"
-             style="width:90px;height:140px;"><span class="title fs10">Katekyo Hitman Reborn!</span><span
-              class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/2/253085.jpg?s=2d2d3c6bb1baa2ebc835ce51d39150bb" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/2/253085.jpg?s=2d2d3c6bb1baa2ebc835ce51d39150bb 1x,https://cdn.myanimelist.net/r/180x280/images/manga/2/253085.jpg?s=365a222f4daf438976222812384a10ac 2x" width="90" height="140" class="image lazyload" alt="Katekyo Hitman Reborn!" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Bench"><a href="https://myanimelist.net/recommendations/manga/11-22721" class="link bg-center ga-click"
              data-ga-click-type="manga-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Bench</span><span
               class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/3/252248.jpg?s=d330185ed7da3519ad09efe5f22c975b" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/3/252248.jpg?s=d330185ed7da3519ad09efe5f22c975b 1x,https://cdn.myanimelist.net/r/180x280/images/manga/3/252248.jpg?s=aadd23f0d82d05edf8daf41ba0a2a305 2x" width="90" height="140" class="image lazyload" alt="Bench" border="0" ></a></li><li class="btn-anime" style="width:90px"
+            title="Katekyo Hitman Reborn!"><a href="https://myanimelist.net/recommendations/manga/11-47" class="link bg-center ga-click"
+             data-ga-click-type="manga-user-recommend"
+             style="width:90px;height:140px;"><span class="title fs10">Katekyo Hitman Reborn!</span><span
+              class="users">1 User</span><img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/90x140/images/manga/2/253085.jpg?s=2d2d3c6bb1baa2ebc835ce51d39150bb" data-srcset="https://cdn.myanimelist.net/r/90x140/images/manga/2/253085.jpg?s=2d2d3c6bb1baa2ebc835ce51d39150bb 1x,https://cdn.myanimelist.net/r/180x280/images/manga/2/253085.jpg?s=365a222f4daf438976222812384a10ac 2x" width="90" height="140" class="image lazyload" alt="Katekyo Hitman Reborn!" border="0" ></a></li><li class="btn-anime" style="width:90px"
             title="Solo Leveling"><a href="https://myanimelist.net/recommendations/manga/11-121496" class="link bg-center ga-click"
              data-ga-click-type="manga-user-recommend"
              style="width:90px;height:140px;"><span class="title fs10">Solo Leveling</span><span
@@ -1072,17 +846,35 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
 		<div class="clearfix" style="overflow:hidden;"><p>Here are the North American anime &amp; manga releases for July Week 1: July 3 - July 9 Anime releases Ansatsu Kyoushitsu: 365-nichi no Jikan Blu-ray &amp; DVD Combo...<a href="/news/55377145">read more</a></p></div>
 		<p class="lightLink spaceit">Jul 3, 2018 8:30 AM by <a href="/profile/Kineta">Kineta</a> | <a href="/forum/?topicid=1732247">Discuss (0 comments)</a></p></div>
 		<div class="borderClass"></div><br><h2><div class="floatRightHeader"><a href="/manga/11/Naruto/forum">More discussions</a></div>Recent Forum Discussion</h2><div class="page-forum">
-    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics"><tr id="topicRow1" data-topic-id="424935">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow1"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=424941">Naruto Chapter 54 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/jeanfarias">jeanfarias</a></span> - <span class="lightLink">Apr 10, 2012</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">8 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/TheFireNinja">TheFireNinja</a> <a href="/forum/?topicid=424941&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 5, 11:16 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=424935" class="ga-click" data-ga-click-type="manga-recent-forum-discussion">Naruto Chapter 52 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/jeanfarias">jeanfarias</a></span> - <span class="lightLink">Apr 10, 2012</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">5 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/xenon20">xenon20</a> <a href="/forum/?topicid=424935&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 27, 11:35 AM</td>
             </tr>
-            <tr id="topicRow2">
+            <tr id="topicRow2" data-topic-id="111168">
                  <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow2"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
-                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=111168">Naruto Chapter 1 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/Renton126">Renton126</a></span> - <span class="lightLink">Aug 31, 2009</span></td>
-              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">19 replies</td>
-                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Joel77">Joel77</a> <a href="/forum/?topicid=111168&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>May 1, 3:51 AM</td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=111168" class="ga-click" data-ga-click-type="manga-recent-forum-discussion">Naruto Chapter 1 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/Renton126">Renton126</a></span> - <span class="lightLink">Aug 31, 2009</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">20 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/mitarai_keiko">mitarai_keiko</a> <a href="/forum/?topicid=111168&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 25, 3:14 AM</td>
+            </tr>
+            <tr id="topicRow3" data-topic-id="521261">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow3"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=521261" class="ga-click" data-ga-click-type="manga-recent-forum-discussion">Naruto Chapter 138 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/jeanfarias">jeanfarias</a></span> - <span class="lightLink">Nov 20, 2012</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">6 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Muka-Sama">Muka-Sama</a> <a href="/forum/?topicid=521261&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 15, 5:56 PM</td>
+            </tr>
+            <tr id="topicRow4" data-topic-id="521257">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow4"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=521257" class="ga-click" data-ga-click-type="manga-recent-forum-discussion">Naruto Chapter 137 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/jeanfarias">jeanfarias</a></span> - <span class="lightLink">Nov 20, 2012</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">3 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Muka-Sama">Muka-Sama</a> <a href="/forum/?topicid=521257&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 15, 5:55 PM</td>
+            </tr>
+            <tr id="topicRow5" data-topic-id="521255">
+                 <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center" id="topicrow5"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F11%2F&amp;error=login_required"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched"></a></td>
+                 <td class="forum_boardrow1 " style="border-width: 0px 1px 1px 0px;">Poll:  <a href="/forum/?topicid=521255" class="ga-click" data-ga-click-type="manga-recent-forum-discussion">Naruto Chapter 136 Discussion</a> <small></small><br><span class="forum_postusername"><a href="/profile/jeanfarias">jeanfarias</a></span> - <span class="lightLink">Nov 20, 2012</span></td>
+              <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">3 replies</td>
+                <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>by <a href="/profile/Muka-Sama">Muka-Sama</a> <a href="/forum/?topicid=521255&goto=lastpost" title="Go to the Last Post">&raquo;&raquo;</a><br>Sep 15, 5:53 PM</td>
             </tr>
             </table></div><br><h2><div class="floatRightHeader"><a href="/manga/11/Naruto/featured">More featured articles</a></div>Recent Featured Articles</h2><div class="detail-page-featured-article"><div class="news-list">
       
@@ -1099,7 +891,7 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/MisterD98">MisterD98</a>
           </p><p class="di-tc pv pr8">
-              <b>213,210</b> views
+              <b>218,245</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/recommendation" class="tag tag-color-feature-recommendation" title="Recommendation">Recommendation</a><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/action" class="tag tag-color-feature-action" title="Action">Action</a><a href="https://myanimelist.net/featured/tag/mangaka" class="tag tag-color-feature-mangaka" title="Mangaka">Mangaka</a></div>
             </div></div>
@@ -1119,7 +911,7 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
           <p class="info pr8">
             by <a href="https://myanimelist.net/profile/FreeNightFalls">FreeNightFalls</a>
           </p><p class="di-tc pv pr8">
-              <b>409,114</b> views
+              <b>411,078</b> views
             </p><div class="tags">
               <div class="tags-inner"><a href="https://myanimelist.net/featured/tag/collection" class="tag tag-color-feature-collection" title="Collection">Collection</a><a href="https://myanimelist.net/featured/tag/action" class="tag tag-color-feature-action" title="Action">Action</a><a href="https://myanimelist.net/featured/tag/naruto" class="tag tag-color-feature-naruto" title="Naruto">Naruto</a></div>
             </div></div>
@@ -1214,19 +1006,19 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -1236,23 +1028,23 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -1270,11 +1062,11 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -1383,7 +1175,7 @@ Story 4, Art 5, Character 2, Enjoyment 8, Overall: 5 (4.75).
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

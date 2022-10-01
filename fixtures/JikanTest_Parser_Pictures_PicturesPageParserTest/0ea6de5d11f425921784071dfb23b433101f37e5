@@ -32,15 +32,15 @@ Citrus | Manga - Pictures - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='1abbf9d04666ca43984f19c55800bfcc3d8e5986'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='6b333f82477faf489acbc4b472c4e5fd4be21c9b'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643344"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643344"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -91,7 +93,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
     <script>(deployads = window.deployads || []).pageSegment = 'manga_pics_50145';</script>
 
 
@@ -103,8 +105,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry" onclick="trackOutboundLink('https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry')">
-  <img src="/c/i/images/event/Mini_Banner_20220602_Writing_Contest_2022_Submission_Window_Opens/mini_banner.png" width="250" height="36" alt="Writing Contest 2022" title="Writing Contest 2022">
+  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
+  <img src="/c/i/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
 </a>
 
 </div>
@@ -187,7 +189,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/Product"><div><h1 class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper" itemscope itemtype="http://schema.org/Product"><div><h1 class="h1 edit-info">
       <span class="h1-title"><span itemprop="name">Citrus</span></span><div class="header-right">
           <a href="https://myanimelist.net/login.php?from=%2Fmanga%2F50145%2Fjikan%2Fpics&amp;error=login_required" class="js-manga-edit-info-button"><i class="fa-solid fa-pencil mr4"></i>Edit</a>
 <div id="editdiv" class="fw-n fs11">
@@ -229,7 +245,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 		</table>
     <div id="myinfoDisplay" style="padding-left: 82px; margin-top: 3px;"></div>
 		</div>
-		<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F50145%2Fjikan%2Fpics&amp;error=login_required" style="font-weight: normal;"><span id="favOutput">Add to Favorites</span></a></div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F50145%2FCitrus"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F50145%2FCitrus&amp;text=Citrus&amp;hashtags=manga"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F50145%2FCitrus&amp;title=Citrus"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F50145%2FCitrus&amp;name=Citrus"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div><br><h2>Alternative Titles</h2><div class="spaceit_pad"><span class="dark_text">Japanese:</span> citrus</div><div class="js-alternative-titles hide"><div class="spaceit_pad"><span class="dark_text">English:</span> Citrus</div></div><a href="javascript:void(0);" class="js-manga-toggle-alternative-title-button"><i class="fa-solid fa-chevron-down mr4"></i>More titles</a><br><br><h2>Information</h2><div class="spaceit_pad"><span class="dark_text">Type:</span> <a href="/topmanga.php?type=manga">Manga</a></div>
+		<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F50145%2Fjikan%2Fpics&amp;error=login_required" style="font-weight: normal;"><span id="favOutput">Add to Favorites</span></a></div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F50145%2FCitrus"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F50145%2FCitrus&amp;text=Citrus&amp;hashtags=manga"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F50145%2FCitrus&amp;title=Citrus"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F50145%2FCitrus&amp;name=Citrus"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div><br><h2>Alternative Titles</h2><div class="spaceit_pad"><span class="dark_text">Japanese:</span> citrus</div><div class="js-alternative-titles hide"><div class="spaceit_pad"><span class="dark_text">English:</span> Citrus</div></div><a href="javascript:void(0);" class="js-manga-toggle-alternative-title-button"><i class="fa-solid fa-chevron-down mr4"></i>More titles</a><br><br><h2>Information</h2><div class="spaceit_pad"><span class="dark_text">Type:</span> <a href="/topmanga.php?type=manga">Manga</a></div>
 <div class="spaceit_pad"><span class="dark_text">Volumes:</span> 10
 </div>
 <div class="spaceit_pad"><span class="dark_text">Chapters:</span> 50
@@ -254,9 +270,9 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="spaceit_pad"><span class="dark_text">Serialization:</span>
     <a href="/manga/magazine/423/Comic_Yuri_Hime" title="Comic Yuri Hime">Comic Yuri Hime</a></div><div class="spaceit_pad"><span class="dark_text">Authors:</span>
     <a href="/people/20176/Saburouta">Saburouta</a> (Story &amp; Art)</div><br>
-<h2>Statistics</h2><div class="spaceit_pad po-r js-statistics-info di-i" data-id="info1" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" ><span class="dark_text">Score:</span> <span><span itemprop="ratingValue" class="score-label score-7">7.58</span><sup><small>1</small></sup> <small>(scored by <span itemprop="ratingCount" style="display:none;">36012</span>36,012 users)</small><meta itemprop="bestRating" content="10"><meta itemprop="worstRating" content="1"></span><div class="statistics-info info1"><small><sup>1</sup> indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.</small></div></div><div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">  <span class="dark_text">Ranked:</span> N/A<sup><small>2</small></sup>  <div class="statistics-info info2"><small><sup>2</sup> based on the <a href="/topmanga.php">top manga</a> page. Please note that 'R18+' titles are excluded.</small></div></div><div class="spaceit_pad"><span class="dark_text">Popularity:</span> #149</div>
-<div class="spaceit_pad"><span class="dark_text">Members:</span> 78,402</div>
-<div class="spaceit_pad"><span class="dark_text">Favorites:</span> 4,738</div><br><h2>External Links</h2><div class="pb16"><a href="https://ja.wikipedia.org/wiki/Citrus_%28%E6%BC%AB%E7%94%BB%29" target="_blank">Wikipedia</a></div>  <div class="clearfix mauto mt16" style="width:160px;padding-right10px;"></div></div></td><td valign="top" style="padding-left: 5px;"><div class="rightside js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div>
+<h2>Statistics</h2><div class="spaceit_pad po-r js-statistics-info di-i" data-id="info1" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" ><span class="dark_text">Score:</span> <span><span itemprop="ratingValue" class="score-label score-7">7.56</span><sup><small>1</small></sup> <small>(scored by <span itemprop="ratingCount" style="display:none;">36979</span>36,979 users)</small><meta itemprop="bestRating" content="10"><meta itemprop="worstRating" content="1"></span><div class="statistics-info info1"><small><sup>1</sup> indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.</small></div></div><div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">  <span class="dark_text">Ranked:</span> N/A<sup><small>2</small></sup>  <div class="statistics-info info2"><small><sup>2</sup> based on the <a href="/topmanga.php">top manga</a> page. Please note that 'R18+' titles are excluded.</small></div></div><div class="spaceit_pad"><span class="dark_text">Popularity:</span> #150</div>
+<div class="spaceit_pad"><span class="dark_text">Members:</span> 80,349</div>
+<div class="spaceit_pad"><span class="dark_text">Favorites:</span> 4,764</div><br><h2>External Links</h2><div class="pb16"><a href="https://ja.wikipedia.org/wiki/Citrus_%28%E6%BC%AB%E7%94%BB%29" target="_blank">Wikipedia</a></div>  <div class="clearfix mauto mt16" style="width:160px;padding-right10px;"></div></div></td><td valign="top" style="padding-left: 5px;"><div class="rightside js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto"></div>
 	<a name="lower"></a>
 	<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
 			<ul style="margin-right: 0; padding-right: 0;">
@@ -267,7 +283,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <li><a  href="/manga/50145/Citrus/userrecs">Recommendations</a>
 			<li><a  href="/manga/50145/Citrus/stacks">Interest Stacks</a>
 			<li><a  href="/manga/50145/Citrus/news">News</a></li>
-			<li><a  href="/manga/50145/Citrus/forum">Forum</a></li> 
+			<li><a  href="/manga/50145/Citrus/forum">Forum</a></li>
 			<li><a  href="/manga/50145/Citrus/clubs">Clubs</a></li>
 			<li><a class="horiznav_active" href="/manga/50145/Citrus/pics">Pictures</a></li>
 				<li><a  href="/manga/50145/Citrus/moreinfo">More Info</a></li>
@@ -291,7 +307,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 
 <h2 class="mb8">
 			<div class="floatRightHeader"><a href="/dbchanges.php?mid=50145&t=pic">Add a picture</a></div>
-			Pictures</h2><table border="0" cellpadding="0" cellspacing="10" align="center"><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/2/151744l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/2/151744.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=151744">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/1/151745l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/1/151745.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=151745">Report</a></div></td></tr><tr><td colspan="2"><div class="" style="padding:12px 0px; display: flex;"><div style="padding: 20px 40px;display: inline-block;"></div><div style="padding: 20px 0px;display: inline-block;"></div></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/5/159355l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/5/159355.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=159355">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/2/185904l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/2/185904.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185904">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/3/185905l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/3/185905.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185905">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/1/185906l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/1/185906.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185906">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/3/185907l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/3/185907.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185907">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/2/185908l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/2/185908.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185908">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/2/185909l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/2/185909.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185909">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/3/210885l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/3/210885.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=210885">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/1/219795l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/1/219795.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=219795">Report</a></div></td></table></div>  <div class="mauto clearfix pt24" style="width:760px;">
+			Pictures</h2><table border="0" cellpadding="0" cellspacing="10" align="center"><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/2/151744l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/2/151744.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=151744">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/1/151745l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/1/151745.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=151745">Report</a></div></td></tr><tr><td colspan="2"><div class="" style="padding:12px 0px; display: flex;"></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/5/159355l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/5/159355.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=159355">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/2/185904l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/2/185904.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185904">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/3/185905l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/3/185905.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185905">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/1/185906l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/1/185906.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185906">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/3/185907l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/3/185907.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185907">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/2/185908l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/2/185908.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185908">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/2/185909l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/2/185909.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=185909">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/3/210885l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/3/210885.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=210885">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/manga/1/219795l.jpg" title="Citrus" class="js-picture-gallery" rel="gallery-manga"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/manga/1/219795.jpg" alt="Citrus" border="0"></a></div><div style="text-align: center;" class="spaceit"><a href="/modules.php?go=report&type=mangapic&id=219795">Report</a></div></td></table></div>  <div class="mauto clearfix pt24" style="width:760px;">
     <div class="fl-l">
       </div>
       <div class="fl-r">
@@ -362,19 +378,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -384,23 +400,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -418,11 +434,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -531,7 +547,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
