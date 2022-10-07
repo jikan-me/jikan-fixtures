@@ -32,15 +32,15 @@ Latifa Fleuranza (Amagi Brilliant Park) - Pictures - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='6859e750319608b9a25c1849fd5465c2b4ce6976'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='5d1a2645eeabafe3b519b2199ad3f6460528d3dd'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643348"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643348"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -91,7 +93,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>
 
 <script>
     var trackOutboundLink = function(url) {
@@ -101,8 +103,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce" onclick="trackOutboundLink('https://mxj.myanimelist.net/liststyle_TR2022/?utm_source=MAL&utm_medium=TMB&utm_campaign=liststyle_TR2022&utm_content=announce')">
-  <img src="/c/i/images/event/Mini_Banner_20220421_TR2022/mini_banner.png" width="250" height="36" alt="TR2022" title="TR2022">
+  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
+  <img src="/c/i/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
 </a>
 
 </div>
@@ -185,12 +187,26 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper"><div><div class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper"><div><div class="h1 edit-info">
       <div class="h1-title"><h1 class="title-name h1_bold_none"><strong>Latifa  Fleuranza</strong></h1></div><div class="header-right">
           <a href="https://myanimelist.net/panel.php?go=characters&amp;do=edit&amp;character_id=105591" class="">Edit Character Information</a></div></div></div><div id="content" >
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
-          <td width="225" class="borderClass" style="border-width: 0 1px 0 0;" valign="top"><div style="text-align: center;"><a href="/character/105591/Latifa_Fleuranza/pics"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/characters/13/246869.jpg" alt="Latifa Fleuranza"></a></div>
+          <td width="225" class="borderClass" style="border-width: 0 1px 0 0;" valign="top"><div style="text-align: center;"><a href="/character/105591/Latifa_Fleuranza/pics"><img class="portrait-225x350 lazyload" data-src="https://cdn.myanimelist.net/images/characters/13/246869.jpg" alt="Latifa Fleuranza"></a></div>
           <div id="profileRows"><div id="v-favorite" data-favorite="{&quot;isFavorite&quot;:false,&quot;type&quot;:&quot;character&quot;,&quot;id&quot;:&quot;105591&quot;}">
   <a href="#" class="js-favorite-button" style="font-weight:normal;" @click.prevent="toggleFavorite()" :disabled="sending">
     <span id="favOutput">
@@ -205,22 +221,22 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <div class="borderClass" :class="isError? 'fn-red1': 'fn-grey5'" v-html="msg"></div>
   </template>
 </div>
-</div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F105591%2FLatifa_Fleuranza"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F105591%2FLatifa_Fleuranza&amp;text=Latifa%20Fleuranza&amp;hashtags="><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F105591%2FLatifa_Fleuranza&amp;title=Latifa%20Fleuranza"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F105591%2FLatifa_Fleuranza&amp;name=Latifa%20Fleuranza"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div><br><div class="normal_header">Animeography</div>
+</div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F105591%2FLatifa_Fleuranza"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F105591%2FLatifa_Fleuranza&amp;text=Latifa%20Fleuranza&amp;hashtags="><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F105591%2FLatifa_Fleuranza&amp;title=Latifa%20Fleuranza"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F105591%2FLatifa_Fleuranza&amp;name=Latifa%20Fleuranza"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div><br><div class="normal_header">Animeography</div>
 		<table border="0" cellpadding="0" cellspacing="0" width="100%">
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/22147/Amagi_Brilliant_Park"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/5/85435.jpg?s=c7eedc1d3fdd74cd6a6d92cb40ff2671" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/22147/Amagi_Brilliant_Park">Amagi Brilliant Park</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:22147">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:22147" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
-				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/30056/Amagi_Brilliant_Park__Wakuwaku_Mini_Theater_-_Rakugaki_Backstage"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/4/72011.jpg?s=c665b22abae604f355136173e70c83a7" border="0"></a></div></td>
+				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/30056/Amagi_Brilliant_Park__Wakuwaku_Mini_Theater_-_Rakugaki_Backstage"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/1911/121807.jpg?s=84212253fe885701d3a211d0621e6c0e" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/30056/Amagi_Brilliant_Park__Wakuwaku_Mini_Theater_-_Rakugaki_Backstage">Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:30056">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:30056" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/anime/30206/Amagi_Brilliant_Park__Nonbirishiteiru_Hima_ga_Nai"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/anime/11/74772.jpg?s=7b3bc8ed4dbdeea8e7a6887d1297df82" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/anime/30206/Amagi_Brilliant_Park__Nonbirishiteiru_Hima_ga_Nai">Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add anime to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:30206">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add anime to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="aid:30206" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 		</table>
 		<br />
@@ -229,16 +245,16 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/manga/57979/Amagi_Brilliant_Park"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/manga/3/175109.jpg?s=ecbf6ca0a32c346f7ce680cdf987035a" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/manga/57979/Amagi_Brilliant_Park">Amagi Brilliant Park</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:57979">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:57979" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 				<tr>
 				<td width="25" class="borderClass" valign="top"><div class="picSurround"><a href="https://myanimelist.net/manga/67845/Amagi_Brilliant_Park"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/manga/1/132665.jpg?s=865f2afa72f2e3cc388bb6e64ca3e186" border="0"></a></div></td>
 				<td valign="top" class="borderClass"><a href="https://myanimelist.net/manga/67845/Amagi_Brilliant_Park">Amagi Brilliant Park</a>
-				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:67845">add</a> <small>Main</small></div></td>
+				<div class="spaceit_pad"><a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fcharacter%2F105591%2Fjikan%2Fpics" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:67845" style="line-height: unset;">add</span></a> <small>Main</small></div></td>
 				</tr>
 		</table>
 		<br /><br>
-		Member Favorites: 130
+		Member Favorites: 127
 		</td>
 		<td valign="top" style="padding-left: 5px;"><div style="width:728px; margin:0 auto"></div>
 		<div id="horiznav_nav" style="margin: 5px 0 10px 0;">
@@ -263,7 +279,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 
 
 
-<h2 class="mb8"><div class="floatRightHeader"><a href="/dbchanges.php?cid=105591&t=addpicture">Add a picture</a></div>Pictures</h2><table border="0" cellpadding="0" cellspacing="10" align="center"><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/characters/13/246869.jpg" title="Latifa Fleuranza" class="js-picture-gallery" rel="gallery-character"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/characters/13/246869.jpg" alt="Latifa Fleuranza"></a></div><div style="margin-top: 4px; text-align: center;"><a href="/modules.php?go=report&type=charpic&id=246869">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/characters/12/258329.jpg" title="Latifa Fleuranza" class="js-picture-gallery" rel="gallery-character"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/characters/12/258329.jpg" alt="Latifa Fleuranza"></a></div><div style="margin-top: 4px; text-align: center;"><a href="/modules.php?go=report&type=charpic&id=258329">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/characters/7/262087.jpg" title="Latifa Fleuranza" class="js-picture-gallery" rel="gallery-character"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/characters/7/262087.jpg" alt="Latifa Fleuranza"></a></div><div style="margin-top: 4px; text-align: center;"><a href="/modules.php?go=report&type=charpic&id=262087">Report</a></div></td></table>  <div class="mauto clearfix pt24" style="width:760px;">
+<h2 class="mb8"><div class="floatRightHeader"><a href="/dbchanges.php?cid=105591&t=addpicture">Add a picture</a></div>Pictures</h2><table border="0" cellpadding="0" cellspacing="10" align="center"><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/characters/13/246869.jpg" title="Latifa Fleuranza" class="js-picture-gallery" rel="gallery-character"><img class="portrait-225x350 lazyload" data-src="https://cdn.myanimelist.net/images/characters/13/246869.jpg" alt="Latifa Fleuranza"></a></div><div style="margin-top: 4px; text-align: center;"><a href="/modules.php?go=report&type=charpic&id=246869">Report</a></div></td><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/characters/12/258329.jpg" title="Latifa Fleuranza" class="js-picture-gallery" rel="gallery-character"><img class="portrait-225x350 lazyload" data-src="https://cdn.myanimelist.net/images/characters/12/258329.jpg" alt="Latifa Fleuranza"></a></div><div style="margin-top: 4px; text-align: center;"><a href="/modules.php?go=report&type=charpic&id=258329">Report</a></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/characters/7/262087.jpg" title="Latifa Fleuranza" class="js-picture-gallery" rel="gallery-character"><img class="portrait-225x350 lazyload" data-src="https://cdn.myanimelist.net/images/characters/7/262087.jpg" alt="Latifa Fleuranza"></a></div><div style="margin-top: 4px; text-align: center;"><a href="/modules.php?go=report&type=charpic&id=262087">Report</a></div></td></table>  <div class="mauto clearfix pt24" style="width:760px;">
     <div class="fl-l">
       </div>
       <div class="fl-r">
@@ -332,19 +348,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -354,23 +370,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -388,11 +404,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -501,7 +517,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

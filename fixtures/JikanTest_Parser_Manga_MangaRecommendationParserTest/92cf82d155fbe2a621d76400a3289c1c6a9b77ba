@@ -32,15 +32,15 @@ Monster | Manga - Recommendations - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='f169ca6774a0293c0fa8f7a3753b9ec3e4172379'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='fcff0d1f7c32d7c9cda07dc345c89ce87971d9f2'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643331"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643331"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -91,7 +93,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
     <script>(deployads = window.deployads || []).pageSegment = 'manga_userrecs_1';</script>
 
 
@@ -103,8 +105,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry" onclick="trackOutboundLink('https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry')">
-  <img src="/c/i/images/event/Mini_Banner_20220602_Writing_Contest_2022_Submission_Window_Opens/mini_banner.png" width="250" height="36" alt="Writing Contest 2022" title="Writing Contest 2022">
+  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
+  <img src="/c/i/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
 </a>
 
 </div>
@@ -187,7 +189,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/Product"><div><h1 class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper" itemscope itemtype="http://schema.org/Product"><div><h1 class="h1 edit-info">
       <span class="h1-title"><span itemprop="name">Monster</span></span><div class="header-right">
           <a href="https://myanimelist.net/login.php?from=%2Fmanga%2F1%2Fjikan%2Fuserrecs&amp;error=login_required" class="js-manga-edit-info-button"><i class="fa-solid fa-pencil mr4"></i>Edit</a>
 <div id="editdiv" class="fw-n fs11">
@@ -229,7 +245,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 		</table>
     <div id="myinfoDisplay" style="padding-left: 82px; margin-top: 3px;"></div>
 		</div>
-		<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F1%2Fjikan%2Fuserrecs&amp;error=login_required" style="font-weight: normal;"><span id="favOutput">Add to Favorites</span></a></div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F1%2FMonster"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F1%2FMonster&amp;text=Monster&amp;hashtags=manga"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F1%2FMonster&amp;title=Monster"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F1%2FMonster&amp;name=Monster"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div><br><h2>Alternative Titles</h2><div class="spaceit_pad"><span class="dark_text">Japanese:</span> MONSTER</div><div class="js-alternative-titles hide"><div class="spaceit_pad"><span class="dark_text">English:</span> Monster</div></div><a href="javascript:void(0);" class="js-manga-toggle-alternative-title-button"><i class="fa-solid fa-chevron-down mr4"></i>More titles</a><br><br><h2>Information</h2><div class="spaceit_pad"><span class="dark_text">Type:</span> <a href="/topmanga.php?type=manga">Manga</a></div>
+		<div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fmanga%2F1%2Fjikan%2Fuserrecs&amp;error=login_required" style="font-weight: normal;"><span id="favOutput">Add to Favorites</span></a></div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F1%2FMonster"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F1%2FMonster&amp;text=Monster&amp;hashtags=manga"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F1%2FMonster&amp;title=Monster"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fmanga%2F1%2FMonster&amp;name=Monster"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div><br><h2>Alternative Titles</h2><div class="spaceit_pad"><span class="dark_text">Japanese:</span> MONSTER</div><div class="js-alternative-titles hide"><div class="spaceit_pad"><span class="dark_text">English:</span> Monster</div></div><a href="javascript:void(0);" class="js-manga-toggle-alternative-title-button"><i class="fa-solid fa-chevron-down mr4"></i>More titles</a><br><br><h2>Information</h2><div class="spaceit_pad"><span class="dark_text">Type:</span> <a href="/topmanga.php?type=manga">Manga</a></div>
 <div class="spaceit_pad"><span class="dark_text">Volumes:</span> 18
 </div>
 <div class="spaceit_pad"><span class="dark_text">Chapters:</span> 162
@@ -261,16 +277,16 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <div class="spaceit_pad"><span class="dark_text">Serialization:</span>
     <a href="/manga/magazine/1/Big_Comic_Original" title="Big Comic Original">Big Comic Original</a></div><div class="spaceit_pad"><span class="dark_text">Authors:</span>
     <a href="/people/1867/Naoki_Urasawa">Urasawa, Naoki</a> (Story &amp; Art)</div><br>
-<h2>Statistics</h2><div class="spaceit_pad po-r js-statistics-info di-i" data-id="info1" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" ><span class="dark_text">Score:</span> <span><span itemprop="ratingValue" class="score-label score-9">9.11</span><sup><small>1</small></sup> <small>(scored by <span itemprop="ratingCount" style="display:none;">71722</span>71,722 users)</small><meta itemprop="bestRating" content="10"><meta itemprop="worstRating" content="1"></span><div class="statistics-info info1"><small><sup>1</sup> indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.</small></div></div><div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">  <span class="dark_text">Ranked:</span> #5<sup><small>2</small></sup>  <div class="statistics-info info2"><small><sup>2</sup> based on the <a href="/topmanga.php">top manga</a> page. Please note that 'R18+' titles are excluded.</small></div></div><div class="spaceit_pad"><span class="dark_text">Popularity:</span> #30</div>
-<div class="spaceit_pad"><span class="dark_text">Members:</span> 185,848</div>
-<div class="spaceit_pad"><span class="dark_text">Favorites:</span> 16,309</div><br><h2>External Links</h2><div class="pb16"><a href="http://ja.wikipedia.org/wiki/MONSTER" target="_blank">Wikipedia</a></div>  <div class="clearfix mauto mt16" style="width:160px;padding-right10px;">
+<h2>Statistics</h2><div class="spaceit_pad po-r js-statistics-info di-i" data-id="info1" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" ><span class="dark_text">Score:</span> <span><span itemprop="ratingValue" class="score-label score-9">9.13</span><sup><small>1</small></sup> <small>(scored by <span itemprop="ratingCount" style="display:none;">77722</span>77,722 users)</small><meta itemprop="bestRating" content="10"><meta itemprop="worstRating" content="1"></span><div class="statistics-info info1"><small><sup>1</sup> indicates a <a href="javascript:void(0);" onclick="window.open('/info.php?go=topanime','topanime','menubar=no,scrollbars=no,status=no,width=500,height=380');">weighted score</a>.</small></div></div><div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">  <span class="dark_text">Ranked:</span> #5<sup><small>2</small></sup>  <div class="statistics-info info2"><small><sup>2</sup> based on the <a href="/topmanga.php">top manga</a> page. Please note that 'R18+' titles are excluded.</small></div></div><div class="spaceit_pad"><span class="dark_text">Popularity:</span> #30</div>
+<div class="spaceit_pad"><span class="dark_text">Members:</span> 199,585</div>
+<div class="spaceit_pad"><span class="dark_text">Favorites:</span> 17,443</div><br><h2>External Links</h2><div class="pb16"><a href="http://ja.wikipedia.org/wiki/MONSTER" target="_blank">Wikipedia</a></div>  <div class="clearfix mauto mt16" style="width:160px;padding-right10px;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="160" data-koukoku-height="600">
-        <div id="D_160x600_Leftrail" class="ad-sas mauto ac" data-ad-target="manga_id=1;display=userrecs;country=LU" data-ad-id="100645" data-ad-pid="1362562" data-ad-sid="394613" data-ad-sticky="sidebar" data-ad-sticky-container="#content"></div>
+        <div id="D_160x600_Leftrail" class="ad-sas mauto ac" data-ad-target="manga_id=1;display=userrecs;country=PK" data-ad-id="101363" data-ad-pid="1362562" data-ad-sid="394613" data-ad-sticky="sidebar" data-ad-sticky-container="#content"></div>
 
       </div>
     </div></div></td><td valign="top" style="padding-left: 5px;"><div class="rightside js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="728" data-koukoku-height="90">
-        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="manga_id=1;display=userrecs;country=LU" data-ad-id="99451" data-ad-pid="1362562" data-ad-sid="394613"></div>
+        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="manga_id=1;display=userrecs;country=PK" data-ad-id="99451" data-ad-pid="1362562" data-ad-sid="394613"></div>
 
       </div>
     </div>
@@ -284,7 +300,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <li><a class="horiznav_active" href="/manga/1/Monster/userrecs">Recommendations</a>
 			<li><a  href="/manga/1/Monster/stacks">Interest Stacks</a>
 			<li><a  href="/manga/1/Monster/news">News</a></li>
-			<li><a  href="/manga/1/Monster/forum">Forum</a></li> 
+			<li><a  href="/manga/1/Monster/forum">Forum</a></li>
 			<li><a  href="/manga/1/Monster/clubs">Clubs</a></li>
 			<li><a  href="/manga/1/Monster/pics">Pictures</a></li>
 			</ul>
@@ -324,7 +340,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/21/Death_Note"><strong>Death Note</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:21">add</a><span style="float:right;"><a href="/recommendations/manga/1-21" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/21/Death_Note"><strong>Death Note</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:21" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-21" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both have the similar, eerie themes of being chased for taking actions that the antagonist party views as correct.&nbsp;</div>
@@ -397,7 +413,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/3/20th_Century_Boys"><strong>20th Century Boys</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:3">add</a><span style="float:right;"><a href="/recommendations/manga/1-3" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/3/20th_Century_Boys"><strong>20th Century Boys</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:3" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-3" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Monster and 20th Century Boys are both written by the same author (Urasawa Naoki) and are both heavily psychological works that primarily explore the nature of evil.&nbsp;</div>
@@ -467,12 +483,12 @@ Naoki Urasawa’s manga are highly acclaimed for a reason, and I’d recommend c
 			</div>
             <div class="border_bottom" style="padding:8px 0px 8px 0px;margin:0px 0px 8px 0px;"><div style="padding: 20px 40px;display: inline-block;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="manga_id=1;display=userrecs;country=LU" data-ad-id="99455" data-ad-pid="1362562" data-ad-sid="394613"></div>
+        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="manga_id=1;display=userrecs;country=PK" data-ad-id="99455" data-ad-pid="1362562" data-ad-sid="394613"></div>
 
       </div>
     </div><div style="padding: 20px 0px;display: inline-block;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="manga_id=1;display=userrecs;country=LU" data-ad-id="99456" data-ad-pid="1362562" data-ad-sid="394613"></div>
+        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="manga_id=1;display=userrecs;country=PK" data-ad-id="99456" data-ad-pid="1362562" data-ad-sid="394613"></div>
 
       </div>
     </div></div>
@@ -481,7 +497,7 @@ Naoki Urasawa’s manga are highly acclaimed for a reason, and I’d recommend c
 			<tr>
 				<td width="60" valign="top">
 				<div class="picSurround"><a href="https://myanimelist.net/manga/745/Pluto" class="hoverinfo_trigger" id="#raArea1745" rel="#raInfo1745">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/56177.jpg?s=396d57661b7abb7a19f63c23fbf965e4" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/56177.jpg?s=396d57661b7abb7a19f63c23fbf965e4 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/56177.jpg?s=7fa1bcab47d0593ceb6c403d939faa2a 2x" width="50" border="0" alt="Manga: Pluto" class="lazyload">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/264496.jpg?s=b7a1b8f1a8415405cb459f1f822f7348" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/264496.jpg?s=b7a1b8f1a8415405cb459f1f822f7348 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/264496.jpg?s=32417c411c4be147686f78ea6850847a 2x" width="50" border="0" alt="Manga: Pluto" class="lazyload">
                 </a></div>
 				</td>
 				<td valign="top">
@@ -492,13 +508,13 @@ Naoki Urasawa’s manga are highly acclaimed for a reason, and I’d recommend c
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/745/Pluto"><strong>Pluto</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:745">add</a><span style="float:right;"><a href="/recommendations/manga/1-745" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/745/Pluto"><strong>Pluto</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:745" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-745" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Same mangaka. Both series have the typical epic/seinen Urasawa stile and great characters.&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=561" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Gladius">Gladius</a></div>
 					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="2">Read recommendations by <strong>6</strong> more users</a></div>
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="2">Read recommendations by <strong>8</strong> more users</a></div>
 						<div id="simaid2" style="display: none;">
 					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Well, Pluto is, first of everything, a manga by the same author, Naoki Urasawa. And they both contain misterious stories, wich characters are involved in a continuous spiral of sensational developments (sorry, i translated it with google) that bring them to an emotional finale. For the excpetion that Pluto is an original work by Osamu &quot;God&quot; Tezuka, and it&#039;s already a genious strike, because it tells a story settled in the future, where characters are protagonists of a mistery involving a beast who is destroying the most powerful robots in the Earth. Somebody could see some relevance with the writer Philip K. Dick and the <span style="display: none;" id="recommend5504">&quot;robots laws&quot;; Monster, instead, is one of the most memorable thriller manga of all times, with a unique villain and a moltitude of brilliant characters. So, here&#039;s for you two wonderful mangas by a really talented author. Enjoy.</span>&nbsp<a href="javascript:void(0);" class="js-toggle-recommendation-button" data-id="5504">read more</a>&nbsp;</div>
@@ -520,12 +536,20 @@ Naoki Urasawa’s manga are highly acclaimed for a reason, and I’d recommend c
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=39122" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/BohemianRhapsody">BohemianRhapsody</a></div>
 					</div>
 					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Written by the same author, and both mystery series. Much overlying intrigue and interest in mysteries over the entire series, and both are very captivating.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=57945" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/SteamedPlague">SteamedPlague</a></div>
+					</div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Monster and Pluto have the same art style and same amount os suspense and thriller because they&#039;re from The Psychological Thriller Expert Naoki Urasawa&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=44409" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Drumbottle">Drumbottle</a></div>
 					</div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both written and drawn by Urasawa, both seinen manga about murders and finding a serial killer. Very similar art and characters. Both have a character called Dr. Tenma.&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=53585" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Eziprez">Eziprez</a></div>
+					</div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Pluto is very similar to monster cause they both focus on a mystery. The same person who wrote monster wrote pluto so there kinda similar. And they both have interesting main characters&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=57362" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/CosmoMcFloso">CosmoMcFloso</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -548,7 +572,7 @@ Naoki Urasawa’s manga are highly acclaimed for a reason, and I’d recommend c
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1695/Adolf_ni_Tsugu"><strong>Adolf ni Tsugu</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1695">add</a><span style="float:right;"><a href="/recommendations/manga/1-1695" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1695/Adolf_ni_Tsugu"><strong>Adolf ni Tsugu</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1695" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1695" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Fast paced, addicting thrillers full of conspiracies, betrayal and plot twists. Each plot is multi-layered, deep, intricate and well thought out with many characters. The stories pull you into their world and don&#039;t let go until their stunning conclusions.
@@ -585,93 +609,6 @@ Overall, both manga are fast-paced thrillers, with a lot of character developmen
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
 				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/344/ES__Eternal_Sabbath" class="hoverinfo_trigger" id="#raArea1344" rel="#raInfo1344">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/174740.jpg?s=d454a4738c58d5ff97db347a23881618" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/174740.jpg?s=d454a4738c58d5ff97db347a23881618 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/174740.jpg?s=60b6e6175bce1aa7b281e50593d5b385 2x" width="50" border="0" alt="Manga: ES: Eternal Sabbath" class="lazyload">
-                </a></div>
-				</td>
-				<td valign="top">
-				
-	<div id="raArea1344">
-	<div id="raInfo1344" rel="m344" class="hoverinfo">
-	</div>
-	</div>
-	
-                <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/344/ES__Eternal_Sabbath"><strong>ES: Eternal Sabbath</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:344">add</a><span style="float:right;"><a href="/recommendations/manga/1-344" title="Permalink"><small>permalink</small></a></span>
-                </div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Same type of assassin, a very psychologic story, characters trying to change their own lives.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=2109" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Shaya">Shaya</a></div>
-					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="4">Read recommendations by <strong>3</strong> more users</a></div>
-						<div id="simaid4" style="display: none;">
-					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">The antagonists Johan and Isaac are VERY similar.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=854" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/koara">koara</a></div>
-					</div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Very similar in relation of how the assassins deal with people.... They both also have very psychological-filled plots.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=11445" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/keonifx">keonifx</a></div>
-					</div>
-					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">These two are similar as they both have characters in search of someone who has committed crimes and are hard to catch. Both very good psychological mangas with interesting characters. &nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=49932" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/PinkBlossom_Xx">PinkBlossom_Xx</a></div>
-					</div></div>
-				</td>
-			</tr>
-			</table>
-			</div>
-            
-			<div class="borderClass">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tr>
-				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/111213/Bastard" class="hoverinfo_trigger" id="#raArea1111213" rel="#raInfo1111213">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/205549.jpg?s=a11733de6f6b7b3edb060df118b07146" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/205549.jpg?s=a11733de6f6b7b3edb060df118b07146 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/205549.jpg?s=81a22f6e7bc4ef04c4f6bcde20e3bb22 2x" width="50" border="0" alt="Manga: Bastard" class="lazyload">
-                </a></div>
-				</td>
-				<td valign="top">
-				
-	<div id="raArea1111213">
-	<div id="raInfo1111213" rel="m111213" class="hoverinfo">
-	</div>
-	</div>
-	
-                <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/111213/Bastard"><strong>Bastard</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:111213">add</a><span style="float:right;"><a href="/recommendations/manga/1-111213" title="Permalink"><small>permalink</small></a></span>
-                </div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both are psychological crime drama that explore the mind of a killer.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=52160" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/abystoma2">abystoma2</a></div>
-					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="5">Read recommendations by <strong>3</strong> more users</a></div>
-						<div id="simaid5" style="display: none;">
-					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">This may not be a manga, but I think anyone who enjoyed Monster would enjoy Bastard. The main antagonist in both series are serial killers with great charisma and a frightening personality, and the protagonist are both people who are &quot;close&quot; in away to the antagonist.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=48593" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Den11">Den11</a></div>
-					</div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Inhuman. Two very seemingly &quot;perfect&quot; individuals with gruesome secrets only one other knows about. The stories follow protagonists who wish to rid of such people&#039;s existences.
-
-Monster does this with a doctor&#039;s fatal mistake that needs to be fixed. Bastard does this with an anything but stable father and son relationship.
-
-Both are good psychological mysteries that move slowly in the name of tension and good writing.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=51925" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/NextUniverse">NextUniverse</a></div>
-					</div>
-					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both anime deals with killing and smart tactics to kill somebody
-both are sickeningly dramatic&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=50406" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Flynnnn">Flynnnn</a></div>
-					</div></div>
-				</td>
-			</tr>
-			</table>
-			</div>
-            
-			<div class="borderClass">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tr>
-				<td width="60" valign="top">
 				<div class="picSurround"><a href="https://myanimelist.net/manga/1677/MW" class="hoverinfo_trigger" id="#raArea11677" rel="#raInfo11677">
                 <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/176646.jpg?s=05d09e464b826c32ca4e6d51347d7c25" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/176646.jpg?s=05d09e464b826c32ca4e6d51347d7c25 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/176646.jpg?s=d33f70e58a7aaf634e8ed5f872bf719c 2x" width="50" border="0" alt="Manga: MW" class="lazyload">
                 </a></div>
@@ -684,14 +621,14 @@ both are sickeningly dramatic&nbsp;</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1677/MW"><strong>MW</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1677">add</a><span style="float:right;"><a href="/recommendations/manga/1-1677" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1677/MW"><strong>MW</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1677" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1677" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Naoki Urasawa&#039;s Monster was definitely influenced by MW. Both Johan Liebert in Monster and Michio Yuki are highly intelligent, manipulative, attractive, and dangerous sociopaths. And the reason both committed horrendous acts without conscience - or the justification they use - comes from unnatural origins. Both stories also have the &#039;good&#039; character, playing a good vs. evil cat-and-mouse game and being influenced negatively by Johan or Yuki.  &nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=10550" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Duelistbluerose">Duelistbluerose</a></div>
 					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="6">Read recommendations by <strong>3</strong> more users</a></div>
-						<div id="simaid6" style="display: none;">
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="4">Read recommendations by <strong>3</strong> more users</a></div>
+						<div id="simaid4" style="display: none;">
 					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Perhaps the most obvious recommendation, as MW&#039;s influences on Monster are many and Johan&#039;s similarities to Yuki are plain as day. Both series are dramatic thrillers with an unflinchingly cynical view of humanity and no fear of flawed heroes. Perhaps the most obvious parallels are the mutually destructive yet irresistable conection between the morally conflicted &quot;hero&quot; who finds himself on the wrong side of the law and the handsome, charismatic, and entirely ruthless antagonist who is the cause of his troubles.&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=19383" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/lithiumflower">lithiumflower</a></div>
@@ -714,35 +651,83 @@ And I can tell you that the concept of Monster is clearly based on MW&#039;s; th
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
 				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/1929/Loose_Senki__Old_Boy" class="hoverinfo_trigger" id="#raArea11929" rel="#raInfo11929">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/179835.jpg?s=b6c907a26c51e16402a0998e9a91ad82" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/179835.jpg?s=b6c907a26c51e16402a0998e9a91ad82 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/179835.jpg?s=188efb392045c42389fd4b243b238299 2x" width="50" border="0" alt="Manga: Loose Senki: Old Boy" class="lazyload">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/111213/Bastard" class="hoverinfo_trigger" id="#raArea1111213" rel="#raInfo1111213">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/205549.jpg?s=a11733de6f6b7b3edb060df118b07146" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/205549.jpg?s=a11733de6f6b7b3edb060df118b07146 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/205549.jpg?s=81a22f6e7bc4ef04c4f6bcde20e3bb22 2x" width="50" border="0" alt="Manga: Bastard" class="lazyload">
                 </a></div>
 				</td>
 				<td valign="top">
 				
-	<div id="raArea11929">
-	<div id="raInfo11929" rel="m1929" class="hoverinfo">
+	<div id="raArea1111213">
+	<div id="raInfo1111213" rel="m111213" class="hoverinfo">
 	</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1929/Loose_Senki__Old_Boy"><strong>Loose Senki: Old Boy</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1929">add</a><span style="float:right;"><a href="/recommendations/manga/1-1929" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/111213/Bastard"><strong>Bastard</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:111213" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-111213" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">The protagonist is an adult man that gets dragged into a grand scale machinations and faces off the antagonist in psychological warfare.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=55255" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/abystoma2">abystoma2</a></div>
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both are psychological crime drama that explore the mind of a killer.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=52160" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/abystoma2">abystoma2</a></div>
 					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="7">Read recommendations by <strong>2</strong> more users</a></div>
-						<div id="simaid7" style="display: none;">
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="5">Read recommendations by <strong>3</strong> more users</a></div>
+						<div id="simaid5" style="display: none;">
 					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both these titles have a dark ambience. All the characters seem realistic and driven by a strong and dramatic storyline. the main protagonists are in a search for something in order to uncover the truth.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=38893" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Ashcom">Ashcom</a></div>
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">This may not be a manga, but I think anyone who enjoyed Monster would enjoy Bastard. The main antagonist in both series are serial killers with great charisma and a frightening personality, and the protagonist are both people who are &quot;close&quot; in away to the antagonist.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=48593" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Praxiteles">Praxiteles</a></div>
 					</div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Old Boy started with the same mystery as Monster had but ended with an underwhelming story payoff
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Inhuman. Two very seemingly &quot;perfect&quot; individuals with gruesome secrets only one other knows about. The stories follow protagonists who wish to rid of such people&#039;s existences.
 
-Somehow similar art with noses drawn so big&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=44091" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/r053_">r053_</a></div>
+Monster does this with a doctor&#039;s fatal mistake that needs to be fixed. Bastard does this with an anything but stable father and son relationship.
+
+Both are good psychological mysteries that move slowly in the name of tension and good writing.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=51925" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/NextUniverse">NextUniverse</a></div>
+					</div>
+					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both anime deals with killing and smart tactics to kill somebody
+both are sickeningly dramatic&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=50406" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Hatreddd">Hatreddd</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/344/ES__Eternal_Sabbath" class="hoverinfo_trigger" id="#raArea1344" rel="#raInfo1344">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/174740.jpg?s=d454a4738c58d5ff97db347a23881618" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/174740.jpg?s=d454a4738c58d5ff97db347a23881618 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/174740.jpg?s=60b6e6175bce1aa7b281e50593d5b385 2x" width="50" border="0" alt="Manga: ES: Eternal Sabbath" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea1344">
+	<div id="raInfo1344" rel="m344" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/344/ES__Eternal_Sabbath"><strong>ES: Eternal Sabbath</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:344" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-344" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Same type of assassin, a very psychologic story, characters trying to change their own lives.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=2109" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Shaya">Shaya</a></div>
+					</div>
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="6">Read recommendations by <strong>3</strong> more users</a></div>
+						<div id="simaid6" style="display: none;">
+					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">The antagonists Johan and Isaac are VERY similar.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=854" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/koara">koara</a></div>
+					</div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Very similar in relation of how the assassins deal with people.... They both also have very psychological-filled plots.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=11445" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/keonifx">keonifx</a></div>
+					</div>
+					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">These two are similar as they both have characters in search of someone who has committed crimes and are hard to catch. Both very good psychological mangas with interesting characters. &nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=49932" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/MangaObservatory">MangaObservatory</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -765,15 +750,15 @@ Somehow similar art with noses drawn so big&nbsp;</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/11054/Billy_Bat"><strong>Billy Bat</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:11054">add</a><span style="float:right;"><a href="/recommendations/manga/1-11054" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/11054/Billy_Bat"><strong>Billy Bat</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:11054" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-11054" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Suspense and thriller mangas created by the same author.
 Both&#039;s main character fight against an evil that is suposed to be bigger than themselves.&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=5068" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/daniel_rm2">daniel_rm2</a></div>
 					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="8">Read recommendations by <strong>2</strong> more users</a></div>
-						<div id="simaid8" style="display: none;">
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="7">Read recommendations by <strong>2</strong> more users</a></div>
+						<div id="simaid7" style="display: none;">
 					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both series are written by the same author. Due to this the art (very well done in my opinion) looks alike in both series. If you like the way Naoki Urasawa tells a story and you like the general atmosphere of his stories than you should really read Monster. In my opinion Monster is by far his best work. It is the most deep and well written story I ever read. Both characters are on a journey that changes their whole life. &nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=35911" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Darkbow">Darkbow</a></div>
@@ -781,6 +766,45 @@ Both&#039;s main character fight against an evil that is suposed to be bigger th
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Great conspiracy manga made by Urusawa Naoki. Full of suspense, mystery and with numerous cast that get lives gradually intertwined. Protagonist is trying to save a world, yet few people believe him and few people he can trust. Both are seinen with very similar atmosphere and art (for obvious reasons, being made by same person).&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=47201" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/abystoma2">abystoma2</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/1929/Loose_Senki__Old_Boy" class="hoverinfo_trigger" id="#raArea11929" rel="#raInfo11929">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/179835.jpg?s=b6c907a26c51e16402a0998e9a91ad82" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/179835.jpg?s=b6c907a26c51e16402a0998e9a91ad82 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/179835.jpg?s=188efb392045c42389fd4b243b238299 2x" width="50" border="0" alt="Manga: Loose Senki: Old Boy" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea11929">
+	<div id="raInfo11929" rel="m1929" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/1929/Loose_Senki__Old_Boy"><strong>Loose Senki: Old Boy</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1929" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1929" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">The protagonist is an adult man that gets dragged into a grand scale machinations and faces off the antagonist in psychological warfare.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=55255" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/abystoma2">abystoma2</a></div>
+					</div>
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="8">Read recommendations by <strong>2</strong> more users</a></div>
+						<div id="simaid8" style="display: none;">
+					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both these titles have a dark ambience. All the characters seem realistic and driven by a strong and dramatic storyline. the main protagonists are in a search for something in order to uncover the truth.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=38893" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Ashcom">Ashcom</a></div>
+					</div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Old Boy started with the same mystery as Monster had but ended with an underwhelming story payoff
+
+Somehow similar art with noses drawn so big&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=44091" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/r053_">r053_</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -803,7 +827,7 @@ Both&#039;s main character fight against an evil that is suposed to be bigger th
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/24808/Kami_no_Kodomo"><strong>Kami no Kodomo</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:24808">add</a><span style="float:right;"><a href="/recommendations/manga/1-24808" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/24808/Kami_no_Kodomo"><strong>Kami no Kodomo</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:24808" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-24808" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">These two are so similar that you could make a review synopsis of one via finishing the other. Monster is of course longer and doesn&#039;t go into the creepy artwork until the latter arcs while God&#039;s Child totally relies on it to deliver the horror. If you can stick to only one, I would probably go with God&#039;s Child but as mainstream rating already decided - most would probably head straight and prefer to read Monster rather than pay any attention to God&#039;s Child (as of this writing, I was the only one who submitted a review)&nbsp;</div>
@@ -814,6 +838,74 @@ Both&#039;s main character fight against an evil that is suposed to be bigger th
 					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">The main character of &quot;God&#039;s Child&quot; and the main villain of &quot;Monster&quot; have very similar characteristics. They are both sociopaths and nihilists, who use their charm to convince others to do heinous crimes for them. In both manga, these acts often go unpunished due to the characters&#039; ingenuity, as well as due to the fact that there is no real motive behind them. Apart from the characters, both manga create an atmosphere of suspense and deal with disturbing and taboo themes related to serial killing and psychopathy. &nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=39098" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/BohemianRhapsody">BohemianRhapsody</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/41709/Yuureitou" class="hoverinfo_trigger" id="#raArea141709" rel="#raInfo141709">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/89667.jpg?s=30ba1c96b1572629fb91eba5521a2b37" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/89667.jpg?s=30ba1c96b1572629fb91eba5521a2b37 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/89667.jpg?s=d5ddcff9d2bf6910057f41f4033dbcb0 2x" width="50" border="0" alt="Manga: Yuureitou" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea141709">
+	<div id="raInfo141709" rel="m41709" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/41709/Yuureitou"><strong>Yuureitou</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:41709" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-41709" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both main characters are both on the run and trying to solve a crime they did not commit. As they both continue their journey of trying to solve the crime the stories become more in depth. Both mangas will have you sitting at the edge of your seat. There are definitely a lot of OMG moments in both mangas. &nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=41908" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Rhazel">Rhazel</a></div>
+					</div>
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="10">Read recommendations by <strong>1</strong> more user</a></div>
+						<div id="simaid10" style="display: none;">
+					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both have protagonists on the run because they’ve been accused of crimes they did not commit. They are both psychological and engrossing with complex characters and expositions of the evils of humanity.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=54263" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/skylucario">skylucario</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/1479/Blue_Heaven" class="hoverinfo_trigger" id="#raArea11479" rel="#raInfo11479">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/264112.jpg?s=21af8f7d8865566bfc5e3e18419fa690" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/264112.jpg?s=21af8f7d8865566bfc5e3e18419fa690 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/264112.jpg?s=6af54a8db9903b8467f0b9083a3e9374 2x" width="50" border="0" alt="Manga: Blue Heaven" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea11479">
+	<div id="raInfo11479" rel="m1479" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/1479/Blue_Heaven"><strong>Blue Heaven</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1479" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1479" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Ever wondered what would happen if a serial killer was after you? In both of these manga the main characters are in danger because a serial killer is on the loose and wants te kill them. If you like deep psychological stories with action, then these manga are perfect for you!&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=35969" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Darkbow">Darkbow</a></div>
+					</div>
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="11">Read recommendations by <strong>1</strong> more user</a></div>
+						<div id="simaid11" style="display: none;">
+					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both antagonists are homicidal maniacs and they don&#039;t stop killing everyone who interpose in their way.
+
+The psychological and action is present in both.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=27823" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/katana1600">katana1600</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -836,7 +928,7 @@ Both&#039;s main character fight against an evil that is suposed to be bigger th
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/39325/Boku_dake_ga_Inai_Machi"><strong>Boku dake ga Inai Machi</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:39325">add</a><span style="float:right;"><a href="/recommendations/manga/1-39325" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/39325/Boku_dake_ga_Inai_Machi"><strong>Boku dake ga Inai Machi</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:39325" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-39325" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both MCs are heroes and rescue people.
@@ -848,8 +940,8 @@ Both are adapted into anime.
 While Monster primary takes place in Germany around 1986, BokuMachi primary takes place in Japan around 1988).&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=39978" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/citronfromagen">citronfromagen</a></div>
 					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="10">Read recommendations by <strong>1</strong> more user</a></div>
-						<div id="simaid10" style="display: none;">
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="12">Read recommendations by <strong>1</strong> more user</a></div>
+						<div id="simaid12" style="display: none;">
 					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">An exciting thriller. It&#039;s difficult to find such an interesting argument. Every new chapter is a mistery and it&#039;s impossible to quit this manga util they&#039;re solved. If your looking for machiavellian criminals and people trying hard to stop them, here you&#039;ll find it.&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=42635" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Ligre44">Ligre44</a></div>
@@ -875,7 +967,7 @@ While Monster primary takes place in Germany around 1986, BokuMachi primary take
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/9783/EDD__Eliminate_Dangerous_Doctors"><strong>E.D.D: Eliminate Dangerous Doctors</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:9783">add</a><span style="float:right;"><a href="/recommendations/manga/1-9783" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/9783/EDD__Eliminate_Dangerous_Doctors"><strong>E.D.D: Eliminate Dangerous Doctors</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:9783" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-9783" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Monster centers around this young genius brain surgeon, Tenma, who decides to save the life of a young child, a high profile political figure, leading to his firing from the hospital. This event launches a series of murders and crimes that Tenma tries to stop.
@@ -885,8 +977,8 @@ Like EDD it raises moral questions about ethical medical practices and politics 
 It also has much deeper characterizations and setting ambiance.  &nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=10924" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/caffeination">caffeination</a></div>
 					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="11">Read recommendations by <strong>1</strong> more user</a></div>
-						<div id="simaid11" style="display: none;">
+						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="13">Read recommendations by <strong>1</strong> more user</a></div>
+						<div id="simaid13" style="display: none;">
 					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">E.D.D: Eliminate Dangerous Doctors is an odd story of vigilante doctors taking down other doctors. Though that may sound ridiculous at first, trust us as E.D.D: Eliminate Dangerous Doctors is nothing but awesome. With great action and some interesting use of the seinen genre, E.D.D: Eliminate Dangerous Doctors reminds us of when Monster goes towards it’s more action-packed moments. We don’t hear many people mention E.D.D: Eliminate Dangerous Doctors and that’s a shame as this story will really be a fun read for those into the themes of Monster but want less of the mystery element and more action/drama. You almost have to wonder if <span style="display: none;" id="recommend51106">a group like E.D.D could exist in the real world.</span>&nbsp<a href="javascript:void(0);" class="js-toggle-recommendation-button" data-id="51106">read more</a>&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=51106" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/QuiteAshraf">QuiteAshraf</a></div>
@@ -900,145 +992,27 @@ It also has much deeper characterizations and setting ambiance.  &nbsp;</div>
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
 				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/1479/Blue_Heaven" class="hoverinfo_trigger" id="#raArea11479" rel="#raInfo11479">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/3/26457.jpg?s=e4ed7128edce40a78c0b42626921ea02" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/3/26457.jpg?s=e4ed7128edce40a78c0b42626921ea02 1x,https://cdn.myanimelist.net/r/100x140/images/manga/3/26457.jpg?s=76cbbd075a3a156a201adbf07b1e112f 2x" width="50" border="0" alt="Manga: Blue Heaven" class="lazyload">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/401/Kiseijuu" class="hoverinfo_trigger" id="#raArea1401" rel="#raInfo1401">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/188928.jpg?s=05472082fd1016c1e57d3b52add1bfab" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/188928.jpg?s=05472082fd1016c1e57d3b52add1bfab 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/188928.jpg?s=00fea3cd182251d05688547912f3d63f 2x" width="50" border="0" alt="Manga: Kiseijuu" class="lazyload">
                 </a></div>
 				</td>
 				<td valign="top">
 				
-	<div id="raArea11479">
-	<div id="raInfo11479" rel="m1479" class="hoverinfo">
+	<div id="raArea1401">
+	<div id="raInfo1401" rel="m401" class="hoverinfo">
 	</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1479/Blue_Heaven"><strong>Blue Heaven</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1479">add</a><span style="float:right;"><a href="/recommendations/manga/1-1479" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/401/Kiseijuu"><strong>Kiseijuu</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:401" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-401" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Ever wondered what would happen if a serial killer was after you? In both of these manga the main characters are in danger because a serial killer is on the loose and wants te kill them. If you like deep psychological stories with action, then these manga are perfect for you!&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=35969" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Darkbow">Darkbow</a></div>
-					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="12">Read recommendations by <strong>1</strong> more user</a></div>
-						<div id="simaid12" style="display: none;">
-					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both antagonists are homicidal maniacs and they don&#039;t stop killing everyone who interpose in their way.
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both manga explore the same question - What separates human from monster?
 
-The psychological and action is present in both.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=27823" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/katana1600">katana1600</a></div>
-					</div></div>
-				</td>
-			</tr>
-			</table>
-			</div>
-            
-			<div class="borderClass">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tr>
-				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/41709/Yuureitou" class="hoverinfo_trigger" id="#raArea141709" rel="#raInfo141709">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/89667.jpg?s=30ba1c96b1572629fb91eba5521a2b37" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/89667.jpg?s=30ba1c96b1572629fb91eba5521a2b37 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/89667.jpg?s=d5ddcff9d2bf6910057f41f4033dbcb0 2x" width="50" border="0" alt="Manga: Yuureitou" class="lazyload">
-                </a></div>
-				</td>
-				<td valign="top">
-				
-	<div id="raArea141709">
-	<div id="raInfo141709" rel="m41709" class="hoverinfo">
-	</div>
-	</div>
-	
-                <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/41709/Yuureitou"><strong>Yuureitou</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:41709">add</a><span style="float:right;"><a href="/recommendations/manga/1-41709" title="Permalink"><small>permalink</small></a></span>
-                </div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both main characters are both on the run and trying to solve a crime they did not commit. As they both continue their journey of trying to solve the crime the stories become more in depth. Both mangas will have you sitting at the edge of your seat. There are definitely a lot of OMG moments in both mangas. &nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=41908" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Rhazel">Rhazel</a></div>
-					</div>
-						<div class="spaceit"><a href="javascript:void(0);" class="js-similar-recommendations-button" data-id="13">Read recommendations by <strong>1</strong> more user</a></div>
-						<div id="simaid13" style="display: none;">
-					<div class="borderClass bgColor2" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both have protagonists on the run because they’ve been accused of crimes they did not commit. They are both psychological and engrossing with complex characters and expositions of the evils of humanity.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=54263" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/skylucario">skylucario</a></div>
-					</div></div>
-				</td>
-			</tr>
-			</table>
-			</div>
-            
-			<div class="borderClass">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tr>
-				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/11974/Kyoufu_Jigoku_Shoujo" class="hoverinfo_trigger" id="#raArea111974" rel="#raInfo111974">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/4/173045.jpg?s=acbb9eab9084b90bb06ff04adf2dd61c" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/4/173045.jpg?s=acbb9eab9084b90bb06ff04adf2dd61c 1x,https://cdn.myanimelist.net/r/100x140/images/manga/4/173045.jpg?s=c7e359d0bf9228a308cd35326d4ffa33 2x" width="50" border="0" alt="Manga: Kyoufu Jigoku Shoujo" class="lazyload">
-                </a></div>
-				</td>
-				<td valign="top">
-				
-	<div id="raArea111974">
-	<div id="raInfo111974" rel="m11974" class="hoverinfo">
-	</div>
-	</div>
-	
-                <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/11974/Kyoufu_Jigoku_Shoujo"><strong>Kyoufu Jigoku Shoujo</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:11974">add</a><span style="float:right;"><a href="/recommendations/manga/1-11974" title="Permalink"><small>permalink</small></a></span>
-                </div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Manga that explores the concept of twins and one of them being evil, and how the circumstances might influence whether one is evil. Both of these are horrors, though Monster is more on the psychological side and Hell Baby more on the visually gruesome side.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=53912" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/abystoma2">abystoma2</a></div>
-					</div></div>
-				</td>
-			</tr>
-			</table>
-			</div>
-            
-			<div class="borderClass">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tr>
-				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/98457/Life_2__Giver_Taker" class="hoverinfo_trigger" id="#raArea198457" rel="#raInfo198457">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/185222.jpg?s=e9408a8b9148b2909ead0b901ad9e8af" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/185222.jpg?s=e9408a8b9148b2909ead0b901ad9e8af 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/185222.jpg?s=d210512e828c626afd6a30429ab0cee0 2x" width="50" border="0" alt="Manga: Life 2: Giver Taker" class="lazyload">
-                </a></div>
-				</td>
-				<td valign="top">
-				
-	<div id="raArea198457">
-	<div id="raInfo198457" rel="m98457" class="hoverinfo">
-	</div>
-	</div>
-	
-                <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/98457/Life_2__Giver_Taker"><strong>Life 2: Giver Taker</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:98457">add</a><span style="float:right;"><a href="/recommendations/manga/1-98457" title="Permalink"><small>permalink</small></a></span>
-                </div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Protagonist on a quest to catch a dangerous derranged individual who is a mastermind behind string of crimes and is using other people to do his bidding.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=56702" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/abystoma2">abystoma2</a></div>
-					</div></div>
-				</td>
-			</tr>
-			</table>
-			</div>
-            
-			<div class="borderClass">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tr>
-				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/5709/Litchi☆Hikari_Club" class="hoverinfo_trigger" id="#raArea15709" rel="#raInfo15709">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/3/65867.jpg?s=1cc95edec7b20ffc6e13261d956bd1f6" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/3/65867.jpg?s=1cc95edec7b20ffc6e13261d956bd1f6 1x,https://cdn.myanimelist.net/r/100x140/images/manga/3/65867.jpg?s=dadd701d82be571698fc1da2043cab06 2x" width="50" border="0" alt="Manga: Litchi☆Hikari Club" class="lazyload">
-                </a></div>
-				</td>
-				<td valign="top">
-				
-	<div id="raArea15709">
-	<div id="raInfo15709" rel="m5709" class="hoverinfo">
-	</div>
-	</div>
-	
-                <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/5709/Litchi☆Hikari_Club"><strong>Litchi☆Hikari Club</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:5709">add</a><span style="float:right;"><a href="/recommendations/manga/1-5709" title="Permalink"><small>permalink</small></a></span>
-                </div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">The main villains of &quot;Monster&quot; and &quot;Litchi Hikari Club&quot; have very similar characteristics.  Both characters are sociopaths and nihilists, and use their charm to convince people to commit crimes for them. Both are leaders of cults composed on dangerous individuals, and both are created as metaphors of the dictator Adolf Hitler. Apart from the characters, both manga create an atmosphere of suspense and deal with disturbing and taboo themes related to serial killing and psychopathy.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=39124" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/BohemianRhapsody">BohemianRhapsody</a></div>
+Monster does this via a character drama exploring the monster within all of us, as its protagonist chases what he see as the biggest monster of all.
+
+While Kiseijuu does this via showing the contrasting differences and hypocritical opinions between humans and the alien parasite, as its central pair continue to grow closer together from a mental state of position.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=45909" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Akoram">Akoram</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -1061,7 +1035,7 @@ The psychological and action is present in both.&nbsp;</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1437/Strain"><strong>Strain</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1437">add</a><span style="float:right;"><a href="/recommendations/manga/1-1437" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1437/Strain"><strong>Strain</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1437" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1437" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Policial thrillers, where a wrongly accused fugitive and a young girl get involved in an intense chase for a sociopath, that is closely related to their past.
@@ -1077,23 +1051,23 @@ While Monster is more psychological, Strain is more violent and explicit, but bo
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
 				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/5627/Bloody_Monday" class="hoverinfo_trigger" id="#raArea15627" rel="#raInfo15627">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/57141.jpg?s=635769bfaad64cdf5463b6311f3890ce" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/57141.jpg?s=635769bfaad64cdf5463b6311f3890ce 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/57141.jpg?s=0eb85bd2588eca4dca436275d89c5395 2x" width="50" border="0" alt="Manga: Bloody Monday" class="lazyload">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/5709/Litchi☆Hikari_Club" class="hoverinfo_trigger" id="#raArea15709" rel="#raInfo15709">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/3/65867.jpg?s=1cc95edec7b20ffc6e13261d956bd1f6" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/3/65867.jpg?s=1cc95edec7b20ffc6e13261d956bd1f6 1x,https://cdn.myanimelist.net/r/100x140/images/manga/3/65867.jpg?s=dadd701d82be571698fc1da2043cab06 2x" width="50" border="0" alt="Manga: Litchi☆Hikari Club" class="lazyload">
                 </a></div>
 				</td>
 				<td valign="top">
 				
-	<div id="raArea15627">
-	<div id="raInfo15627" rel="m5627" class="hoverinfo">
+	<div id="raArea15709">
+	<div id="raInfo15709" rel="m5709" class="hoverinfo">
 	</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/5627/Bloody_Monday"><strong>Bloody Monday</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:5627">add</a><span style="float:right;"><a href="/recommendations/manga/1-5627" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/5709/Litchi☆Hikari_Club"><strong>Litchi☆Hikari Club</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:5709" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-5709" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">The protagonist chases the antagonist.  Has Mystery and Thriller elements.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=43139" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/blepful">blepful</a></div>
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">The main villains of &quot;Monster&quot; and &quot;Litchi Hikari Club&quot; have very similar characteristics.  Both characters are sociopaths and nihilists, and use their charm to convince people to commit crimes for them. Both are leaders of cults composed on dangerous individuals, and both are created as metaphors of the dictator Adolf Hitler. Apart from the characters, both manga create an atmosphere of suspense and deal with disturbing and taboo themes related to serial killing and psychopathy.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=39124" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/BohemianRhapsody">BohemianRhapsody</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -1104,27 +1078,50 @@ While Monster is more psychological, Strain is more violent and explicit, but bo
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
 				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/143336/Among_Us" class="hoverinfo_trigger" id="#raArea1143336" rel="#raInfo1143336">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/256571.jpg?s=2cb014ccca401230d17483c77d1a7688" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/256571.jpg?s=2cb014ccca401230d17483c77d1a7688 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/256571.jpg?s=ea007cdb24a77acdeabddc6d5a44e626 2x" width="50" border="0" alt="Manga: Among Us" class="lazyload">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/98457/Life_2__Giver_Taker" class="hoverinfo_trigger" id="#raArea198457" rel="#raInfo198457">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/185222.jpg?s=e9408a8b9148b2909ead0b901ad9e8af" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/185222.jpg?s=e9408a8b9148b2909ead0b901ad9e8af 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/185222.jpg?s=d210512e828c626afd6a30429ab0cee0 2x" width="50" border="0" alt="Manga: Life 2: Giver Taker" class="lazyload">
                 </a></div>
 				</td>
 				<td valign="top">
 				
-	<div id="raArea1143336">
-	<div id="raInfo1143336" rel="m143336" class="hoverinfo">
+	<div id="raArea198457">
+	<div id="raInfo198457" rel="m98457" class="hoverinfo">
 	</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/143336/Among_Us"><strong>Among Us</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:143336">add</a><span style="float:right;"><a href="/recommendations/manga/1-143336" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/98457/Life_2__Giver_Taker"><strong>Life 2: Giver Taker</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:98457" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-98457" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">This world is not as light as it makes itself out to be. Behind the smiles of your supposed &quot;allies&quot; may lie some of the most dangerous faces you have ever come across. Natural intuition is your only means of survival, you know there is something there, waiting in patience for your eternal parting. You try to end its vile and evil farce but it cannot be proven who until the blunder is absolute.
-
-Urasawa&#039;s Monster and Berabou&#039;s Among Us picture this reality in a way like no other. Be it a mature adventure of a doctor trying to put the monster to rest or juvenile <span style="display: none;" id="recommend56304">&quot;games&quot; where risk is one&#039;s own life and the gamble is against death, one cannot deny the correct atmospheric tension present in both respectively, whether that be comedic or mysterious. Monsters and imposters alike are something of a well-crafted character in their motivations to bring an end to life around them.
-
-Read these stories, very vast audiences for sure, but the deal is clear, and the execution respects both platforms.</span>&nbsp<a href="javascript:void(0);" class="js-toggle-recommendation-button" data-id="56304">read more</a>&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=56304" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/NextUniverse">NextUniverse</a></div>
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Protagonist on a quest to catch a dangerous derranged individual who is a mastermind behind string of crimes and is using other people to do his bidding.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=56702" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/abystoma2">abystoma2</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/649/Gunslinger_Girl" class="hoverinfo_trigger" id="#raArea1649" rel="#raInfo1649">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/3/160923.jpg?s=6185f6f809485b1579e8bc7a8f9fe013" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/3/160923.jpg?s=6185f6f809485b1579e8bc7a8f9fe013 1x,https://cdn.myanimelist.net/r/100x140/images/manga/3/160923.jpg?s=6befd079c0c59d83e59ce0ed036d2e7a 2x" width="50" border="0" alt="Manga: Gunslinger Girl" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea1649">
+	<div id="raInfo1649" rel="m649" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/649/Gunslinger_Girl"><strong>Gunslinger Girl</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:649" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-649" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">both are set in europe; both stories are centered around political games, social injustice, rebellious groups and terrorists, and a certain family&#039;s tragedy.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=54942" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/lowpolyrat">lowpolyrat</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -1147,7 +1144,7 @@ Read these stories, very vast audiences for sure, but the deal is clear, and the
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1133/Dorohedoro"><strong>Dorohedoro</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1133">add</a><span style="float:right;"><a href="/recommendations/manga/1-1133" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1133/Dorohedoro"><strong>Dorohedoro</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1133" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1133" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Well thought out mysteries with tons of dark and gruesome moments but still managing to be wholesome and hopeful and full of human expressions that are beautiful.&nbsp;</div>
@@ -1174,11 +1171,99 @@ Read these stories, very vast audiences for sure, but the deal is clear, and the
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/49865/Ajin"><strong>Ajin</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:49865">add</a><span style="float:right;"><a href="/recommendations/manga/1-49865" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/49865/Ajin"><strong>Ajin</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:49865" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-49865" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both follow a seemingly average protagonist with some sort of &#039;genius&#039; aspect. In Monster, its a genius surgeon and in Ajin its a highschool kid with what can be described as a really high IQ. Both protags are fighting an evil genius antag alongside (mostly) likable side characters. Monster&#039;s protagonists are all adults while Ajin follows highschoolers and adults, plus the settings are different. Ajin takes place entirely in Japan with some references to places like the United States, and Monster takes place almost entirely in Germany (and Czech Republic). Both are good underdog stories, and I&#039;d say the art in Monster isn&#039;t as good <span style="display: none;" id="recommend50933">as the later Ajin chapters but it&#039;s still good. Another pro is that Monster is completed since it&#039;s pretty old while Ajin is still ongoing (as I&#039;m writing this).</span>&nbsp<a href="javascript:void(0);" class="js-toggle-recommendation-button" data-id="50933">read more</a>&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=50933" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Xerneassery">Xerneassery</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/141833/Hikaru_ga_Shinda_Natsu" class="hoverinfo_trigger" id="#raArea1141833" rel="#raInfo1141833">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/256448.jpg?s=b9826585ea72af8a1bd92044813d335e" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/256448.jpg?s=b9826585ea72af8a1bd92044813d335e 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/256448.jpg?s=89a001014a105db73909d154e224a35e 2x" width="50" border="0" alt="Manga: Hikaru ga Shinda Natsu" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea1141833">
+	<div id="raInfo1141833" rel="m141833" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/141833/Hikaru_ga_Shinda_Natsu"><strong>Hikaru ga Shinda Natsu</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:141833" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-141833" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Similar themes &nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=57637" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/StariaSan">StariaSan</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/62795/Tomodachi_Game" class="hoverinfo_trigger" id="#raArea162795" rel="#raInfo162795">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/122805.jpg?s=5dee0b376b7df68c861c3a4619f1c8f7" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/122805.jpg?s=5dee0b376b7df68c861c3a4619f1c8f7 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/122805.jpg?s=721b8d5f89ce010dea7f35d0a74ff874 2x" width="50" border="0" alt="Manga: Tomodachi Game" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea162795">
+	<div id="raInfo162795" rel="m62795" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/62795/Tomodachi_Game"><strong>Tomodachi Game</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:62795" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-62795" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Yuuichi Is similar to Johan cause johan is a very dangerous person it&#039;s  more like yuuichi is the kid of johan, johan is more good than yuuichi
+THIS IS MY TOP 3 OF HUMANS WITH NO POWERS
+Johan&gt;Ayanokoji&gt;Yuuichi 
+&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=57399" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Viasto">Viasto</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/143336/Among_Us" class="hoverinfo_trigger" id="#raArea1143336" rel="#raInfo1143336">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/256571.jpg?s=2cb014ccca401230d17483c77d1a7688" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/256571.jpg?s=2cb014ccca401230d17483c77d1a7688 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/256571.jpg?s=ea007cdb24a77acdeabddc6d5a44e626 2x" width="50" border="0" alt="Manga: Among Us" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea1143336">
+	<div id="raInfo1143336" rel="m143336" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/143336/Among_Us"><strong>Among Us</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:143336" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-143336" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">This world is not as light as it makes itself out to be. Behind the smiles of your supposed &quot;allies&quot; may lie some of the most dangerous faces you have ever come across. Natural intuition is your only means of survival, you know there is something there, waiting in patience for your eternal parting. You try to end its vile and evil farce but it cannot be proven who until the blunder is absolute.
+
+Urasawa&#039;s Monster and Berabou&#039;s Among Us picture this reality in a way like no other. Be it a mature adventure of a doctor trying to put the monster to rest or juvenile <span style="display: none;" id="recommend56304">&quot;games&quot; where risk is one&#039;s own life and the gamble is against death, one cannot deny the correct atmospheric tension present in both respectively, whether that be comedic or mysterious. Monsters and imposters alike are something of a well-crafted character in their motivations to bring an end to life around them.
+
+Read these stories, very vast audiences for sure, but the deal is clear, and the execution respects both platforms.</span>&nbsp<a href="javascript:void(0);" class="js-toggle-recommendation-button" data-id="56304">read more</a>&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=56304" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/NextUniverse">NextUniverse</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -1201,7 +1286,7 @@ Read these stories, very vast audiences for sure, but the deal is clear, and the
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/116778/Chainsaw_Man"><strong>Chainsaw Man</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:116778">add</a><span style="float:right;"><a href="/recommendations/manga/1-116778" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/116778/Chainsaw_Man"><strong>Chainsaw Man</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:116778" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-116778" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Politics. In terms of politics, Chainsaw Man and Monster are surprisingly similar using both of these themes as part of a sub-story.
@@ -1210,6 +1295,60 @@ CSM does this with references to country wants. Monster does this to references 
 
 Both are great manga, with CSM being a crazy action shounen compared to the psychological mystery of Monster.&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=50486" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/NextUniverse">NextUniverse</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/5627/Bloody_Monday" class="hoverinfo_trigger" id="#raArea15627" rel="#raInfo15627">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/57141.jpg?s=635769bfaad64cdf5463b6311f3890ce" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/57141.jpg?s=635769bfaad64cdf5463b6311f3890ce 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/57141.jpg?s=0eb85bd2588eca4dca436275d89c5395 2x" width="50" border="0" alt="Manga: Bloody Monday" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea15627">
+	<div id="raInfo15627" rel="m5627" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/5627/Bloody_Monday"><strong>Bloody Monday</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:5627" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-5627" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">The protagonist chases the antagonist.  Has Mystery and Thriller elements.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=43139" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/blepful">blepful</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/11974/Kyoufu_Jigoku_Shoujo" class="hoverinfo_trigger" id="#raArea111974" rel="#raInfo111974">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/4/173045.jpg?s=acbb9eab9084b90bb06ff04adf2dd61c" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/4/173045.jpg?s=acbb9eab9084b90bb06ff04adf2dd61c 1x,https://cdn.myanimelist.net/r/100x140/images/manga/4/173045.jpg?s=c7e359d0bf9228a308cd35326d4ffa33 2x" width="50" border="0" alt="Manga: Kyoufu Jigoku Shoujo" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea111974">
+	<div id="raInfo111974" rel="m11974" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/11974/Kyoufu_Jigoku_Shoujo"><strong>Kyoufu Jigoku Shoujo</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:11974" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-11974" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Manga that explores the concept of twins and one of them being evil, and how the circumstances might influence whether one is evil. Both of these are horrors, though Monster is more on the psychological side and Hell Baby more on the visually gruesome side.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=53912" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/abystoma2">abystoma2</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -1232,7 +1371,7 @@ Both are great manga, with CSM being a crazy action shounen compared to the psyc
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/103622/NeuN"><strong>NeuN</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:103622">add</a><span style="float:right;"><a href="/recommendations/manga/1-103622" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/103622/NeuN"><strong>NeuN</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:103622" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-103622" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Neun is also a conspiracy on the backdrop of a historical setting and similarly to Monster&#039;s Johan it has children of genetic manipulation that turns them into manipulative sociopaths. However Monster is more grounded as Neun has some psychic powers and nazi experiment component in the story.&nbsp;</div>
@@ -1259,7 +1398,7 @@ Both are great manga, with CSM being a crazy action shounen compared to the psyc
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/3645/Death_Note_13__How_to_Read_-_Shinsou"><strong>Death Note 13: How to Read - Shinsou</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:3645">add</a><span style="float:right;"><a href="/recommendations/manga/1-3645" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/3645/Death_Note_13__How_to_Read_-_Shinsou"><strong>Death Note 13: How to Read - Shinsou</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:3645" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-3645" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Has characters that uses their genuis brains to solve tangles of mysteries surrounding them.&nbsp;</div>
@@ -1274,81 +1413,23 @@ Both are great manga, with CSM being a crazy action shounen compared to the psyc
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
 				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/649/Gunslinger_Girl" class="hoverinfo_trigger" id="#raArea1649" rel="#raInfo1649">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/3/160923.jpg?s=6185f6f809485b1579e8bc7a8f9fe013" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/3/160923.jpg?s=6185f6f809485b1579e8bc7a8f9fe013 1x,https://cdn.myanimelist.net/r/100x140/images/manga/3/160923.jpg?s=6befd079c0c59d83e59ce0ed036d2e7a 2x" width="50" border="0" alt="Manga: Gunslinger Girl" class="lazyload">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/848/Master_Keaton" class="hoverinfo_trigger" id="#raArea1848" rel="#raInfo1848">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/200911.jpg?s=4de35eb9bba677dc083e113bcf5d8a65" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/200911.jpg?s=4de35eb9bba677dc083e113bcf5d8a65 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/200911.jpg?s=4e797ccaab21d6a4668a350ee99cbaf8 2x" width="50" border="0" alt="Manga: Master Keaton" class="lazyload">
                 </a></div>
 				</td>
 				<td valign="top">
 				
-	<div id="raArea1649">
-	<div id="raInfo1649" rel="m649" class="hoverinfo">
+	<div id="raArea1848">
+	<div id="raInfo1848" rel="m848" class="hoverinfo">
 	</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/649/Gunslinger_Girl"><strong>Gunslinger Girl</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:649">add</a><span style="float:right;"><a href="/recommendations/manga/1-649" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/848/Master_Keaton"><strong>Master Keaton</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:848" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-848" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">set in europe, the plot&#039;s entangled in politics, terrorism, social disturbances, and a certain family&#039;s tragedy at the source of it all, which affected lives of many people directly or not, and whose members seek for resolution or revenge. &nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=54942" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/lowpolyrat">lowpolyrat</a></div>
-					</div></div>
-				</td>
-			</tr>
-			</table>
-			</div>
-            
-			<div class="borderClass">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tr>
-				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/401/Kiseijuu" class="hoverinfo_trigger" id="#raArea1401" rel="#raInfo1401">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/188928.jpg?s=05472082fd1016c1e57d3b52add1bfab" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/188928.jpg?s=05472082fd1016c1e57d3b52add1bfab 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/188928.jpg?s=00fea3cd182251d05688547912f3d63f 2x" width="50" border="0" alt="Manga: Kiseijuu" class="lazyload">
-                </a></div>
-				</td>
-				<td valign="top">
-				
-	<div id="raArea1401">
-	<div id="raInfo1401" rel="m401" class="hoverinfo">
-	</div>
-	</div>
-	
-                <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/401/Kiseijuu"><strong>Kiseijuu</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:401">add</a><span style="float:right;"><a href="/recommendations/manga/1-401" title="Permalink"><small>permalink</small></a></span>
-                </div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both manga explore the same question - What separates human from monster?
-
-Monster does this via a character drama exploring the monster within all of us, as its protagonist chases what he see as the biggest monster of all.
-
-While Kiseijuu does this via showing the contrasting differences and hypocritical opinions between humans and the alien parasite, as its central pair continue to grow closer together from a mental state of position.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=45909" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Akoram">Akoram</a></div>
-					</div></div>
-				</td>
-			</tr>
-			</table>
-			</div>
-            
-			<div class="borderClass">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tr>
-				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/845/Happy" class="hoverinfo_trigger" id="#raArea1845" rel="#raInfo1845">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/148293.jpg?s=d067209621f3d78bf741b7149f524365" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/148293.jpg?s=d067209621f3d78bf741b7149f524365 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/148293.jpg?s=84b02ff9d1a422dad36956614317cd63 2x" width="50" border="0" alt="Manga: Happy!" class="lazyload">
-                </a></div>
-				</td>
-				<td valign="top">
-				
-	<div id="raArea1845">
-	<div id="raInfo1845" rel="m845" class="hoverinfo">
-	</div>
-	</div>
-	
-                <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/845/Happy"><strong>Happy!</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:845">add</a><span style="float:right;"><a href="/recommendations/manga/1-845" title="Permalink"><small>permalink</small></a></span>
-                </div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both series are written by the same author. Due to this the art (very well done in my opinion) looks alike in both series. If you like the way Naoki Urasawa tells a story and you like the general atmosphere of his stories than you should really read Monster. In my opinion Monster is by far his best work. It is the most deep and well written story I ever read. A must read for every manga fan in my opinion.&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=35915" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Darkbow">Darkbow</a></div>
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both series are written by the same author. Due to this the art (very well done in my opinion) looks alike in both series. If you like the way Naoki Urasawa tells a story and you like the general atmosphere of his stories than you should really read Monster. In my opinion Monster is by far his best work. It is the most deep and well written story I ever read. Of you like one of the main characters I am pretty sure you will like the other one too. If you haven&#039;t already you should give both series a try!&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=35917" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Darkbow">Darkbow</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -1371,7 +1452,7 @@ While Kiseijuu does this via showing the contrasting differences and hypocritica
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1297/Iryuu__Team_Medical_Dragon"><strong>Iryuu: Team Medical Dragon</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1297">add</a><span style="float:right;"><a href="/recommendations/manga/1-1297" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1297/Iryuu__Team_Medical_Dragon"><strong>Iryuu: Team Medical Dragon</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1297" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1297" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both series deal with hospital politics and the corruption of a normal Japanese hospital/medicine. At least in the beginning for Monster though..Well developed seinens that are appropriate for a much older fanbase. And both main characters are genius surgeons. &nbsp;</div>
@@ -1387,7 +1468,7 @@ While Kiseijuu does this via showing the contrasting differences and hypocritica
 			<tr>
 				<td width="60" valign="top">
 				<div class="picSurround"><a href="https://myanimelist.net/manga/35593/Hanged_Doll" class="hoverinfo_trigger" id="#raArea135593" rel="#raInfo135593">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/64559.jpg?s=d16f2b2ff61b524778c9c2ab20f3a2bf" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/64559.jpg?s=d16f2b2ff61b524778c9c2ab20f3a2bf 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/64559.jpg?s=dc6156b12702ac75c6e003c2cc9202d5 2x" width="50" border="0" alt="Manga: Hanged Doll" class="lazyload">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/266331.jpg?s=93b1de3c99179b2b7eaa8e1379e04231" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/266331.jpg?s=93b1de3c99179b2b7eaa8e1379e04231 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/266331.jpg?s=b170169a52a37b1809fe0e06a1ee70c2 2x" width="50" border="0" alt="Manga: Hanged Doll" class="lazyload">
                 </a></div>
 				</td>
 				<td valign="top">
@@ -1398,7 +1479,7 @@ While Kiseijuu does this via showing the contrasting differences and hypocritica
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/35593/Hanged_Doll"><strong>Hanged Doll</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:35593">add</a><span style="float:right;"><a href="/recommendations/manga/1-35593" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/35593/Hanged_Doll"><strong>Hanged Doll</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:35593" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-35593" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Unlocking the past reveals a monstrous nature within.
@@ -1416,7 +1497,7 @@ It is rather psychological and makes you think. There are twists!&nbsp;</div>
 			<tr>
 				<td width="60" valign="top">
 				<div class="picSurround"><a href="https://myanimelist.net/manga/1600/Black_Jack" class="hoverinfo_trigger" id="#raArea11600" rel="#raInfo11600">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/170232.jpg?s=c240d61635b0036a55f1d8f99a739599" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/170232.jpg?s=c240d61635b0036a55f1d8f99a739599 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/170232.jpg?s=df74549a9fce867904c6f615de6788b9 2x" width="50" border="0" alt="Manga: Black Jack" class="lazyload">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/266117.jpg?s=29284e1120e98603eccf16031a4cbe88" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/266117.jpg?s=29284e1120e98603eccf16031a4cbe88 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/266117.jpg?s=d7a786184190cdcd1bfa789d884f3bda 2x" width="50" border="0" alt="Manga: Black Jack" class="lazyload">
                 </a></div>
 				</td>
 				<td valign="top">
@@ -1427,7 +1508,7 @@ It is rather psychological and makes you think. There are twists!&nbsp;</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1600/Black_Jack"><strong>Black Jack</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1600">add</a><span style="float:right;"><a href="/recommendations/manga/1-1600" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1600/Black_Jack"><strong>Black Jack</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1600" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1600" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Doctors, the value of life.
@@ -1455,7 +1536,7 @@ Black Jack contains several short stories, Monster is featured in one long, thri
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1344/Kirihito_Sanka"><strong>Kirihito Sanka</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1344">add</a><span style="float:right;"><a href="/recommendations/manga/1-1344" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1344/Kirihito_Sanka"><strong>Kirihito Sanka</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1344" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1344" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">In both mangas main protagonists are doctors that have been cut off from the society and are trying to clear their names.
@@ -1483,7 +1564,7 @@ Black Jack contains several short stories, Monster is featured in one long, thri
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/2965/Line"><strong>Line</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:2965">add</a><span style="float:right;"><a href="/recommendations/manga/1-2965" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/2965/Line"><strong>Line</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:2965" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-2965" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both manga keep you on the edge of your seat and are highly addicting. They both follow someone trying to stop people from dying. In Monster it&#039;s a serial killer and in Line it&#039;s suicides. Line is only 4 chapters long but the story is very intriguing but no where near as good as Monster.&nbsp;</div>
@@ -1510,7 +1591,7 @@ Black Jack contains several short stories, Monster is featured in one long, thri
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1111/Buddha"><strong>Buddha</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1111">add</a><span style="float:right;"><a href="/recommendations/manga/1-1111" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1111/Buddha"><strong>Buddha</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1111" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1111" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Intricate multi-layered stories that beautifully portray human emotion and ambition.&nbsp;</div>
@@ -1537,7 +1618,7 @@ Black Jack contains several short stories, Monster is featured in one long, thri
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1257/Higurashi_no_Naku_Koro_ni__Onikakushi-hen"><strong>Higurashi no Naku Koro ni: Onikakushi-hen</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1257">add</a><span style="float:right;"><a href="/recommendations/manga/1-1257" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1257/Higurashi_no_Naku_Koro_ni__Onikakushi-hen"><strong>Higurashi no Naku Koro ni: Onikakushi-hen</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1257" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1257" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both are highly addictive murder mysteries with intriguing stories that keep you on the edge of your seat. &nbsp;</div>
@@ -1564,7 +1645,7 @@ Black Jack contains several short stories, Monster is featured in one long, thri
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/405/Hitsuji_no_Uta"><strong>Hitsuji no Uta</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:405">add</a><span style="float:right;"><a href="/recommendations/manga/1-405" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/405/Hitsuji_no_Uta"><strong>Hitsuji no Uta</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:405" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-405" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both very good plot and somewhat dark :)&nbsp;</div>
@@ -1591,7 +1672,7 @@ Black Jack contains several short stories, Monster is featured in one long, thri
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/731/Eden__Its_an_Endless_World"><strong>Eden: It&#039;s an Endless World!</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:731">add</a><span style="float:right;"><a href="/recommendations/manga/1-731" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/731/Eden__Its_an_Endless_World"><strong>Eden: It&#039;s an Endless World!</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:731" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-731" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both have very complex story lines, probably some of the best I&#039;ve read. Both have lot of characters dying, but still manage to make us care for all of them. 
@@ -1608,7 +1689,7 @@ If you like one, you&#039;ll probably enjoy the other &nbsp;</div>
 			<tr>
 				<td width="60" valign="top">
 				<div class="picSurround"><a href="https://myanimelist.net/manga/756/Banana_Fish" class="hoverinfo_trigger" id="#raArea1756" rel="#raInfo1756">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/5/215997.jpg?s=64c97a552a27d9e6784d9a49210d0d4e" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/5/215997.jpg?s=64c97a552a27d9e6784d9a49210d0d4e 1x,https://cdn.myanimelist.net/r/100x140/images/manga/5/215997.jpg?s=7ab6fb47f8cb256d61c83adb0be899d0 2x" width="50" border="0" alt="Manga: Banana Fish" class="lazyload">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/5/265185.jpg?s=d9f1f5e4ff02acb547e453158b07e648" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/5/265185.jpg?s=d9f1f5e4ff02acb547e453158b07e648 1x,https://cdn.myanimelist.net/r/100x140/images/manga/5/265185.jpg?s=cd2b4cad8fd1a76febbc6801f588ba39 2x" width="50" border="0" alt="Manga: Banana Fish" class="lazyload">
                 </a></div>
 				</td>
 				<td valign="top">
@@ -1619,7 +1700,7 @@ If you like one, you&#039;ll probably enjoy the other &nbsp;</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/756/Banana_Fish"><strong>Banana Fish</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:756">add</a><span style="float:right;"><a href="/recommendations/manga/1-756" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/756/Banana_Fish"><strong>Banana Fish</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:756" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-756" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">First of all, the similarities is both manga have dark genres and involves killing. The protagonist in &#039;Banana Fish&#039; Aslan Jade Callenreese (Ash), have some similarities with the antagonist in &#039;Monster&#039; Johan Liebert (Johan), both characters have intelligent/smart/genius brain, childhood trauma, dark past, have the ability to manipulates peoples mind and both have handsome face.
@@ -1648,38 +1729,11 @@ Long volumes series, contain politic, psychological and human experiment.&nbsp;<
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/904/Kozure_Ookami"><strong>Kozure Ookami</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:904">add</a><span style="float:right;"><a href="/recommendations/manga/1-904" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/904/Kozure_Ookami"><strong>Kozure Ookami</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:904" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-904" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both manga revolve around a man on a journey (through Tokugawa-era Japan in Lone Wolf and Cub, through post-Cold War Germany and The Czech Republic in Monster) to find and kill a man who had done a great evil to them. Both series are leisurely in pace and almost slice of life-like in nature, with a heavy emphasis on side characters and their interactions with the protagonist and antagonist. The main difference between the two, however, is the nature of the main characters: whereas Monster&#039;s Dr. Kenzo Tenma goes out of his way to avoid harming and killing others despite is ultimately murderous intentions, Lone <span style="display: none;" id="recommend30401">Wolf and Cub&#039;s Ogami Itto embraces the life of the wandering sellsword, carving a bloody swath across Japan in his quest for revenge.</span>&nbsp<a href="javascript:void(0);" class="js-toggle-recommendation-button" data-id="30401">read more</a>&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=30401" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/DreamerDeciever">DreamerDeciever</a></div>
-					</div></div>
-				</td>
-			</tr>
-			</table>
-			</div>
-            
-			<div class="borderClass">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tr>
-				<td width="60" valign="top">
-				<div class="picSurround"><a href="https://myanimelist.net/manga/848/Master_Keaton" class="hoverinfo_trigger" id="#raArea1848" rel="#raInfo1848">
-                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/1/200911.jpg?s=4de35eb9bba677dc083e113bcf5d8a65" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/1/200911.jpg?s=4de35eb9bba677dc083e113bcf5d8a65 1x,https://cdn.myanimelist.net/r/100x140/images/manga/1/200911.jpg?s=4e797ccaab21d6a4668a350ee99cbaf8 2x" width="50" border="0" alt="Manga: Master Keaton" class="lazyload">
-                </a></div>
-				</td>
-				<td valign="top">
-				
-	<div id="raArea1848">
-	<div id="raInfo1848" rel="m848" class="hoverinfo">
-	</div>
-	</div>
-	
-                <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/848/Master_Keaton"><strong>Master Keaton</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:848">add</a><span style="float:right;"><a href="/recommendations/manga/1-848" title="Permalink"><small>permalink</small></a></span>
-                </div>
-					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
-					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both series are written by the same author. Due to this the art (very well done in my opinion) looks alike in both series. If you like the way Naoki Urasawa tells a story and you like the general atmosphere of his stories than you should really read Monster. In my opinion Monster is by far his best work. It is the most deep and well written story I ever read. Of you like one of the main characters I am pretty sure you will like the other one too. If you haven&#039;t already you should give both series a try!&nbsp;</div>
-					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=35917" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Darkbow">Darkbow</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -1702,11 +1756,38 @@ Long volumes series, contain politic, psychological and human experiment.&nbsp;<
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1211/Ore_to_Akuma_no_Blues"><strong>Ore to Akuma no Blues</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1211">add</a><span style="float:right;"><a href="/recommendations/manga/1-1211" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1211/Ore_to_Akuma_no_Blues"><strong>Ore to Akuma no Blues</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1211" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1211" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Although the subject matter are vastly different, both stories deal with a kind of horror that is most keenly felt by those in isolation. Like Monster, 俺と悪魔ブルーズ is a disconcerting tale for grown-ups. In it, the author makes a real attempt to treat subjects like racism and life in the American South realistically and with respect.  Perhaps he does not always succeed, but between the quality of the art and the originality of the storyline, it&#039;s worth picking it up.&nbsp;</div>
 					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=45" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/all_monsters">all_monsters</a></div>
+					</div></div>
+				</td>
+			</tr>
+			</table>
+			</div>
+            
+			<div class="borderClass">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="60" valign="top">
+				<div class="picSurround"><a href="https://myanimelist.net/manga/845/Happy" class="hoverinfo_trigger" id="#raArea1845" rel="#raInfo1845">
+                <img src="https://cdn.myanimelist.net/images/spacer.gif" data-src="https://cdn.myanimelist.net/r/50x70/images/manga/2/148293.jpg?s=d067209621f3d78bf741b7149f524365" data-srcset="https://cdn.myanimelist.net/r/50x70/images/manga/2/148293.jpg?s=d067209621f3d78bf741b7149f524365 1x,https://cdn.myanimelist.net/r/100x140/images/manga/2/148293.jpg?s=84b02ff9d1a422dad36956614317cd63 2x" width="50" border="0" alt="Manga: Happy!" class="lazyload">
+                </a></div>
+				</td>
+				<td valign="top">
+				
+	<div id="raArea1845">
+	<div id="raInfo1845" rel="m845" class="hoverinfo">
+	</div>
+	</div>
+	
+                <div style="margin-bottom: 2px;">
+                    <a href="https://myanimelist.net/manga/845/Happy"><strong>Happy!</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:845" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-845" title="Permalink"><small>permalink</small></a></span>
+                </div>
+					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
+					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both series are written by the same author. Due to this the art (very well done in my opinion) looks alike in both series. If you like the way Naoki Urasawa tells a story and you like the general atmosphere of his stories than you should really read Monster. In my opinion Monster is by far his best work. It is the most deep and well written story I ever read. A must read for every manga fan in my opinion.&nbsp;</div>
+					<div class="spaceit_pad"><span style="float: right;"><a href="/dbchanges.php?go=reportmangarecommendation&id=35915" class="lightLink"><small>report</small></a></span>Recommended by <a href="/profile/Darkbow">Darkbow</a></div>
 					</div></div>
 				</td>
 			</tr>
@@ -1729,7 +1810,7 @@ Long volumes series, contain politic, psychological and human experiment.&nbsp;<
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/105901/Ijousha_no_Ai"><strong>Ijousha no Ai</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:105901">add</a><span style="float:right;"><a href="/recommendations/manga/1-105901" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/105901/Ijousha_no_Ai"><strong>Ijousha no Ai</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:105901" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-105901" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Both have a psychopath in direct relationship with the protagonist and that he does not want to kill.
@@ -1765,7 +1846,7 @@ In both the secondary characters end up having a lot of weight in the plot in a 
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/936/Homunculus"><strong>Homunculus</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:936">add</a><span style="float:right;"><a href="/recommendations/manga/1-936" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/936/Homunculus"><strong>Homunculus</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:936" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-936" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">Similar in pace, short fast chapters.
@@ -1793,7 +1874,7 @@ Both have lots of mystery and deal with psychological themes.&nbsp;</div>
 	</div>
 	
                 <div style="margin-bottom: 2px;">
-                    <a href="https://myanimelist.net/manga/1668/Black_Jack_ni_Yoroshiku"><strong>Black Jack ni Yoroshiku</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1668">add</a><span style="float:right;"><a href="/recommendations/manga/1-1668" title="Permalink"><small>permalink</small></a></span>
+                    <a href="https://myanimelist.net/manga/1668/Black_Jack_ni_Yoroshiku"><strong>Black Jack ni Yoroshiku</strong></a> <a href="https://myanimelist.net/login.php?error=login_required&amp;from=%2Fmanga%2F1%2Fjikan%2Fuserrecs" title="Quick add manga to my list" class="button_add ga-click"><span class="ga-click" data-ga-click-type="list-add-button" data-ga-click-param="mid:1668" style="line-height: unset;">add</span></a><span style="float:right;"><a href="/recommendations/manga/1-1668" title="Permalink"><small>permalink</small></a></span>
                 </div>
 					<div class="borderClass bgColor1" style="padding: 3px; border-width: 1px 0 0 0; margin: 4px 0;">
 					<div class="spaceit_pad detail-user-recs-text" style="white-space: pre-wrap">A professional doctor&#039;s wordwievs are shaped and changed as he meets various people and their life stories are unfolded, the manga ofering philosophical musings on the theme of life.&nbsp;</div>
@@ -1874,19 +1955,19 @@ Both have lots of mystery and deal with psychological themes.&nbsp;</div>
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -1896,23 +1977,23 @@ Both have lots of mystery and deal with psychological themes.&nbsp;</div>
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -1930,11 +2011,11 @@ Both have lots of mystery and deal with psychological themes.&nbsp;</div>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -2043,7 +2124,7 @@ Both have lots of mystery and deal with psychological themes.&nbsp;</div>
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

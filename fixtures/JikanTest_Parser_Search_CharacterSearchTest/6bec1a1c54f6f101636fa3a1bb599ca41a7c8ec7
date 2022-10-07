@@ -38,15 +38,15 @@
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='4067d8b05e9ede7a3dab6368cf66a3e8af458938'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='6314cec832135399784911de7433b9570f8eeea5'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -62,10 +62,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643364"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643364"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -81,7 +83,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
     <script>(deployads = window.deployads || []).pageSegment = 'character_search';</script>
 
 
@@ -93,8 +95,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry" onclick="trackOutboundLink('https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry')">
-  <img src="/c/i/images/event/Mini_Banner_20220602_Writing_Contest_2022_Submission_Window_Opens/mini_banner.png" width="250" height="36" alt="Writing Contest 2022" title="Writing Contest 2022">
+  <a href="https://mxj.myanimelist.net/bluehunter/art2/?utm_source=MAL&utm_medium=all_TMB_bluehunter2" onclick="trackOutboundLink('https://mxj.myanimelist.net/bluehunter/art2/?utm_source=MAL&utm_medium=all_TMB_bluehunter2')">
+  <img src="/c/i/images/event/Mini_Banner_20220909_BLUE_HUNTER_art_contest2/mini-banner.gif" width="250" height="36" alt="BLUE HUNTER art contest2" title="BLUE HUNTER art contest2">
 </a>
 
 </div>
@@ -177,7 +179,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper"><div><a href="/panel.php?go=characters&do=add" class="header-right"><i class="fa-solid fa-square-plus mr4"></i>Add Character</a><h1 class="h1">Characters</h1></div><div id="content">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper"><div><a href="/panel.php?go=characters&do=add" class="header-right"><i class="fa-solid fa-square-plus mr4"></i>Add Character</a><h1 class="h1">Characters</h1></div><div id="content">
 
 
             <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
@@ -245,49 +261,49 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <td class="borderClass bgColor1" width="175">
             <a href="https://myanimelist.net/character/1896/Fate_Testarossa">Testarossa, Fate</a><br /><small>(Fate T. Harlaown, Har)</small>
             </td>
-            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a>, <a href="/anime/31137/Mahou_Shoujo_Lyrical_Nanoha_ViVid__Special_Program">Mahou Shoujo Lyrical Nanoha ViVid: Special Program</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a><div>Manga: <a href="/manga/25218/Mahou_Shoujo_Lyrical_Nanoha__Comic_à_la_carte">Mahou Shoujo Lyrical Nanoha: Comic à la carte</a>, <a href="/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume">Mahou Shoujo Lyrical Nanoha A&#039;s Portable: The Gears of Destiny - Material Musume.</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics">Mahou Shoujo Lyrical Nanoha: Reflection the Comics</a>, <a href="/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st">Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a></div></small></td>
+            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a>, <a href="/anime/31137/Mahou_Shoujo_Lyrical_Nanoha_ViVid__Special_Program">Mahou Shoujo Lyrical Nanoha ViVid: Special Program</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a><div>Manga: <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a>, <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st">Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics">Mahou Shoujo Lyrical Nanoha: Reflection the Comics</a>, <a href="/manga/25218/Mahou_Shoujo_Lyrical_Nanoha__Comic_à_la_carte">Mahou Shoujo Lyrical Nanoha: Comic à la carte</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume">Mahou Shoujo Lyrical Nanoha A&#039;s Portable: The Gears of Destiny - Material Musume.</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a></div></small></td>
         </tr><tr><td class="borderClass bgColor2" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/202815/Testarossa"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/466779.jpg?s=8f9ca7b694f25b6b24bf43d6a119e7d4" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor2" width="175">
             <a href="https://myanimelist.net/character/202815/Testarossa">Testarossa</a><br /><small>(White Primordial, Blanc)</small>
             </td>
-            <td class="borderClass bgColor2"><small> <div>Manga: <a href="/manga/87609/Tensei_shitara_Slime_Datta_Ken">Tensei shitara Slime Datta Ken</a>, <a href="/manga/87610/Tensei_shitara_Slime_Datta_Ken">Tensei shitara Slime Datta Ken</a></div></small></td>
+            <td class="borderClass bgColor2"><small> <div>Manga: <a href="/manga/87610/Tensei_shitara_Slime_Datta_Ken">Tensei shitara Slime Datta Ken</a>, <a href="/manga/87609/Tensei_shitara_Slime_Datta_Ken">Tensei shitara Slime Datta Ken</a></div></small></td>
         </tr><tr><td class="borderClass bgColor1" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/5939/Precia_Testarossa"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/14/226569.jpg?s=3720fdd2b1a1bc691b29599dcb31f808" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor1" width="175">
             <a href="https://myanimelist.net/character/5939/Precia_Testarossa">Testarossa, Precia</a>
             </td>
-            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a><div>Manga: <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st">Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st</a></div></small></td>
+            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a><div>Manga: <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st">Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a></div></small></td>
         </tr><tr><td class="borderClass bgColor2" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/273/Teletha_Testarossa"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/85956.jpg?s=5b8216dcdf6ab1aa7eb2df7e61ff87c4" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor2" width="175">
             <a href="https://myanimelist.net/character/273/Teletha_Testarossa">Testarossa, Teletha</a><br /><small>(Tessa)</small>
             </td>
-            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/73/Full_Metal_Panic_The_Second_Raid">Full Metal Panic! The Second Raid</a>, <a href="/anime/71/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/anime/31931/Full_Metal_Panic_Invisible_Victory">Full Metal Panic! Invisible Victory</a>, <a href="/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi">Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi</a>, <a href="/anime/72/Full_Metal_Panic_Fumoffu">Full Metal Panic? Fumoffu</a><div>Manga: <a href="/manga/937/Ikinari_Full_Metal_Panic">Ikinari! Full Metal Panic!</a>, <a href="/manga/789/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/manga/895/Full_Metal_Panic_Sigma">Full Metal Panic! Sigma</a>, <a href="/manga/10892/Full_Metal_Panic">Full Metal Panic!</a></div></small></td>
+            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/72/Full_Metal_Panic_Fumoffu">Full Metal Panic? Fumoffu</a>, <a href="/anime/36344/Full_Metal_Panic_Movie_3__Into_the_Blue">Full Metal Panic! Movie 3: Into the Blue</a>, <a href="/anime/31931/Full_Metal_Panic_Invisible_Victory">Full Metal Panic! Invisible Victory</a>, <a href="/anime/36342/Full_Metal_Panic_Movie_1__Boy_Meets_Girl">Full Metal Panic! Movie 1: Boy Meets Girl</a>, <a href="/anime/36343/Full_Metal_Panic_Movie_2__One_Night_Stand">Full Metal Panic! Movie 2: One Night Stand</a>, <a href="/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi">Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi</a>, <a href="/anime/71/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/anime/73/Full_Metal_Panic_The_Second_Raid">Full Metal Panic! The Second Raid</a><div>Manga: <a href="/manga/937/Ikinari_Full_Metal_Panic">Ikinari! Full Metal Panic!</a>, <a href="/manga/895/Full_Metal_Panic_Sigma">Full Metal Panic! Sigma</a>, <a href="/manga/789/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/manga/10892/Full_Metal_Panic">Full Metal Panic!</a></div></small></td>
         </tr><tr><td class="borderClass bgColor1" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/8529/Leonard_Testarossa"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/12/59195.jpg?s=d7770d6d559ee4ebf39be1329c752619" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor1" width="175">
             <a href="https://myanimelist.net/character/8529/Leonard_Testarossa">Testarossa, Leonard</a><br /><small>(Mr. Silver)</small>
             </td>
-            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/73/Full_Metal_Panic_The_Second_Raid">Full Metal Panic! The Second Raid</a>, <a href="/anime/31931/Full_Metal_Panic_Invisible_Victory">Full Metal Panic! Invisible Victory</a><div>Manga: <a href="/manga/895/Full_Metal_Panic_Sigma">Full Metal Panic! Sigma</a>, <a href="/manga/10892/Full_Metal_Panic">Full Metal Panic!</a></div></small></td>
+            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/31931/Full_Metal_Panic_Invisible_Victory">Full Metal Panic! Invisible Victory</a>, <a href="/anime/73/Full_Metal_Panic_The_Second_Raid">Full Metal Panic! The Second Raid</a><div>Manga: <a href="/manga/10892/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/manga/895/Full_Metal_Panic_Sigma">Full Metal Panic! Sigma</a></div></small></td>
         </tr><tr><td class="borderClass bgColor2" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/5940/Alicia_Testarossa"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/16/226571.jpg?s=a8defd1486f1585133f3e98a3a557aa5" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor2" width="175">
             <a href="https://myanimelist.net/character/5940/Alicia_Testarossa">Testarossa, Alicia</a>
             </td>
-            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a><div>Manga: <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a></div></small></td>
+            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a><div>Manga: <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a></div></small></td>
         </tr><tr><td class="borderClass bgColor1" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/19632/Linith"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/248641.jpg?s=87531f9fba3c19f4affd9bca3b42adc2" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor1" width="175">
             <a href="https://myanimelist.net/character/19632/Linith">Linith</a>
             </td>
-            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a><div>Manga: <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st">Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a></div></small></td>
+            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a><div>Manga: <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st">Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st</a></div></small></td>
         </tr><tr><td class="borderClass bgColor2" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/6255/Richard_Henry_Mardukas"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/12/192056.jpg?s=9da8ac4f6b72043ceace11fb75b0fada" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor2" width="175">
             <a href="https://myanimelist.net/character/6255/Richard_Henry_Mardukas">Mardukas, Richard Henry</a>
             </td>
-            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/71/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi">Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi</a>, <a href="/anime/31931/Full_Metal_Panic_Invisible_Victory">Full Metal Panic! Invisible Victory</a>, <a href="/anime/73/Full_Metal_Panic_The_Second_Raid">Full Metal Panic! The Second Raid</a>, <a href="/anime/72/Full_Metal_Panic_Fumoffu">Full Metal Panic? Fumoffu</a><div>Manga: <a href="/manga/895/Full_Metal_Panic_Sigma">Full Metal Panic! Sigma</a>, <a href="/manga/10892/Full_Metal_Panic">Full Metal Panic!</a></div></small></td>
+            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/73/Full_Metal_Panic_The_Second_Raid">Full Metal Panic! The Second Raid</a>, <a href="/anime/71/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/anime/72/Full_Metal_Panic_Fumoffu">Full Metal Panic? Fumoffu</a>, <a href="/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi">Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi</a>, <a href="/anime/36342/Full_Metal_Panic_Movie_1__Boy_Meets_Girl">Full Metal Panic! Movie 1: Boy Meets Girl</a>, <a href="/anime/31931/Full_Metal_Panic_Invisible_Victory">Full Metal Panic! Invisible Victory</a><div>Manga: <a href="/manga/895/Full_Metal_Panic_Sigma">Full Metal Panic! Sigma</a>, <a href="/manga/10892/Full_Metal_Panic">Full Metal Panic!</a></div></small></td>
         </tr><tr><td class="borderClass bgColor1" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/17067/Shirou"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/8/36474.jpg?s=452dfa8b4a86862bfc63bd476d9aa09a" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor1" width="175">
@@ -299,7 +315,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <td class="borderClass bgColor2" width="175">
             <a href="https://myanimelist.net/character/67615/Levi_The_Slasher">The Slasher, Levi</a><br /><small>(Material L, Assailant of Thunderblade)</small>
             </td>
-            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a><div>Manga: <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume">Mahou Shoujo Lyrical Nanoha A&#039;s Portable: The Gears of Destiny - Material Musume.</a>, <a href="/manga/63893/Mahou_Shoujo_Lyrical_Nanoha__Material_Musume_-_Innocent">Mahou Shoujo Lyrical Nanoha: Material Musume. - Innocent</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a></div></small></td>
+            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a>, <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a><div>Manga: <a href="/manga/63893/Mahou_Shoujo_Lyrical_Nanoha__Material_Musume_-_Innocent">Mahou Shoujo Lyrical Nanoha: Material Musume. - Innocent</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume">Mahou Shoujo Lyrical Nanoha A&#039;s Portable: The Gears of Destiny - Material Musume.</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a></div></small></td>
         </tr><tr><td class="borderClass bgColor1" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/164668/Kurama"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/6/406772.jpg?s=07d75fc7763668075214757b63b1dc98" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor1" width="175">
@@ -317,13 +333,13 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <td class="borderClass bgColor1" width="175">
             <a href="https://myanimelist.net/character/2747/Andrei_Sergeivich_Kalinin">Kalinin, Andrei Sergeivich</a>
             </td>
-            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/71/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi">Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi</a>, <a href="/anime/73/Full_Metal_Panic_The_Second_Raid">Full Metal Panic! The Second Raid</a>, <a href="/anime/72/Full_Metal_Panic_Fumoffu">Full Metal Panic? Fumoffu</a>, <a href="/anime/31931/Full_Metal_Panic_Invisible_Victory">Full Metal Panic! Invisible Victory</a><div>Manga: <a href="/manga/895/Full_Metal_Panic_Sigma">Full Metal Panic! Sigma</a>, <a href="/manga/10892/Full_Metal_Panic">Full Metal Panic!</a></div></small></td>
+            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi">Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi</a>, <a href="/anime/73/Full_Metal_Panic_The_Second_Raid">Full Metal Panic! The Second Raid</a>, <a href="/anime/72/Full_Metal_Panic_Fumoffu">Full Metal Panic? Fumoffu</a>, <a href="/anime/31931/Full_Metal_Panic_Invisible_Victory">Full Metal Panic! Invisible Victory</a>, <a href="/anime/71/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/anime/36342/Full_Metal_Panic_Movie_1__Boy_Meets_Girl">Full Metal Panic! Movie 1: Boy Meets Girl</a><div>Manga: <a href="/manga/10892/Full_Metal_Panic">Full Metal Panic!</a>, <a href="/manga/895/Full_Metal_Panic_Sigma">Full Metal Panic! Sigma</a></div></small></td>
         </tr><tr><td class="borderClass bgColor2" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/2251/Vita"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/3/226521.jpg?s=ffde9fad065d03bb9c3451c0b6cbe788" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor2" width="175">
             <a href="https://myanimelist.net/character/2251/Vita">Vita</a><br /><small>(Knight of the Iron Hammer)</small>
             </td>
-            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a>, <a href="/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a><div>Manga: <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a>, <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics">Mahou Shoujo Lyrical Nanoha: Reflection the Comics</a></div></small></td>
+            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a>, <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a>, <a href="/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a><div>Manga: <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a>, <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics">Mahou Shoujo Lyrical Nanoha: Reflection the Comics</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a></div></small></td>
         </tr><tr><td class="borderClass bgColor1" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/10655/Belfangan_Clouseau"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/11/43006.jpg?s=f42e6fa1f0c8b74e8eb0ac1ab50130ab" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor1" width="175">
@@ -335,13 +351,13 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <td class="borderClass bgColor2" width="175">
             <a href="https://myanimelist.net/character/2010/Nanoha_Takamachi">Takamachi, Nanoha</a><br /><small>(Ace of Ace)</small>
             </td>
-            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/31137/Mahou_Shoujo_Lyrical_Nanoha_ViVid__Special_Program">Mahou Shoujo Lyrical Nanoha ViVid: Special Program</a>, <a href="/anime/176/Triangle_Heart__Sweet_Songs_Forever">Triangle Heart: Sweet Songs Forever</a>, <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/12101/Mahou_Shoujo_Lyrical_Nanoha__Lyrical_Toy_Box">Mahou Shoujo Lyrical Nanoha: Lyrical Toy Box</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a>, <a href="/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a><div>Manga: <a href="/manga/25218/Mahou_Shoujo_Lyrical_Nanoha__Comic_à_la_carte">Mahou Shoujo Lyrical Nanoha: Comic à la carte</a>, <a href="/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume">Mahou Shoujo Lyrical Nanoha A&#039;s Portable: The Gears of Destiny - Material Musume.</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a>, <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st">Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st</a>, <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics">Mahou Shoujo Lyrical Nanoha: Reflection the Comics</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a></div></small></td>
+            <td class="borderClass bgColor2"><small> Anime: <a href="/anime/31137/Mahou_Shoujo_Lyrical_Nanoha_ViVid__Special_Program">Mahou Shoujo Lyrical Nanoha ViVid: Special Program</a>, <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/176/Triangle_Heart__Sweet_Songs_Forever">Triangle Heart: Sweet Songs Forever</a>, <a href="/anime/12101/Mahou_Shoujo_Lyrical_Nanoha__Lyrical_Toy_Box">Mahou Shoujo Lyrical Nanoha: Lyrical Toy Box</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a>, <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a>, <a href="/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a><div>Manga: <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a>, <a href="/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume">Mahou Shoujo Lyrical Nanoha A&#039;s Portable: The Gears of Destiny - Material Musume.</a>, <a href="/manga/25218/Mahou_Shoujo_Lyrical_Nanoha__Comic_à_la_carte">Mahou Shoujo Lyrical Nanoha: Comic à la carte</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st">Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics">Mahou Shoujo Lyrical Nanoha: Reflection the Comics</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a></div></small></td>
         </tr><tr><td class="borderClass bgColor1" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/2232/Signum"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/2/226519.jpg?s=48d10cfaec9520072c54d22ab4b91e21" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor1" width="175">
             <a href="https://myanimelist.net/character/2232/Signum">Signum</a><br /><small>(Knight of the Sword, General of the Raging Fire)</small>
             </td>
-            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a><div>Manga: <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics">Mahou Shoujo Lyrical Nanoha: Reflection the Comics</a></div></small></td>
+            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation">Mahou Shoujo Lyrical Nanoha: Detonation</a>, <a href="/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a><div>Manga: <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics">Mahou Shoujo Lyrical Nanoha: Reflection the Comics</a>, <a href="/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS">Mahou Shoujo Lyrical Nanoha InnocentS</a>, <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s - Tribute Comics</a>, <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a></div></small></td>
         </tr><tr><td class="borderClass bgColor2" width="30"><div class="picSurround"><a href="https://myanimelist.net/character/8513/Nephrite"><img class="lazyload" data-src="https://cdn.myanimelist.net/r/42x62/images/characters/5/269807.jpg?s=e7e927624776829cf488321c944ea940" border="0" width="42" height="62"></a></div>
             </td>
             <td class="borderClass bgColor2" width="175">
@@ -353,7 +369,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             <td class="borderClass bgColor1" width="175">
             <a href="https://myanimelist.net/character/2879/Yuuno_Scrya">Scrya, Yuuno</a>
             </td>
-            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a>, <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a><div>Manga: <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a></div></small></td>
+            <td class="borderClass bgColor1"><small> Anime: <a href="/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st">Mahou Shoujo Lyrical Nanoha: The Movie 1st</a>, <a href="/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS">Mahou Shoujo Lyrical Nanoha StrikerS</a>, <a href="/anime/76/Mahou_Shoujo_Lyrical_Nanoha">Mahou Shoujo Lyrical Nanoha</a>, <a href="/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection">Mahou Shoujo Lyrical Nanoha: Reflection</a>, <a href="/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As">Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s</a><div>Manga: <a href="/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent">Mahou Shoujo Lyrical Nanoha Innocent</a>, <a href="/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics">Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics</a>, <a href="/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid">Mahou Shoujo Lyrical Nanoha ViVid</a>, <a href="/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS">Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS</a>, <a href="/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As">Mahou Shoujo Lyrical Nanoha A&#039;s</a>, <a href="/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force">Mahou Senki Lyrical Nanoha Force</a></div></small></td>
         </tr></table><div class="borderClass" style="text-align: right; margin: 5px 0; border-width: 0;"><div class="spaceit" style="text-align: right;"><span class="bgColor1" style="padding: 2px;">[1]</span></div></div>  <div class="mauto clearfix pt24" style="width:760px;">
     <div class="fl-l">
       </div>
@@ -421,19 +437,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -443,23 +459,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -477,11 +493,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -590,7 +606,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

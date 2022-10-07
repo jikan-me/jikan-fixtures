@@ -38,15 +38,15 @@
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='c2a50808d9997ed60c18ce63313950a903a0fc9b'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='3b757cfc0b4875bd816667db8126b041342b928d'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -62,10 +62,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643384"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643384"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -81,7 +83,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
     <script>(deployads = window.deployads || []).pageSegment = 'character_search';</script>
 
 
@@ -93,8 +95,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
-  <img src="/c/i/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
+  <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce" onclick="trackOutboundLink('https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce')">
+  <img src="/c/i/images/event/Mini_Banner_20220915_FAL_FALL_2022/mini-banner.png" width="250" height="36" alt="FAL FALL 2022" title="FAL FALL 2022">
 </a>
 
 </div>
@@ -177,7 +179,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper"><div><a href="/panel.php?go=characters&do=add" class="header-right"><i class="fa-solid fa-square-plus mr4"></i>Add Character</a><h1 class="h1">Characters</h1></div><div id="content">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper"><div><a href="/panel.php?go=characters&do=add" class="header-right"><i class="fa-solid fa-square-plus mr4"></i>Add Character</a><h1 class="h1">Characters</h1></div><div id="content">
 
 
             <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
@@ -262,7 +278,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch">Code Geass: Hangyaku no Lelouch</a></div><div class="title"><a href="https://myanimelist.net/anime/1953/Code_Geass__Hangyaku_no_Lelouch_Picture_Drama">Code Geass: Hangyaku no Lelouch Picture Drama</a></div><div class="title"><a href="https://myanimelist.net/anime/2124/Code_Geass__Hangyaku_no_Lelouch_Recaps">Code Geass: Hangyaku no Lelouch Recaps</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/1528/Code_Geass__Hangyaku_no_Lelouch">Code Geass: Hangyaku no Lelouch</a></div><div class="title"><a href="https://myanimelist.net/manga/1530/Code_Geass__Hankou_no_Suzaku">Code Geass: Hankou no Suzaku</a></div><div class="title"><a href="https://myanimelist.net/manga/1547/Code_Geass__Nightmare_of_Nunnally">Code Geass: Nightmare of Nunnally</a></div></td>
   <td class="favorites">
-    154,665
+    158,488
   </td>
 </tr>
 <tr class="ranking-list">
@@ -277,31 +293,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       <a href="https://myanimelist.net/character/45627/Levi" class="fs14 fw-b">Levi</a><br><span class="fs12 fn-grey6">(リヴァイ)</span><br></div>
   </td>
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/25781/Shingeki_no_Kyojin__Kuinaki_Sentaku">Shingeki no Kyojin: Kuinaki Sentaku</a></div><div class="title"><a href="https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3">Shingeki no Kyojin Season 3</a></div><div class="title"><a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/58007/Shingeki_no_Kyojin__Kuinaki_Sentaku">Shingeki no Kyojin: Kuinaki Sentaku</a></div><div class="title"><a href="https://myanimelist.net/manga/70613/Shingeki_no_Kyojin__Kuinaki_Sentaku_-_Prologue">Shingeki no Kyojin: Kuinaki Sentaku - Prologue</a></div><div class="title"><a href="https://myanimelist.net/manga/23390/Shingeki_no_Kyojin">Shingeki no Kyojin</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/58007/Shingeki_no_Kyojin__Kuinaki_Sentaku">Shingeki no Kyojin: Kuinaki Sentaku</a></div><div class="title"><a href="https://myanimelist.net/manga/70613/Shingeki_no_Kyojin__Kuinaki_Sentaku_-_Full_Color_Kanzenban">Shingeki no Kyojin: Kuinaki Sentaku - Full Color Kanzenban</a></div><div class="title"><a href="https://myanimelist.net/manga/23390/Shingeki_no_Kyojin">Shingeki no Kyojin</a></div></td>
   <td class="favorites">
-    130,075
+    132,149
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank1">3</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/71/L_Lawliet" id="#area" rel="#info">
-      <img width="50" height="78" alt="Lawliet, L" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/10/249647.jpg?s=3a9db4dd560c26d3374eca98d66bcd9a" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/10/249647.jpg?s=3a9db4dd560c26d3374eca98d66bcd9a 1x, https://cdn.myanimelist.net/r/100x156/images/characters/10/249647.jpg?s=92b8234d30c8c259b70ce2373ede2eee 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/71/L_Lawliet" class="fs14 fw-b">Lawliet, L</a><br><span class="fs12 fn-grey6">(エル ローライト)</span><br></div>
-  </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/1535/Death_Note">Death Note</a></div><div class="title"><a href="https://myanimelist.net/anime/2994/Death_Note__Rewrite">Death Note: Rewrite</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/21/Death_Note">Death Note</a></div><div class="title"><a href="https://myanimelist.net/manga/7458/Death_Note_Another_Note__Los_Angeles_BB_Renzoku_Satsujin_Jiken">Death Note Another Note: Los Angeles BB Renzoku Satsujin Jiken</a></div><div class="title"><a href="https://myanimelist.net/manga/8158/L_Change_the_WorLd">L Change the WorLd</a></div></td>
-  <td class="favorites">
-    118,434
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank1">4</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/40/Luffy_Monkey_D" id="#area" rel="#info">
@@ -313,7 +312,24 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a></div><div class="title"><a href="https://myanimelist.net/anime/459/One_Piece_Movie_01">One Piece Movie 01</a></div><div class="title"><a href="https://myanimelist.net/anime/460/One_Piece_Movie_02__Nejimaki-jima_no_Daibouken">One Piece Movie 02: Nejimaki-jima no Daibouken</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/13/One_Piece">One Piece</a></div><div class="title"><a href="https://myanimelist.net/manga/793/Wanted">Wanted!</a></div><div class="title"><a href="https://myanimelist.net/manga/881/Cross_Epoch">Cross Epoch</a></div></td>
   <td class="favorites">
-    115,850
+    121,629
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank1">4</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/71/L_Lawliet" id="#area" rel="#info">
+      <img width="50" height="78" alt="Lawliet, L" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/10/249647.jpg?s=3a9db4dd560c26d3374eca98d66bcd9a" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/10/249647.jpg?s=3a9db4dd560c26d3374eca98d66bcd9a 1x, https://cdn.myanimelist.net/r/100x156/images/characters/10/249647.jpg?s=92b8234d30c8c259b70ce2373ede2eee 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/character/71/L_Lawliet" class="fs14 fw-b">Lawliet, L</a><br><span class="fs12 fn-grey6">(エル ローライト)</span><br></div>
+  </td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/1535/Death_Note">Death Note</a></div><div class="title"><a href="https://myanimelist.net/anime/2994/Death_Note__Rewrite">Death Note: Rewrite</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/21/Death_Note">Death Note</a></div><div class="title"><a href="https://myanimelist.net/manga/7458/Death_Note_Another_Note__Los_Angeles_BB_Renzoku_Satsujin_Jiken">Death Note Another Note: Los Angeles BB Renzoku Satsujin Jiken</a></div><div class="title"><a href="https://myanimelist.net/manga/8158/L_Change_the_WorLd">L Change the WorLd</a></div></td>
+  <td class="favorites">
+    120,711
   </td>
 </tr>
 <tr class="ranking-list">
@@ -330,7 +346,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a></div><div class="title"><a href="https://myanimelist.net/anime/459/One_Piece_Movie_01">One Piece Movie 01</a></div><div class="title"><a href="https://myanimelist.net/anime/460/One_Piece_Movie_02__Nejimaki-jima_no_Daibouken">One Piece Movie 02: Nejimaki-jima no Daibouken</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/13/One_Piece">One Piece</a></div><div class="title"><a href="https://myanimelist.net/manga/881/Cross_Epoch">Cross Epoch</a></div><div class="title"><a href="https://myanimelist.net/manga/14414/One_Piece_Log_Book_Omake">One Piece Log Book Omake</a></div></td>
   <td class="favorites">
-    92,680
+    96,918
   </td>
 </tr>
 <tr class="ranking-list">
@@ -347,7 +363,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/1535/Death_Note">Death Note</a></div><div class="title"><a href="https://myanimelist.net/anime/2994/Death_Note__Rewrite">Death Note: Rewrite</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/21/Death_Note">Death Note</a></div></td>
   <td class="favorites">
-    88,248
+    90,528
   </td>
 </tr>
 <tr class="ranking-list">
@@ -364,7 +380,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a></div><div class="title"><a href="https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania">Steins;Gate: Oukoubakko no Poriomania</a></div><div class="title"><a href="https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_Déjà_vu">Steins;Gate Movie: Fuka Ryouiki no Déjà vu</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/17517/Steins_Gate">Steins;Gate</a></div><div class="title"><a href="https://myanimelist.net/manga/20699/Steins_Gate__Boukan_no_Rebellion">Steins;Gate: Boukan no Rebellion</a></div><div class="title"><a href="https://myanimelist.net/manga/27965/Steins_Gate__Hiyoku_Renri_no_Sweets_Honey">Steins;Gate: Hiyoku Renri no Sweets Honey</a></div></td>
   <td class="favorites">
-    87,913
+    89,713
   </td>
 </tr>
 <tr class="ranking-list">
@@ -381,7 +397,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/136/Hunter_x_Hunter">Hunter x Hunter</a></div><div class="title"><a href="https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation">Hunter x Hunter: Original Video Animation</a></div><div class="title"><a href="https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island">Hunter x Hunter: Greed Island</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/26/Hunter_x_Hunter">Hunter x Hunter</a></div></td>
   <td class="favorites">
-    87,014
+    89,568
   </td>
 </tr>
 <tr class="ranking-list">
@@ -398,7 +414,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/121/Fullmetal_Alchemist">Fullmetal Alchemist</a></div><div class="title"><a href="https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa">Fullmetal Alchemist: The Conqueror of Shamballa</a></div><div class="title"><a href="https://myanimelist.net/anime/664/Fullmetal_Alchemist__Reflections">Fullmetal Alchemist: Reflections</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/25/Fullmetal_Alchemist">Fullmetal Alchemist</a></div><div class="title"><a href="https://myanimelist.net/manga/4658/Fullmetal_Alchemist">Fullmetal Alchemist</a></div><div class="title"><a href="https://myanimelist.net/manga/32409/Full_Metal_Alchemist__Prototype">Full Metal Alchemist: Prototype</a></div></td>
   <td class="favorites">
-    82,475
+    83,867
   </td>
 </tr>
 <tr class="ranking-list">
@@ -415,7 +431,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/20/Naruto">Naruto</a></div><div class="title"><a href="https://myanimelist.net/anime/442/Naruto_Movie_1__Dai_Katsugeki_Yuki_Hime_Shinobu_Houjou_Dattebayo">Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!</a></div><div class="title"><a href="https://myanimelist.net/anime/594/Naruto__Takigakure_no_Shitou_-_Ore_ga_Eiyuu_Dattebayo">Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/11/Naruto">Naruto</a></div><div class="title"><a href="https://myanimelist.net/manga/6028/Naruto__Shiro_no_Douji_Keppu_no_Kijin">Naruto: Shiro no Douji, Keppu no Kijin</a></div><div class="title"><a href="https://myanimelist.net/manga/6444/Naruto">Naruto</a></div></td>
   <td class="favorites">
-    76,876
+    78,698
   </td>
 </tr>
 <tr class="ranking-list">
@@ -432,7 +448,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/918/Gintama">Gintama</a></div><div class="title"><a href="https://myanimelist.net/anime/2951/Gintama__Nanigoto_mo_Saiyo_ga_Kanjin_nano_de_Tasho_Senobisuru_Kurai_ga_Choudoyoi">Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi</a></div><div class="title"><a href="https://myanimelist.net/anime/6945/Gintama__Shiroyasha_Koutan">Gintama: Shiroyasha Koutan</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/44/Gintama">Gintama</a></div><div class="title"><a href="https://myanimelist.net/manga/14022/3-nen_Z-gumi_Ginpachi-sensei">3-nen Z-gumi Ginpachi-sensei</a></div><div class="title"><a href="https://myanimelist.net/manga/91209/Gekijouban_Gintama__Kanketsu-hen_-_Yorozuya_yo_Eien_Nare">Gekijouban Gintama: Kanketsu-hen - Yorozuya yo Eien Nare</a></div></td>
   <td class="favorites">
-    68,138
+    69,717
   </td>
 </tr>
 <tr class="ranking-list">
@@ -449,7 +465,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk">Kenpuu Denki Berserk</a></div><div class="title"><a href="https://myanimelist.net/anime/10218/Berserk__Ougon_Jidai-hen_I_-_Haou_no_Tamago">Berserk: Ougon Jidai-hen I - Haou no Tamago</a></div><div class="title"><a href="https://myanimelist.net/anime/12113/Berserk__Ougon_Jidai-hen_II_-_Doldrey_Kouryaku">Berserk: Ougon Jidai-hen II - Doldrey Kouryaku</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/2/Berserk">Berserk</a></div></td>
   <td class="favorites">
-    65,207
+    69,435
   </td>
 </tr>
 <tr class="ranking-list">
@@ -466,7 +482,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a></div><div class="title"><a href="https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania">Steins;Gate: Oukoubakko no Poriomania</a></div><div class="title"><a href="https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_Déjà_vu">Steins;Gate Movie: Fuka Ryouiki no Déjà vu</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/17517/Steins_Gate">Steins;Gate</a></div><div class="title"><a href="https://myanimelist.net/manga/27965/Steins_Gate__Hiyoku_Renri_no_Sweets_Honey">Steins;Gate: Hiyoku Renri no Sweets Honey</a></div><div class="title"><a href="https://myanimelist.net/manga/28897/Steins_Gate__Shijou_Saikyou_no_Slight_Fever">Steins;Gate: Shijou Saikyou no Slight Fever</a></div></td>
   <td class="favorites">
-    60,714
+    62,040
   </td>
 </tr>
 <tr class="ranking-list">
@@ -480,10 +496,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <div class="information di-ib mt24">
       <a href="https://myanimelist.net/character/40882/Eren_Yeager" class="fs14 fw-b">Yeager, Eren</a><br><span class="fs12 fn-grey6">(エレン・イェーガー)</span><br></div>
   </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Shingeki no Kyojin</a></div><div class="title"><a href="https://myanimelist.net/anime/19285/Shingeki_no_Kyojin__Ano_Hi_Kara">Shingeki no Kyojin: Ano Hi Kara</a></div><div class="title"><a href="https://myanimelist.net/anime/19391/Shingeki_no_Kyojin_Picture_Drama">Shingeki no Kyojin Picture Drama</a></div></td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Shingeki no Kyojin</a></div><div class="title"><a href="https://myanimelist.net/anime/18397/Shingeki_no_Kyojin_OVA">Shingeki no Kyojin OVA</a></div><div class="title"><a href="https://myanimelist.net/anime/19285/Shingeki_no_Kyojin__Ano_Hi_Kara">Shingeki no Kyojin: Ano Hi Kara</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/23390/Shingeki_no_Kyojin">Shingeki no Kyojin</a></div><div class="title"><a href="https://myanimelist.net/manga/36535/Shingeki_Kyojin_Chuugakkou">Shingeki! Kyojin Chuugakkou</a></div><div class="title"><a href="https://myanimelist.net/manga/63907/Sungeki_no_Kyojin">Sungeki no Kyojin</a></div></td>
   <td class="favorites">
-    60,244
+    61,865
   </td>
 </tr>
 <tr class="ranking-list">
@@ -500,7 +516,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/19511/Naruto__Shippuuden_-_Sunny_Side_Battle">Naruto: Shippuuden - Sunny Side Battle</a></div><div class="title"><a href="https://myanimelist.net/anime/20/Naruto">Naruto</a></div><div class="title"><a href="https://myanimelist.net/anime/1735/Naruto__Shippuuden">Naruto: Shippuuden</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/86129/Naruto_Hiden_Series">Naruto Hiden Series</a></div><div class="title"><a href="https://myanimelist.net/manga/90531/Naruto_Shinden_Series">Naruto Shinden Series</a></div><div class="title"><a href="https://myanimelist.net/manga/11/Naruto">Naruto</a></div></td>
   <td class="favorites">
-    59,041
+    60,803
   </td>
 </tr>
 <tr class="ranking-list">
@@ -517,7 +533,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Shingeki no Kyojin</a></div><div class="title"><a href="https://myanimelist.net/anime/19285/Shingeki_no_Kyojin__Ano_Hi_Kara">Shingeki no Kyojin: Ano Hi Kara</a></div><div class="title"><a href="https://myanimelist.net/anime/19391/Shingeki_no_Kyojin_Picture_Drama">Shingeki no Kyojin Picture Drama</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/23390/Shingeki_no_Kyojin">Shingeki no Kyojin</a></div><div class="title"><a href="https://myanimelist.net/manga/36535/Shingeki_Kyojin_Chuugakkou">Shingeki! Kyojin Chuugakkou</a></div><div class="title"><a href="https://myanimelist.net/manga/63907/Sungeki_no_Kyojin">Sungeki no Kyojin</a></div></td>
   <td class="favorites">
-    51,832
+    52,279
   </td>
 </tr>
 <tr class="ranking-list">
@@ -534,7 +550,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru">Yahari Ore no Seishun Love Comedy wa Machigatteiru.</a></div><div class="title"><a href="https://myanimelist.net/anime/18753/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_OVA">Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA</a></div><div class="title"><a href="https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku">Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/40171/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru">Yahari Ore no Seishun Love Comedy wa Machigatteiru.</a></div><div class="title"><a href="https://myanimelist.net/manga/45447/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru__Monologue">Yahari Ore no Seishun Love Comedy wa Machigatteiru.: Monologue</a></div><div class="title"><a href="https://myanimelist.net/manga/79943/Yahari_4-koma_demo_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru">Yahari 4-koma demo Ore no Seishun Love Comedy wa Machigatteiru.</a></div></td>
   <td class="favorites">
-    49,349
+    49,862
   </td>
 </tr>
 <tr class="ranking-list">
@@ -551,12 +567,29 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></div><div class="title"><a href="https://myanimelist.net/anime/27899/Tokyo_Ghoul_√A">Tokyo Ghoul √A</a></div><div class="title"><a href="https://myanimelist.net/anime/36511/Tokyo_Ghoul_re">Tokyo Ghoul:re</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/33327/Tokyo_Ghoul">Tokyo Ghoul</a></div><div class="title"><a href="https://myanimelist.net/manga/74847/Tokyo_Ghoul">Tokyo Ghoul</a></div><div class="title"><a href="https://myanimelist.net/manga/80909/Tokyo_Ghoul">Tokyo Ghoul</a></div></td>
   <td class="favorites">
-    46,911
+    48,005
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">19</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/164471/Satoru_Gojou" id="#area" rel="#info">
+      <img width="50" height="78" alt="Gojou, Satoru" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/15/422168.jpg?s=fb651780cb035b0942de33df9f19e8bc" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/15/422168.jpg?s=fb651780cb035b0942de33df9f19e8bc 1x, https://cdn.myanimelist.net/r/100x156/images/characters/15/422168.jpg?s=90ad0e6c1307d7184ecc6dcafbc8517a 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/character/164471/Satoru_Gojou" class="fs14 fw-b">Gojou, Satoru</a><br><span class="fs12 fn-grey6">(五条 悟)</span><br></div>
+  </td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/38777/Jujutsu_Kaisen_Official_PV">Jujutsu Kaisen Official PV</a></div><div class="title"><a href="https://myanimelist.net/anime/40748/Jujutsu_Kaisen">Jujutsu Kaisen</a></div><div class="title"><a href="https://myanimelist.net/anime/48561/Jujutsu_Kaisen_0_Movie">Jujutsu Kaisen 0 Movie</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/113138/Jujutsu_Kaisen">Jujutsu Kaisen</a></div><div class="title"><a href="https://myanimelist.net/manga/115710/Jujutsu_Kaisen_0__Tokyo_Toritsu_Jujutsu_Koutou_Senmon_Gakkou">Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou</a></div></td>
+  <td class="favorites">
+    45,757
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">20</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/73935/Saitama" id="#area" rel="#info">
@@ -568,24 +601,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/30276/One_Punch_Man">One Punch Man</a></div><div class="title"><a href="https://myanimelist.net/anime/31704/One_Punch_Man__Road_to_Hero">One Punch Man: Road to Hero</a></div><div class="title"><a href="https://myanimelist.net/anime/31772/One_Punch_Man_Specials">One Punch Man Specials</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/44347/One_Punch-Man">One Punch-Man</a></div></td>
   <td class="favorites">
-    43,980
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">20</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/118763/Rem" id="#area" rel="#info">
-      <img width="50" height="78" alt="Rem" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/9/311327.jpg?s=1757696e904d38cd5caf178656b5dc0f" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/9/311327.jpg?s=1757696e904d38cd5caf178656b5dc0f 1x, https://cdn.myanimelist.net/r/100x156/images/characters/9/311327.jpg?s=99ae3d28d3933ff6ec4c4ae8219d2ca5 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/118763/Rem" class="fs14 fw-b">Rem</a><br><span class="fs12 fn-grey6">(レム)</span><br></div>
-  </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/39921/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Memory_Snow_-_Manner_Movie">Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie</a></div><div class="title"><a href="https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu">Re:Zero kara Hajimeru Isekai Seikatsu</a></div><div class="title"><a href="https://myanimelist.net/anime/33142/Re_Zero_kara_Hajimeru_Break_Time">Re:Zero kara Hajimeru Break Time</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/74695/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-1_Shou_-_Outo_no_Ichinichi-hen">Re:Zero kara Hajimeru Isekai Seikatsu: Dai-1 Shou - Outo no Ichinichi-hen</a></div><div class="title"><a href="https://myanimelist.net/manga/74697/Re_Zero_kara_Hajimeru_Isekai_Seikatsu">Re:Zero kara Hajimeru Isekai Seikatsu</a></div><div class="title"><a href="https://myanimelist.net/manga/80719/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-2_Shou_-_Yashiki_no_Isshuukan-hen">Re:Zero kara Hajimeru Isekai Seikatsu: Dai-2 Shou - Yashiki no Isshuukan-hen</a></div></td>
-  <td class="favorites">
-    43,755
+    45,308
   </td>
 </tr>
 <tr class="ranking-list">
@@ -602,7 +618,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/20/Naruto">Naruto</a></div><div class="title"><a href="https://myanimelist.net/anime/442/Naruto_Movie_1__Dai_Katsugeki_Yuki_Hime_Shinobu_Houjou_Dattebayo">Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!</a></div><div class="title"><a href="https://myanimelist.net/anime/594/Naruto__Takigakure_no_Shitou_-_Ore_ga_Eiyuu_Dattebayo">Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/11/Naruto">Naruto</a></div><div class="title"><a href="https://myanimelist.net/manga/86129/Naruto_Hiden_Series">Naruto Hiden Series</a></div><div class="title"><a href="https://myanimelist.net/manga/98462/Naruto_Shinden_Series">Naruto Shinden Series</a></div></td>
   <td class="favorites">
-    43,684
+    44,765
   </td>
 </tr>
 <tr class="ranking-list">
@@ -610,16 +626,16 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <span class="lightLink pepole-rank-text rank2">22</span>
   </td>
   <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/164471/Satoru_Gojou" id="#area" rel="#info">
-      <img width="50" height="78" alt="Gojou, Satoru" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/15/422168.jpg?s=fb651780cb035b0942de33df9f19e8bc" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/15/422168.jpg?s=fb651780cb035b0942de33df9f19e8bc 1x, https://cdn.myanimelist.net/r/100x156/images/characters/15/422168.jpg?s=90ad0e6c1307d7184ecc6dcafbc8517a 2x" />
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/118763/Rem" id="#area" rel="#info">
+      <img width="50" height="78" alt="Rem" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/9/311327.jpg?s=1757696e904d38cd5caf178656b5dc0f" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/9/311327.jpg?s=1757696e904d38cd5caf178656b5dc0f 1x, https://cdn.myanimelist.net/r/100x156/images/characters/9/311327.jpg?s=99ae3d28d3933ff6ec4c4ae8219d2ca5 2x" />
     </a>
     <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/164471/Satoru_Gojou" class="fs14 fw-b">Gojou, Satoru</a><br><span class="fs12 fn-grey6">(五条 悟)</span><br></div>
+      <a href="https://myanimelist.net/character/118763/Rem" class="fs14 fw-b">Rem</a><br><span class="fs12 fn-grey6">(レム)</span><br></div>
   </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/38777/Jujutsu_Kaisen">Jujutsu Kaisen</a></div><div class="title"><a href="https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV">Jujutsu Kaisen (TV)</a></div><div class="title"><a href="https://myanimelist.net/anime/48561/Jujutsu_Kaisen_0_Movie">Jujutsu Kaisen 0 Movie</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/113138/Jujutsu_Kaisen">Jujutsu Kaisen</a></div><div class="title"><a href="https://myanimelist.net/manga/115710/Jujutsu_Kaisen_0__Tokyo_Toritsu_Jujutsu_Koutou_Senmon_Gakkou">Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou</a></div></td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/39921/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Memory_Snow_-_Manner_Movie">Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie</a></div><div class="title"><a href="https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu">Re:Zero kara Hajimeru Isekai Seikatsu</a></div><div class="title"><a href="https://myanimelist.net/anime/33142/Re_Zero_kara_Hajimeru_Break_Time">Re:Zero kara Hajimeru Break Time</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/74695/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-1_Shou_-_Outo_no_Ichinichi-hen">Re:Zero kara Hajimeru Isekai Seikatsu: Dai-1 Shou - Outo no Ichinichi-hen</a></div><div class="title"><a href="https://myanimelist.net/manga/74697/Re_Zero_kara_Hajimeru_Isekai_Seikatsu">Re:Zero kara Hajimeru Isekai Seikatsu</a></div><div class="title"><a href="https://myanimelist.net/manga/80719/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-2_Shou_-_Yashiki_no_Isshuukan-hen">Re:Zero kara Hajimeru Isekai Seikatsu: Dai-2 Shou - Yashiki no Isshuukan-hen</a></div></td>
   <td class="favorites">
-    43,509
+    44,123
   </td>
 </tr>
 <tr class="ranking-list">
@@ -636,7 +652,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/1/Cowboy_Bebop">Cowboy Bebop</a></div><div class="title"><a href="https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira">Cowboy Bebop: Tengoku no Tobira</a></div><div class="title"><a href="https://myanimelist.net/anime/4037/Cowboy_Bebop__Yose_Atsume_Blues">Cowboy Bebop: Yose Atsume Blues</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/173/Cowboy_Bebop">Cowboy Bebop</a></div><div class="title"><a href="https://myanimelist.net/manga/174/Shooting_Star_Bebop__Cowboy_Bebop">Shooting Star Bebop: Cowboy Bebop</a></div></td>
   <td class="favorites">
-    42,520
+    43,600
   </td>
 </tr>
 <tr class="ranking-list">
@@ -653,7 +669,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/5081/Bakemonogatari">Bakemonogatari</a></div><div class="title"><a href="https://myanimelist.net/anime/6948/Bakemonogatari_Recap">Bakemonogatari Recap</a></div><div class="title"><a href="https://myanimelist.net/anime/17074/Monogatari_Series__Second_Season">Monogatari Series: Second Season</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/14893/Monogatari_Series__First_Season">Monogatari Series: First Season</a></div><div class="title"><a href="https://myanimelist.net/manga/23751/Monogatari_Series__Second_Season">Monogatari Series: Second Season</a></div><div class="title"><a href="https://myanimelist.net/manga/24499/Bakemonogatari_Short_Stories">Bakemonogatari Short Stories</a></div></td>
   <td class="favorites">
-    38,903
+    39,315
   </td>
 </tr>
 <tr class="ranking-list">
@@ -670,29 +686,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/11757/Sword_Art_Online">Sword Art Online</a></div><div class="title"><a href="https://myanimelist.net/anime/16099/Sword_Art_Online__Sword_Art_Offline">Sword Art Online: Sword Art Offline</a></div><div class="title"><a href="https://myanimelist.net/anime/20021/Sword_Art_Online__Extra_Edition">Sword Art Online: Extra Edition</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/21479/Sword_Art_Online">Sword Art Online</a></div><div class="title"><a href="https://myanimelist.net/manga/23718/Sword_Art_Online__Aincrad">Sword Art Online: Aincrad</a></div><div class="title"><a href="https://myanimelist.net/manga/37405/Sword_Art_Online__Material_Edition">Sword Art Online: Material Edition</a></div></td>
   <td class="favorites">
-    38,795
+    39,161
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">26</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/84677/Yato" id="#area" rel="#info">
-      <img width="50" height="78" alt="Yato" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/3/328158.jpg?s=4e27f3b43454231bc4bb7ccdad2b78a8" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/3/328158.jpg?s=4e27f3b43454231bc4bb7ccdad2b78a8 1x, https://cdn.myanimelist.net/r/100x156/images/characters/3/328158.jpg?s=530a9b11b6306b182bb8ca7f22505973 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/84677/Yato" class="fs14 fw-b">Yato</a><br><span class="fs12 fn-grey6">(夜ト)</span><br></div>
-  </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/20507/Noragami">Noragami</a></div><div class="title"><a href="https://myanimelist.net/anime/20767/Noragami_OVA">Noragami OVA</a></div><div class="title"><a href="https://myanimelist.net/anime/30503/Noragami_Aragoto">Noragami Aragoto</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/24692/Noragami">Noragami</a></div><div class="title"><a href="https://myanimelist.net/manga/62723/Noragami__Shuuishuu">Noragami: Shuuishuu</a></div><div class="title"><a href="https://myanimelist.net/manga/69747/Noragami__Awase_Kagami">Noragami: Awase Kagami</a></div></td>
-  <td class="favorites">
-    38,412
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">27</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/117225/Megumin" id="#area" rel="#info">
@@ -704,7 +703,24 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo">Kono Subarashii Sekai ni Shukufuku wo!</a></div><div class="title"><a href="https://myanimelist.net/anime/32380/Kono_Subarashii_Sekai_ni_Shukufuku_wo__Kono_Subarashii_Choker_ni_Shukufuku_wo">Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!</a></div><div class="title"><a href="https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2">Kono Subarashii Sekai ni Shukufuku wo! 2</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/60553/Kono_Subarashii_Sekai_ni_Shukufuku_wo">Kono Subarashii Sekai ni Shukufuku wo!</a></div><div class="title"><a href="https://myanimelist.net/manga/80385/Kono_Subarashii_Sekai_ni_Shukufuku_wo">Kono Subarashii Sekai ni Shukufuku wo!</a></div><div class="title"><a href="https://myanimelist.net/manga/89768/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Spin-off__Kono_Subarashii_Sekai_ni_Bakuen_wo">Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Subarashii Sekai ni Bakuen wo!</a></div></td>
   <td class="favorites">
-    38,385
+    39,029
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">27</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/84677/Yato" id="#area" rel="#info">
+      <img width="50" height="78" alt="Yato" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/3/328158.jpg?s=4e27f3b43454231bc4bb7ccdad2b78a8" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/3/328158.jpg?s=4e27f3b43454231bc4bb7ccdad2b78a8 1x, https://cdn.myanimelist.net/r/100x156/images/characters/3/328158.jpg?s=530a9b11b6306b182bb8ca7f22505973 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/character/84677/Yato" class="fs14 fw-b">Yato</a><br><span class="fs12 fn-grey6">(夜ト)</span><br></div>
+  </td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/20507/Noragami">Noragami</a></div><div class="title"><a href="https://myanimelist.net/anime/20767/Noragami_OVA">Noragami OVA</a></div><div class="title"><a href="https://myanimelist.net/anime/30503/Noragami_Aragoto">Noragami Aragoto</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/24692/Noragami">Noragami</a></div><div class="title"><a href="https://myanimelist.net/manga/62723/Noragami__Shuuishuu">Noragami: Shuuishuu</a></div><div class="title"><a href="https://myanimelist.net/manga/69747/Noragami__Awase_Kagami">Noragami: Awase Kagami</a></div></td>
+  <td class="favorites">
+    38,785
   </td>
 </tr>
 <tr class="ranking-list">
@@ -721,7 +737,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/665/JoJo_no_Kimyou_na_Bouken__Adventure">JoJo no Kimyou na Bouken: Adventure</a></div><div class="title"><a href="https://myanimelist.net/anime/666/JoJo_no_Kimyou_na_Bouken">JoJo no Kimyou na Bouken</a></div><div class="title"><a href="https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV">JoJo no Kimyou na Bouken (TV)</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/872/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders">JoJo no Kimyou na Bouken Part 3: Stardust Crusaders</a></div><div class="title"><a href="https://myanimelist.net/manga/1630/JoJo_no_Kimyou_na_Bouken_Part_2__Sentou_Chouryuu">JoJo no Kimyou na Bouken Part 2: Sentou Chouryuu</a></div><div class="title"><a href="https://myanimelist.net/manga/57051/JoJo_no_Kimyou_na_Bouken">JoJo no Kimyou na Bouken</a></div></td>
   <td class="favorites">
-    37,250
+    38,398
   </td>
 </tr>
 <tr class="ranking-list">
@@ -735,10 +751,10 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <div class="information di-ib mt24">
       <a href="https://myanimelist.net/character/118739/Mai_Sakurajima" class="fs14 fw-b">Sakurajima, Mai</a><br><span class="fs12 fn-grey6">(桜島 麻衣)</span><br></div>
   </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai">Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</a></div><div class="title"><a href="https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai">Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai</a></div></td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai">Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</a></div><div class="title"><a href="https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai">Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai</a></div><div class="title"><a href="https://myanimelist.net/anime/53129/Seishun_Buta_Yarou_Shinsaku_Anime">Seishun Buta Yarou (Shinsaku Anime)</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/70399/Seishun_Buta_Yarou_Series">Seishun Buta Yarou Series</a></div><div class="title"><a href="https://myanimelist.net/manga/92182/Seishun_Buta_Yarou_wa_Bunny_Girl-senpai_no_Yume_wo_Minai">Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai</a></div><div class="title"><a href="https://myanimelist.net/manga/116482/Seishun_Buta_Yarou_wa_Petit_Devil_Kouhai_no_Yume_wo_Minai">Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai</a></div></td>
   <td class="favorites">
-    35,031
+    35,917
   </td>
 </tr>
 <tr class="ranking-list">
@@ -755,7 +771,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/35849/Darling_in_the_FranXX">Darling in the FranXX</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/111512/Darling_in_the_FranXX">Darling in the FranXX</a></div><div class="title"><a href="https://myanimelist.net/manga/111838/Darling_in_the_FranXX">Darling in the FranXX!</a></div></td>
   <td class="favorites">
-    34,881
+    35,714
   </td>
 </tr>
 <tr class="ranking-list">
@@ -772,7 +788,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials">Fullmetal Alchemist: Brotherhood Specials</a></div><div class="title"><a href="https://myanimelist.net/anime/10842/Fullmetal_Alchemist__The_Sacred_Star_of_Milos_Specials">Fullmetal Alchemist: The Sacred Star of Milos Specials</a></div><div class="title"><a href="https://myanimelist.net/anime/121/Fullmetal_Alchemist">Fullmetal Alchemist</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/25/Fullmetal_Alchemist">Fullmetal Alchemist</a></div><div class="title"><a href="https://myanimelist.net/manga/4658/Fullmetal_Alchemist">Fullmetal Alchemist</a></div></td>
   <td class="favorites">
-    34,672
+    35,371
   </td>
 </tr>
 <tr class="ranking-list">
@@ -789,7 +805,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/136/Hunter_x_Hunter">Hunter x Hunter</a></div><div class="title"><a href="https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation">Hunter x Hunter: Original Video Animation</a></div><div class="title"><a href="https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island">Hunter x Hunter: Greed Island</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/26/Hunter_x_Hunter">Hunter x Hunter</a></div></td>
   <td class="favorites">
-    33,879
+    34,384
   </td>
 </tr>
 <tr class="ranking-list">
@@ -806,46 +822,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/9260/Kizumonogatari_I__Tekketsu-hen">Kizumonogatari I: Tekketsu-hen</a></div><div class="title"><a href="https://myanimelist.net/anime/11597/Nisemonogatari">Nisemonogatari</a></div><div class="title"><a href="https://myanimelist.net/anime/17074/Monogatari_Series__Second_Season">Monogatari Series: Second Season</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/14893/Monogatari_Series__First_Season">Monogatari Series: First Season</a></div><div class="title"><a href="https://myanimelist.net/manga/23751/Monogatari_Series__Second_Season">Monogatari Series: Second Season</a></div><div class="title"><a href="https://myanimelist.net/manga/44227/Monogatari_Series__Final_Season">Monogatari Series: Final Season</a></div></td>
   <td class="favorites">
-    31,850
+    32,158
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">34</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/2075/Kamina" id="#area" rel="#info">
-      <img width="50" height="78" alt="Kamina" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/7/83946.jpg?s=9402940331c305cd16969ba3dcb62d1a" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/7/83946.jpg?s=9402940331c305cd16969ba3dcb62d1a 1x, https://cdn.myanimelist.net/r/100x156/images/characters/7/83946.jpg?s=09141ef88860ac1bda0e9c392bd0ad55 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/2075/Kamina" class="fs14 fw-b">Kamina</a><br><span class="fs12 fn-grey6">(カミナ)</span><br></div>
-  </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann">Tengen Toppa Gurren Lagann</a></div><div class="title"><a href="https://myanimelist.net/anime/3352/Tengen_Toppa_Gurren_Lagann__Mitee_Mono_wa_Miteen_da">Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!</a></div><div class="title"><a href="https://myanimelist.net/anime/4107/Tengen_Toppa_Gurren_Lagann_Movie_1__Gurren-hen">Tengen Toppa Gurren Lagann Movie 1: Gurren-hen</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/1648/Tengen_Toppa_Gurren_Lagann">Tengen Toppa Gurren Lagann</a></div><div class="title"><a href="https://myanimelist.net/manga/9767/Tengen_Toppa_Gurren_Lagann__Gurren_Gakuen-hen">Tengen Toppa Gurren Lagann: Gurren Gakuen-hen</a></div><div class="title"><a href="https://myanimelist.net/manga/16026/Tengen_Toppa_Gurren_Lagann_4-koma_Kingdom__Yoko_no_Oheso-hen">Tengen Toppa Gurren Lagann 4-koma Kingdom: Yoko no Oheso-hen</a></div></td>
-  <td class="favorites">
-    31,386
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">35</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/12064/Taiga_Aisaka" id="#area" rel="#info">
-      <img width="50" height="78" alt="Aisaka, Taiga" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/10/46644.jpg?s=200ab28ce90e5603bf9aada0361133a4" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/10/46644.jpg?s=200ab28ce90e5603bf9aada0361133a4 1x, https://cdn.myanimelist.net/r/100x156/images/characters/10/46644.jpg?s=8c49ff366d9ce2a2180a3ac99923fc11 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/12064/Taiga_Aisaka" class="fs14 fw-b">Aisaka, Taiga</a><br><span class="fs12 fn-grey6">(逢坂 大河)</span><br></div>
-  </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/4224/Toradora">Toradora!</a></div><div class="title"><a href="https://myanimelist.net/anime/6127/Toradora__SOS_Kuishinbou_Banbanzai">Toradora!: SOS! Kuishinbou Banbanzai</a></div><div class="title"><a href="https://myanimelist.net/anime/11553/Toradora__Bentou_no_Gokui">Toradora!: Bentou no Gokui</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/4368/Toradora">Toradora!</a></div><div class="title"><a href="https://myanimelist.net/manga/7149/Toradora">Toradora!</a></div><div class="title"><a href="https://myanimelist.net/manga/10550/Toradora_Spin-off">Toradora Spin-off!</a></div></td>
-  <td class="favorites">
-    31,054
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">36</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/141354/Violet_Evergarden" id="#area" rel="#info">
@@ -857,29 +839,29 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/33352/Violet_Evergarden">Violet Evergarden</a></div><div class="title"><a href="https://myanimelist.net/anime/37095/Violet_Evergarden__Kitto_Ai_wo_Shiru_Hi_ga_Kuru_no_Darou">Violet Evergarden: Kitto &quot;Ai&quot; wo Shiru Hi ga Kuru no Darou</a></div><div class="title"><a href="https://myanimelist.net/anime/37987/Violet_Evergarden_Movie">Violet Evergarden Movie</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/98930/Violet_Evergarden">Violet Evergarden</a></div></td>
   <td class="favorites">
-    30,631
+    32,028
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">37</span>
+    <span class="lightLink pepole-rank-text rank2">35</span>
   </td>
   <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/497/Saber" id="#area" rel="#info">
-      <img width="50" height="78" alt="Saber" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/6/275276.jpg?s=fd98a334255b4de7e4bfe34c3d43a7e8" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/6/275276.jpg?s=fd98a334255b4de7e4bfe34c3d43a7e8 1x, https://cdn.myanimelist.net/r/100x156/images/characters/6/275276.jpg?s=2b70b1daac8eebff46fffa2944f09610 2x" />
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/2075/Kamina" id="#area" rel="#info">
+      <img width="50" height="78" alt="Kamina" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/7/83946.jpg?s=9402940331c305cd16969ba3dcb62d1a" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/7/83946.jpg?s=9402940331c305cd16969ba3dcb62d1a 1x, https://cdn.myanimelist.net/r/100x156/images/characters/7/83946.jpg?s=09141ef88860ac1bda0e9c392bd0ad55 2x" />
     </a>
     <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/497/Saber" class="fs14 fw-b">Saber</a><br><span class="fs12 fn-grey6">(セイバー)</span><br></div>
+      <a href="https://myanimelist.net/character/2075/Kamina" class="fs14 fw-b">Kamina</a><br><span class="fs12 fn-grey6">(カミナ)</span><br></div>
   </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/356/Fate_stay_night">Fate/stay night</a></div><div class="title"><a href="https://myanimelist.net/anime/6922/Fate_stay_night_Movie__Unlimited_Blade_Works">Fate/stay night Movie: Unlimited Blade Works</a></div><div class="title"><a href="https://myanimelist.net/anime/7559/Fate_stay_night_TV_Reproduction">Fate/stay night TV Reproduction</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/715/Fate_stay_night">Fate/stay night</a></div><div class="title"><a href="https://myanimelist.net/manga/780/Take_Moon">Take Moon</a></div><div class="title"><a href="https://myanimelist.net/manga/3649/Fate_Zero">Fate/Zero</a></div></td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann">Tengen Toppa Gurren Lagann</a></div><div class="title"><a href="https://myanimelist.net/anime/3352/Tengen_Toppa_Gurren_Lagann__Mitee_Mono_wa_Miteen_da">Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!</a></div><div class="title"><a href="https://myanimelist.net/anime/4107/Tengen_Toppa_Gurren_Lagann_Movie_1__Gurren-hen">Tengen Toppa Gurren Lagann Movie 1: Gurren-hen</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/1648/Tengen_Toppa_Gurren_Lagann">Tengen Toppa Gurren Lagann</a></div><div class="title"><a href="https://myanimelist.net/manga/9767/Tengen_Toppa_Gurren_Lagann__Gurren_Gakuen-hen">Tengen Toppa Gurren Lagann: Gurren Gakuen-hen</a></div><div class="title"><a href="https://myanimelist.net/manga/16026/Tengen_Toppa_Gurren_Lagann_4-koma_Kingdom__Yoko_no_Oheso-hen">Tengen Toppa Gurren Lagann 4-koma Kingdom: Yoko no Oheso-hen</a></div></td>
   <td class="favorites">
-    30,574
+    31,868
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">38</span>
+    <span class="lightLink pepole-rank-text rank2">36</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/125056/Osamu_Dazai" id="#area" rel="#info">
@@ -891,29 +873,46 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/31478/Bungou_Stray_Dogs">Bungou Stray Dogs</a></div><div class="title"><a href="https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season">Bungou Stray Dogs 2nd Season</a></div><div class="title"><a href="https://myanimelist.net/anime/34944/Bungou_Stray_Dogs__Dead_Apple">Bungou Stray Dogs: Dead Apple</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/56529/Bungou_Stray_Dogs">Bungou Stray Dogs</a></div><div class="title"><a href="https://myanimelist.net/manga/98379/Bungou_Stray_Dogs_Wan">Bungou Stray Dogs Wan!</a></div><div class="title"><a href="https://myanimelist.net/manga/98380/Bungou_Stray_Dogs">Bungou Stray Dogs</a></div></td>
   <td class="favorites">
-    30,423
+    31,435
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">37</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/12064/Taiga_Aisaka" id="#area" rel="#info">
+      <img width="50" height="78" alt="Aisaka, Taiga" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/10/46644.jpg?s=200ab28ce90e5603bf9aada0361133a4" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/10/46644.jpg?s=200ab28ce90e5603bf9aada0361133a4 1x, https://cdn.myanimelist.net/r/100x156/images/characters/10/46644.jpg?s=8c49ff366d9ce2a2180a3ac99923fc11 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/character/12064/Taiga_Aisaka" class="fs14 fw-b">Aisaka, Taiga</a><br><span class="fs12 fn-grey6">(逢坂 大河)</span><br></div>
+  </td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/4224/Toradora">Toradora!</a></div><div class="title"><a href="https://myanimelist.net/anime/6127/Toradora__SOS_Kuishinbou_Banbanzai">Toradora!: SOS! Kuishinbou Banbanzai</a></div><div class="title"><a href="https://myanimelist.net/anime/11553/Toradora__Bentou_no_Gokui">Toradora!: Bentou no Gokui</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/4368/Toradora">Toradora!</a></div><div class="title"><a href="https://myanimelist.net/manga/7149/Toradora">Toradora!</a></div><div class="title"><a href="https://myanimelist.net/manga/10550/Toradora_Spin-off">Toradora Spin-off!</a></div></td>
+  <td class="favorites">
+    31,396
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">38</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/497/Saber" id="#area" rel="#info">
+      <img width="50" height="78" alt="Saber" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/6/275276.jpg?s=fd98a334255b4de7e4bfe34c3d43a7e8" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/6/275276.jpg?s=fd98a334255b4de7e4bfe34c3d43a7e8 1x, https://cdn.myanimelist.net/r/100x156/images/characters/6/275276.jpg?s=2b70b1daac8eebff46fffa2944f09610 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/character/497/Saber" class="fs14 fw-b">Saber</a><br><span class="fs12 fn-grey6">(セイバー)</span><br></div>
+  </td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/356/Fate_stay_night">Fate/stay night</a></div><div class="title"><a href="https://myanimelist.net/anime/6922/Fate_stay_night_Movie__Unlimited_Blade_Works">Fate/stay night Movie: Unlimited Blade Works</a></div><div class="title"><a href="https://myanimelist.net/anime/7559/Fate_stay_night_TV_Reproduction">Fate/stay night TV Reproduction</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/715/Fate_stay_night">Fate/stay night</a></div><div class="title"><a href="https://myanimelist.net/manga/780/Take_Moon">Take Moon</a></div><div class="title"><a href="https://myanimelist.net/manga/3649/Fate_Zero">Fate/Zero</a></div></td>
+  <td class="favorites">
+    31,015
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">39</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/434/Eikichi_Onizuka" id="#area" rel="#info">
-      <img width="50" height="78" alt="Onizuka, Eikichi" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/8/241475.jpg?s=1c0f26c0d6e1cf3a1e6b89db6e00387e" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/8/241475.jpg?s=1c0f26c0d6e1cf3a1e6b89db6e00387e 1x, https://cdn.myanimelist.net/r/100x156/images/characters/8/241475.jpg?s=c8659725cce01ff5cbb076b74e537795 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/434/Eikichi_Onizuka" class="fs14 fw-b">Onizuka, Eikichi</a><br><span class="fs12 fn-grey6">(鬼塚 英吉)</span><br></div>
-  </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/245/Great_Teacher_Onizuka">Great Teacher Onizuka</a></div><div class="title"><a href="https://myanimelist.net/anime/1913/Shonan_Junai_Gumi">Shonan Junai Gumi!</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/336/GTO">GTO</a></div><div class="title"><a href="https://myanimelist.net/manga/444/Bad_Company">Bad Company</a></div><div class="title"><a href="https://myanimelist.net/manga/445/Shonan_Junai_Gumi">Shonan Junai Gumi!</a></div></td>
-  <td class="favorites">
-    28,767
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">40</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/109931/Arataka_Reigen" id="#area" rel="#info">
@@ -925,12 +924,63 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/32182/Mob_Psycho_100">Mob Psycho 100</a></div><div class="title"><a href="https://myanimelist.net/anime/36616/Mob_Psycho_100__Reigen_-_Shirarezaru_Kiseki_no_Reinouryokusha">Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha</a></div><div class="title"><a href="https://myanimelist.net/anime/37504/Mob_Psycho_Mini">Mob Psycho Mini</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/60783/Mob_Psycho_100">Mob Psycho 100</a></div><div class="title"><a href="https://myanimelist.net/manga/113360/Reigen__Reikyuuchi_Max_131_no_Otoko">Reigen: Reikyuuchi Max 131 no Otoko</a></div></td>
   <td class="favorites">
-    28,539
+    30,235
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">40</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/434/Eikichi_Onizuka" id="#area" rel="#info">
+      <img width="50" height="78" alt="Onizuka, Eikichi" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/8/241475.jpg?s=1c0f26c0d6e1cf3a1e6b89db6e00387e" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/8/241475.jpg?s=1c0f26c0d6e1cf3a1e6b89db6e00387e 1x, https://cdn.myanimelist.net/r/100x156/images/characters/8/241475.jpg?s=c8659725cce01ff5cbb076b74e537795 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/character/434/Eikichi_Onizuka" class="fs14 fw-b">Onizuka, Eikichi</a><br><span class="fs12 fn-grey6">(鬼塚 英吉)</span><br></div>
+  </td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/245/Great_Teacher_Onizuka">Great Teacher Onizuka</a></div><div class="title"><a href="https://myanimelist.net/anime/1913/Shonan_Junai_Gumi">Shonan Junai Gumi!</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/336/GTO">GTO</a></div><div class="title"><a href="https://myanimelist.net/manga/444/Bad_Company">Bad Company</a></div><div class="title"><a href="https://myanimelist.net/manga/445/Shonan_Junai_Gumi">Shonan Junai Gumi!</a></div></td>
+  <td class="favorites">
+    29,553
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">41</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/128909/Kiyotaka_Ayanokouji" id="#area" rel="#info">
+      <img width="50" height="78" alt="Ayanokouji, Kiyotaka" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/9/439784.jpg?s=910ea3fe9daf7e000093817e81454a6e" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/9/439784.jpg?s=910ea3fe9daf7e000093817e81454a6e 1x, https://cdn.myanimelist.net/r/100x156/images/characters/9/439784.jpg?s=6b11bfec2399b06b1f8680feadfb82df 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/character/128909/Kiyotaka_Ayanokouji" class="fs14 fw-b">Ayanokouji, Kiyotaka</a><br><span class="fs12 fn-grey6">(綾小路 清隆)</span><br></div>
+  </td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/30813/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_PV">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e PV</a></div><div class="title"><a href="https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</a></div><div class="title"><a href="https://myanimelist.net/anime/51096/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_2nd_Season">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/89357/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</a></div><div class="title"><a href="https://myanimelist.net/manga/96371/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</a></div><div class="title"><a href="https://myanimelist.net/manga/108725/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e__√Horikita">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: √Horikita</a></div></td>
+  <td class="favorites">
+    29,484
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">42</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/118737/Emilia" id="#area" rel="#info">
+      <img width="50" height="78" alt="Emilia" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/10/268173.jpg?s=1b8adab470e1f86a072f90ccfa3f4227" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/10/268173.jpg?s=1b8adab470e1f86a072f90ccfa3f4227 1x, https://cdn.myanimelist.net/r/100x156/images/characters/10/268173.jpg?s=3bc0976a22745776405fca5d39ecf192 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/character/118737/Emilia" class="fs14 fw-b">Emilia</a><br><span class="fs12 fn-grey6">(エミリア)</span><br></div>
+  </td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu">Re:Zero kara Hajimeru Isekai Seikatsu</a></div><div class="title"><a href="https://myanimelist.net/anime/33142/Re_Zero_kara_Hajimeru_Break_Time">Re:Zero kara Hajimeru Break Time</a></div><div class="title"><a href="https://myanimelist.net/anime/36286/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Memory_Snow">Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/74695/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-1_Shou_-_Outo_no_Ichinichi-hen">Re:Zero kara Hajimeru Isekai Seikatsu: Dai-1 Shou - Outo no Ichinichi-hen</a></div><div class="title"><a href="https://myanimelist.net/manga/74697/Re_Zero_kara_Hajimeru_Isekai_Seikatsu">Re:Zero kara Hajimeru Isekai Seikatsu</a></div><div class="title"><a href="https://myanimelist.net/manga/80719/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-2_Shou_-_Yashiki_no_Isshuukan-hen">Re:Zero kara Hajimeru Isekai Seikatsu: Dai-2 Shou - Yashiki no Isshuukan-hen</a></div></td>
+  <td class="favorites">
+    28,625
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">43</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/4963/Yuno_Gasai" id="#area" rel="#info">
@@ -942,12 +992,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/8460/Mirai_Nikki">Mirai Nikki</a></div><div class="title"><a href="https://myanimelist.net/anime/10620/Mirai_Nikki_TV">Mirai Nikki (TV)</a></div><div class="title"><a href="https://myanimelist.net/anime/16762/Mirai_Nikki__Redial">Mirai Nikki: Redial</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/584/Mirai_Nikki">Mirai Nikki</a></div><div class="title"><a href="https://myanimelist.net/manga/50205/Mirai_Nikki__Redial">Mirai Nikki: Redial</a></div><div class="title"><a href="https://myanimelist.net/manga/91154/Mirai_Nikki">Mirai Nikki</a></div></td>
   <td class="favorites">
-    28,364
+    28,554
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">42</span>
+    <span class="lightLink pepole-rank-text rank2">44</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/36828/Asuna_Yuuki" id="#area" rel="#info">
@@ -959,29 +1009,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/11757/Sword_Art_Online">Sword Art Online</a></div><div class="title"><a href="https://myanimelist.net/anime/16099/Sword_Art_Online__Sword_Art_Offline">Sword Art Online: Sword Art Offline</a></div><div class="title"><a href="https://myanimelist.net/anime/20021/Sword_Art_Online__Extra_Edition">Sword Art Online: Extra Edition</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/21479/Sword_Art_Online">Sword Art Online</a></div><div class="title"><a href="https://myanimelist.net/manga/23718/Sword_Art_Online__Aincrad">Sword Art Online: Aincrad</a></div><div class="title"><a href="https://myanimelist.net/manga/37405/Sword_Art_Online__Material_Edition">Sword Art Online: Material Edition</a></div></td>
   <td class="favorites">
-    28,033
+    28,475
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">43</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/22036/Koyomi_Araragi" id="#area" rel="#info">
-      <img width="50" height="78" alt="Araragi, Koyomi" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/3/148437.jpg?s=8ad9f93016a477696487ec865ffc186f" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/3/148437.jpg?s=8ad9f93016a477696487ec865ffc186f 1x, https://cdn.myanimelist.net/r/100x156/images/characters/3/148437.jpg?s=2aae5aa7c4d72a43c3c61ab6708019d4 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/22036/Koyomi_Araragi" class="fs14 fw-b">Araragi, Koyomi</a><br><span class="fs12 fn-grey6">(阿良々木 暦)</span><br></div>
-  </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/5081/Bakemonogatari">Bakemonogatari</a></div><div class="title"><a href="https://myanimelist.net/anime/6948/Bakemonogatari_Recap">Bakemonogatari Recap</a></div><div class="title"><a href="https://myanimelist.net/anime/9260/Kizumonogatari_I__Tekketsu-hen">Kizumonogatari I: Tekketsu-hen</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/14893/Monogatari_Series__First_Season">Monogatari Series: First Season</a></div><div class="title"><a href="https://myanimelist.net/manga/23751/Monogatari_Series__Second_Season">Monogatari Series: Second Season</a></div><div class="title"><a href="https://myanimelist.net/manga/24499/Bakemonogatari_Short_Stories">Bakemonogatari Short Stories</a></div></td>
-  <td class="favorites">
-    27,645
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">44</span>
+    <span class="lightLink pepole-rank-text rank2">45</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/5/Ichigo_Kurosaki" id="#area" rel="#info">
@@ -993,24 +1026,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/269/Bleach">Bleach</a></div><div class="title"><a href="https://myanimelist.net/anime/762/Bleach__Memories_in_the_Rain">Bleach: Memories in the Rain</a></div><div class="title"><a href="https://myanimelist.net/anime/834/Bleach__The_Sealed_Sword_Frenzy">Bleach: The Sealed Sword Frenzy</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/12/Bleach">Bleach</a></div><div class="title"><a href="https://myanimelist.net/manga/11330/Bleach">Bleach</a></div><div class="title"><a href="https://myanimelist.net/manga/22744/Bleach__Letters_From_the_Other_Side">Bleach: Letters From the Other Side</a></div></td>
   <td class="favorites">
-    27,314
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">45</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/13/Sasuke_Uchiha" id="#area" rel="#info">
-      <img width="50" height="78" alt="Uchiha, Sasuke" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/9/131317.jpg?s=e1599af8dda56694460df8d02bfe85dd" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/9/131317.jpg?s=e1599af8dda56694460df8d02bfe85dd 1x, https://cdn.myanimelist.net/r/100x156/images/characters/9/131317.jpg?s=11b539fc40b9f692268c06f207477a70 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/13/Sasuke_Uchiha" class="fs14 fw-b">Uchiha, Sasuke</a><br><span class="fs12 fn-grey6">(うちは サスケ)</span><br></div>
-  </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/20/Naruto">Naruto</a></div><div class="title"><a href="https://myanimelist.net/anime/442/Naruto_Movie_1__Dai_Katsugeki_Yuki_Hime_Shinobu_Houjou_Dattebayo">Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!</a></div><div class="title"><a href="https://myanimelist.net/anime/594/Naruto__Takigakure_no_Shitou_-_Ore_ga_Eiyuu_Dattebayo">Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/11/Naruto">Naruto</a></div><div class="title"><a href="https://myanimelist.net/manga/6028/Naruto__Shiro_no_Douji_Keppu_no_Kijin">Naruto: Shiro no Douji, Keppu no Kijin</a></div><div class="title"><a href="https://myanimelist.net/manga/77273/Uchiha_Sasuke_no_Sharingan_Den">Uchiha Sasuke no Sharingan Den</a></div></td>
-  <td class="favorites">
-    26,658
+    28,408
   </td>
 </tr>
 <tr class="ranking-list">
@@ -1018,16 +1034,16 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <span class="lightLink pepole-rank-text rank2">46</span>
   </td>
   <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/7373/Holo" id="#area" rel="#info">
-      <img width="50" height="78" alt="Holo" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/15/319492.jpg?s=2d92d0ff324dc6bdde6f78d5c412f45d" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/15/319492.jpg?s=2d92d0ff324dc6bdde6f78d5c412f45d 1x, https://cdn.myanimelist.net/r/100x156/images/characters/15/319492.jpg?s=abf3c81b49cd5a0f105329304047bc8d 2x" />
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/22036/Koyomi_Araragi" id="#area" rel="#info">
+      <img width="50" height="78" alt="Araragi, Koyomi" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/3/148437.jpg?s=8ad9f93016a477696487ec865ffc186f" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/3/148437.jpg?s=8ad9f93016a477696487ec865ffc186f 1x, https://cdn.myanimelist.net/r/100x156/images/characters/3/148437.jpg?s=2aae5aa7c4d72a43c3c61ab6708019d4 2x" />
     </a>
     <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/7373/Holo" class="fs14 fw-b">Holo</a><br><span class="fs12 fn-grey6">(ホロ)</span><br></div>
+      <a href="https://myanimelist.net/character/22036/Koyomi_Araragi" class="fs14 fw-b">Araragi, Koyomi</a><br><span class="fs12 fn-grey6">(阿良々木 暦)</span><br></div>
   </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/2966/Ookami_to_Koushinryou">Ookami to Koushinryou</a></div><div class="title"><a href="https://myanimelist.net/anime/5341/Ookami_to_Koushinryou_II">Ookami to Koushinryou II</a></div><div class="title"><a href="https://myanimelist.net/anime/6007/Ookami_to_Koushinryou_II__Ookami_to_Kohakuiro_no_Yuuutsu">Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/3299/Ookami_to_Koushinryou">Ookami to Koushinryou</a></div><div class="title"><a href="https://myanimelist.net/manga/9115/Ookami_to_Koushinryou">Ookami to Koushinryou</a></div><div class="title"><a href="https://myanimelist.net/manga/99821/Shinsetsu_Ookami_to_Koushinryou__Ookami_to_Youhishi">Shinsetsu Ookami to Koushinryou: Ookami to Youhishi</a></div></td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/5081/Bakemonogatari">Bakemonogatari</a></div><div class="title"><a href="https://myanimelist.net/anime/6948/Bakemonogatari_Recap">Bakemonogatari Recap</a></div><div class="title"><a href="https://myanimelist.net/anime/9260/Kizumonogatari_I__Tekketsu-hen">Kizumonogatari I: Tekketsu-hen</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/14893/Monogatari_Series__First_Season">Monogatari Series: First Season</a></div><div class="title"><a href="https://myanimelist.net/manga/23751/Monogatari_Series__Second_Season">Monogatari Series: Second Season</a></div><div class="title"><a href="https://myanimelist.net/manga/24499/Bakemonogatari_Short_Stories">Bakemonogatari Short Stories</a></div></td>
   <td class="favorites">
-    26,562
+    27,999
   </td>
 </tr>
 <tr class="ranking-list">
@@ -1044,12 +1060,29 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a></div><div class="title"><a href="https://myanimelist.net/anime/460/One_Piece_Movie_02__Nejimaki-jima_no_Daibouken">One Piece Movie 02: Nejimaki-jima no Daibouken</a></div><div class="title"><a href="https://myanimelist.net/anime/461/One_Piece_Movie_03__Chinjuu-jima_no_Chopper_Oukoku">One Piece Movie 03: Chinjuu-jima no Chopper Oukoku</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/13/One_Piece">One Piece</a></div><div class="title"><a href="https://myanimelist.net/manga/881/Cross_Epoch">Cross Epoch</a></div><div class="title"><a href="https://myanimelist.net/manga/14414/One_Piece_Log_Book_Omake">One Piece Log Book Omake</a></div></td>
   <td class="favorites">
-    26,284
+    27,371
   </td>
 </tr>
 <tr class="ranking-list">
   <td class="rank ">
     <span class="lightLink pepole-rank-text rank2">48</span>
+  </td>
+  <td class="people">
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/13/Sasuke_Uchiha" id="#area" rel="#info">
+      <img width="50" height="78" alt="Uchiha, Sasuke" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/9/131317.jpg?s=e1599af8dda56694460df8d02bfe85dd" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/9/131317.jpg?s=e1599af8dda56694460df8d02bfe85dd 1x, https://cdn.myanimelist.net/r/100x156/images/characters/9/131317.jpg?s=11b539fc40b9f692268c06f207477a70 2x" />
+    </a>
+    <div class="information di-ib mt24">
+      <a href="https://myanimelist.net/character/13/Sasuke_Uchiha" class="fs14 fw-b">Uchiha, Sasuke</a><br><span class="fs12 fn-grey6">(うちは サスケ)</span><br></div>
+  </td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/20/Naruto">Naruto</a></div><div class="title"><a href="https://myanimelist.net/anime/442/Naruto_Movie_1__Dai_Katsugeki_Yuki_Hime_Shinobu_Houjou_Dattebayo">Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!</a></div><div class="title"><a href="https://myanimelist.net/anime/594/Naruto__Takigakure_no_Shitou_-_Ore_ga_Eiyuu_Dattebayo">Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/11/Naruto">Naruto</a></div><div class="title"><a href="https://myanimelist.net/manga/6028/Naruto__Shiro_no_Douji_Keppu_no_Kijin">Naruto: Shiro no Douji, Keppu no Kijin</a></div><div class="title"><a href="https://myanimelist.net/manga/57095/Naruto__Takigakure_no_Shitou_Ore_ga_Hero_dattebayo">Naruto: Takigakure no Shitou Ore ga Hero dattebayo!</a></div></td>
+  <td class="favorites">
+    27,270
+  </td>
+</tr>
+<tr class="ranking-list">
+  <td class="rank ">
+    <span class="lightLink pepole-rank-text rank2">49</span>
   </td>
   <td class="people">
     <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/601/Alucard" id="#area" rel="#info">
@@ -1061,24 +1094,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/270/Hellsing">Hellsing</a></div><div class="title"><a href="https://myanimelist.net/anime/777/Hellsing_Ultimate">Hellsing Ultimate</a></div><div class="title"><a href="https://myanimelist.net/anime/6904/Hellsing__Digest_for_Freaks">Hellsing: Digest for Freaks</a></div></td>
   <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/267/Hellsing">Hellsing</a></div><div class="title"><a href="https://myanimelist.net/manga/751/Hellsing__The_Dawn">Hellsing: The Dawn</a></div><div class="title"><a href="https://myanimelist.net/manga/9760/Hellsing">Hellsing</a></div></td>
   <td class="favorites">
-    26,280
-  </td>
-</tr>
-<tr class="ranking-list">
-  <td class="rank ">
-    <span class="lightLink pepole-rank-text rank2">49</span>
-  </td>
-  <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/118489/Shouto_Todoroki" id="#area" rel="#info">
-      <img width="50" height="78" alt="Todoroki, Shouto" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/12/332527.jpg?s=4ff920d1166c92b3fe7d3a0025a5f9ee" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/12/332527.jpg?s=4ff920d1166c92b3fe7d3a0025a5f9ee 1x, https://cdn.myanimelist.net/r/100x156/images/characters/12/332527.jpg?s=74ae44458ae6760d7834b8b4e533d34e 2x" />
-    </a>
-    <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/118489/Shouto_Todoroki" class="fs14 fw-b">Todoroki, Shouto</a><br><span class="fs12 fn-grey6">(轟 焦凍)</span><br></div>
-  </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season">Boku no Hero Academia 2nd Season</a></div><div class="title"><a href="https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising">Boku no Hero Academia the Movie 2: Heroes:Rising</a></div><div class="title"><a href="https://myanimelist.net/anime/44200/Boku_no_Hero_Academia_the_Movie_3__World_Heroes_Mission">Boku no Hero Academia the Movie 3: World Heroes&#039; Mission</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/75989/Boku_no_Hero_Academia">Boku no Hero Academia</a></div><div class="title"><a href="https://myanimelist.net/manga/94110/Boku_no_Hero_Academia_Smash">Boku no Hero Academia Smash!</a></div></td>
-  <td class="favorites">
-    25,389
+    26,926
   </td>
 </tr>
 <tr class="ranking-list">
@@ -1086,16 +1102,16 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <span class="lightLink pepole-rank-text rank2">50</span>
   </td>
   <td class="people">
-    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/1111/CC" id="#area" rel="#info">
-      <img width="50" height="78" alt="C.C." class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/13/33815.jpg?s=b9c5e75db677f7b5bd69de9db13ac217" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/13/33815.jpg?s=b9c5e75db677f7b5bd69de9db13ac217 1x, https://cdn.myanimelist.net/r/100x156/images/characters/13/33815.jpg?s=105f0037fbfd352070d12f343b55832b 2x" />
+    <a class="fl-l ml12 mr8" href="https://myanimelist.net/character/7373/Holo" id="#area" rel="#info">
+      <img width="50" height="78" alt="Holo" class="lazyload" border="0" data-src="https://cdn.myanimelist.net/r/50x78/images/characters/15/319492.jpg?s=2d92d0ff324dc6bdde6f78d5c412f45d" data-srcset="https://cdn.myanimelist.net/r/50x78/images/characters/15/319492.jpg?s=2d92d0ff324dc6bdde6f78d5c412f45d 1x, https://cdn.myanimelist.net/r/100x156/images/characters/15/319492.jpg?s=abf3c81b49cd5a0f105329304047bc8d 2x" />
     </a>
     <div class="information di-ib mt24">
-      <a href="https://myanimelist.net/character/1111/CC" class="fs14 fw-b">C.C.</a><br><span class="fs12 fn-grey6">(シー・ツー)</span><br></div>
+      <a href="https://myanimelist.net/character/7373/Holo" class="fs14 fw-b">Holo</a><br><span class="fs12 fn-grey6">(ホロ)</span><br></div>
   </td>
-  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch">Code Geass: Hangyaku no Lelouch</a></div><div class="title"><a href="https://myanimelist.net/anime/2124/Code_Geass__Hangyaku_no_Lelouch_Recaps">Code Geass: Hangyaku no Lelouch Recaps</a></div><div class="title"><a href="https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2">Code Geass: Hangyaku no Lelouch R2</a></div></td>
-  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/1528/Code_Geass__Hangyaku_no_Lelouch">Code Geass: Hangyaku no Lelouch</a></div><div class="title"><a href="https://myanimelist.net/manga/10822/Chibi_Geass__4-koma_no_Lelouch">Chibi Geass: 4-koma no Lelouch</a></div><div class="title"><a href="https://myanimelist.net/manga/11496/Code_Geass__Hangyaku_no_Lelouch">Code Geass: Hangyaku no Lelouch</a></div></td>
+  <td class="animeography"><div class="title"><a href="https://myanimelist.net/anime/2966/Ookami_to_Koushinryou">Ookami to Koushinryou</a></div><div class="title"><a href="https://myanimelist.net/anime/5341/Ookami_to_Koushinryou_II">Ookami to Koushinryou II</a></div><div class="title"><a href="https://myanimelist.net/anime/6007/Ookami_to_Koushinryou_II__Ookami_to_Kohakuiro_no_Yuuutsu">Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu</a></div></td>
+  <td class="mangaography"><div class="title"><a href="https://myanimelist.net/manga/3299/Ookami_to_Koushinryou">Ookami to Koushinryou</a></div><div class="title"><a href="https://myanimelist.net/manga/9115/Ookami_to_Koushinryou">Ookami to Koushinryou</a></div><div class="title"><a href="https://myanimelist.net/manga/99821/Shinsetsu_Ookami_to_Koushinryou__Ookami_to_Youhishi">Shinsetsu Ookami to Koushinryou: Ookami to Youhishi</a></div></td>
   <td class="favorites">
-    24,609
+    26,790
   </td>
 </tr>
 </table><div class="di-b ac pt16 pb16 pagination icon-top-ranking-page-bottom">  <a href="https://myanimelist.net/character.php?limit=50" class="link-blue-box next">Next 50<i class="fa-solid fa-chevron-right ml4"></i></a></div>  <div class="mauto clearfix pt24" style="width:760px;">
@@ -1165,19 +1181,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -1187,23 +1203,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -1221,11 +1237,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -1334,7 +1350,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

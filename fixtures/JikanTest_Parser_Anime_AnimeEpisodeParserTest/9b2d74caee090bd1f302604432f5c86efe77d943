@@ -25,15 +25,15 @@ One Piece - Episode 1 - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='bed7649b6f4c313edafac2e649090096fcdefe5f'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='75fc81bb848007c5fe48df6dfa2686dd26c4a822'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -65,9 +65,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643290"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643290"></script>
   </head>
 
-          <body class="page-common  page-forum anime_episode_detail" data-ms="true" data-country-code="LU">
+          <body class="page-common  page-forum anime_episode_detail" data-ms="false" data-country-code="PK">
   
       <div id="myanimelist">
   
@@ -92,8 +94,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
-  <img src="/c/i/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
+  <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce" onclick="trackOutboundLink('https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce')">
+  <img src="/c/i/images/event/Mini_Banner_20220915_FAL_FALL_2022/mini-banner.png" width="250" height="36" alt="FAL FALL 2022" title="FAL FALL 2022">
 </a>
 
 </div>
@@ -178,7 +180,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div>        <div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries">
+    </div>  </div>                        <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+                  <div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries">
           <div>
               <div class="h1 edit-info">
     <div class="h1-title"><div itemprop="name">
@@ -204,7 +220,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       <tr>
                 <td class="borderClass" width="225" style="border-width: 0 1px 0 0;" valign="top">
                     <div class="">
-            <div class="js-scrollfix-bottom" style="width: 225px;">
+            <div class="leftside js-scrollfix-bottom" style="width: 225px;">
               
 
 <div style="text-align: center;">
@@ -214,9 +230,6 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   </div>
 
 <!-- My List -->
-    <div class="di-b mt4 mb8 ac" id="broadcast-block">
-      <a href="javascript:void(0)" onclick="return false;" class="left-info-block-broadcast-button js-broadcast-button ga-click" data-title="One Piece" data-subtitle="" data-raw='{"data":[{"platform":{"id":1,"name":"Crunchyroll","icon":"crunchyroll","type":1},"available":true,"url":"http:\/\/www.crunchyroll.com\/series-257631"},{"platform":{"id":4,"name":"Funimation","icon":"funimation","type":1},"available":false,"url":"https:\/\/www.funimation.com\/shows\/one-piece"},{"platform":{"id":2,"name":"Netflix","icon":"netflix","type":1},"available":false,"url":"https:\/\/www.netflix.com\/title\/80107103"},{"platform":{"id":28,"name":"Shahid","icon":"shahid","type":2},"available":false,"url":"https:\/\/shahid.mbc.net\/en\/series\/One-Piece\/series-826519"}],"count":{"available":1,"typicals":3,"others":1,"total":4}}' data-ga-click-type="broadcast-title-watch-episode" data-ga-click-param="aid:21"><i class="malicon malicon-streaming"></i> Watch Episodes</a>
-    </div>
 
   <div class="profileRows pb0">
     <a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fepisode%2F1&amp;error=login_required">Add to My List</a>
@@ -258,7 +271,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <!-- end My List -->
 <div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F21%2F_%2Fepisode%2F1&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
 
-<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;text=One%20Piece&amp;hashtags=anime"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;title=One%20Piece"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;name=One%20Piece"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div>  <br />
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;text=One%20Piece&amp;hashtags=anime"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;title=One%20Piece"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F21%2FOne_Piece&amp;name=One%20Piece"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div>  <br />
 
   <h2>Alternative Titles</h2><div class="spaceit_pad">
     <span class="dark_text">Synonyms:</span> OP
@@ -339,7 +352,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <h2>Statistics</h2>
 <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="spaceit_pad po-r js-statistics-info di-ib" data-id="info1">
   <span class="dark_text">Score:</span>
-  <span itemprop="ratingValue" class="score-label score-8">8.64</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">1069678</span>1,069,678 users)
+  <span itemprop="ratingValue" class="score-label score-8">8.67</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">1126415</span>1,126,415 users)
       <meta itemprop="bestRating" content="10">
     <meta itemprop="worstRating" content="1">
       <div class="statistics-info info1">
@@ -350,7 +363,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #65<sup>2</sup>
+  #58<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -359,21 +372,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Popularity:</span>
-  #26
+  #25
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Members:</span>
-    1,881,078
+    1,974,567
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Favorites:</span>
-  165,960
+  178,677
 </div>
 
 <br />
 <h2>Streaming Platforms</h2>
 <div class="pb16 broadcasts"><div class="broadcast">
-      <a href="http://www.crunchyroll.com/series-257631" title="Crunchyroll" class="broadcast-item available ga-click" data-available="1" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:21"><i class="spicon spicon-crunchyroll"></i><div class="caption">Crunchyroll</div></a>
+      <a href="http://www.crunchyroll.com/series-257631" title="Crunchyroll" class="broadcast-item notavailable ga-click" data-available="" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:21"><i class="spicon spicon-crunchyroll"></i><div class="caption">Crunchyroll</div></a>
     </div><div class="broadcast">
       <a href="https://www.funimation.com/shows/one-piece" title="Funimation" class="broadcast-item notavailable ga-click" data-available="" data-ga-click-type="broadcast-title-streaming-platforms" data-ga-click-param="aid:21"><i class="spicon spicon-funimation"></i><div class="caption">Funimation</div></a>
     </div><div class="js-streaming-platforms hide"><div class="broadcast">
@@ -473,7 +486,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
               </a></div>
 
                     <div class="episode-information clearfix">            <div class="user-status-block fn-grey6 fl-l">
-              <a href="https://myanimelist.net/forum/?topicid=43183" class="btn-forum-episode fl-r "><i class="fa-solid fa-comments mr4"></i>Forum Discussion<span class="di-ib fs10 ml8 fw-n">177 replies</span></a></div>
+              <a href="https://myanimelist.net/forum/?topicid=43183" class="btn-forum-episode fl-r "><i class="fa-solid fa-comments mr4"></i>Forum Discussion<span class="di-ib fs10 ml8 fw-n">203 replies</span></a></div>
                         <div class="information-right fl-r clearfix">
                              <div class="video-providers ar pt2">
   <div class="di-tc va-m"><span class="fl-l di-ib mr8 pt2 fs10">Provided by</span>
@@ -492,7 +505,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 
 <script>
 MAL.episodeVideo.aroundVideos = {
-    videos: [{"id":2083644,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":1,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-1-im-luffy-the-man-whos-gonna-be-king-of-the-pirates-650673&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-1-im-luffy-the-man-whos-gonna-be-king-of-the-pirates-650673&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/8bbc912efbdbcf655012d909904ff1221393472815_large.jpg","title":"I\u2019m Luffy! The Man Who\u2019s Gonna Be King of the Pirates!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650673,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":true,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/1"},{"id":2083645,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":2,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-2-enter-the-great-swordsman-pirate-hunter-roronoa-zoro-650675&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-2-enter-the-great-swordsman-pirate-hunter-roronoa-zoro-650675&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/14467ea40177fb7dd88aa0c067acc46b1393473930_large.jpg","title":"Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650675,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/2"},{"id":2083646,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":3,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-3-morgan-versus-luffy-whos-the-mysterious-pretty-girl-650677&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-3-morgan-versus-luffy-whos-the-mysterious-pretty-girl-650677&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/c4475a273780c10abdc1422b0e56713e1393472819_large.jpg","title":"Morgan versus Luffy! Who\u2019s the Mysterious Pretty Girl?","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650677,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/3"},{"id":2083647,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":4,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-4-luffys-past-enter-red-haired-shanks-650679&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-4-luffys-past-enter-red-haired-shanks-650679&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/2471c70979be4a83f78ace6df8b06ea91393472831_large.jpg","title":"Luffy\u2019s Past! Enter Red-Haired Shanks!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650679,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/4"},{"id":2083648,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":5,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-5-a-terrifying-mysterious-power-captain-buggy-the-clown-pirate-650681&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-5-a-terrifying-mysterious-power-captain-buggy-the-clown-pirate-650681&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/e44e803ce761d6d5c27fba04e9fb8ac71393474260_large.jpg","title":"A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650681,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/5"},{"id":2083649,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":6,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-6-desperate-situation-beast-tamer-mohji-vs-luffy-650683&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-6-desperate-situation-beast-tamer-mohji-vs-luffy-650683&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/04707d3f4f90fe8d818678630af438901393477231_large.jpg","title":"Desperate Situation! Beast Tamer Mohji Vs. Luffy!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650683,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/6"},{"id":2083650,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":7,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-7-epic-showdown-swordsman-zoro-vs-acrobat-cabaji-650685&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-7-epic-showdown-swordsman-zoro-vs-acrobat-cabaji-650685&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/712c7791d6e762f57ae5459e0ed948f51393475665_large.jpg","title":"Epic Showdown! Swordsman Zoro Vs. Acrobat Cabaji!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650685,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/7"},{"id":2083651,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":8,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-8-who-is-the-victor-devil-fruit-power-showdown-650687&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-8-who-is-the-victor-devil-fruit-power-showdown-650687&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/a57c15b87dcfd41234e3d5f592f0db341393473906_large.jpg","title":"Who Is the Victor? Devil Fruit Power Showdown!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650687,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/8"},{"id":2083652,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":9,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-9-the-honorable-liar-captain-usopp-650689&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-9-the-honorable-liar-captain-usopp-650689&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/588d3875fed2d44b3aef53a17598651c1393473012_large.jpg","title":"The Honorable Liar? Captain Usopp!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650689,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/9"},{"id":2083653,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":10,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-10-the-weirdest-guy-ever-jango-the-hypnotist-650691&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-10-the-weirdest-guy-ever-jango-the-hypnotist-650691&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/07db4980fadb56f677864ec7d9c27fb91393473054_large.jpg","title":"The Weirdest Guy Ever! Jango the Hypnotist!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650691,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/10"},{"id":2083654,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":11,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-11-expose-the-plot-pirate-butler-captain-kuro-650693&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-11-expose-the-plot-pirate-butler-captain-kuro-650693&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/301e8cc3be020678b3728f34c9a8f9931393473013_large.jpg","title":"Expose the Plot! Pirate Butler, Captain Kuro!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650693,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/11"},{"id":2083655,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":12,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-12-clash-with-the-black-cat-pirates-the-great-battle-on-the-slope-650695&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-12-clash-with-the-black-cat-pirates-the-great-battle-on-the-slope-650695&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/a8ed3820e298b0a25460300f9fbb288d1393475994_large.jpg","title":"Clash With the Black Cat Pirates! the Great Battle On the Slope!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650695,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/12"},{"id":2083656,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":13,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-13-the-terrifying-duo-meowban-brothers-vs-zoro-650697&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-13-the-terrifying-duo-meowban-brothers-vs-zoro-650697&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/e7aa3a0dd876057f83dda287bcfa49771393474016_large.jpg","title":"The Terrifying Duo! Meowban Brothers Vs. Zoro!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650697,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/13"},{"id":2083657,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":14,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-14-luffy-back-in-action-miss-kayas-desperate-resistance-650699&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-14-luffy-back-in-action-miss-kayas-desperate-resistance-650699&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/84b3a1c7969d485c89183b0eaac414241393474929_large.jpg","title":"Luffy Back in Action! Miss Kaya's Desperate Resistance!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650699,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/14"},{"id":2083658,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":15,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-15-beat-kuro-usopp-the-mans-tearful-resolve-650701&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-15-beat-kuro-usopp-the-mans-tearful-resolve-650701&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/d6d97007d9890cfa540eb4fe3d514b1a1393473375_large.jpg","title":"Beat Kuro! Usopp the Man's Tearful Resolve!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650701,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/15"},{"id":2083659,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":16,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-16-protect-kaya-the-usopp-pirates-great-efforts-650703&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-16-protect-kaya-the-usopp-pirates-great-efforts-650703&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/664b5274a6f9dd40d5e095d0209f99cc1393474520_large.jpg","title":"Protect Kaya! The Usopp Pirates' Great Efforts!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650703,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/16"},{"id":2083660,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":17,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-17-anger-explosion-kuro-vs-luffy-how-it-ends-650705&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-17-anger-explosion-kuro-vs-luffy-how-it-ends-650705&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/5e806832e7de9091cde24cc4b82920e61393473611_large.jpg","title":"Anger Explosion! Kuro Vs. Luffy! How It Ends!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650705,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/17"},{"id":2083661,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":18,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-18-youre-the-weird-creature-gaimon-and-his-strange-friends-650707&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-18-youre-the-weird-creature-gaimon-and-his-strange-friends-650707&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/a4f9c14d83c491f77d7e811a4474c34c1393475370_large.jpg","title":"You're the Weird Creature! Gaimon and His Strange Friends!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650707,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/18"},{"id":2083662,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":19,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-19-the-three-sword-styles-past-zoro-and-kuinas-vow-650709&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-19-the-three-sword-styles-past-zoro-and-kuinas-vow-650709&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/49bc8fbdc97c3292fab3f9d64581e9411393474849_large.jpg","title":"The Three-Sword Style's Past! Zoro and Kuina's Vow!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650709,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/19"},{"id":2083663,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":20,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-20-famous-cook-sanji-of-the-sea-restaurant-650711&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-20-famous-cook-sanji-of-the-sea-restaurant-650711&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/486ba4597d19aa71cc5fe78441b206b61393475449_large.jpg","title":"Famous Cook! Sanji of the Sea Restaurant!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650711,"created_at":1470219722,"updated_at":1654521601,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/20"}],
+    videos: [{"id":2083644,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":1,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-1-im-luffy-the-man-whos-gonna-be-king-of-the-pirates-650673&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-1-im-luffy-the-man-whos-gonna-be-king-of-the-pirates-650673&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/8bbc912efbdbcf655012d909904ff1221393472815_large.jpg","title":"I\u2019m Luffy! The Man Who\u2019s Gonna Be King of the Pirates!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650673,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":true,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/1"},{"id":2083645,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":2,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-2-enter-the-great-swordsman-pirate-hunter-roronoa-zoro-650675&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-2-enter-the-great-swordsman-pirate-hunter-roronoa-zoro-650675&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/14467ea40177fb7dd88aa0c067acc46b1393473930_large.jpg","title":"Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650675,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/2"},{"id":2083646,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":3,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-3-morgan-versus-luffy-whos-the-mysterious-pretty-girl-650677&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-3-morgan-versus-luffy-whos-the-mysterious-pretty-girl-650677&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/c4475a273780c10abdc1422b0e56713e1393472819_large.jpg","title":"Morgan versus Luffy! Who\u2019s the Mysterious Pretty Girl?","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650677,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/3"},{"id":2083647,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":4,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-4-luffys-past-enter-red-haired-shanks-650679&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-4-luffys-past-enter-red-haired-shanks-650679&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/2471c70979be4a83f78ace6df8b06ea91393472831_large.jpg","title":"Luffy\u2019s Past! Enter Red-Haired Shanks!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650679,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/4"},{"id":2083648,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":5,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-5-a-terrifying-mysterious-power-captain-buggy-the-clown-pirate-650681&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-5-a-terrifying-mysterious-power-captain-buggy-the-clown-pirate-650681&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/e44e803ce761d6d5c27fba04e9fb8ac71393474260_large.jpg","title":"A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650681,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/5"},{"id":2083649,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":6,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-6-desperate-situation-beast-tamer-mohji-vs-luffy-650683&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-6-desperate-situation-beast-tamer-mohji-vs-luffy-650683&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/04707d3f4f90fe8d818678630af438901393477231_large.jpg","title":"Desperate Situation! Beast Tamer Mohji Vs. Luffy!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650683,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/6"},{"id":2083650,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":7,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-7-epic-showdown-swordsman-zoro-vs-acrobat-cabaji-650685&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-7-epic-showdown-swordsman-zoro-vs-acrobat-cabaji-650685&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/712c7791d6e762f57ae5459e0ed948f51393475665_large.jpg","title":"Epic Showdown! Swordsman Zoro Vs. Acrobat Cabaji!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650685,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/7"},{"id":2083651,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":8,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-8-who-is-the-victor-devil-fruit-power-showdown-650687&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-8-who-is-the-victor-devil-fruit-power-showdown-650687&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/a57c15b87dcfd41234e3d5f592f0db341393473906_large.jpg","title":"Who Is the Victor? Devil Fruit Power Showdown!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650687,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/8"},{"id":2083652,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":9,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-9-the-honorable-liar-captain-usopp-650689&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-9-the-honorable-liar-captain-usopp-650689&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/588d3875fed2d44b3aef53a17598651c1393473012_large.jpg","title":"The Honorable Liar? Captain Usopp!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650689,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/9"},{"id":2083653,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":10,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-10-the-weirdest-guy-ever-jango-the-hypnotist-650691&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-10-the-weirdest-guy-ever-jango-the-hypnotist-650691&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/07db4980fadb56f677864ec7d9c27fb91393473054_large.jpg","title":"The Weirdest Guy Ever! Jango the Hypnotist!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650691,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/10"},{"id":2083654,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":11,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-11-expose-the-plot-pirate-butler-captain-kuro-650693&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-11-expose-the-plot-pirate-butler-captain-kuro-650693&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/301e8cc3be020678b3728f34c9a8f9931393473013_large.jpg","title":"Expose the Plot! Pirate Butler, Captain Kuro!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650693,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/11"},{"id":2083655,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":12,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-12-clash-with-the-black-cat-pirates-the-great-battle-on-the-slope-650695&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-12-clash-with-the-black-cat-pirates-the-great-battle-on-the-slope-650695&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/a8ed3820e298b0a25460300f9fbb288d1393475994_large.jpg","title":"Clash With the Black Cat Pirates! the Great Battle On the Slope!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650695,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/12"},{"id":2083656,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":13,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-13-the-terrifying-duo-meowban-brothers-vs-zoro-650697&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-13-the-terrifying-duo-meowban-brothers-vs-zoro-650697&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/e7aa3a0dd876057f83dda287bcfa49771393474016_large.jpg","title":"The Terrifying Duo! Meowban Brothers Vs. Zoro!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650697,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/13"},{"id":2083657,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":14,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-14-luffy-back-in-action-miss-kayas-desperate-resistance-650699&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-14-luffy-back-in-action-miss-kayas-desperate-resistance-650699&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/84b3a1c7969d485c89183b0eaac414241393474929_large.jpg","title":"Luffy Back in Action! Miss Kaya's Desperate Resistance!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650699,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/14"},{"id":2083658,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":15,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-15-beat-kuro-usopp-the-mans-tearful-resolve-650701&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-15-beat-kuro-usopp-the-mans-tearful-resolve-650701&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/d6d97007d9890cfa540eb4fe3d514b1a1393473375_large.jpg","title":"Beat Kuro! Usopp the Man's Tearful Resolve!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650701,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/15"},{"id":2083659,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":16,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-16-protect-kaya-the-usopp-pirates-great-efforts-650703&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-16-protect-kaya-the-usopp-pirates-great-efforts-650703&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/664b5274a6f9dd40d5e095d0209f99cc1393474520_large.jpg","title":"Protect Kaya! The Usopp Pirates' Great Efforts!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650703,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/16"},{"id":2083660,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":17,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-17-anger-explosion-kuro-vs-luffy-how-it-ends-650705&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-17-anger-explosion-kuro-vs-luffy-how-it-ends-650705&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/5e806832e7de9091cde24cc4b82920e61393473611_large.jpg","title":"Anger Explosion! Kuro Vs. Luffy! How It Ends!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650705,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/17"},{"id":2083661,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":18,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-18-youre-the-weird-creature-gaimon-and-his-strange-friends-650707&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-18-youre-the-weird-creature-gaimon-and-his-strange-friends-650707&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/a4f9c14d83c491f77d7e811a4474c34c1393475370_large.jpg","title":"You're the Weird Creature! Gaimon and His Strange Friends!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650707,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/18"},{"id":2083662,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":19,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-19-the-three-sword-styles-past-zoro-and-kuinas-vow-650709&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-19-the-three-sword-styles-past-zoro-and-kuinas-vow-650709&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/49bc8fbdc97c3292fab3f9d64581e9411393474849_large.jpg","title":"The Three-Sword Style's Past! Zoro and Kuina's Vow!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650709,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/19"},{"id":2083663,"anime_id":21,"provider_id":1,"subdub_type":"sub","episode_number":20,"url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-20-famous-cook-sanji-of-the-sea-restaurant-650711&aff=af-12299-plwa","embed_tag":null,"external_url":"http:\/\/www.crunchyroll.com\/redirect?url=%2Fone-piece%2Fepisode-20-famous-cook-sanji-of-the-sea-restaurant-650711&aff=af-12299-plwa","thumbnail":"https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/486ba4597d19aa71cc5fe78441b206b61393475449_large.jpg","title":"Famous Cook! Sanji of the Sea Restaurant!","embed_type":"link","published_at":1393725600,"free_published_at":1393725600,"expired_at":4294967295,"provider_episode_id":650711,"created_at":1470219722,"updated_at":1658474402,"availableForOnlyPremium":false,"isCurrent":false,"episodeUrl":"\/anime\/21\/One_Piece\/episode\/20"}],
     animeId: 21,
     episodeNumber: 1,
     pager: {"page":1,"prevPage":0,"hasPrevPage":false,"nextPage":2,"hasNextPage":true}
@@ -681,10 +694,10 @@ MAL.episodeVideo.aroundVideos = {
                   
 <table border="0" cellpadding="0" cellspacing="0" width="100%" id="forumTopics">
   
-      <tr id="topicRow43183">
+      <tr id="topicRow43183" data-topic-id="43183">
 
             <td class="forum_boardrow2" style="border-width: 0px 1px 1px 1px;" width="25" align="center">
-                   <img class="lazyload" data-src="https://cdn.myanimelist.net/images/watch_n.gif" title="Topic is not being watched">
+                  <i class="fa-regular fa-circle watch-state-icon" title="Topic is not being watched" data-topic-id="43183"></i>
               </td>
 
             <td class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;">
@@ -714,7 +727,7 @@ MAL.episodeVideo.aroundVideos = {
                 5
               </a> 
                                       ... 
-              <a href="/forum/?topicid=43183&show=160">
+              <a href="/forum/?topicid=43183&show=200">
                 Last Page
               </a>
                         )
@@ -730,20 +743,20 @@ MAL.episodeVideo.aroundVideos = {
 
       
                       <td align="center" width="75" class="forum_boardrow2" style="border-width: 0px 1px 1px 0px;">
-          177
+          203
                       replies
                   </td>
       
                       <td align="right" width="130" class="forum_boardrow1" style="border-width: 0px 1px 1px 0px;" nowrap>
           by
-          <a href="/profile/BlackEvil777">
-            BlackEvil777
+          <a href="/profile/Weebosquirtle_17">
+            Weebosquirtle_17
           </a>
           <a href="/forum/?topicid=43183&goto=lastpost" title="Go to the Last Post">
             &raquo;&raquo;
           </a>
           <br>
-          05-31-22, 5:17 PM
+          09-28-22, 9:02 PM
         </td>
       
     </tr>
@@ -799,19 +812,19 @@ MAL.episodeVideo.aroundVideos = {
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -821,23 +834,23 @@ MAL.episodeVideo.aroundVideos = {
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -855,11 +868,11 @@ MAL.episodeVideo.aroundVideos = {
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -931,104 +944,7 @@ MAL.episodeVideo.aroundVideos = {
   </div>
 </footer>
     
-      <div class="welcome-back popup-background">
-  <div class="popup">
-    <img class="logo" src="/img/pc/ownlist/logo_mal.png" alt="MyAnimeList">
-    <h3 class="popup-title">Welcome!</h3>
-    <p class="description">Join MyAnimeList to catalog your anime and manga, compare with your friends, create your own profile, and plenty more. It's free and easy to join.</p>
-    <div class="anime-slide1">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/9/9453.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/10/47347.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/11/39717.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/1223/96541.jpg');"></div>
-    </div>
-    <div class="anime-slide2">
-      <div class="slide-panel panel-offset1" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset2" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset3" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset4" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-
-      <div class="slide-panel panel-offset5" style="background-image: url('/images/anime/12/76049.jpg');"></div>
-      <div class="slide-panel panel-offset6" style="background-image: url('/images/anime/5/64449.jpg');"></div>
-      <div class="slide-panel panel-offset7" style="background-image: url('/images/anime/5/73199.jpg');"></div>
-      <div class="slide-panel panel-offset8" style="background-image: url('/images/anime/5/65187.jpg');"></div>
-    </div>
-    <h3 class="sign-up-with">Free Sign Up with</h3>
-    <div class="sns-sign-up">
-      <a class="sns-button google" href="/sns/login/google?from=%2Fanime%2F21%2F_%2Fepisode%2F1&utm_medium=ldialog_google" onclick="ga('send', 'event', 'ldialog', 'click', 'google');">Google</a>
-      <a class="sns-button facebook" href="/sns/login/facebook?from=%2Fanime%2F21%2F_%2Fepisode%2F1&utm_medium=ldialog_facebook" onclick="ga('send', 'event', 'ldialog', 'click', 'facebook');">Facebook</a>
-      <a class="sns-button twitter" href="/sns/login/twitter?from=%2Fanime%2F21%2F_%2Fepisode%2F1&utm_medium=ldialog_twitter" onclick="ga('send', 'event', 'ldialog', 'click', 'twitter');">Twitter</a>
-    </div>
-    <div class="sign-up">
-      <a class="account register" href="/register.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'mail');">Create an account</a>
-      <br>      <a class="account" href="/login.php?from=%2F" onclick="ga('send', 'event', 'ldialog', 'click', 'login');">Already have an account?</a>
-    </div>
-    <div class="close-button" onclick="ga('send', 'event', 'ldialog', 'click', 'close');"></div>
-  </div>
-  <script>
-    $(function () {
-      ga('send', 'event', 'popup_login_form', 'show', location.href, {nonInteraction: true});
-      var onresize = function () {
-        var $welcome_back = $('.welcome-back');
-        var $popup = $('.welcome-back .popup');
-        var top = ($welcome_back.outerHeight() - $popup.outerHeight()) / 2;
-        $popup.css('top', top < 0 ? 0 : top);
-      };
-      var onclose = function () {
-        $('.welcome-back').addClass('fade-out')
-          .one('animationend', function () { $(this).remove(); });
-        $(window).off('resize', onresize);
-      };
-
-      var timer_id = null;
-      var show = function () {
-        timer_id = null;
-        // 優先順位の高いポップアップが出ていたら表示しない
-        if (($('.app_gdpr--2k2uB').length > 0 && $('.banner_hidden--MXmJ_').length === 0) || $('._cm-os-slider').length > 0 || $('#tbl-next-up').length > 0 || $('#gdpr-modal-bottom').length > 0) {
-          return
-        }
-        $('.welcome-back').addClass('fade-in');
-        onresize();
-        var timer = setTimeout(onclose,30000);
-        $('.popup').on('mousemove',function(){
-            clearTimeout(timer);
-            timer=setTimeout(onclose, 30000);
-        });
-      };
-
-      $(window)
-        .one('load', function () {
-          onresize();
-          timer_id = setTimeout(show,3000);
-          $('body').on('keydown mousedown mousemove',function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-          $(window).scroll(function(){
-            if(timer_id) {
-              clearTimeout(timer_id);
-              timer_id = setTimeout(show, 3000);
-            }
-          });
-        })
-        .on('resize', onresize);
-      $(document).one('click', '.close-button', function () {
-        onclose();
-      });
-      $('.register').click(function () {
-        ga('send', 'event', 'popup_login_form', 'click', location.href, {nonInteraction: true});
-      });
-    });
-  </script>
-</div>
-  <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+        <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
 <script>
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
@@ -1066,7 +982,7 @@ MAL.episodeVideo.aroundVideos = {
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

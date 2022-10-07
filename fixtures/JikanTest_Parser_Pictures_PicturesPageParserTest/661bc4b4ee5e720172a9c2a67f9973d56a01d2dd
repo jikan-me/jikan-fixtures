@@ -32,15 +32,15 @@ Yukiyo Fujii - Pictures - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='f346c2eb28001a24209c4b9d170b3cccff9c7d4e'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='8ef01322a69bc3b09becbfc49fd23d49cecbb9c2'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -56,10 +56,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643347"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643347"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -75,7 +77,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>
 
 <script>
     var trackOutboundLink = function(url) {
@@ -169,7 +171,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper"><div><div class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper"><div><div class="h1 edit-info">
       <div class="h1-title"><h1 class="title-name h1_bold_none"><strong>Fujii, Yukiyo</strong></h1></div><div class="header-right">
           <a href="https://myanimelist.net/dbchanges.php?go=voiceactor&amp;do=editva&amp;id=11162" class="">Edit Person Information</a></div></div></div><div id="content" >
 <table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td width="225" class="borderClass" style="border-width: 0 1px 0 0;" valign="top"><div style="text-align: center; style="margin-bottom: 3px;"><a href="/people/11162/Yukiyo_Fujii/pics"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/voiceactors/1/64826.jpg" alt="Fujii, Yukiyo"></a></div><div id="profileRows" style="text-align: left; margin-top: 4px;"><div id="v-favorite" data-favorite="{&quot;isFavorite&quot;:false,&quot;type&quot;:&quot;person&quot;,&quot;id&quot;:11162}">
@@ -186,9 +202,9 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     <div class="borderClass" :class="isError? 'fn-red1': 'fn-grey5'" v-html="msg"></div>
   </template>
 </div>
-</div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fpeople%2F11162%2FFujii_Yukiyo"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fpeople%2F11162%2FFujii_Yukiyo&amp;text=Yukiyo%20Fujii&amp;hashtags="><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fpeople%2F11162%2FFujii_Yukiyo&amp;title=Yukiyo%20Fujii"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fpeople%2F11162%2FFujii_Yukiyo&amp;name=Yukiyo%20Fujii"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div><br>
+</div><div class="js-sns-icon-container icon-block "><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fpeople%2F11162%2FFujii_Yukiyo"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fpeople%2F11162%2FFujii_Yukiyo&amp;text=Yukiyo%20Fujii&amp;hashtags="><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fpeople%2F11162%2FFujii_Yukiyo&amp;title=Yukiyo%20Fujii"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fpeople%2F11162%2FFujii_Yukiyo&amp;name=Yukiyo%20Fujii"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div><br>
              <div class="spaceit_pad"><span class="dark_text">Given name:</span> ゆきよ</div>
-             <span class="dark_text">Family name:</span> 藤井<div class="spaceit_pad"><span class="dark_text">Birthday:</span> May  8, 1985</div><span class="dark_text">Website:</span> <a href="http://ameblo.jp/yukiichigo1515/">http://ameblo.jp/yukiic...</a><div class="spaceit_pad"><span class="dark_text">Member Favorites:</span> 257</div><div><span class="dark_text">More:</span></div><div class="people-informantion-more js-people-informantion-more">Blood type: O<br />
+             <span class="dark_text">Family name:</span> 藤井<div class="spaceit_pad"><span class="dark_text">Birthday:</span> May  8, 1985</div><span class="dark_text">Website:</span> <a href="http://ameblo.jp/yukiichigo1515/">http://ameblo.jp/yukiic...</a><div class="spaceit_pad"><span class="dark_text">Member Favorites:</span> 264</div><div><span class="dark_text">More:</span></div><div class="people-informantion-more js-people-informantion-more">Blood type: O<br />
 Birth place: Kanagawa Prefecture, Japan<br />
 Height: 169 cm<br />
 <br />
@@ -196,11 +212,12 @@ Yukiyo Fujii worked as a stage lighting technician prior to becoming a seiyuu. S
 <br />
 Fujii was initially affiliated with the AOI Corporation talent agency, appearing in a number of live-action dramas before beginning voice work. She joined Aoni Production in April 2011.<br />
 <br />
+Twitter: @<a href="https://twitter.com/yukiyofujii0508" target="_blank" rel="nofollow noopener noreferrer">yukiyofujii0508</a><br />
 Profile: <a href="http://www.aoni.co.jp/actress/ha/fujii-yukiyo.html" target="_blank" rel="nofollow noopener noreferrer">http://www.aoni.co.jp/actress/ha/fujii-yukiyo.html</a></div>
         </td>
         <td valign="top" style="padding-left: 5px;"><div style="width:728px; margin:0 auto">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="728" data-koukoku-height="90">
-        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="country=LU" data-ad-id="99451" data-ad-pid="1362556" data-ad-sid="394613"></div>
+        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="country=PK" data-ad-id="99451" data-ad-pid="1362556" data-ad-sid="394613"></div>
 
       </div>
     </div><div id="horiznav_nav" style="margin: 5px 0 10px 0;">
@@ -242,7 +259,7 @@ Profile: <a href="http://www.aoni.co.jp/actress/ha/fujii-yukiyo.html" target="_b
             <div class="side-sUaidzctQfngSNMH side-sUaidzctQfngSNMH--l">
               
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="160" data-koukoku-height="600">
-        <div id="D_300x600_160x600_Left" class="ad-sas mauto ac" data-ad-target="country=LU" data-ad-id="99453" data-ad-pid="1362556" data-ad-sid="394613"></div>
+        <div id="D_300x600_160x600_Left" class="ad-sas mauto ac" data-ad-target="country=PK" data-ad-id="99453" data-ad-pid="1362556" data-ad-sid="394613"></div>
 
       </div>
                 </div>
@@ -259,7 +276,7 @@ Profile: <a href="http://www.aoni.co.jp/actress/ha/fujii-yukiyo.html" target="_b
             <div class="side-sUaidzctQfngSNMH side-sUaidzctQfngSNMH--r">
               
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="160" data-koukoku-height="600">
-        <div id="D_300x600_160x600_Right" class="ad-sas mauto ac" data-ad-target="country=LU" data-ad-id="99454" data-ad-pid="1362556" data-ad-sid="394613"></div>
+        <div id="D_300x600_160x600_Right" class="ad-sas mauto ac" data-ad-target="country=PK" data-ad-id="99454" data-ad-pid="1362556" data-ad-sid="394613"></div>
 
       </div>
                 </div>
@@ -318,19 +335,19 @@ Profile: <a href="http://www.aoni.co.jp/actress/ha/fujii-yukiyo.html" target="_b
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -340,23 +357,23 @@ Profile: <a href="http://www.aoni.co.jp/actress/ha/fujii-yukiyo.html" target="_b
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -374,11 +391,11 @@ Profile: <a href="http://www.aoni.co.jp/actress/ha/fujii-yukiyo.html" target="_b
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -487,7 +504,7 @@ Profile: <a href="http://www.aoni.co.jp/actress/ha/fujii-yukiyo.html" target="_b
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

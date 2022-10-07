@@ -32,15 +32,15 @@ Amagi Brilliant Park - Pictures - MyAnimeList.net
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name='csrf_token' content='5e6ac532315e1bed2dae2460f84ff8a2ba434027'>
-<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js" />
-<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" />
+<meta name='csrf_token' content='88add06c76da90551256c957d61ab10e2fffb6c2'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" />
 
-<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-82ab0a70d1.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-47eeb8403a.css" />
 
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e4c25cd390.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-48e786262b.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-27e91d06cd.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-d26d1f8fb1.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
 
 
 
@@ -72,10 +72,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
     {window.performance.mark('tbl_ic');}
 </script>    
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1664643345"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1664643345"></script>
 
 </head>
 
-<body onload=" " class="page-common"data-ms="true" data-country-code="LU" >
+<body onload=" " class="page-common " data-country-code="PK" >
 <div id="myanimelist">
 
     
@@ -91,7 +93,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
       </div>
     </div>
   </div>
-        <div class="wrapper"><div id="headerSmall"><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
+        <div class="wrapper "><div id="headerSmall" class=""><a href="/" class="link-mal-logo">MyAnimeList.net</a>    <script>(deployads = window.deployads || []).disablePageSegmentSessionTracking = true; </script>
     <script>(deployads = window.deployads || []).pageSegment = 'anime_pics_22147';</script>
 
 
@@ -103,8 +105,8 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         });
     }
 </script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
-  <a href="https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry" onclick="trackOutboundLink('https://mhwc.myanimelist.net/?utm_source=MAL&utm_medium=TMB&utm_campaign=writingcontest2022&utm_content=entry')">
-  <img src="/c/i/images/event/Mini_Banner_20220602_Writing_Contest_2022_Submission_Window_Opens/mini_banner.png" width="250" height="36" alt="Writing Contest 2022" title="Writing Contest 2022">
+  <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce" onclick="trackOutboundLink('https://fal.myanimelist.net/fall_2022?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2022&utm_content=announce')">
+  <img src="/c/i/images/event/Mini_Banner_20220915_FAL_FALL_2022/mini-banner.png" width="250" height="36" alt="FAL FALL 2022" title="FAL FALL 2022">
 </a>
 
 </div>
@@ -187,7 +189,21 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         
             
       </ul>
-    </div>  </div><div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
+    </div>  </div>  <style>
+    
+  </style>
+  <div class="text-ribbon ga-click ga-impression " data-id="5" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:5">
+    <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f28706;color:#ffffff;">
+      <a href="#" class="js-close-button di-b fl-r" style="color:#ffffff; margin-top:1px;">
+        <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:5"></i>
+      </a>
+      <a href="https://fal.myanimelist.net/fall_2022?utm_source=MAL&amp;utm_medium=textribbon&amp;utm_campaign=falfall2022&amp;utm_content=announce" class="di-b pr12 pl12" style="color:#ffffff;" data-ga-click-type="text_ribbon" data-ga-click-param="id:5" >
+        <strong>Can you predict the anime of the season?</strong><br class="sp"> Register your team before October 2.
+      </a>
+    </div>
+  </div>
+
+<div id="contentWrapper" itemscope itemtype="http://schema.org/TVSeries"><div><div class="h1 edit-info">
       <div class="h1-title"><div itemprop="name"><h1 class="title-name h1_bold_none"><strong>Amagi Brilliant Park</strong></h1></div></div><div class="header-right">
           <a href="https://myanimelist.net/login.php?from=%2Fanime%2F22147%2Fjikan%2Fpics&amp;error=login_required" class="js-anime-edit-info-button"><i class="fa-solid fa-pencil mr4"></i>Edit</a>
 <div id="editdiv" class="fw-n fs11">
@@ -252,7 +268,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <!-- end My List -->
 <div id="profileRows" class="pt0"><a href="https://myanimelist.net/login.php?from=%2Fanime%2F22147%2Fjikan%2Fpics&amp;error=login_required" style="font-weight:normal;">Add to Favorites</a></div>
 
-<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook ga-click" data-ga-click-type="share-facebook" data-ga-click-param= target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F22147%2FAmagi_Brilliant_Park"><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter ga-click" data-ga-click-type="share-twitter" data-ga-click-param= target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F22147%2FAmagi_Brilliant_Park&amp;text=Amagi%20Brilliant%20Park&amp;hashtags=anime"><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit ga-click" data-ga-click-type="share-reddit" data-ga-click-param= target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F22147%2FAmagi_Brilliant_Park&amp;title=Amagi%20Brilliant%20Park"><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr ga-click" data-ga-click-type="share-tumblr" data-ga-click-param= target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F22147%2FAmagi_Brilliant_Park&amp;name=Amagi%20Brilliant%20Park"><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></a></div>  <br />
+<div class="js-sns-icon-container icon-block mt8"><a data-ga-network="facebook" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fmyanimelist.net%2Fanime%2F22147%2FAmagi_Brilliant_Park"><div class="ga-click" data-ga-click-type="share-facebook" data-ga-click-param=><i title="Facebook" class="fa-brands fa-facebook-f" data-ga-click-type="share-facebook" data-ga-click-param= ></i></div></a><a data-ga-network="twitter" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-twitter" target="_blank" href="http://twitter.com/share?related=MyAnimeList.net&amp;via=myanimelist&amp;url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F22147%2FAmagi_Brilliant_Park&amp;text=Amagi%20Brilliant%20Park&amp;hashtags=anime"><div class="ga-click" data-ga-click-type="share-twitter" data-ga-click-param=><i title="Twitter" class="fa-brands fa-twitter" data-ga-click-type="share-twitter" data-ga-click-param=></i></div></a><a data-ga-network="reddit" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-reddit" target="_blank" href="http://reddit.com/submit?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F22147%2FAmagi_Brilliant_Park&amp;title=Amagi%20Brilliant%20Park"><div class="ga-click" data-ga-click-type="share-reddit" data-ga-click-param=><i title="Reddit" class="fa-brands fa-reddit-alien" data-ga-click-type="share-reddit" data-ga-click-param=></i></div></a><a data-ga-network="tumblr" data-ga-screen="Share Button Location: common" class="js-share-button-popup js-share-button-tracking sprite-icon-social icon-social icon-tumblr" target="_blank" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fmyanimelist.net%2Fanime%2F22147%2FAmagi_Brilliant_Park&amp;name=Amagi%20Brilliant%20Park"><div class="ga-click" data-ga-click-type="share-tumblr" data-ga-click-param=><i title="Tumblr" class="fa-brands fa-tumblr" data-ga-click-type="share-tumblr" data-ga-click-param=></i></div></a></div>  <br />
 
   <h2>Alternative Titles</h2><div class="spaceit_pad">
     <span class="dark_text">Synonyms:</span> Amaburi
@@ -333,7 +349,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 <h2>Statistics</h2>
 <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" class="spaceit_pad po-r js-statistics-info di-ib" data-id="info1">
   <span class="dark_text">Score:</span>
-  <span itemprop="ratingValue" class="score-label score-7">7.48</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">323858</span>323,858 users)
+  <span itemprop="ratingValue" class="score-label score-7">7.47</span><sup>1</sup> (scored by <span itemprop="ratingCount" style="display: none">330176</span>330,176 users)
       <meta itemprop="bestRating" content="10">
     <meta itemprop="worstRating" content="1">
       <div class="statistics-info info1">
@@ -344,7 +360,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad po-r js-statistics-info di-ib" data-id="info2">
   <span class="dark_text">Ranked:</span>
-  #1725<sup>2</sup>
+  #1763<sup>2</sup>
     <div class="statistics-info info2">
     <small><sup>2</sup>
     based on the <a href="/topanime.php">top anime</a> page. Please note that 'Not yet aired' and 'R18+' titles are excluded.
@@ -353,15 +369,15 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Popularity:</span>
-  #288
+  #295
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Members:</span>
-    593,398
+    605,929
 </div>
 <div class="spaceit_pad">
   <span class="dark_text">Favorites:</span>
-  2,471
+  2,498
 </div>
 
 <br />
@@ -378,14 +394,14 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   <div class="clearfix mauto mt16" style="width:160px;padding-right:10px">
         
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="160" data-koukoku-height="600">
-        <div id="D_160x600_Leftrail" class="ad-sas mauto ac" data-ad-target="anime_id=22147;display=pics;country=LU" data-ad-id="100645" data-ad-pid="1362568" data-ad-sid="394613" data-ad-sticky="sidebar" data-ad-sticky-container="#content"></div>
+        <div id="D_160x600_Leftrail" class="ad-sas mauto ac" data-ad-target="anime_id=22147;display=pics;country=PK" data-ad-id="101363" data-ad-pid="1362568" data-ad-sid="394613" data-ad-sticky="sidebar" data-ad-sticky-container="#content"></div>
 
       </div>
       </div>
 
 </div></td><td valign="top" style="padding-left: 5px;"><div class="rightside js-scrollfix-bottom-rel"><div style="width:728px; margin:0 auto">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="728" data-koukoku-height="90">
-        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="anime_id=22147;display=pics;country=LU" data-ad-id="99451" data-ad-pid="1362568" data-ad-sid="394613"></div>
+        <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="anime_id=22147;display=pics;country=PK" data-ad-id="99451" data-ad-pid="1362568" data-ad-sid="394613"></div>
 
       </div>
     </div><a name="lower"></a>
@@ -443,12 +459,12 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
 			</div>
 			</td></tr><tr><td colspan="2"><div class="" style="padding:12px 0px; display: flex;"><div style="padding: 20px 40px;display: inline-block;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="anime_id=22147;display=pics;country=LU" data-ad-id="99455" data-ad-pid="1362568" data-ad-sid="394613"></div>
+        <div id="D_300x250_1" class="ad-sas mauto ac" data-ad-target="anime_id=22147;display=pics;country=PK" data-ad-id="99455" data-ad-pid="1362568" data-ad-sid="394613"></div>
 
       </div>
     </div><div style="padding: 20px 0px;display: inline-block;">
                       <div class="sUaidzctQfngSNMH-pdatla" data-koukoku-width="300" data-koukoku-height="250">
-        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="anime_id=22147;display=pics;country=LU" data-ad-id="99456" data-ad-pid="1362568" data-ad-sid="394613"></div>
+        <div id="D_300x250_2" class="ad-sas mauto ac" data-ad-target="anime_id=22147;display=pics;country=PK" data-ad-id="99456" data-ad-pid="1362568" data-ad-sid="394613"></div>
 
       </div>
     </div></div></td></tr><tr><td width="225" align="center"><div class="picSurround"><a href="https://cdn.myanimelist.net/images/anime/12/67543l.jpg" title="Amagi Brilliant Park" class="js-picture-gallery" rel="gallery-anime"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/anime/12/67543.jpg" alt="Amagi Brilliant Park picture" border="0"></a></div>
@@ -534,19 +550,19 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/9969/Gintama">Gintama&#039;</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                   </ol>
       </div>
@@ -556,23 +572,23 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/50265/Spy_x_Family">Spy x Family</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic">Kaguya-sama wa Kokurasetai: Ultra Romantic</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/50160/Kingdom_4th_Season">Kingdom 4th Season</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/44042/Holo_no_Graffiti">Holo no Graffiti</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/50203/Love_Live_Superstar_2nd_Season">Love Live! Superstar!! 2nd Season</a>
+            </li>
+                      <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/50380/Paripi_Koumei">Paripi Koumei</a>
+              <a href="https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season">Boku no Hero Academia 6th Season</a>
             </li>
                   </ol>
       </div>
@@ -590,11 +606,11 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
             </li>
                       <li>
               <span class="rank">5</span>
@@ -703,7 +719,7 @@ window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
   
   window.MAL.GTM_ID = "WL4QW3G"
 
-  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_6"
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20220817"
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
