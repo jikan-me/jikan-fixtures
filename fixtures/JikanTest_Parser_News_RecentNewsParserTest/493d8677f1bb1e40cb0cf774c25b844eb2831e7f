@@ -1,0 +1,1126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" class="appearance-none"><head>  
+<link rel="preconnect" href="//www.googletagmanager.com/" crossorigin="anonymous"/>
+<link rel="preconnect" href="https://cdn.myanimelist.net" crossorigin="anonymous"/>
+<title>Anime &amp; Manga News - MyAnimeList.net
+</title>
+<meta name="description" content="Read and discuss up to date anime and manga news with MyAnimeList, the largest online anime and manga database in the world. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more!" />
+
+  
+<meta name="keywords" content="anime, myanimelist, anime news, manga" />
+<link rel="canonical" href="https://myanimelist.net/news" />  
+<meta property="og:locale" content="en_US"><meta property="fb:app_id" content="360769957454434"><meta property="og:site_name" content="MyAnimeList.net"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@myanimelist"><meta property="og:title" content="Anime &amp; Manga News - MyAnimeList.net "><meta property="og:image" content="https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"><meta name="twitter:image:src" content="https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png"><meta property="og:url" content="https://myanimelist.net/news"><meta property="og:description" content="Read and discuss up to date anime and manga news with MyAnimeList, the largest online anime and manga database in the world. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more!">
+
+<meta name="referrer" content="default"><link rel="alternate" type="application/atom+xml" title="Atom" href="https://myanimelist.net/rss/news.xml" /><link rel="manifest" href="/manifest.json">
+
+<meta name='csrf_token' content='68a5b334c173759ce8ab22369d2e6534e4a273d0'>
+<meta name="fo-verify" content="1e927243-8e02-48e3-b098-a7b78c5b4e36"><meta name="viewport" content="initial-scale=1" /><link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/style-7a9b8b33de.css" />
+<link rel="preload" as="style" href="https://cdn.myanimelist.net/static/assets/css/pc/dark-14047f4f0c.css" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/header-f993536e06.js" />
+<link rel="preload" as="script" href="https://cdn.myanimelist.net/static/assets/js/pc/all-8e49e43850.js" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-7a9b8b33de.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/dark-14047f4f0c.css" />
+
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-f993536e06.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-8e49e43850.js" id="alljs" data-params='{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;}' async="async"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://myanimelist.net/plugins/myanimelist.xml" title="MyAnimeList" />
+
+<link rel="shortcut icon" href="https://cdn.myanimelist.net/images/favicon.ico" />
+
+<meta name='recaptcha_site_key' content='6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4'>
+<script>
+window.GRECAPTCHA_SITE_KEY = '6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4';
+</script>
+<script src='https://www.google.com/recaptcha/api.js?render=6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4' async defer></script>
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+    <!-- Load Sortable's library -->
+    <script async="async" src="//tags-cdn.deployads.com/a/dfp.myanimelist.net.js"></script>
+    <script>
+    window.googletag = window.googletag || {cmd: []};
+    // Initialize the deployads array for asynchronous use
+    window.deployads = window.deployads || [];
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/21819726364/D_Top_728x90_B', [[728, 90], [1, 2], [1, 1]], 'div-gpt-ad-1597138712051-0').addService(googletag.pubads());
+        googletag.defineSlot('/21819726364/D_RightRail_300x250_B', [[300, 250], [1, 2], [1, 1]], 'div-gpt-ad-1597388271412-0').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        deployads.push(function() { deployads.gpt.enableServices(); });
+    });
+    </script>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1473193330168238" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/quantcast_choice.js?v=1744154131"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/js/cmp.js?v=1744154131"></script>
+<script src="https://btloader.com/tag?o=5110059113906176&upapi=true" async></script> <script src="https://hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" data-site-id="65a1835ac178db4aeb9540ce" data-mode="scan" async></script>
+<script>
+  var clientDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches;
+  let darkMode = false
+
+  if (clientDarkMode) {
+    if (!$('html').hasClass("appearance-light")) { // SystemSetting = Dark && MAL UserSettings != Light
+      darkMode = true
+    }
+  } else if ($('html').hasClass("appearance-dark")) { // MAL UserSettings = Dark
+    darkMode = true
+  }
+
+    if (darkMode) {
+    $('html').addClass("dark-mode");
+  }
+    $(document).ready(function() {
+    if (darkMode) {
+      if($('.js-color-pc-constant').length){$('.js-color-pc-constant').addClass("color-pc-constant");}
+    }
+  });
+</script>
+  </head>
+
+          <body class="page-common ysrtm-2025 js-color-pc-constant news featured" data-ms="false" data-country-code="PK" data-time="1744154131">
+  
+      <div id="myanimelist">
+  
+    <script type='text/javascript'>
+    window.MAL.SkinAd.prepareForSkin('');
+  </script>
+
+    <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
+    <div id="ad-skin-left" class="ad-skin-side left" style="display: none;">
+      <div id="ad-skin-left-absolute-block">
+        <div id="ad-skin-left-fixed-block"></div>
+      </div>
+    </div>
+  </div><div class="wrapper ysrtm-2025 js-color-pc-constant">
+        <div id="headerSmall" class="ysrtm-2025 js-color-pc-constant">
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><div class="banner-header-anime-straming header-mini-banner" style="right:480px;">
+  <a href="https://mxj.myanimelist.net/" onclick="trackOutboundLink('https://mxj.myanimelist.net/')">
+  <img src="/c/img/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png" width="250" height="36" alt="MAL x JAPAN" title="MAL x JAPAN">
+</a>
+
+</div>
+
+
+<div id="header-menu" ><div class="header-menu-login"><a class="btn-mal-service ga-click ga-impression" data-ga-click-type="hide-ads" data-ga-impression-type="hide-ads"
+             href="https://myanimelist.net/membership?_location=mal_h_u" onClick="ga_mal_banner()">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php?from=%2Fnews%3Fp%3D1" id="malLogin" onClick="ga_notlogin()">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php?from=%2Fnews%3Fp%3D1" onClick="ga_registration()">Sign Up</a></div></div><a href="/" class="link-mal-logo">MyAnimeList.net</a></div>
+                
+          <div id="menu" class="ysrtm-2025 js-color-pc-constant">
+    <div id="menu_right"><script type="text/x-template" id="incremental-result-item-anime"><div class="list anime" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info anime"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Aired: ${ item.payload.aired }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info anime"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-manga"><div class="list manga" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info manga"><div class="name">${ item.name } <span class="media-type">(${ item.payload.media_type })</span></div><div class="extra-info">Published: ${ item.payload.published }<br>Score: ${ item.payload.score }<br>Status: ${ item.payload.status }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info manga"><div class="name">${ item.name }</div><div class="media-type">(${ mediaTypeWithStartYear })</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-character"><div class="list character" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div><div class="extra-info"><ul class="related-works"><li v-for="work in item.payload.related_works" class="fs-i">- ${ work }</li></ul>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info character"><div class="name"  v-html="item.name"></div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-person"><div class="list person" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.alternative_name">${ item.payload.alternative_name }<br></span>Birthday: ${ item.payload.birthday }<br>Favorites: ${ item.payload.favorites }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info person"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-company"><div class="list company" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info company"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.japanese">(${ item.payload.japanese })<br></span>
+                        Anime titles: ${ item.payload.num_animes.toLocaleString() }<br>
+                        Favorites: ${item.payload.favorites.toLocaleString()}
+                    </div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info company"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-store"><div class="list store" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info store"></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info store"></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-club"><div class="list club" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div><div class="extra-info">Members: ${ item.payload.members }<br>Category: ${ item.payload.category }<br>Created by: ${ item.payload.created_by }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info club"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-user"><div class="list user" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div><div class="extra-info"><span v-if="item.payload.authority">${ item.payload.authority }<br></span>Joined: ${ item.payload.joined }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info user"><div class="name">${ item.name }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-news"><div class="list news" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info news"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-featured"><div class="list featured" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="extra-info">${ item.payload.date }</div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info featured"><div class="name">${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-forum"><div class="list forum" :class="{'focus': focus}"><a :href="url" class="clearfix"><div class="on" v-if="focus"><span class="image" :style="{'background-image': 'url(' + item.image_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa-solid fa-caret-right"></i></span> ${ item.name }</div><div class="extra-info">${ item.payload.date }<br><span>in ${ item.payload.category }</span></div></div></div><div class="off" v-if="!focus"><span class="image" :style="{'background-image': 'url(' + item.thumbnail_url + ')'}"></span><div class="info forum"><div class="name"><span v-show="item.payload.work_title">${ item.payload.work_title}
+                      <i class="fa-solid fa-caret-right"></i></span> ${ item.name }</div><div class="media-type">${ item.payload.date }</div></div></div></a></div></script><script type="text/x-template" id="incremental-result-item-separator"><div class="list separator"><div class="separator"><span v-show="item.name == 'anime'">Anime</span><span v-show="item.name == 'manga'">Manga</span><span v-show="item.name == 'character'">Characters</span><span v-show="item.name == 'person'">People</span><span v-show="item.name == 'company'">Companies</span></div></div></script><div id="top-search-bar" class="js-color-pc-constant"><form id="searchBar" method="get" class="searchBar" @submit.prevent="jump()"><div class="form-select-outer fl-l"><select name="type" id="topSearchValue" class="inputtext" v-model="type"><option value="all">All</option><option value="anime">Anime</option><option value="manga">Manga</option><option value="character">Characters</option><option value="person">People</option><option value="company">Companies</option><option value="store">Manga Store</option><option value="news">News</option><option value="featured">Featured Articles</option><option value="forum">Forum</option><option value="club">Clubs</option><option value="user">Users</option></select></div><input v-model="keyword" id="topSearchText" type="search"
+            name="topkeyword" class="inputtext fl-l" placeholder="Search Anime, Manga, and more..."
+            size="30" autocomplete="off"
+            @keydown.up.prevent="moveSelection(-1)" @keydown.down.prevent="moveSelection(1)"
+            @focus="isFocused = true" @blur="isFocused = false"><button id="topSearchButon" class="fl-l" :class="{'notActive': (keyword.length < 3)}" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button></form><div id="topSearchResultList" class="incrementalSearchResultList" :style="{display: (showResult ? 'block' : 'none')}" @mousedown.prevent=""><div v-for="(item, i) in items" @mouseover="selection=i"><component :is="resolveComponent(item)" :item="item" :focus="selection == i" :url="generateItemPageUrl(item)"></component></div><div class="list list-bottom" :class="{'focus': selection == -1}" @mouseover="selection = -1"
+               :style="{display: (showViewAllLink ? 'block' : 'none')}"><a :href="resultPageUrl">
+              View all results for <span class="fw-b">${ keyword }</span><i v-show="isRequesting" class="fa-solid fa-spinner fa-spin ml4"></i></a></div></div></div></div><div id="menu_left">
+      <ul id="nav" class="js-color-pc-constant">
+        <li class="small"><a href="#" class="non-link">Anime</a><ul class="x2-wider">
+            <li><a href="https://myanimelist.net/anime.php?_location=mal_h_m">Anime Search</a></li>
+            <li><a href="https://myanimelist.net/topanime.php?_location=mal_h_m">Top Anime</a></li>
+            <li><a href="https://myanimelist.net/anime/season?_location=mal_h_m">Seasonal Anime</a></li>
+                        <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=2196122&amp;_location=mal_h_m">2025 Challenge</a></li><li><a href="https://fal.myanimelist.net/?utm_source=MAL&amp;utm_medium=headermenu&amp;utm_campaign=fal&amp;utm_content=falhome&amp;_location=mal_h_m" class="menu-fal-spring-icon">Fantasy Anime League</a></li></ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Manga</a>
+          <ul class="x-wider">
+            <li><a href="https://myanimelist.net/manga.php?_location=mal_h_m">Manga Search</a></li>
+            <li><a href="https://myanimelist.net/topmanga.php?_location=mal_h_m">Top Manga</a></li>
+            <li><a href="https://myanimelist.net/manga/adapted?_location=mal_h_m" class="menu-new">Adapted to Anime</a></li>
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+            <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
+            <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=2205133&amp;_location=mal_h_m">2025 Challenge</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="non-link">Community</a>
+          <ul>
+            <li><a href="https://myanimelist.net/stacks?_location=mal_h_m">Interest Stacks</a></li>
+            <li><a href="https://myanimelist.net/forum/?_location=mal_h_m">Forums</a></li>
+            <li><a href="https://myanimelist.net/clubs.php?_location=mal_h_m">Clubs</a></li>
+            <li><a href="https://myanimelist.net/blog.php?_location=mal_h_m">Blogs</a></li>
+            <li><a href="https://myanimelist.net/users.php?_location=mal_h_m">Users</a></li>
+          </ul>
+        </li>
+        <li class="small2"><a href="#" class="non-link">Industry</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/news?_location=mal_h_m">News</a></li>
+            <li><a href="https://myanimelist.net/featured?_location=mal_h_m">Featured Articles</a></li>
+            <li><a href="https://myanimelist.net/people.php?_location=mal_h_m">People</a></li>
+            <li><a href="https://myanimelist.net/character.php?_location=mal_h_m">Characters</a></li>
+            <li><a href="https://myanimelist.net/company?_location=mal_h_m">Companies</a></li>
+            <li><a href="https://mxj.myanimelist.net/?_location=mal_h_m">MAL×Japan</a></li>
+          </ul>
+        </li>
+        <li class="small"><a href="#" class="non-link">Watch</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m">Episode Videos</a></li>
+            <li><a href="https://myanimelist.net/watch/promotion?_location=mal_h_m">Anime Trailers</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Read</a>
+          <ul class="wider">
+            <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
+          </ul>
+        </li>
+        <li class="smaller"><a href="#" class="non-link">Help</a>
+          <ul class="wide">
+            <li><a href="https://myanimelist.net/about.php?_location=mal_h_m">About</a></li>
+            <li><a href="https://myanimelist.net/about.php?go=support&amp;_location=mal_h_m">Support</a></li>
+            <li><a href="https://myanimelist.net/advertising?_location=mal_h_m">Advertising</a></li>
+            <li><a href="https://myanimelist.net/forum/?topicid=515949&amp;_location=mal_h_m">FAQ</a></li>
+            <li><a href="https://myanimelist.net/modules.php?go=report&amp;_location=mal_h_m">Report</a></li>
+            <li><a href="https://myanimelist.net/staff?_location=mal_h_m">Staff</a></li>
+            <li><a class="ga-click ga-impression" data-ga-click-type="supporter-lp-menu" data-ga-impression-type="supporter-lp-menu"
+              href="https://myanimelist.net/membership?_location=mal_h_m">MAL Supporter</a></li>
+          </ul>
+        </li>
+        
+            <li class="ysrtm-2025 js-color-pc-constant">          <a href="https://myanimelist.net/forum/?topicid=2208294&amp;_location=mal_h_m" class="pt0 ysrtm-2025 js-color-pc-constant">
+                      <img src="https://cdn.myanimelist.net/images/event/20240226_YSRTM_2024/badge.png?v=17139276"
+                 srcset="https://cdn.myanimelist.net/images/event/20240226_YSRTM_2024/badge.png?v=17139276 1x,
+                       https://cdn.myanimelist.net/images/event/20240226_YSRTM_2024/badge.png?v=17139276 2x"
+                 alt="YSRTM 2025"
+                 width="44"
+                 height="34">
+          </a>
+        </li>
+      
+      </ul>
+    </div>  </div>                            <style>
+      .dark-mode  .text-ribbon div {
+  background-color: #f6f6f6!important;
+  color: #1c439b!important;
+}
+.dark-mode  .text-ribbon a {
+  background-color: #f6f6f6!important;
+  color: #1c439b!important;
+}
+    </style>
+    <div class="text-ribbon text-ribbon-48 ga-click ga-impression " data-id="48" style="display:none; max-height:0; transition: all 300ms 0s ease;" data-ga-click-type="text_ribbon" data-ga-click-param="id:48" data-ga-impression-type="text_ribbon" data-ga-impression-param="id:48">
+      <div class="ac fs12 pt8 pr8 pb8 pl8" style="background-color:#f6f6f6;color:#1c439b;">
+        <a href="#" class="js-close-button di-b fl-r" style="color:#1c439b; margin-top:1px;">
+          <i class="fa-solid fa-xmark ga-click" data-ga-click-type="text_ribbon_close" data-ga-click-param="id:48"></i>
+        </a>
+                  <a href="https://myanimelist.net/forum/?topicid=2208294" class="di-b pr12 pl12" style="color:#1c439b;" data-ga-click-type="text_ribbon" data-ga-click-param="id:48" >
+            <b><i class="fa-solid fa-books"></i> Your guide to 2025's Must-Read Manga is here!</b>  Try one for an exclusive badge ( •̀ᴗ•́ ) ♡ 
+          </a>
+              </div>
+    </div>
+  
+                          <div id="contentWrapper" >
+          <div>
+            <a href="https://myanimelist.net/panel.php?go=news" class="header-right"><i class="fa-solid fa-square-plus mr4"></i>Submit news</a>
+    <h1 class="h1">Anime & Manga News</h1>          </div>
+          <div id="content" class="news-content-block">
+
+    <div class="content-left">
+    <div class="js-scrollfix-bottom-rel">
+
+      <div class="news-breadcrumbs" style="border-bottom:#BEBEBE 0px solid;">
+        
+
+
+              <div class="breadcrumb " itemscope itemtype="http://schema.org/BreadcrumbList"><div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/" itemprop="item"><span itemprop="name">
+              Top
+                          </span></a><meta itemprop="position" content="1"></div>&nbsp; &gt; &nbsp;<div class="di-ib" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://myanimelist.net/news" itemprop="item"><span itemprop="name">
+              News
+                          </span></a><meta itemprop="position" content="2"></div></div>
+
+
+      </div>
+
+      <ul class="menu-category di-b mt8"><li class="fl-r"><a href="https://myanimelist.net/news/tag" class="btn-edit-tags">All Tags</a></li><li id="all" class="btn-category" data-color="#2E51A2"><svg class="icon-category-svg"><circle cx=3 cy=3 r=3 fill='#2E51A2'></svg>All</li><li id="cat1" class="btn-category" data-color="#be3a47"><svg class="icon-category-svg"><circle cx=3 cy=3 r=3 fill='#be3a47'></svg>Anime</li><li id="cat2" class="btn-category" data-color="#eeb438"><svg class="icon-category-svg"><circle cx=3 cy=3 r=3 fill='#eeb438'></svg>Manga</li><li id="cat3" class="btn-category" data-color="#3cbb32"><svg class="icon-category-svg"><circle cx=3 cy=3 r=3 fill='#3cbb32'></svg>People</li><li id="cat4" class="btn-category" data-color="#3e5ea6"><svg class="icon-category-svg"><circle cx=3 cy=3 r=3 fill='#3e5ea6'></svg>Music</li><li id="cat5" class="btn-category" data-color="#bf3f93"><svg class="icon-category-svg"><circle cx=3 cy=3 r=3 fill='#bf3f93'></svg>Events</li><li id="cat6" class="btn-category" data-color="#B0B0B0"><svg class="icon-category-svg"><circle cx=3 cy=3 r=3 fill='#B0B0B0'></svg>Industry</li></ul>
+      <div class="news-list mt16 mr8">
+
+                  
+<div class="news-unit clearfix rect" data-tag="cat2 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72590516" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1744151968-b76d21ecfe8b663a399f54a684f41e37.png?s=e3d8fd7416ebf775f8680dea57bd06d8" alt="Manga &#039;Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi&#039; Gets TV Anime" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1744151968-b76d21ecfe8b663a399f54a684f41e37.png?s=e3d8fd7416ebf775f8680dea57bd06d8 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1744151968-b76d21ecfe8b663a399f54a684f41e37.png?s=ac0864e69f3a51e5755c4505aea05b05 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72590516">Manga &#039;Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi&#039; Gets TV Anime</a>
+    </p>
+    <div class="text">
+       An official website opened for a television anime adaptation of Takuma Yokota&#039;s Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi (The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length) manga on Tuesday, revealing the main staf...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        35 minutes ago by <a href="https://myanimelist.net/profile/DatRandomDude">DatRandomDude</a> <a href="https://myanimelist.net/forum/?topicid=2209584" class="comment fw-b">0 Comment</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/adapts_manga" class="tag tag-color2">Adapts Manga</a><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat2 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72587413" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1744086964-28efe8310da6d2b3fce4824cb9ee6758.jpeg?s=2da8f66af8c9cd71fce868f6913d535b" alt="Novel &#039;Kusunoki no Bannin&#039; Receives Anime Movie in 2026" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1744086964-28efe8310da6d2b3fce4824cb9ee6758.jpeg?s=2da8f66af8c9cd71fce868f6913d535b 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1744086964-28efe8310da6d2b3fce4824cb9ee6758.jpeg?s=68b96f3df5732b6ec22245ba67e19c75 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72587413">Novel &#039;Kusunoki no Bannin&#039; Receives Anime Movie in 2026</a>
+    </p>
+    <div class="text">
+       Production company Aniplex opened an official website for an anime movie adaptation of Keigo Higashino&#039;s Kusunoki no Bannin (The Keeper of the Camphor Tree) on Tuesday, revealing a &quot;super&quot; teaser visual (pictured above). The movie is scheduled for a 2026 opening. Tomohiko Itou,...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Yesterday, 9:36 PM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2209476" class="comment fw-b">3 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/adapts_novel" class="tag tag-color2">Adapts Novel</a><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat1 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72587242" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1744081317-e5f8ce82bd1da801b50e818918676211.jpeg?s=91dd45b586fe653f3b03eb9b346a1357" alt="Pair of Additional Cast for &#039;City The Animation&#039; Announced" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1744081317-e5f8ce82bd1da801b50e818918676211.jpeg?s=91dd45b586fe653f3b03eb9b346a1357 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1744081317-e5f8ce82bd1da801b50e818918676211.jpeg?s=d518ca51c66211c6ae94e6e2b7afee7e 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72587242">Pair of Additional Cast for &#039;City The Animation&#039; Announced</a>
+    </p>
+    <div class="text">
+      The official website for the television anime adaptation of Keiichi Arawi&#039;s City manga revealed additional pair of cast on Monday. The anime is scheduled to premiere on July 7 at 12:00 a.m. on Tokyo MX, followed by ABC TV, TV Aichi, and BS11. Voice actors Kazutomi Yamamoto (Binan...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Yesterday, 8:02 PM by <a href="https://myanimelist.net/profile/DatRandomDude">DatRandomDude</a> <a href="https://myanimelist.net/forum/?topicid=2209475" class="comment fw-b">1 Comment</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/more_info" class="tag tag-color1">More Info</a><a href="https://myanimelist.net/news/tag/summer_2025" class="tag tag-color1">Summer 2025</a></p>
+    </div>
+  </div>
+</div>
+                      <div class="news-unit" data-tag="cat1 cat2 cat3 cat4 cat5 cat6" style="display: none;">
+              <div class="sUaidzctQfngSNMH-pdatla">
+      <div id="D_728x90_1" class="ad-sas mauto ac" data-ad-target="%7B%22country%22%3A%5B%22PK%22%5D%7D" data-ad-id="99451" data-ad-pid="1362554" data-ad-sid="394613"></div>
+
+    </div>            </div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat2 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72580173" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743957398-148249c1be9dc5f95e2f1343f76a79aa.jpeg?s=78be3a1497b505f0d939b8d8bb00e08b" alt="&#039;Make Heroine ga Oosugiru!&#039; Gets Second Season" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743957398-148249c1be9dc5f95e2f1343f76a79aa.jpeg?s=78be3a1497b505f0d939b8d8bb00e08b 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743957398-148249c1be9dc5f95e2f1343f76a79aa.jpeg?s=62a263fcf68a0bb47b73646ffc0687b0 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72580173">&#039;Make Heroine ga Oosugiru!&#039; Gets Second Season</a>
+    </p>
+    <div class="text">
+       The Make Heroine ga Oosugiru! (Makeine: Too Many Losing Heroines!) Tsuwabuki Koukou Bungei-bu Kagai Katsudou event announced a second season for the anime series on Sunday. Produced by A-1 Pictures, the first season aired for 12 episodes in Summer 2024. Crunchyroll simulcasted t...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Apr 6, 8:08 AM by <a href="https://myanimelist.net/profile/DatRandomDude">DatRandomDude</a> <a href="https://myanimelist.net/forum/?topicid=2209235" class="comment fw-b">21 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/light_novels" class="tag tag-color2">Light Novels</a><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat4 cat1 cat1 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72578337" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743913796-70dd1126c82aab44b6471a1511d73ce1.jpeg?s=a688701d8053d9e25d47efa5661a8e18" alt="&#039;Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu&#039; Reveals Additional Staff, Theme Songs, Second Promo" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743913796-70dd1126c82aab44b6471a1511d73ce1.jpeg?s=a688701d8053d9e25d47efa5661a8e18 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743913796-70dd1126c82aab44b6471a1511d73ce1.jpeg?s=5fc28d59c1e354f58da414f033ac635f 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72578337">&#039;Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu&#039; Reveals Additional Staff, Theme Songs, Second Promo</a>
+    </p>
+    <div class="text">
+      The official website of the Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu (I&#039;m the White Pig Nobleman, but With the Memories of My Previous Life, I&#039;ll Raise My Little Brother) television anime revealed additional staff, theme songs, and a secon...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Apr 5, 9:32 PM by <a href="https://myanimelist.net/profile/DatRandomDude">DatRandomDude</a> <a href="https://myanimelist.net/forum/?topicid=2209156" class="comment fw-b">0 Comment</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/op_ed" class="tag tag-color4">OP ED</a><a href="https://myanimelist.net/news/tag/preview" class="tag tag-color1">Preview</a><a href="https://myanimelist.net/news/tag/more_info" class="tag tag-color1">More Info</a><a href="https://myanimelist.net/news/tag/summer_2025" class="tag tag-color1">Summer 2025</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat4 cat1 cat1 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72578066" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743908473-8c50ac54479d806b8833107ddb2a0ce7.jpeg?s=e7dee0efe8610ad914abd8cd65fcb142" alt="&#039;Kakkou no Iinazuke Season 2&#039; Unveils New Staff and Cast for Summer 2025" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743908473-8c50ac54479d806b8833107ddb2a0ce7.jpeg?s=e7dee0efe8610ad914abd8cd65fcb142 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743908473-8c50ac54479d806b8833107ddb2a0ce7.jpeg?s=2261e2fb5eaeede8ef70c3ef59c6248a 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72578066">&#039;Kakkou no Iinazuke Season 2&#039; Unveils New Staff and Cast for Summer 2025</a>
+    </p>
+    <div class="text">
+      The official website of the Kakkou no Iinazuke (A Couple of Cuckoos) anime series unveiled new staff, cast, a teaser visual (pictured), teaser promo, and ending theme for the second season on Sunday. The second anime season adapting Miki Yoshikawa&#039;s romantic comedy manga will air...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Apr 5, 8:01 PM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2209146" class="comment fw-b">4 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/op_ed" class="tag tag-color4">OP ED</a><a href="https://myanimelist.net/news/tag/preview" class="tag tag-color1">Preview</a><a href="https://myanimelist.net/news/tag/more_info" class="tag tag-color1">More Info</a><a href="https://myanimelist.net/news/tag/summer_2025" class="tag tag-color1">Summer 2025</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat1 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72569201" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743728668-4ea2761e6bdbe48ad91f5874336f4e1c.jpeg?s=56b6ebf48acc50a782a0eb1731dbece0" alt="&#039;Tooi-san wa Seishun Shitai!&#039; Movie Reveals Main Staff, Teaser Trailer" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743728668-4ea2761e6bdbe48ad91f5874336f4e1c.jpeg?s=56b6ebf48acc50a782a0eb1731dbece0 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743728668-4ea2761e6bdbe48ad91f5874336f4e1c.jpeg?s=df3eb921bbb962de4bd5f41a959411d2 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72569201">&#039;Tooi-san wa Seishun Shitai!&#039; Movie Reveals Main Staff, Teaser Trailer</a>
+    </p>
+    <div class="text">
+       An official website for the anime movie adaptation of Strawberry Prince member Jel&#039;s Tooi-san video series opened on Thursday, revealing the main staff and a teaser trailer. The movie, titled Tooi-san wa Seishun Shitai! Baka to Smartphone to Romance to, will open in theaters in...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Apr 3, 6:12 PM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2208847" class="comment fw-b">0 Comment</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/preview" class="tag tag-color1">Preview</a><a href="https://myanimelist.net/news/tag/more_info" class="tag tag-color1">More Info</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat1 " style="display: none;"><a href="https://myanimelist.net/news/72568813" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743720683-69060ac72dda8bb86ad4346e9675f91a.jpeg?s=1d40a45cd6cc6ef796e5ad3a8de98d0d" alt="Additional Cast for &#039;Bullet/Bullet&#039; Announced" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743720683-69060ac72dda8bb86ad4346e9675f91a.jpeg?s=1d40a45cd6cc6ef796e5ad3a8de98d0d 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743720683-69060ac72dda8bb86ad4346e9675f91a.jpeg?s=d1c335d99e4127ea8a49cb87c5ad464d 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72568813">Additional Cast for &#039;Bullet/Bullet&#039; Announced</a>
+    </p>
+    <div class="text">
+       The official website for the Bullet/Bullet original anime revealed additional cast members on Thursday. The first eight episodes of the anime are scheduled to release worldwide on Disney+ on July 16, with the last four premiering on August 13. Cast Breakfast: Yoshihisa Kawahara...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Apr 3, 3:52 PM by <a href="https://myanimelist.net/profile/DatRandomDude">DatRandomDude</a> <a href="https://myanimelist.net/forum/?topicid=2208840" class="comment fw-b">3 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/more_info" class="tag tag-color1">More Info</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat2 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72565188" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743652410-63f23d0c4dd12640003310b721cc986f.jpeg?s=afa9391133e32154985c3f940cbe5c6d" alt="Manga &#039;Osananajimi to wa Love Comedy ni Naranai&#039; Gets TV Anime in 2026" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743652410-63f23d0c4dd12640003310b721cc986f.jpeg?s=afa9391133e32154985c3f940cbe5c6d 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743652410-63f23d0c4dd12640003310b721cc986f.jpeg?s=51eaaa9b30d4bf5c922b21d96a9ccc1f 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72565188">Manga &#039;Osananajimi to wa Love Comedy ni Naranai&#039; Gets TV Anime in 2026</a>
+    </p>
+    <div class="text">
+      Advertising company CyberAgent opened an official website for a television anime adaptation of Shinya Misu&#039;s Osananajimi to wa Love Comedy ni Naranai (No More Love With the Girls.) manga on Thursday, revealing a teaser visual (pictured). The anime series, produced by Tezuka Produ...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Apr 2, 9:09 PM by <a href="https://myanimelist.net/profile/DatRandomDude">DatRandomDude</a> <a href="https://myanimelist.net/forum/?topicid=2208723" class="comment fw-b">10 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/adapts_manga" class="tag tag-color2">Adapts Manga</a><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat4 cat3 " style="display: none;"><a href="https://myanimelist.net/news/72560010" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743568089-cb310f88032069ed60d7e8c0cb6bad91.jpeg?s=932ff6f1c9d421588f011f9c5aa0ff38" alt="Singer-Songwriter milet Announces Hiatus" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743568089-cb310f88032069ed60d7e8c0cb6bad91.jpeg?s=932ff6f1c9d421588f011f9c5aa0ff38 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743568089-cb310f88032069ed60d7e8c0cb6bad91.jpeg?s=7bc27c5775f55435554e7699d8ff49bd 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72560010">Singer-Songwriter milet Announces Hiatus</a>
+    </p>
+    <div class="text">
+      Singer-songwriter milet has announced a temporary hiatus from her activities, citing the need to focus on her health and well-being. The announcement was made on Tuesday through her official website. milet expressed in her statement that she has been continuously working since he...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Apr 1, 9:28 PM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2208603" class="comment fw-b">8 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/musician" class="tag tag-color4">Musician</a><a href="https://myanimelist.net/news/tag/life_event" class="tag tag-color3">Life Event</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat3 cat3 " style="display: none;"><a href="https://myanimelist.net/news/72559215" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743554240-cffe708270c11ebccabf60d44f0b4f9c.jpeg?s=c46f6427a93213ad030ed34e64307af1" alt="Voice Actress Fairouz Ai Resumes Activities, Transfers to New Agency" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743554240-cffe708270c11ebccabf60d44f0b4f9c.jpeg?s=c46f6427a93213ad030ed34e64307af1 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743554240-cffe708270c11ebccabf60d44f0b4f9c.jpeg?s=dfcb2463e879fb871e44536b88f5f351 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72559215">Voice Actress Fairouz Ai Resumes Activities, Transfers to New Agency</a>
+    </p>
+    <div class="text">
+      Voice actress Fairouz Ai has announced her return to work after a hiatus due to health concerns. On Tuesday, she revealed that she has transferred to Mausu Promotion following her departure from Raccoon Dog on March 31. The voice actress had been limiting her activities since Dec...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Apr 1, 5:38 PM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2208584" class="comment fw-b">17 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/seiyuu" class="tag tag-color3">Seiyuu</a><a href="https://myanimelist.net/news/tag/life_event" class="tag tag-color3">Life Event</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat6 " style="display: none;"><a href="https://myanimelist.net/news/72553108" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743380286-3c48f76cedfbeb0f125b4a55bc662db4.jpeg?s=2fae384d166c39d63cdbe20b3178687b" alt="North American Anime &amp; Manga Releases for April" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743380286-3c48f76cedfbeb0f125b4a55bc662db4.jpeg?s=2fae384d166c39d63cdbe20b3178687b 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743380286-3c48f76cedfbeb0f125b4a55bc662db4.jpeg?s=159b3d7153185df0c5b2b731876c9703 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72553108">North American Anime &amp; Manga Releases for April</a>
+    </p>
+    <div class="text">
+      Here are the North American anime, manga, and light novel releases for April. Week 1: April 1 - 7 Anime Releases Boku no Hero Academia the Movie 4: You&#039;re Next (My Hero Academia: You&#039;re Next) Blu-ray Boushoku no Berserk (Berserk of Gluttony) Complete Season Blu-ray Summer Wars Bl...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Mar 31, 10:16 AM by <a href="https://myanimelist.net/profile/Aiimee">Aiimee</a> <a href="https://myanimelist.net/forum/?topicid=2208365" class="comment fw-b">0 Comment</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/licenses" class="tag tag-color6">Licenses</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat2 cat1 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72548012" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743341962-ba701e021344d2d25b008b3bd670ee10.jpeg?s=99590e385700aa162ddc95089e8d6fbd" alt="&#039;Jibaku Shounen Hanako-kun 2&#039; Sequel Announced for Summer 2025" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743341962-ba701e021344d2d25b008b3bd670ee10.jpeg?s=99590e385700aa162ddc95089e8d6fbd 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743341962-ba701e021344d2d25b008b3bd670ee10.jpeg?s=2caec3108ec2bda8270774f79d5288c4 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72548012">&#039;Jibaku Shounen Hanako-kun 2&#039; Sequel Announced for Summer 2025</a>
+    </p>
+    <div class="text">
+      The 12th and final episode of Jibaku Shounen Hanako-kun 2 (Toilet-Bound Hanako-kun Season 2) announced a sequel following its broadcast on Sunday, scheduled to air on 28 TBS affiliate stations on Sundays at 4:30 p.m. beginning in July 2025. Iro Aida, the original creator, drew a...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Mar 30, 6:39 AM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2208192" class="comment fw-b">5 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/adapts_manga" class="tag tag-color2">Adapts Manga</a><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a><a href="https://myanimelist.net/news/tag/summer_2025" class="tag tag-color1">Summer 2025</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat2 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72547711" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743334957-16b5189e046c6f86185a83409ff701a3.jpeg?s=a64b26a496b942f4756281316fbf9040" alt="&#039;Shangri-La Frontier&#039; 3rd Season in Production" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743334957-16b5189e046c6f86185a83409ff701a3.jpeg?s=a64b26a496b942f4756281316fbf9040 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743334957-16b5189e046c6f86185a83409ff701a3.jpeg?s=5c1ba00f9168fa6c8479343a39680f61 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72547711">&#039;Shangri-La Frontier&#039; 3rd Season in Production</a>
+    </p>
+    <div class="text">
+      The 25th and final episode of second season of Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su ended with a third anime season announcement on Sunday. The official website also revealed a commemorative visual (pictured). Produced by animation studio C2C, the second sea...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Mar 30, 4:43 AM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2208179" class="comment fw-b">13 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/adapts_manga" class="tag tag-color2">Adapts Manga</a><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat2 cat1 cat1 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72544403" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743271236-579442dabf8ba14b50c2163276d1a37f.jpeg?s=499ff780dfb72eedaf47f1618a0fb1d8" alt="Second Season of &#039;Ao no Miburo&#039; Announced for Winter 2026" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743271236-579442dabf8ba14b50c2163276d1a37f.jpeg?s=499ff780dfb72eedaf47f1618a0fb1d8 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743271236-579442dabf8ba14b50c2163276d1a37f.jpeg?s=6cd095a6e1b4ecfb4e2aa6db7ef01042 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72544403">Second Season of &#039;Ao no Miburo&#039; Announced for Winter 2026</a>
+    </p>
+    <div class="text">
+      The 24th and final episode of the Ao no Miburo (Blue Miburo) television anime announced a second season on Saturday. The new season, adapting the Serizawa Ansatsu-hen (Serizawa Assassination arc), is scheduled to premiere in Winter 2026. Produced by Maho Film, the first season be...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Mar 29, 11:09 AM by <a href="https://myanimelist.net/profile/DatRandomDude">DatRandomDude</a> <a href="https://myanimelist.net/forum/?topicid=2208053" class="comment fw-b">3 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/adapts_manga" class="tag tag-color2">Adapts Manga</a><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a><a href="https://myanimelist.net/news/tag/preview" class="tag tag-color1">Preview</a><a href="https://myanimelist.net/news/tag/winter_2026" class="tag tag-color1">Winter 2026</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat2 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72544360" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743271231-40615f5e8b459638a67a099c3566c74d.jpeg?s=80e1eac6f91284766302c664cb451e38" alt="&#039;Medalist&#039; TV Anime Receives Second Season" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743271231-40615f5e8b459638a67a099c3566c74d.jpeg?s=80e1eac6f91284766302c664cb451e38 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743271231-40615f5e8b459638a67a099c3566c74d.jpeg?s=77c709e0cbc4e3e1e93453970a80d8dc 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72544360">&#039;Medalist&#039; TV Anime Receives Second Season</a>
+    </p>
+    <div class="text">
+      The 13th and final episode of Medalist ended with a second season announcement on Sunday. The official website also revealed an announcement promo and commemorative visual (pictured). Produced by animation studio ENGI, the television anime adapting Tsurumaikada&#039;s figure skating m...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Mar 29, 11:01 AM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2208050" class="comment fw-b">15 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/adapts_manga" class="tag tag-color2">Adapts Manga</a><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat4 cat1 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72542394" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743226510-902f31eac4f1dd7cd2fc2a0d919abe6c.jpeg?s=4cf859897dc549e260253da16f8bedbf" alt="&#039;Kijin Gentoushou&#039; Announces Additional Cast Pair" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743226510-902f31eac4f1dd7cd2fc2a0d919abe6c.jpeg?s=4cf859897dc549e260253da16f8bedbf 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743226510-902f31eac4f1dd7cd2fc2a0d919abe6c.jpeg?s=58b176ecf3734bf6f734802cd0600e6d 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72542394">&#039;Kijin Gentoushou&#039; Announces Additional Cast Pair</a>
+    </p>
+    <div class="text">
+      The official website of the Kijin Gentoushou (Sword of the Demon Hunter: Kijin Gentoushou) television anime revealed a pair of additional cast on Friday. The anime series, which was previously scheduled for Summer 2024, will air in two consecutive cours, debuting with a one-hour...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Mar 28, 10:35 PM by <a href="https://myanimelist.net/profile/DatRandomDude">DatRandomDude</a> <a href="https://myanimelist.net/forum/?topicid=2207958" class="comment fw-b">0 Comment</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/op_ed" class="tag tag-color4">OP ED</a><a href="https://myanimelist.net/news/tag/more_info" class="tag tag-color1">More Info</a><a href="https://myanimelist.net/news/tag/spring_2025" class="tag tag-color1">Spring 2025</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat1 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72541306" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743201708-b11c7bb75624c9509eca680e90e03aa5.jpeg?s=3d950f77c3e207ad6e60474abd97f5b2" alt="&#039;Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu&#039; Announces Supporting Cast" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743201708-b11c7bb75624c9509eca680e90e03aa5.jpeg?s=3d950f77c3e207ad6e60474abd97f5b2 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743201708-b11c7bb75624c9509eca680e90e03aa5.jpeg?s=dbf2efd8621830ca2e758d9bfb9963ae 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72541306">&#039;Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu&#039; Announces Supporting Cast</a>
+    </p>
+    <div class="text">
+      The official website for the Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu (I&#039;m the White Pig Nobleman, but With the Memories of My Previous Life, I&#039;ll Raise My Little Brother) television anime on Friday and announced additional cast members. T...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Mar 28, 3:42 PM by <a href="https://myanimelist.net/profile/DatRandomDude">DatRandomDude</a> <a href="https://myanimelist.net/forum/?topicid=2207921" class="comment fw-b">1 Comment</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/more_info" class="tag tag-color1">More Info</a><a href="https://myanimelist.net/news/tag/summer_2025" class="tag tag-color1">Summer 2025</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat1 " style="display: none;"><a href="https://myanimelist.net/news/72538588" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743138341-4961b3765bee9b3be113e7df0de64e77.jpeg?s=aa724149f150e4ab4707de282de2c9a3" alt="&#039;BanG Dream! It&#039;s MyGO!!!!!&#039; &amp; &#039;Ave Mujica&#039; Anime Sequel Announced" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743138341-4961b3765bee9b3be113e7df0de64e77.jpeg?s=aa724149f150e4ab4707de282de2c9a3 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743138341-4961b3765bee9b3be113e7df0de64e77.jpeg?s=18d633eff576c5598d25c40b4b485612 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72538588">&#039;BanG Dream! It&#039;s MyGO!!!!!&#039; &amp; &#039;Ave Mujica&#039; Anime Sequel Announced</a>
+    </p>
+    <div class="text">
+       Following the broadcast of the 13th and final episode of BanG Dream! Ave Mujica (Ave Mujica: The Die is Cast) on Thursday, a sequel to both the anime and it&#039;s prequel BanG Dream! It&#039;s MyGO!!!!! was announced. The official website also revealed an announcement promo. The anime se...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Mar 27, 10:06 PM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2207841" class="comment fw-b">7 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a></p>
+    </div>
+  </div>
+</div>
+                            
+<div class="news-unit clearfix rect" data-tag="cat2 cat1 cat1 " style="display: none;"><a href="https://myanimelist.net/news/72538007" class="image-link">
+      <img src="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743126614-bdb952ef8d4f28f8abf1fa1a75ed8621.jpeg?s=5fff60000eb12683d857918f14baebe6" alt="&#039;Douse, Koishite Shimaunda.&#039; Season 2 in Production" class="image lazyload" srcset="https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1743126614-bdb952ef8d4f28f8abf1fa1a75ed8621.jpeg?s=5fff60000eb12683d857918f14baebe6 1x, https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1743126614-bdb952ef8d4f28f8abf1fa1a75ed8621.jpeg?s=97173452205a5e3e9dfb5cee069cc88c 2x" />
+    </a><div class="news-unit-right">
+    <p class="title">
+      <a href="https://myanimelist.net/news/72538007">&#039;Douse, Koishite Shimaunda.&#039; Season 2 in Production</a>
+    </p>
+    <div class="text">
+      The 12th and final episode of Douse, Koishite Shimaunda. (Anyway, I&#039;m Falling in Love with You.) ended with an announcement on Friday that a second season is in production. Original creator Haruka Mitsui drew an illustration to commemorate the announcement (pictured). Produced by...
+    </div>
+    <div class="information">
+      <p class="info di-ib">
+        Mar 27, 6:50 PM by <a href="https://myanimelist.net/profile/Vindstot">Vindstot</a> <a href="https://myanimelist.net/forum/?topicid=2207820" class="comment fw-b">5 Comments</a>
+      </p>
+      <p class="di-ib tags"><a href="https://myanimelist.net/news/tag/adapts_manga" class="tag tag-color2">Adapts Manga</a><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a><a href="https://myanimelist.net/news/tag/preview" class="tag tag-color1">Preview</a></p>
+    </div>
+  </div>
+</div>
+                  
+      </div>
+      <div class="mt12 mb12"><!-- start pager -->
+  <div class="pagination ac"><a class="link current" href="https://myanimelist.net/news?p=1">1 - 20</a><a class="link" href="https://myanimelist.net/news?p=2">21 - 40</a><span class="skip">...</span><a class="link" href="https://myanimelist.net/news?p=20">381 - 400</a></div></div><!-- end pager --><div class="clearfix" style="padding:16px 3px 20px;">
+          <div class="fl-l db-ib">
+                      </div>
+          <div class="fl-r db-ib">
+                      </div>
+        </div></div>
+  </div>
+
+
+    <div class="content-right">
+    <div class="js-scrollfix-bottom" style="width: 300px">
+            <div class="featured-side-block pt8 mb12">
+  <p class="di-b fs14 fw-b pb4">Search News</p>
+
+  <form method="get" action="https://myanimelist.net/news/search" class="featured-search-side"><input type="hidden" name="cat" value="news"><input type="text" name="q" class="featured-search-input-text" size="38" value=""
+             placeholder="Search News..."><button type="submit" class="featured-search-input-submit notActive"><i class="fa-solid fa-magnifying-glass"></i></button></form>  
+      <div class="mt16 pb8">
+      <div class="sUaidzctQfngSNMH-pdatla">
+      <div id="D_300x250_Right_1" class="ad-sas mauto ac" data-ad-target="%7B%22country%22%3A%5B%22PK%22%5D%7D" data-ad-id="99452" data-ad-pid="1362554" data-ad-sid="394613"></div>
+
+    </div>    </div>
+  </div>
+
+            
+      <div class="mt8">
+                  
+<div class="news-side-block">
+  <p class="header"><a href="https://myanimelist.net/news/tag/new_anime" class="fl-r fw-n fs12">More</a>New Anime
+  </p>
+  <ul class="news-list">      <li class="news clearfix"><a href="https://myanimelist.net/news/72590516" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1744151968-b76d21ecfe8b663a399f54a684f41e37.png?s=fcab299b39e0dc8d63e94dafddca53ed" alt="Manga &#039;Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi&#039; Gets TV Anime" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1744151968-b76d21ecfe8b663a399f54a684f41e37.png?s=fcab299b39e0dc8d63e94dafddca53ed 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1744151968-b76d21ecfe8b663a399f54a684f41e37.png?s=8d638b58dc095dd0afcdda9e20025d04 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72590516" class="title">Manga &#039;Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi&#039; Gets TV Anime</a>
+          <p class="information di-b pt8">
+            35 minutes ago by <a href="https://myanimelist.net/profile/DatRandomDude" class="mr8">DatRandomDude</a><a href="https://myanimelist.net/forum/?topicid=2209584" class="comment fw-b">0 Comment</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72587413" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1744086964-28efe8310da6d2b3fce4824cb9ee6758.jpeg?s=7e70216c6d178e584412e896259400be" alt="Novel &#039;Kusunoki no Bannin&#039; Receives Anime Movie in 2026" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1744086964-28efe8310da6d2b3fce4824cb9ee6758.jpeg?s=7e70216c6d178e584412e896259400be 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1744086964-28efe8310da6d2b3fce4824cb9ee6758.jpeg?s=b3a879e1c22ea2b7cd6c6c39e3561383 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72587413" class="title">Novel &#039;Kusunoki no Bannin&#039; Receives Anime Movie in 2026</a>
+          <p class="information di-b pt8">
+            Yesterday, 9:36 PM by <a href="https://myanimelist.net/profile/Vindstot" class="mr8">Vindstot</a><a href="https://myanimelist.net/forum/?topicid=2209476" class="comment fw-b">3 Comments</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72580173" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743957398-148249c1be9dc5f95e2f1343f76a79aa.jpeg?s=2cfeafec614cbb4b5eaa6e053f13142c" alt="&#039;Make Heroine ga Oosugiru!&#039; Gets Second Season" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743957398-148249c1be9dc5f95e2f1343f76a79aa.jpeg?s=2cfeafec614cbb4b5eaa6e053f13142c 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1743957398-148249c1be9dc5f95e2f1343f76a79aa.jpeg?s=16d51ada4cd4b35e45d57f9cf8c5f9f1 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72580173" class="title">&#039;Make Heroine ga Oosugiru!&#039; Gets Second Season</a>
+          <p class="information di-b pt8">
+            Apr 6, 8:08 AM by <a href="https://myanimelist.net/profile/DatRandomDude" class="mr8">DatRandomDude</a><a href="https://myanimelist.net/forum/?topicid=2209235" class="comment fw-b">21 Comments</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72565188" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743652410-63f23d0c4dd12640003310b721cc986f.jpeg?s=11f25655a781dbe4c89b5145f757e1e5" alt="Manga &#039;Osananajimi to wa Love Comedy ni Naranai&#039; Gets TV Anime in 2026" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743652410-63f23d0c4dd12640003310b721cc986f.jpeg?s=11f25655a781dbe4c89b5145f757e1e5 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1743652410-63f23d0c4dd12640003310b721cc986f.jpeg?s=6f8de438b88545c141f2cd8e4ded7287 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72565188" class="title">Manga &#039;Osananajimi to wa Love Comedy ni Naranai&#039; Gets TV Anime in 2026</a>
+          <p class="information di-b pt8">
+            Apr 2, 9:09 PM by <a href="https://myanimelist.net/profile/DatRandomDude" class="mr8">DatRandomDude</a><a href="https://myanimelist.net/forum/?topicid=2208723" class="comment fw-b">10 Comments</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72548012" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743341962-ba701e021344d2d25b008b3bd670ee10.jpeg?s=3fb65685b5891ce86ad5eaddb1fe5eaa" alt="&#039;Jibaku Shounen Hanako-kun 2&#039; Sequel Announced for Summer 2025" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743341962-ba701e021344d2d25b008b3bd670ee10.jpeg?s=3fb65685b5891ce86ad5eaddb1fe5eaa 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1743341962-ba701e021344d2d25b008b3bd670ee10.jpeg?s=f68c5b3e421e9ec312bd085de990402b 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72548012" class="title">&#039;Jibaku Shounen Hanako-kun 2&#039; Sequel Announced for Summer 2025</a>
+          <p class="information di-b pt8">
+            Mar 30, 6:39 AM by <a href="https://myanimelist.net/profile/Vindstot" class="mr8">Vindstot</a><a href="https://myanimelist.net/forum/?topicid=2208192" class="comment fw-b">5 Comments</a>
+          </p>
+        </div>
+      </li></ul>
+</div>
+                  
+<div class="news-side-block">
+  <p class="header"><a href="https://myanimelist.net/news/tag/spring_2025" class="fl-r fw-n fs12">More</a>Spring 2025
+  </p>
+  <ul class="news-list">      <li class="news clearfix"><a href="https://myanimelist.net/news/72542394" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743226510-902f31eac4f1dd7cd2fc2a0d919abe6c.jpeg?s=a3dab6c4f8d4bef7d836896cb1bc5185" alt="&#039;Kijin Gentoushou&#039; Announces Additional Cast Pair" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743226510-902f31eac4f1dd7cd2fc2a0d919abe6c.jpeg?s=a3dab6c4f8d4bef7d836896cb1bc5185 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1743226510-902f31eac4f1dd7cd2fc2a0d919abe6c.jpeg?s=7e2f7ce4b8d1544f3e027f7819a5b228 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72542394" class="title">&#039;Kijin Gentoushou&#039; Announces Additional Cast Pair</a>
+          <p class="information di-b pt8">
+            Mar 28, 10:35 PM by <a href="https://myanimelist.net/profile/DatRandomDude" class="mr8">DatRandomDude</a><a href="https://myanimelist.net/forum/?topicid=2207958" class="comment fw-b">0 Comment</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72529529" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1742946481-fa64b72da34bb9fed6518b56c1ec0087.jpeg?s=ed1f33a9f7eb69d1ced3e1a218bcf035" alt="Spring 2025 Simulcast List [Update 4/7]" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1742946481-fa64b72da34bb9fed6518b56c1ec0087.jpeg?s=ed1f33a9f7eb69d1ced3e1a218bcf035 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1742946481-fa64b72da34bb9fed6518b56c1ec0087.jpeg?s=21f7c0831b31ae8ade6ab85877242792 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72529529" class="title">Spring 2025 Simulcast List [Update 4/7]</a>
+          <p class="information di-b pt8">
+            Mar 25, 4:48 PM by <a href="https://myanimelist.net/profile/Snow" class="mr8">Snow</a><a href="https://myanimelist.net/forum/?topicid=2207556" class="comment fw-b">13 Comments</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72529518" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1742946271-8e5b7b5e176b17a57174dd310cfedf3c.jpeg?s=f9cfc8ca5e1998f7fbc77a1b38e68b8a" alt="Q2 2025 Anime &amp; Manga Licenses" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1742946271-8e5b7b5e176b17a57174dd310cfedf3c.jpeg?s=f9cfc8ca5e1998f7fbc77a1b38e68b8a 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1742946271-8e5b7b5e176b17a57174dd310cfedf3c.jpeg?s=fd7e2b5ae23bbab792a6ea9dd9e88088 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72529518" class="title">Q2 2025 Anime &amp; Manga Licenses</a>
+          <p class="information di-b pt8">
+            Mar 25, 4:45 PM by <a href="https://myanimelist.net/profile/Snow" class="mr8">Snow</a><a href="https://myanimelist.net/forum/?topicid=2207554" class="comment fw-b">0 Comment</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72516199" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1742698753-12b6473569be333db3b7ee6e75d9919e.jpeg?s=1b1eb737ebfd116eff6a2e798821b18e" alt="&#039;Apocalypse Hotel&#039; Unveils Supporting Cast, Second Promo" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1742698753-12b6473569be333db3b7ee6e75d9919e.jpeg?s=1b1eb737ebfd116eff6a2e798821b18e 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1742698753-12b6473569be333db3b7ee6e75d9919e.jpeg?s=adb1229823c7d4e0a5fbef47b9f695bf 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72516199" class="title">&#039;Apocalypse Hotel&#039; Unveils Supporting Cast, Second Promo</a>
+          <p class="information di-b pt8">
+            Mar 22, 8:00 PM by <a href="https://myanimelist.net/profile/DatRandomDude" class="mr8">DatRandomDude</a><a href="https://myanimelist.net/forum/?topicid=2207096" class="comment fw-b">4 Comments</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72516153" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1742697505-254ff7adf2e85ed7c4683b50a48e7617.jpeg?s=e4bf667e0b7cab8053805b83b9513e40" alt="&#039;Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru&#039; Unveils Supporting Cast, Staff, First Promo" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1742697505-254ff7adf2e85ed7c4683b50a48e7617.jpeg?s=e4bf667e0b7cab8053805b83b9513e40 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1742697505-254ff7adf2e85ed7c4683b50a48e7617.jpeg?s=a92701d3c08153c63d9acc7e6131b8c0 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72516153" class="title">&#039;Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru&#039; Unveils Supporting Cast, Staff, First Promo</a>
+          <p class="information di-b pt8">
+            Mar 22, 7:40 PM by <a href="https://myanimelist.net/profile/Vindstot" class="mr8">Vindstot</a><a href="https://myanimelist.net/forum/?topicid=2207092" class="comment fw-b">2 Comments</a>
+          </p>
+        </div>
+      </li></ul>
+</div>
+                  
+<div class="news-side-block">
+  <p class="header"><a href="https://myanimelist.net/news/tag/summer_2025" class="fl-r fw-n fs12">More</a>Summer 2025
+  </p>
+  <ul class="news-list">      <li class="news clearfix"><a href="https://myanimelist.net/news/72587242" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1744081317-e5f8ce82bd1da801b50e818918676211.jpeg?s=2fa9cc591d1484a99024205d677eef41" alt="Pair of Additional Cast for &#039;City The Animation&#039; Announced" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1744081317-e5f8ce82bd1da801b50e818918676211.jpeg?s=2fa9cc591d1484a99024205d677eef41 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1744081317-e5f8ce82bd1da801b50e818918676211.jpeg?s=c2ee1ace6927337228c85d4b51f3f347 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72587242" class="title">Pair of Additional Cast for &#039;City The Animation&#039; Announced</a>
+          <p class="information di-b pt8">
+            Yesterday, 8:02 PM by <a href="https://myanimelist.net/profile/DatRandomDude" class="mr8">DatRandomDude</a><a href="https://myanimelist.net/forum/?topicid=2209475" class="comment fw-b">1 Comment</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72578337" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743913796-70dd1126c82aab44b6471a1511d73ce1.jpeg?s=6f2353f6c5351e048ae860f355721035" alt="&#039;Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu&#039; Reveals Additional Staff, Theme Songs, Second Promo" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743913796-70dd1126c82aab44b6471a1511d73ce1.jpeg?s=6f2353f6c5351e048ae860f355721035 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1743913796-70dd1126c82aab44b6471a1511d73ce1.jpeg?s=af0c206f225a5b55733cb436d049e603 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72578337" class="title">&#039;Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu&#039; Reveals Additional Staff, Theme Songs, Second Promo</a>
+          <p class="information di-b pt8">
+            Apr 5, 9:32 PM by <a href="https://myanimelist.net/profile/DatRandomDude" class="mr8">DatRandomDude</a><a href="https://myanimelist.net/forum/?topicid=2209156" class="comment fw-b">0 Comment</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72578066" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743908473-8c50ac54479d806b8833107ddb2a0ce7.jpeg?s=07fc3098bfd27b2f50613980e52b0b8e" alt="&#039;Kakkou no Iinazuke Season 2&#039; Unveils New Staff and Cast for Summer 2025" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743908473-8c50ac54479d806b8833107ddb2a0ce7.jpeg?s=07fc3098bfd27b2f50613980e52b0b8e 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1743908473-8c50ac54479d806b8833107ddb2a0ce7.jpeg?s=cbacad285250eb20ea517bca64191a8a 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72578066" class="title">&#039;Kakkou no Iinazuke Season 2&#039; Unveils New Staff and Cast for Summer 2025</a>
+          <p class="information di-b pt8">
+            Apr 5, 8:01 PM by <a href="https://myanimelist.net/profile/Vindstot" class="mr8">Vindstot</a><a href="https://myanimelist.net/forum/?topicid=2209146" class="comment fw-b">4 Comments</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72548012" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743341962-ba701e021344d2d25b008b3bd670ee10.jpeg?s=3fb65685b5891ce86ad5eaddb1fe5eaa" alt="&#039;Jibaku Shounen Hanako-kun 2&#039; Sequel Announced for Summer 2025" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743341962-ba701e021344d2d25b008b3bd670ee10.jpeg?s=3fb65685b5891ce86ad5eaddb1fe5eaa 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1743341962-ba701e021344d2d25b008b3bd670ee10.jpeg?s=f68c5b3e421e9ec312bd085de990402b 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72548012" class="title">&#039;Jibaku Shounen Hanako-kun 2&#039; Sequel Announced for Summer 2025</a>
+          <p class="information di-b pt8">
+            Mar 30, 6:39 AM by <a href="https://myanimelist.net/profile/Vindstot" class="mr8">Vindstot</a><a href="https://myanimelist.net/forum/?topicid=2208192" class="comment fw-b">5 Comments</a>
+          </p>
+        </div>
+      </li>      <li class="news clearfix"><a href="https://myanimelist.net/news/72541306" class="fl-l di-b mr8 thumbs-link">
+          <img src="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743201708-b11c7bb75624c9509eca680e90e03aa5.jpeg?s=09dd76bbb57800971dd894c58b736401" alt="&#039;Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu&#039; Announces Supporting Cast" class="thumbs lazyload" width="50" height="50" srcset="https://cdn.myanimelist.net/r/50x50/s/common/uploaded_files/1743201708-b11c7bb75624c9509eca680e90e03aa5.jpeg?s=09dd76bbb57800971dd894c58b736401 1x, https://cdn.myanimelist.net/r/100x100/s/common/uploaded_files/1743201708-b11c7bb75624c9509eca680e90e03aa5.jpeg?s=ab61ff58b81e2ed00a833c801e69a671 2x" />
+        </a><div class="pl0 pb0 pl0 pr0 di-tc">
+          <a href="https://myanimelist.net/news/72541306" class="title">&#039;Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu&#039; Announces Supporting Cast</a>
+          <p class="information di-b pt8">
+            Mar 28, 3:42 PM by <a href="https://myanimelist.net/profile/DatRandomDude" class="mr8">DatRandomDude</a><a href="https://myanimelist.net/forum/?topicid=2207921" class="comment fw-b">1 Comment</a>
+          </p>
+        </div>
+      </li></ul>
+</div>
+        
+                <div class="tag-side-block">
+  <p class="header">
+    <a href="https://myanimelist.net/news/tag" class="fl-r fw-n fs12">All Tags</a>
+    Trending Tags
+  </p>
+  <div class="tag-cloud"><a href="https://myanimelist.net/news/tag/new_anime" class="tag tag-color1">New Anime</a><a href="https://myanimelist.net/news/tag/more_info" class="tag tag-color1">More Info</a><a href="https://myanimelist.net/news/tag/preview" class="tag tag-color1">Preview</a><a href="https://myanimelist.net/news/tag/adapts_manga" class="tag tag-color2">Adapts Manga</a><a href="https://myanimelist.net/news/tag/summer_2025" class="tag tag-color1">Summer 2025</a><a href="https://myanimelist.net/news/tag/life_event" class="tag tag-color3">Life Event</a><a href="https://myanimelist.net/news/tag/light_novels" class="tag tag-color2">Light Novels</a><a href="https://myanimelist.net/news/tag/op_ed" class="tag tag-color4">OP ED</a><a href="https://myanimelist.net/news/tag/seiyuu" class="tag tag-color3">Seiyuu</a><a href="https://myanimelist.net/news/tag/musician" class="tag tag-color4">Musician</a><a href="https://myanimelist.net/news/tag/broadcast" class="tag tag-color1">Broadcast</a><a href="https://myanimelist.net/news/tag/spring_2025" class="tag tag-color1">Spring 2025</a><a href="https://myanimelist.net/news/tag/adapts_novel" class="tag tag-color2">Adapts Novel</a></div>
+</div>
+
+                <div class="columnist-side-block mb16">
+        <p class="header">
+            <a href="https://myanimelist.net/news/team" class="fw-n fl-r fs12">View Biographies</a>
+            News Team
+        </p>
+        <div class="columnist-list"><div class="columnists-unit-side">
+                    <a href="https://myanimelist.net/profile/Kineta" class="btn-columnists">
+                        <span class="name">Kineta</span><br />
+                        <span class="image mt8 lazyload" data-bg="https://cdn.myanimelist.net/s/common/userimages/87ca5640-5b00-44e0-89f8-910822235c3c_50x74?s=a897a9cdbb60503e34929fecbdde71db"></span>
+                    </a>
+                </div><div class="columnists-unit-side">
+                    <a href="https://myanimelist.net/profile/Snow" class="btn-columnists">
+                        <span class="name">Snow</span><br />
+                        <span class="image mt8 lazyload" data-bg="https://cdn.myanimelist.net/s/common/userimages/deef67fe-ecb4-4f09-b025-f94238b3670b_50x74?s=5f54dcf5301c4276758120cb496578f0"></span>
+                    </a>
+                </div><div class="columnists-unit-side">
+                    <a href="https://myanimelist.net/profile/Vindstot" class="btn-columnists">
+                        <span class="name">Vindstot</span><br />
+                        <span class="image mt8 lazyload" data-bg="https://cdn.myanimelist.net/s/common/userimages/a7f2617f-de6a-438d-abee-8aacf9e3e644_50x74?s=04a3511ea83409442a96a2f02334050e"></span>
+                    </a>
+                </div></div>
+    </div>      </div>
+
+      <div class="mt24">
+        <a href="https://myanimelist.net/rss/news.xml"><img class="lazyload" data-src="https://cdn.myanimelist.net/images/rss_small.gif" width="11" height="11"></a>
+        <a href="https://myanimelist.net/rss/news.xml" class="fs11 fw-n">RSS Feed</a>
+      </div>        <div class="mt24">
+                  </div></div>
+  </div>
+</div>
+
+                                    <div class="mauto clearfix pt24" style="width:760px;">
+    <div class="fl-l">
+      </div>
+      <div class="fl-r">
+      </div>
+    </div>
+            </div>            <!--  control container height -->
+            <div style="clear:both;"></div>
+            <!-- end rightbody -->
+          
+                      
+            
+  
+
+
+            
+  
+
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var cHeight = $("#myanimelist").height();
+        $("div[data-ad-sticky='manual']").each(function (i, o) {
+          var aHeight = $(o).height();
+          var aTop = $(o).parent().offset().top;
+          if (window.pageYOffset >= (cHeight - aHeight)) {
+            $(o).css("top", ((cHeight - aHeight) - window.pageYOffset) + "px");
+          } else if (window.pageYOffset >= aTop) {
+            $(o).addClass("sticky");
+            $(o).css("top", "");
+          } else {
+            $(o).removeClass("sticky");
+          }
+        });
+      });
+    });
+  </script>
+                </div>
+    <div id="ad-skin-bg-right" class="ad-skin-side-outer ad-skin-side-bg bg-right">
+    <div id="ad-skin-right" class="ad-skin-side right" style="display: none;">
+      <div id="ad-skin-right-absolute-block">
+        <div id="ad-skin-right-fixed-block"></div>
+      </div>
+    </div>
+  </div></div>
+                  
+<div class="footer-ranking">
+  <div class="ranking-container">
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php" class="view_more fl-r">More</a>Top Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/52991/Sousou_no_Frieren">Sousou no Frieren</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Fullmetal Alchemist: Brotherhood</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/60022/One_Piece_Fan_Letter">One Piece Fan Letter</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/topanime.php?type=airing" class="view_more fl-r">More</a>Top Airing Anime
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/anime/58514/Kusuriya_no_Hitorigoto_2nd_Season">Kusuriya no Hitorigoto 2nd Season</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/anime/53447/Tu_Bian_Yingxiong_X">Tu Bian Yingxiong X</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/anime/60988/Tian_Guan_Cifu_Short_Film">Tian Guan Cifu Short Film</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan">Doupo Cangqiong: Nian Fan</a>
+            </li>
+                  </ol>
+      </div>
+          <div class="ranking-unit">
+        <h3 class="title"><a href="https://myanimelist.net/character.php" class="view_more fl-r">More</a>Most Popular Characters
+        </h3>
+        <ol>
+                      <li>
+              <span class="rank">1</span>
+              <a href="https://myanimelist.net/character/417/Lelouch_Lamperouge">Lamperouge, Lelouch</a>
+            </li>
+                      <li>
+              <span class="rank">2</span>
+              <a href="https://myanimelist.net/character/40/Luffy_Monkey_D">Monkey D., Luffy</a>
+            </li>
+                      <li>
+              <span class="rank">3</span>
+              <a href="https://myanimelist.net/character/45627/Levi">Levi</a>
+            </li>
+                      <li>
+              <span class="rank">4</span>
+              <a href="https://myanimelist.net/character/71/L_Lawliet">Lawliet, L</a>
+            </li>
+                      <li>
+              <span class="rank">5</span>
+              <a href="https://myanimelist.net/character/62/Zoro_Roronoa">Roronoa, Zoro</a>
+            </li>
+                  </ol>
+      </div>
+      </div>
+</div>
+          
+          
+
+<style>
+  .bottom-bar {
+  font-size: 1.2em;
+}
+</style>
+
+<script>
+  $(function(){
+    var headerHeight = $('#headerSmall').outerHeight();
+    const signup = $('.top_signup .signup');
+    if ( signup.exists() ) {
+      headerHeight =  $('.top_signup').position().top + $('.top_signup').height();
+    }
+    $('.bottom-bar').css({'height': '0'});
+
+          $(window).scroll(function(){
+        if ($(this).scrollTop() > headerHeight
+          & !$('#gdpr-modal-bottom').is(':visible')
+          & $(window).height() > 672
+        ) {
+          $('.bottom-bar').css({'height': '73px'});
+          $('#tbl-next-up').css({'bottom': '73px'});
+        } else {
+          $('.bottom-bar').css({'height': '0'});
+          $('#tbl-next-up').css({'bottom': '0'});
+        }
+      });
+      });
+</script>
+
+<div class="bottom-bar ga-impression" data-ga-impression-type="bottom_bar">
+  <div class="inner">
+    <div><strong>It’s time to ditch the text file.</strong><br>
+Keep track of your anime easily by creating your own list.</div>
+          <div>
+                              <a class="btn primary ga-click" href="https://myanimelist.net/register.php?from=%2Fnews%3Fp%3D1" data-ga-click-type="bottom_bar_signup_button">Sign Up</a>
+                                                <a class="btn secondary ga-click" href="https://myanimelist.net/login.php?from=%2Fnews%3Fp%3D1" data-ga-click-type="bottom_bar_login_button">Login</a>
+                        </div>
+      </div>
+  <div class="border"></div>
+</div>
+
+
+<footer>
+  <div id="footer-block">
+
+    <div class="footer-link-icon-block">
+            <div class="footer-social-media ac">
+        <a target="_blank" class="icon-footer-sns" title="Follow @myanimelist on Facebook" href="https://www.facebook.com/OfficialMyAnimeList" rel="noreferrer"><i class="fa-brands fa-fw fa-facebook-square"></i></a>
+        <a target="_blank" class="icon-footer-sns" title="Follow @myanimelist on Twitter" href="https://twitter.com/myanimelist" rel="noreferrer"><i class="fa-brands fa-fw fa-twitter-square"></i></a>
+        <a target="_blank" class="icon-footer-sns" title="Follow @myanimelist on Instagram" href="https://www.instagram.com/myanimelistofficial/" rel="noreferrer"><i class="fa-brands fa-fw fa-instagram-square"></i></a>
+        <a target="_blank" class="icon-footer-sns" title="Join Discord Chat" href="https://discord.gg/myanimelist" rel="noreferrer"><i class="fa-brands fa-fw fa-discord"></i></a>
+      </div>
+
+            <div class="footer-app ac"><a target="_blank" class="app-button appstore-button" href="https://apps.apple.com/us/app/myanimelist-official/id1469330778?md=8&amp;ct=pc_footer" rel="noreferrer">
+          <img src="https://cdn.myanimelist.net/images/appli/badge_iOS.png" alt="App Store">
+        </a><a target="_blank" class="app-button googleplay-button" href="https://play.google.com/store/apps/details?utm_campaign=pc_footer&amp;id=net.myanimelist.app&amp;utm_source=mal" rel="noreferrer">
+          <img src="https://cdn.myanimelist.net/images/appli/badge_googleplay.png" alt="Google Play">
+        </a>
+      </div>
+
+    </div>
+
+    <div class="footer-link-block">
+      <p class="footer-link home di-ib">
+        <a href="https://myanimelist.net/">Home</a>
+      </p>
+      <p class="footer-link di-ib">
+        <a href="https://myanimelist.net/about.php">About</a>
+        <a href="https://myanimelist.net/pressroom">Press Room</a>
+        <a href="https://myanimelist.net/about.php?go=contact">Support</a>
+        <a href="https://myanimelist.net/advertising">Advertising</a>
+        <a href="https://myanimelist.net/forum/?topicid=515949">FAQ</a>
+        <a href="https://myanimelist.net/about/terms_of_use">Terms</a>
+        <a href="https://myanimelist.net/about/privacy_policy">Privacy</a>
+        <a href="#/" class="cmp-gdpr-only">Privacy Settings</a>
+        <a href="#/" class="cmp-ccpa-only">Do Not Sell or Share my Personal Information</a>
+        <a href="https://myanimelist.net/about/cookie_policy">Cookie</a>
+        <a href="https://myanimelist.net/about/notice_at_collection">Notice at Collection</a>
+        <a href="https://myanimelist.net/about/sitemap">Sitemap</a></p>
+            <p class="footer-link login di-ib">
+        <a href="https://myanimelist.net/login.php?from=%2Fnews%3Fp%3D1" id="malLogin" rel="nofollow">Login</a>
+        <a href="https://myanimelist.net/register.php?from=%2Fnews%3Fp%3D1">Sign Up</a>
+      </p>
+          </div>
+
+    <div class="footer-link-icon-block">
+            <div class="footer-recommended ac">
+        <a target="_blank" class="icon-recommended icon-tokyo-otaku-mode" href="http://otakumode.com/fb/5aO" rel="noopener">Tokyo Otaku Mode</a>
+        <a target="_blank" class="icon-recommended icon-honeyfeed" href="https://www.honeyfeed.fm/" rel="noopener">Honeyfeed</a>
+        <a target="_blank" class="icon-recommended icon-manga-store" href="https://myanimelist.net/store?_location=mal_f_m">Manga Store</a>
+      </div>
+    </div>
+
+        
+    <div id="copyright">
+      MyAnimeList.net is a property of MyAnimeList Co., Ltd. &copy;2025 All Rights Reserved.
+    </div>
+    <div id="recaptcha-terms">
+      This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank" rel="noopener noreferrer">Terms of Service</a> apply.
+    </div>
+  </div>
+</footer>
+    
+        <script src='//www.googletagservices.com/tag/js/gpt.js' async="async"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga')
+
+  ga('create', 'UA-369102-1', 'auto')
+  ga('set', 'anonymizeIp', true)
+  ga('require', 'linkid') // Enhanced Link Attribution
+    ga('set', 'dimension1', 'guest')
+    ga('send', 'pageview')
+</script> <script>
+    let appearanceModeString = '';
+  var clientDarkMode = window.matchMedia("(prefers-color-scheme:dark)").matches;
+  const appearanceMal = 'none';
+  const appearanceClient = clientDarkMode ? 'dark' : 'light';
+  appearanceModeString = `${appearanceMal}-${appearanceClient}`;
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  dataLayer.push({
+    'anime_temporary_list_num': 0,
+    'manga_temporary_list_num': 0,
+    'is_banned': 0,
+    'banned_type': '',
+    'banned_reason': '',
+    'appearance': appearanceModeString
+  });
+</script>
+<script>
+  if (_et$) {
+    _et$.init({
+      click: [{
+        selector: '.ga-click',
+        event_parameters: ['data-ga-click-type', 'data-ga-click-param']
+      }],
+      impression: [{
+        selector: '.ga-impression',
+        event_parameters: ['data-ga-impression-type', 'data-ga-impression-param']
+      }]
+    });
+  }
+</script>
+
+<script type="text/javascript">
+  window.MAL.SLVK = "g4OvMLVOmEI3J8u7dt8f8+mAuualsqCo";
+  window.MAL.CDN_URL = "https://cdn.myanimelist.net";
+
+  window.MAL.CURRENT_TUTORIAL_STEP_ID = null;
+  window.MAL.USER_NAME = ""
+  window.MAL.FACEBOOK.APP_ID = "360769957454434"
+  window.MAL.FACEBOOK.API_VERSION = "v2.12"
+  
+  window.MAL.GTM_ID = "WL4QW3G"
+
+  window.MAL.GDPR_COOKIE_KEY = "m_gdpr_mdl_20250327"
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL4QW3G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    </body>
+</html>
