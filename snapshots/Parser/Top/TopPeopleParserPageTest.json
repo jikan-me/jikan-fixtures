@@ -1,0 +1,857 @@
+{
+    "@class": "Jikan\\Model\\Top\\TopPeople",
+    "hasNextPage": true,
+    "lastVisiblePage": 2,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 118,
+            "rank": 1,
+            "title": "Kamiya, Hiroshi",
+            "url": "https://myanimelist.net/people/118/Hiroshi_Kamiya",
+            "nameKanji": null,
+            "favorites": 108677,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/66163.jpg?s=79dcfe73dbea00556b9e55d2b145447d"
+                }
+            },
+            "birthday": "1975-01-28T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 185,
+            "rank": 2,
+            "title": "Hanazawa, Kana",
+            "url": "https://myanimelist.net/people/185/Kana_Hanazawa",
+            "nameKanji": null,
+            "favorites": 103102,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/69318.jpg?s=c0a049941118f8e3fb9bcb1f2489c63e"
+                }
+            },
+            "birthday": "1989-02-25T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 65,
+            "rank": 3,
+            "title": "Miyano, Mamoru",
+            "url": "https://myanimelist.net/people/65/Mamoru_Miyano",
+            "nameKanji": null,
+            "favorites": 93328,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/66414.jpg?s=7a6211f1dce27977d708b5c4947b9d76"
+                }
+            },
+            "birthday": "1983-06-08T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 672,
+            "rank": 4,
+            "title": "Kaji, Yuuki",
+            "url": "https://myanimelist.net/people/672/Yuuki_Kaji",
+            "nameKanji": null,
+            "favorites": 75464,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/89058.jpg?s=e7b930a0e7760514d1a03c45b974bc61"
+                }
+            },
+            "birthday": "1985-09-03T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 1870,
+            "rank": 5,
+            "title": "Miyazaki, Hayao",
+            "url": "https://myanimelist.net/people/1870/Hayao_Miyazaki",
+            "nameKanji": null,
+            "favorites": 74776,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/54606.jpg?s=8cc05f66a0340238712a1e8f86441385"
+                }
+            },
+            "birthday": "1941-01-05T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 869,
+            "rank": 6,
+            "title": "Hayami, Saori",
+            "url": "https://myanimelist.net/people/869/Saori_Hayami",
+            "nameKanji": null,
+            "favorites": 69873,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/86542.jpg?s=764c77b01a87c75f1437dde487e96962"
+                }
+            },
+            "birthday": "1991-05-29T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 34785,
+            "rank": 7,
+            "title": "Takahashi, Rie",
+            "url": "https://myanimelist.net/people/34785/Rie_Takahashi",
+            "nameKanji": null,
+            "favorites": 63250,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/86541.jpg?s=62a4c7fd783533ad21a6ac4c564bffcd"
+                }
+            },
+            "birthday": "1994-02-27T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 591,
+            "rank": 8,
+            "title": "Tsuda, Kenjirou",
+            "url": "https://myanimelist.net/people/591/Kenjirou_Tsuda",
+            "nameKanji": null,
+            "favorites": 58458,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/63379.jpg?s=0d80267a13d0cb176c88de35f0f2ed57"
+                }
+            },
+            "birthday": "1971-06-11T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 1881,
+            "rank": 9,
+            "title": "Oda, Eiichiro",
+            "url": "https://myanimelist.net/people/1881/Eiichiro_Oda",
+            "nameKanji": null,
+            "favorites": 56919,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/74096.jpg?s=faaa4b220e00e79508d96b88e550aed2"
+                }
+            },
+            "birthday": "1975-01-01T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 212,
+            "rank": 10,
+            "title": "Ono, Daisuke",
+            "url": "https://myanimelist.net/people/212/Daisuke_Ono",
+            "nameKanji": null,
+            "favorites": 49514,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/88897.jpg?s=78c9f2e5e40a25d128e536a768f6f2e5"
+                }
+            },
+            "birthday": "1978-05-04T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 2,
+            "rank": 11,
+            "title": "Sugita, Tomokazu",
+            "url": "https://myanimelist.net/people/2/Tomokazu_Sugita",
+            "nameKanji": null,
+            "favorites": 48488,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/92182.jpg?s=95d85f37e305757ff6ed64d5de75225d"
+                }
+            },
+            "birthday": "1980-10-11T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 2619,
+            "rank": 12,
+            "title": "Araki, Hirohiko",
+            "url": "https://myanimelist.net/people/2619/Hirohiko_Araki",
+            "nameKanji": null,
+            "favorites": 46050,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/42598.jpg?s=50bdb2144b44b05fd7336d93481bc4ff"
+                }
+            },
+            "birthday": "1960-06-07T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 270,
+            "rank": 13,
+            "title": "Okamoto, Nobuhiko",
+            "url": "https://myanimelist.net/people/270/Nobuhiko_Okamoto",
+            "nameKanji": null,
+            "favorites": 45580,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/48785.jpg?s=112b6ef2af98e74ff1cda3b7de895ab3"
+                }
+            },
+            "birthday": "1986-10-24T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 99,
+            "rank": 14,
+            "title": "Sawashiro, Miyuki",
+            "url": "https://myanimelist.net/people/99/Miyuki_Sawashiro",
+            "nameKanji": null,
+            "favorites": 41835,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/65500.jpg?s=feb6165136069ca23ac697fc2c2030da"
+                }
+            },
+            "birthday": "1985-06-02T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 11817,
+            "rank": 15,
+            "title": "Matsuoka, Yoshitsugu",
+            "url": "https://myanimelist.net/people/11817/Yoshitsugu_Matsuoka",
+            "nameKanji": null,
+            "favorites": 41303,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/87038.jpg?s=571bd63f7fc347295d0209d084362ae8"
+                }
+            },
+            "birthday": "1986-09-17T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 8,
+            "rank": 16,
+            "title": "Kugimiya, Rie",
+            "url": "https://myanimelist.net/people/8/Rie_Kugimiya",
+            "nameKanji": null,
+            "favorites": 40905,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/63374.jpg?s=24bb39e50d308adcd8d4b3495fdf93b2"
+                }
+            },
+            "birthday": "1979-05-30T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 160,
+            "rank": 17,
+            "title": "Koyasu, Takehito",
+            "url": "https://myanimelist.net/people/160/Takehito_Koyasu",
+            "nameKanji": null,
+            "favorites": 38087,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/63375.jpg?s=a204d937f77e1197401ec783f1b2291a"
+                }
+            },
+            "birthday": "1967-05-05T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 6686,
+            "rank": 18,
+            "title": "Yuuki, Aoi",
+            "url": "https://myanimelist.net/people/6686/Aoi_Yuuki",
+            "nameKanji": null,
+            "favorites": 37215,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/67808.jpg?s=1878769a6c2f2847edb5547f1a4f00ab"
+                }
+            },
+            "birthday": "1992-03-27T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 86,
+            "rank": 19,
+            "title": "Fukuyama, Jun",
+            "url": "https://myanimelist.net/people/86/Jun_Fukuyama",
+            "nameKanji": null,
+            "favorites": 35041,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/82978.jpg?s=dcfcee84114838b59b359eb79fa9dbae"
+                }
+            },
+            "birthday": "1978-11-26T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 1117,
+            "rank": 20,
+            "title": "Shinkai, Makoto",
+            "url": "https://myanimelist.net/people/1117/Makoto_Shinkai",
+            "nameKanji": null,
+            "favorites": 34017,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/83945.jpg?s=5db24d152af4107a0c668abdd761002d"
+                }
+            },
+            "birthday": "1973-02-09T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 513,
+            "rank": 21,
+            "title": "Nakamura, Yuuichi",
+            "url": "https://myanimelist.net/people/513/Yuuichi_Nakamura",
+            "nameKanji": null,
+            "favorites": 33790,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/86727.jpg?s=b07c31b8fd7030267a4346daef95469e"
+                }
+            },
+            "birthday": "1980-02-20T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 95,
+            "rank": 22,
+            "title": "Suwabe, Junichi",
+            "url": "https://myanimelist.net/people/95/Junichi_Suwabe",
+            "nameKanji": null,
+            "favorites": 29400,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/85515.jpg?s=ca588e8b5de101b9a3497108648448f8"
+                }
+            },
+            "birthday": "1972-03-29T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 8509,
+            "rank": 23,
+            "title": "Sawano, Hiroyuki",
+            "url": "https://myanimelist.net/people/8509/Hiroyuki_Sawano",
+            "nameKanji": null,
+            "favorites": 27719,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/91993.jpg?s=0422b7b8b72fe1b8923af778d7d33cb7"
+                }
+            },
+            "birthday": "1980-09-12T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 4580,
+            "rank": 24,
+            "title": "Kon, Satoshi",
+            "url": "https://myanimelist.net/people/4580/Satoshi_Kon",
+            "nameKanji": null,
+            "favorites": 26803,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/46672.jpg?s=311469a03a2a17fefe81c13439f398ea"
+                }
+            },
+            "birthday": "1963-10-12T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 1868,
+            "rank": 25,
+            "title": "Miura, Kentarou",
+            "url": "https://myanimelist.net/people/1868/Kentarou_Miura",
+            "nameKanji": null,
+            "favorites": 26788,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/64279.jpg?s=c002b9edec88ff3eb52ec7e56da16e45"
+                }
+            },
+            "birthday": "1966-07-11T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 10765,
+            "rank": 26,
+            "title": "Kayano, Ai",
+            "url": "https://myanimelist.net/people/10765/Ai_Kayano",
+            "nameKanji": null,
+            "favorites": 26054,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/86546.jpg?s=20e2e6957e4c00586e1292bea1b2cd0b"
+                }
+            },
+            "birthday": "1987-09-13T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 11297,
+            "rank": 27,
+            "title": "Minase, Inori",
+            "url": "https://myanimelist.net/people/11297/Inori_Minase",
+            "nameKanji": null,
+            "favorites": 25877,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/92548.jpg?s=159731485f7a45b63067552c6ce7fa32"
+                }
+            },
+            "birthday": "1995-12-02T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 79,
+            "rank": 28,
+            "title": "Sakurai, Takahiro",
+            "url": "https://myanimelist.net/people/79/Takahiro_Sakurai",
+            "nameKanji": null,
+            "favorites": 25354,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/85504.jpg?s=7680d3f004e17a19f1a840dc1a2a3324"
+                }
+            },
+            "birthday": "1974-06-13T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 5111,
+            "rank": 29,
+            "title": "Anno, Hideaki",
+            "url": "https://myanimelist.net/people/5111/Hideaki_Anno",
+            "nameKanji": null,
+            "favorites": 24484,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/54280.jpg?s=a2545098f781bcaf029c195147ae8179"
+                }
+            },
+            "birthday": "1960-05-22T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 1867,
+            "rank": 30,
+            "title": "Urasawa, Naoki",
+            "url": "https://myanimelist.net/people/1867/Naoki_Urasawa",
+            "nameKanji": null,
+            "favorites": 24426,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/83481.jpg?s=9b35a3e754ad11ebfbc8b20a31126b93"
+                }
+            },
+            "birthday": "1960-01-02T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 21517,
+            "rank": 31,
+            "title": "Amamiya, Sora",
+            "url": "https://myanimelist.net/people/21517/Sora_Amamiya",
+            "nameKanji": null,
+            "favorites": 24290,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/91511.jpg?s=12396caed6af819a07dbb2277fb0b6bb"
+                }
+            },
+            "birthday": "1993-08-28T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 2410,
+            "rank": 32,
+            "title": "Itou, Junji",
+            "url": "https://myanimelist.net/people/2410/Junji_Itou",
+            "nameKanji": null,
+            "favorites": 23829,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/81585.jpg?s=5c6c0052d0adc1875c9075f0f7460c6e"
+                }
+            },
+            "birthday": "1963-07-31T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 41158,
+            "rank": 33,
+            "title": "Fujimoto, Tatsuki",
+            "url": "https://myanimelist.net/people/41158/Tatsuki_Fujimoto",
+            "nameKanji": null,
+            "favorites": 23450,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/61876.jpg?s=c0cf410ceb242560dad9e6e75e811a1c"
+                }
+            },
+            "birthday": "1992-10-10T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 10561,
+            "rank": 34,
+            "title": "LiSA",
+            "url": "https://myanimelist.net/people/10561/LiSA",
+            "nameKanji": null,
+            "favorites": 22867,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/90518.jpg?s=7f63ecf1db09888ba243cbb50449cd7a"
+                }
+            },
+            "birthday": "1987-06-24T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 16635,
+            "rank": 35,
+            "title": "Hanae, Natsuki",
+            "url": "https://myanimelist.net/people/16635/Natsuki_Hanae",
+            "nameKanji": null,
+            "favorites": 21422,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/85088.jpg?s=20a6a1c2c11a34a4cac3ddc5550d1e5c"
+                }
+            },
+            "birthday": "1991-06-26T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 1893,
+            "rank": 36,
+            "title": "Togashi, Yoshihiro",
+            "url": "https://myanimelist.net/people/1893/Yoshihiro_Togashi",
+            "nameKanji": null,
+            "favorites": 21053,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/73638.jpg?s=a898be21ed64cf1aee8d60307acdb967"
+                }
+            },
+            "birthday": "1966-04-27T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 11622,
+            "rank": 37,
+            "title": "Sakura, Ayane",
+            "url": "https://myanimelist.net/people/11622/Ayane_Sakura",
+            "nameKanji": null,
+            "favorites": 20265,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/67809.jpg?s=900f8252da0ce4eef175730b68c96c77"
+                }
+            },
+            "birthday": "1994-01-29T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 11705,
+            "rank": 38,
+            "title": "Isayama, Hajime",
+            "url": "https://myanimelist.net/people/11705/Hajime_Isayama",
+            "nameKanji": null,
+            "favorites": 19658,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/40147.jpg?s=9d728736c63ac853b6189a92d27dbef4"
+                }
+            },
+            "birthday": "1986-08-29T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 1764,
+            "rank": 39,
+            "title": "Uchiyama, Kouki",
+            "url": "https://myanimelist.net/people/1764/Kouki_Uchiyama",
+            "nameKanji": null,
+            "favorites": 19017,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/63405.jpg?s=a823c0b9822035e4eaaa9cf7be250bc8"
+                }
+            },
+            "birthday": "1990-08-16T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 2836,
+            "rank": 40,
+            "title": "Asano, Inio",
+            "url": "https://myanimelist.net/people/2836/Inio_Asano",
+            "nameKanji": null,
+            "favorites": 18730,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/82253.jpg?s=f19e0c9823ca0731ce66d3d22e3eb1f2"
+                }
+            },
+            "birthday": "1980-09-22T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 4,
+            "rank": 41,
+            "title": "Hirano, Aya",
+            "url": "https://myanimelist.net/people/4/Aya_Hirano",
+            "nameKanji": null,
+            "favorites": 18480,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/78608.jpg?s=a92ab238665d0828c171ad79bcb13f68"
+                }
+            },
+            "birthday": "1987-10-08T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 82,
+            "rank": 42,
+            "title": "Park, Romi",
+            "url": "https://myanimelist.net/people/82/Romi_Park",
+            "nameKanji": null,
+            "favorites": 18401,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/54602.jpg?s=1fcd4ba3bccb50c190d12b6e014120e1"
+                }
+            },
+            "birthday": "1972-01-22T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 5077,
+            "rank": 43,
+            "title": "Kajiura, Yuki",
+            "url": "https://myanimelist.net/people/5077/Yuki_Kajiura",
+            "nameKanji": null,
+            "favorites": 18322,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/53857.jpg?s=2cb807154ed56efee7bb8ec8df29661a"
+                }
+            },
+            "birthday": "1965-08-06T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 890,
+            "rank": 44,
+            "title": "Tomatsu, Haruka",
+            "url": "https://myanimelist.net/people/890/Haruka_Tomatsu",
+            "nameKanji": null,
+            "favorites": 17919,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/76640.jpg?s=44d4d68dac5770212ae823a96adf72d7"
+                }
+            },
+            "birthday": "1990-02-04T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 123,
+            "rank": 45,
+            "title": "Nakai, Kazuya",
+            "url": "https://myanimelist.net/people/123/Kazuya_Nakai",
+            "nameKanji": null,
+            "favorites": 17664,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/62866.jpg?s=7acdd6bbd443687574f7b01733ea9a3c"
+                }
+            },
+            "birthday": "1967-11-25T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 90,
+            "rank": 46,
+            "title": "Sakamoto, Maaya",
+            "url": "https://myanimelist.net/people/90/Maaya_Sakamoto",
+            "nameKanji": null,
+            "favorites": 17485,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/65911.jpg?s=e505f01babe4dea0f54ad97e2243fdac"
+                }
+            },
+            "birthday": "1980-03-31T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 1911,
+            "rank": 47,
+            "title": "Inoue, Takehiko",
+            "url": "https://myanimelist.net/people/1911/Takehiko_Inoue",
+            "nameKanji": null,
+            "favorites": 16742,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/48570.jpg?s=c74e5624ad11dced114013c91f0419cc"
+                }
+            },
+            "birthday": "1967-01-12T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 5068,
+            "rank": 48,
+            "title": "Yuasa, Masaaki",
+            "url": "https://myanimelist.net/people/5068/Masaaki_Yuasa",
+            "nameKanji": null,
+            "favorites": 16632,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/51779.jpg?s=fb168e28c280e654e0f734d2a1aa621a"
+                }
+            },
+            "birthday": "1965-03-16T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 1901,
+            "rank": 49,
+            "title": "Toriyama, Akira",
+            "url": "https://myanimelist.net/people/1901/Akira_Toriyama",
+            "nameKanji": null,
+            "favorites": 16366,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/40043.jpg?s=28dad22208dc14be3f603c1fc466a230"
+                }
+            },
+            "birthday": "1955-04-05T00:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopPersonListItem",
+            "malId": 11184,
+            "rank": 50,
+            "title": "Touyama, Nao",
+            "url": "https://myanimelist.net/people/11184/Nao_Touyama",
+            "nameKanji": null,
+            "favorites": 16300,
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/80625.jpg?s=34de4a6b74967508fdb9edc760bf7e73"
+                }
+            },
+            "birthday": "1992-03-11T00:00:00+00:00"
+        }
+    ]
+}

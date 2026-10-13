@@ -1,0 +1,1114 @@
+[
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "New Anime",
+        "malId": "new_anime",
+        "url": "https://myanimelist.net/news/tag/new_anime",
+        "type": "Anime",
+        "description": "Announcements of new anime works."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2015",
+        "malId": "spring_2015",
+        "url": "https://myanimelist.net/news/tag/spring_2015",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2015 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2015",
+        "malId": "summer_2015",
+        "url": "https://myanimelist.net/news/tag/summer_2015",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2015 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2015",
+        "malId": "fall_2015",
+        "url": "https://myanimelist.net/news/tag/fall_2015",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2015 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2016",
+        "malId": "winter_2016",
+        "url": "https://myanimelist.net/news/tag/winter_2016",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2016 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2016",
+        "malId": "spring_2016",
+        "url": "https://myanimelist.net/news/tag/spring_2016",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2016 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Preview",
+        "malId": "preview",
+        "url": "https://myanimelist.net/news/tag/preview",
+        "type": "Anime",
+        "description": "PVs for upcoming anime."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Broadcast",
+        "malId": "broadcast",
+        "url": "https://myanimelist.net/news/tag/broadcast",
+        "type": "Anime",
+        "description": "Anime airing schedule announcements. Includes the seasonal simulcast thread."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "English Dub",
+        "malId": "english_dub",
+        "url": "https://myanimelist.net/news/tag/english_dub",
+        "type": "Anime",
+        "description": "Announcements of anime receiving an English dub."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "BD DVD",
+        "malId": "bd_dvd",
+        "url": "https://myanimelist.net/news/tag/bd_dvd",
+        "type": "Anime",
+        "description": "Blu-ray and DVD releases."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "More Info",
+        "malId": "more_info",
+        "url": "https://myanimelist.net/news/tag/more_info",
+        "type": "Anime",
+        "description": "Additional information for previously announced or on-going anime"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2016",
+        "malId": "summer_2016",
+        "url": "https://myanimelist.net/news/tag/summer_2016",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2016 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2016",
+        "malId": "fall_2016",
+        "url": "https://myanimelist.net/news/tag/fall_2016",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2016 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2017",
+        "malId": "winter_2017",
+        "url": "https://myanimelist.net/news/tag/winter_2017",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2017 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2017",
+        "malId": "spring_2017",
+        "url": "https://myanimelist.net/news/tag/spring_2017",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2017 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2017",
+        "malId": "summer_2017",
+        "url": "https://myanimelist.net/news/tag/summer_2017",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2017 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2017",
+        "malId": "fall_2017",
+        "url": "https://myanimelist.net/news/tag/fall_2017",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2017 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2007",
+        "malId": "spring_2007",
+        "url": "https://myanimelist.net/news/tag/spring_2007",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2007 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2007",
+        "malId": "summer_2007",
+        "url": "https://myanimelist.net/news/tag/summer_2007",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2007 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2007",
+        "malId": "fall_2007",
+        "url": "https://myanimelist.net/news/tag/fall_2007",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2007 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2008",
+        "malId": "winter_2008",
+        "url": "https://myanimelist.net/news/tag/winter_2008",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2008 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2008",
+        "malId": "spring_2008",
+        "url": "https://myanimelist.net/news/tag/spring_2008",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2008 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2008",
+        "malId": "summer_2008",
+        "url": "https://myanimelist.net/news/tag/summer_2008",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2008 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2008",
+        "malId": "fall_2008",
+        "url": "https://myanimelist.net/news/tag/fall_2008",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2008 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2009",
+        "malId": "winter_2009",
+        "url": "https://myanimelist.net/news/tag/winter_2009",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2009 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2009",
+        "malId": "spring_2009",
+        "url": "https://myanimelist.net/news/tag/spring_2009",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2009 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2009",
+        "malId": "summer_2009",
+        "url": "https://myanimelist.net/news/tag/summer_2009",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2009 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2009",
+        "malId": "fall_2009",
+        "url": "https://myanimelist.net/news/tag/fall_2009",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2009 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2010",
+        "malId": "winter_2010",
+        "url": "https://myanimelist.net/news/tag/winter_2010",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2010 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2010",
+        "malId": "spring_2010",
+        "url": "https://myanimelist.net/news/tag/spring_2010",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2010 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2010",
+        "malId": "summer_2010",
+        "url": "https://myanimelist.net/news/tag/summer_2010",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2010 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2010",
+        "malId": "fall_2010",
+        "url": "https://myanimelist.net/news/tag/fall_2010",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2010 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2011",
+        "malId": "winter_2011",
+        "url": "https://myanimelist.net/news/tag/winter_2011",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2011 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2011",
+        "malId": "spring_2011",
+        "url": "https://myanimelist.net/news/tag/spring_2011",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2011 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2011",
+        "malId": "summer_2011",
+        "url": "https://myanimelist.net/news/tag/summer_2011",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2011 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2011",
+        "malId": "fall_2011",
+        "url": "https://myanimelist.net/news/tag/fall_2011",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2011 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2012",
+        "malId": "winter_2012",
+        "url": "https://myanimelist.net/news/tag/winter_2012",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2012 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2012",
+        "malId": "spring_2012",
+        "url": "https://myanimelist.net/news/tag/spring_2012",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2012 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2012",
+        "malId": "summer_2012",
+        "url": "https://myanimelist.net/news/tag/summer_2012",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2012 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2012",
+        "malId": "fall_2012",
+        "url": "https://myanimelist.net/news/tag/fall_2012",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2012 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2013",
+        "malId": "winter_2013",
+        "url": "https://myanimelist.net/news/tag/winter_2013",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2013 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2013",
+        "malId": "spring_2013",
+        "url": "https://myanimelist.net/news/tag/spring_2013",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2013 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2013",
+        "malId": "summer_2013",
+        "url": "https://myanimelist.net/news/tag/summer_2013",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2013 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2013",
+        "malId": "fall_2013",
+        "url": "https://myanimelist.net/news/tag/fall_2013",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2013 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2014",
+        "malId": "winter_2014",
+        "url": "https://myanimelist.net/news/tag/winter_2014",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2014 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2014",
+        "malId": "spring_2014",
+        "url": "https://myanimelist.net/news/tag/spring_2014",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2014 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2014",
+        "malId": "summer_2014",
+        "url": "https://myanimelist.net/news/tag/summer_2014",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2014 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2014",
+        "malId": "fall_2014",
+        "url": "https://myanimelist.net/news/tag/fall_2014",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2014 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2015",
+        "malId": "winter_2015",
+        "url": "https://myanimelist.net/news/tag/winter_2015",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2015 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2018",
+        "malId": "winter_2018",
+        "url": "https://myanimelist.net/news/tag/winter_2018",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2018 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2018",
+        "malId": "spring_2018",
+        "url": "https://myanimelist.net/news/tag/spring_2018",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2018 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2018",
+        "malId": "summer_2018",
+        "url": "https://myanimelist.net/news/tag/summer_2018",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2018 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2018",
+        "malId": "fall_2018",
+        "url": "https://myanimelist.net/news/tag/fall_2018",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2018 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2019",
+        "malId": "winter_2019",
+        "url": "https://myanimelist.net/news/tag/winter_2019",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2019 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2019",
+        "malId": "spring_2019",
+        "url": "https://myanimelist.net/news/tag/spring_2019",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2019 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2019",
+        "malId": "summer_2019",
+        "url": "https://myanimelist.net/news/tag/summer_2019",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2019 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2019",
+        "malId": "fall_2019",
+        "url": "https://myanimelist.net/news/tag/fall_2019",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2019 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2020",
+        "malId": "winter_2020",
+        "url": "https://myanimelist.net/news/tag/winter_2020",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2020 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2020",
+        "malId": "spring_2020",
+        "url": "https://myanimelist.net/news/tag/spring_2020",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2020 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2020",
+        "malId": "fall_2020",
+        "url": "https://myanimelist.net/news/tag/fall_2020",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2020 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2020",
+        "malId": "summer_2020",
+        "url": "https://myanimelist.net/news/tag/summer_2020",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2020 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Screening",
+        "malId": "screening",
+        "url": "https://myanimelist.net/news/tag/screening",
+        "type": "Anime",
+        "description": "Articles that contain information regarding anime screening events"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2021",
+        "malId": "winter_2021",
+        "url": "https://myanimelist.net/news/tag/winter_2021",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2021 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2021",
+        "malId": "spring_2021",
+        "url": "https://myanimelist.net/news/tag/spring_2021",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2021 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2021",
+        "malId": "summer_2021",
+        "url": "https://myanimelist.net/news/tag/summer_2021",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2021 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2021",
+        "malId": "fall_2021",
+        "url": "https://myanimelist.net/news/tag/fall_2021",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2021 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2022",
+        "malId": "winter_2022",
+        "url": "https://myanimelist.net/news/tag/winter_2022",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2022 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2022",
+        "malId": "spring_2022",
+        "url": "https://myanimelist.net/news/tag/spring_2022",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2022 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2022",
+        "malId": "summer_2022",
+        "url": "https://myanimelist.net/news/tag/summer_2022",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2022 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2022",
+        "malId": "fall_2022",
+        "url": "https://myanimelist.net/news/tag/fall_2022",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2022 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2023",
+        "malId": "winter_2023",
+        "url": "https://myanimelist.net/news/tag/winter_2023",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2023 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2023",
+        "malId": "spring_2023",
+        "url": "https://myanimelist.net/news/tag/spring_2023",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2023 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2023",
+        "malId": "summer_2023",
+        "url": "https://myanimelist.net/news/tag/summer_2023",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2023 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2023",
+        "malId": "fall_2023",
+        "url": "https://myanimelist.net/news/tag/fall_2023",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2023 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2024",
+        "malId": "winter_2024",
+        "url": "https://myanimelist.net/news/tag/winter_2024",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2024 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2024",
+        "malId": "spring_2024",
+        "url": "https://myanimelist.net/news/tag/spring_2024",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2024 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2024",
+        "malId": "summer_2024",
+        "url": "https://myanimelist.net/news/tag/summer_2024",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2024 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2024",
+        "malId": "fall_2024",
+        "url": "https://myanimelist.net/news/tag/fall_2024",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2024 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2025",
+        "malId": "winter_2025",
+        "url": "https://myanimelist.net/news/tag/winter_2025",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2025 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2025",
+        "malId": "spring_2025",
+        "url": "https://myanimelist.net/news/tag/spring_2025",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2025 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2025",
+        "malId": "summer_2025",
+        "url": "https://myanimelist.net/news/tag/summer_2025",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2025 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2025",
+        "malId": "fall_2025",
+        "url": "https://myanimelist.net/news/tag/fall_2025",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2025 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2026",
+        "malId": "winter_2026",
+        "url": "https://myanimelist.net/news/tag/winter_2026",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2026 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2026",
+        "malId": "spring_2026",
+        "url": "https://myanimelist.net/news/tag/spring_2026",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2026 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2026",
+        "malId": "summer_2026",
+        "url": "https://myanimelist.net/news/tag/summer_2026",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2026 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2026",
+        "malId": "fall_2026",
+        "url": "https://myanimelist.net/news/tag/fall_2026",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2026 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Winter 2027",
+        "malId": "winter_2027",
+        "url": "https://myanimelist.net/news/tag/winter_2027",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Winter 2027 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Spring 2027",
+        "malId": "spring_2027",
+        "url": "https://myanimelist.net/news/tag/spring_2027",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Spring 2027 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Summer 2027",
+        "malId": "summer_2027",
+        "url": "https://myanimelist.net/news/tag/summer_2027",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Summer 2027 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Fall 2027",
+        "malId": "fall_2027",
+        "url": "https://myanimelist.net/news/tag/fall_2027",
+        "type": "Anime",
+        "description": "Series slated to be aired during the Fall 2027 season."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Adapts Manga",
+        "malId": "adapts_manga",
+        "url": "https://myanimelist.net/news/tag/adapts_manga",
+        "type": "Manga",
+        "description": "Anime adaptations of manga."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Light Novels",
+        "malId": "light_novels",
+        "url": "https://myanimelist.net/news/tag/light_novels",
+        "type": "Manga",
+        "description": "News about light novels and anime adaptations of them."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "New Manga",
+        "malId": "new_manga",
+        "url": "https://myanimelist.net/news/tag/new_manga",
+        "type": "Manga",
+        "description": "Announcements of new manga works by known creators."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Series End",
+        "malId": "series_end",
+        "url": "https://myanimelist.net/news/tag/series_end",
+        "type": "Manga",
+        "description": "Ending of manga/light novel series."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Hiatus",
+        "malId": "hiatus",
+        "url": "https://myanimelist.net/news/tag/hiatus",
+        "type": "Manga",
+        "description": "Suspension of manga/light novel series."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Special Chapter",
+        "malId": "special_chapter",
+        "url": "https://myanimelist.net/news/tag/special_chapter",
+        "type": "Manga",
+        "description": "News related to bonus chapters or one-shots."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Adapts Novel",
+        "malId": "adapts_novel",
+        "url": "https://myanimelist.net/news/tag/adapts_novel",
+        "type": "Manga",
+        "description": "Anime adaptations of novels."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Seiyuu",
+        "malId": "seiyuu",
+        "url": "https://myanimelist.net/news/tag/seiyuu",
+        "type": "People",
+        "description": "News about seiyuu (Japanese voice actors)."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Mangaka",
+        "malId": "mangaka",
+        "url": "https://myanimelist.net/news/tag/mangaka",
+        "type": "People",
+        "description": "News about mangaka (Japanese manga authors)."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Life Event",
+        "malId": "life_event",
+        "url": "https://myanimelist.net/news/tag/life_event",
+        "type": "People",
+        "description": "Events such as marriage, pregnancy, or death."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Staff",
+        "malId": "staff",
+        "url": "https://myanimelist.net/news/tag/staff",
+        "type": "People",
+        "description": "News about Japanese anime production staff members."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Interview",
+        "malId": "interview",
+        "url": "https://myanimelist.net/news/tag/interview",
+        "type": "People",
+        "description": "Interviews conducted by MyAnimeList."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Musician",
+        "malId": "musician",
+        "url": "https://myanimelist.net/news/tag/musician",
+        "type": "Music",
+        "description": "News about anisong artists."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "New CD",
+        "malId": "new_cd",
+        "url": "https://myanimelist.net/news/tag/new_cd",
+        "type": "Music",
+        "description": "Single or Album releases by popular seiyuu artists or anisong artists."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "OP ED",
+        "malId": "op_ed",
+        "url": "https://myanimelist.net/news/tag/op_ed",
+        "type": "Music",
+        "description": "News about anime opening and ending theme songs."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Anime Expo",
+        "malId": "anime_expo",
+        "url": "https://myanimelist.net/news/tag/anime_expo",
+        "type": "Events",
+        "description": "News related to Anime Expo in Los Angeles."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Exhibition",
+        "malId": "exhibition",
+        "url": "https://myanimelist.net/news/tag/exhibition",
+        "type": "Events",
+        "description": "News related to fan conventions and industry exhibitions."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Interest",
+        "malId": "interest",
+        "url": "https://myanimelist.net/news/tag/interest",
+        "type": "Events",
+        "description": "Miscellaneous news related to the anime and manga industry."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Manga Awards",
+        "malId": "manga_awards",
+        "url": "https://myanimelist.net/news/tag/manga_awards",
+        "type": "Events",
+        "description": "News about awards given to manga and their authors."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Live",
+        "malId": "live",
+        "url": "https://myanimelist.net/news/tag/live",
+        "type": "Events",
+        "description": "Major concerts or tours of anisong artists"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Anime Awards",
+        "malId": "anime_awards",
+        "url": "https://myanimelist.net/news/tag/anime_awards",
+        "type": "Events",
+        "description": "News about awards given to TV anime and films"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "People Awards",
+        "malId": "people_awards",
+        "url": "https://myanimelist.net/news/tag/people_awards",
+        "type": "Events",
+        "description": "News about awards given to prominent people in the industry"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Otakon",
+        "malId": "otakon",
+        "url": "https://myanimelist.net/news/tag/otakon",
+        "type": "Events",
+        "description": "News related to Otakon in Baltimore."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Anime Festival Asia",
+        "malId": "anime_festival_asia",
+        "url": "https://myanimelist.net/news/tag/anime_festival_asia",
+        "type": "Events",
+        "description": "News related to Anime Festival Asia in Singapore."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Comiket",
+        "malId": "comiket",
+        "url": "https://myanimelist.net/news/tag/comiket",
+        "type": "Events",
+        "description": "News related to Comic Market at Tokyo Big Sight."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Wonder Festival",
+        "malId": "wonder_festival",
+        "url": "https://myanimelist.net/news/tag/wonder_festival",
+        "type": "Events",
+        "description": "News related to Wonder Festival."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Japan Expo",
+        "malId": "japan_expo",
+        "url": "https://myanimelist.net/news/tag/japan_expo",
+        "type": "Events",
+        "description": "News related to Japan Expo in Paris."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "AnimeJapan",
+        "malId": "animejapan",
+        "url": "https://myanimelist.net/news/tag/animejapan",
+        "type": "Events",
+        "description": "News related to AnimeJapan in Tokyo."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Machi Asobi",
+        "malId": "machi_asobi",
+        "url": "https://myanimelist.net/news/tag/machi_asobi",
+        "type": "Events",
+        "description": "News related to Machi★Asobi in Tokushima."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Anime NYC",
+        "malId": "anime_nyc",
+        "url": "https://myanimelist.net/news/tag/anime_nyc",
+        "type": "Events",
+        "description": "News related to Anime NYC in New York City."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Sakura-con",
+        "malId": "sakura-con",
+        "url": "https://myanimelist.net/news/tag/sakura-con",
+        "type": "Events",
+        "description": "News related to Sakura-con in Seattle."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Anime Central",
+        "malId": "anime_central",
+        "url": "https://myanimelist.net/news/tag/anime_central",
+        "type": "Events",
+        "description": "News related to Anime Central in Chicago."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "SMASH",
+        "malId": "smash",
+        "url": "https://myanimelist.net/news/tag/smash",
+        "type": "Events",
+        "description": "News related to SMASH! in Sydney."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "NYCC",
+        "malId": "nycc",
+        "url": "https://myanimelist.net/news/tag/nycc",
+        "type": "Events",
+        "description": "News related to New York Comic Convention."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Jump Festa",
+        "malId": "jump_festa",
+        "url": "https://myanimelist.net/news/tag/jump_festa",
+        "type": "Events",
+        "description": "News related to Jump Festa in Tokyo."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "AOF",
+        "malId": "aof",
+        "url": "https://myanimelist.net/news/tag/aof",
+        "type": "Events",
+        "description": "News related to Aniplex Online Festival."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Anime Sales",
+        "malId": "anime_sales",
+        "url": "https://myanimelist.net/news/tag/anime_sales",
+        "type": "Industry",
+        "description": "Anime Blu-ray and DVD sales rankings."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Licenses",
+        "malId": "licenses",
+        "url": "https://myanimelist.net/news/tag/licenses",
+        "type": "Industry",
+        "description": "Anime, manga, and light novel licenses. Includes monthly NA Releases thread."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Manga Sales",
+        "malId": "manga_sales",
+        "url": "https://myanimelist.net/news/tag/manga_sales",
+        "type": "Industry",
+        "description": "Manga volume sales rankings."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Music Sales",
+        "malId": "music_sales",
+        "url": "https://myanimelist.net/news/tag/music_sales",
+        "type": "Industry",
+        "description": "Anisong artists' CD single/album sales rankings."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Light Novel Sales",
+        "malId": "light_novel_sales",
+        "url": "https://myanimelist.net/news/tag/light_novel_sales",
+        "type": "Industry",
+        "description": "Light Novel volume sales rankings."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "First Volume Sales",
+        "malId": "first_volume_sales",
+        "url": "https://myanimelist.net/news/tag/first_volume_sales",
+        "type": "Industry",
+        "description": "Sales that includes first volume rankings."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Live Action",
+        "malId": "live_action",
+        "url": "https://myanimelist.net/news/tag/live_action",
+        "type": "Industry",
+        "description": "News related to live-action adaptations."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Magazines",
+        "malId": "magazines",
+        "url": "https://myanimelist.net/news/tag/magazines",
+        "type": "Industry",
+        "description": "News related to magazines."
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Companies",
+        "malId": "companies",
+        "url": "https://myanimelist.net/news/tag/companies",
+        "type": "Industry",
+        "description": null
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "KonoSugoi",
+        "malId": "konosugoi",
+        "url": "https://myanimelist.net/news/tag/konosugoi",
+        "type": "Industry",
+        "description": null
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Yearly Rankings",
+        "malId": "yearly_rankings",
+        "url": "https://myanimelist.net/news/tag/yearly_rankings",
+        "type": "Industry",
+        "description": null
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Crowdfunding",
+        "malId": "crowdfunding",
+        "url": "https://myanimelist.net/news/tag/crowdfunding",
+        "type": "Industry",
+        "description": null
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\TagMeta",
+        "name": "Editorial",
+        "malId": "editorial",
+        "url": "https://myanimelist.net/news/tag/editorial",
+        "type": "Industry",
+        "description": "Commentary from the editors of MyAnimeList."
+    }
+]

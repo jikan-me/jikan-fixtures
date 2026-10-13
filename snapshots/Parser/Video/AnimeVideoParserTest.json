@@ -1,0 +1,390 @@
+{
+    "@class": "Jikan\\Model\\Anime\\AnimeVideos",
+    "promo": [
+        {
+            "@class": "Jikan\\Model\\Anime\\PromoListItem",
+            "title": "PV 1 English dub version",
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "gY5nDXOtv_o",
+                "url": "https://www.youtube.com/watch?v=gY5nDXOtv_o",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/gY5nDXOtv_o?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/maxresdefault.jpg"
+                }
+            }
+        }
+    ],
+    "episodes": [
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 26,
+            "title": "The Real Folk Blues (part 2)",
+            "episode": "Episode 26",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/26",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 25,
+            "title": "The Real Folk Blues (part 1)",
+            "episode": "Episode 25",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/25",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 24,
+            "title": "Hard Luck Woman",
+            "episode": "Episode 24",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/24",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 23,
+            "title": "Brain Scratch",
+            "episode": "Episode 23",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/23",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 22,
+            "title": "Cowboy Funk",
+            "episode": "Episode 22",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/22",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 21,
+            "title": "Boogie Woogie Feng Shui",
+            "episode": "Episode 21",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/21",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 20,
+            "title": "Pierrot Le Fou",
+            "episode": "Episode 20",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/20",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 19,
+            "title": "Wild Horses",
+            "episode": "Episode 19",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/19",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 18,
+            "title": "Speak Like a Child",
+            "episode": "Episode 18",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/18",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 17,
+            "title": "Mushroom Samba",
+            "episode": "Episode 17",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/17",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 16,
+            "title": "Black Dog Serenade",
+            "episode": "Episode 16",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/16",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 15,
+            "title": "My Funny Valentine",
+            "episode": "Episode 15",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/15",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 14,
+            "title": "Bohemian Rhapsody",
+            "episode": "Episode 14",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/14",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 13,
+            "title": "Jupiter Jazz (part 2)",
+            "episode": "Episode 13",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/13",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 12,
+            "title": "Jupiter Jazz (part 1)",
+            "episode": "Episode 12",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/12",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 11,
+            "title": "Toys in the Attic",
+            "episode": "Episode 11",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/11",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 10,
+            "title": "Ganymede Elegy",
+            "episode": "Episode 10",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/10",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 9,
+            "title": "Jamming with Edward",
+            "episode": "Episode 9",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/9",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 8,
+            "title": "Waltz for Venus",
+            "episode": "Episode 8",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/8",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 7,
+            "title": "Heavy Metal Queen",
+            "episode": "Episode 7",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/7",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 6,
+            "title": "Sympathy for the Devil",
+            "episode": "Episode 6",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/6",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 5,
+            "title": "Ballad of Fallen Angels",
+            "episode": "Episode 5",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/5",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 4,
+            "title": "Gateway Shuffle",
+            "episode": "Episode 4",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/4",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 3,
+            "title": "Honky Tonk Women",
+            "episode": "Episode 3",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/3",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 2,
+            "title": "Stray Dog Strut",
+            "episode": "Episode 2",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1,
+            "title": "Asteroid Blues",
+            "episode": "Episode 1",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/1",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            }
+        }
+    ],
+    "musicVideos": []
+}

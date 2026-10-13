@@ -1,0 +1,25 @@
+{
+    "@class": "Jikan\\Model\\Character\\Animeography",
+    "anime": {
+        "@class": "Jikan\\Model\\Common\\AnimeMeta",
+        "malId": 29803,
+        "url": "https://myanimelist.net/anime/29803/Overlord",
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+            "jpg": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg?s=13e470b9684687adefaf8ad595f0425e",
+                "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600t.jpg?s=13e470b9684687adefaf8ad595f0425e",
+                "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg?s=13e470b9684687adefaf8ad595f0425e"
+            },
+            "webp": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600.webp?s=13e470b9684687adefaf8ad595f0425e",
+                "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600t.webp?s=13e470b9684687adefaf8ad595f0425e",
+                "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600l.webp?s=13e470b9684687adefaf8ad595f0425e"
+            }
+        },
+        "title": "Overlord"
+    },
+    "role": "Main"
+}

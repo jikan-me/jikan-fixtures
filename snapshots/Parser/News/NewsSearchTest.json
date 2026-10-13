@@ -1,0 +1,779 @@
+{
+    "@class": "Jikan\\Model\\News\\NewsList",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 72179758,
+            "url": "https://myanimelist.net/news/72179758",
+            "title": "'Bleach: Sennen Kessen-hen' Fourth Part Announced as Final Season",
+            "date": "2024-12-28T10:52:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2195521",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1735411918-1602672abbdcd42634b42971af484964.jpeg?s=9c9cebbaf9606225d4b424fed5091338",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1735411918-1602672abbdcd42634b42971af484964.jpeg?s=9c9cebbaf9606225d4b424fed5091338",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1735411918-1602672abbdcd42634b42971af484964.jpeg?s=9c9cebbaf9606225d4b424fed5091338"
+                }
+            },
+            "comments": 16,
+            "excerpt": "The 14th and final episode of the Bleach: Sennen Kessen-hen - Soukoku-tan (Bleach: Thousand-Year Blood War - The Conflict) television anime announced on Saturday that the fourth part of the anime series, subtitled Kashin-tan (The Calamity Arc), will serve as the final season. Th...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 72991077,
+            "url": "https://myanimelist.net/news/72991077",
+            "title": "'Black Torch' Announces Main Cast",
+            "date": "2025-07-09T20:49:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2222787",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1752119291-37fe3c39162cb37b15865e50f5a7d2d9.jpeg?s=ab2b82225f9eba99fbf721a80cd86083",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1752119291-37fe3c39162cb37b15865e50f5a7d2d9.jpeg?s=ab2b82225f9eba99fbf721a80cd86083",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1752119291-37fe3c39162cb37b15865e50f5a7d2d9.jpeg?s=ab2b82225f9eba99fbf721a80cd86083"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The VIZ Media panel at Anime Expo 2025 announced the main cast members for the television anime adaptation of Tsuyoshi Takaki's Black Torch manga on Sunday. Cast Jirou Azuma: Ryouta Suzuki (Dr. Stone: New World) Ragou: Youji Ueda (JoJo no Kimyou na Bouken (TV)) Ichika Kishimonji:...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "anime_expo",
+                    "name": "Anime Expo",
+                    "url": "https://myanimelist.net/news/tag/anime_expo"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 69774465,
+            "url": "https://myanimelist.net/news/69774465",
+            "title": "Interview: Breathing Life Into a Zombie Apocalypse With Kotaro Takata",
+            "date": "2023-08-30T19:19:00+00:00",
+            "authorUsername": "tingy",
+            "authorUrl": "https://myanimelist.net/profile/tingy",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2114587",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1693444935-87a2c2eb1324fea36029498dd62757c9.jpeg?s=5f5a95c52f4fee6ed352eba9ab0dc7f9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1693444935-87a2c2eb1324fea36029498dd62757c9.jpeg?s=5f5a95c52f4fee6ed352eba9ab0dc7f9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1693444935-87a2c2eb1324fea36029498dd62757c9.jpeg?s=5f5a95c52f4fee6ed352eba9ab0dc7f9"
+                }
+            },
+            "comments": 2,
+            "excerpt": "Kotaro Takata, the talented artist behind the captivating manga Zom 100: Bucket List of the Dead, appeared as a guest of honor at Anime Expo 2023. With an impressive array of vibrant illustrations and a unique storytelling style, Takata-sensei has captured the hearts of manga fan...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "anime_expo",
+                    "name": "Anime Expo",
+                    "url": "https://myanimelist.net/news/tag/anime_expo"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "mangaka",
+                    "name": "Mangaka",
+                    "url": "https://myanimelist.net/news/tag/mangaka"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/news/tag/interview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73095897,
+            "url": "https://myanimelist.net/news/73095897",
+            "title": "Sony and Bandai Namco Form Strategic Alliance to Expand Global IP Reach",
+            "date": "2025-08-01T17:27:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2226613",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1754094328-fdf7d694569cbe28ca397526c1e4d474.jpeg?s=613b7415d31567a7b5bf8806885ad8a2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1754094328-fdf7d694569cbe28ca397526c1e4d474.jpeg?s=613b7415d31567a7b5bf8806885ad8a2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1754094328-fdf7d694569cbe28ca397526c1e4d474.jpeg?s=613b7415d31567a7b5bf8806885ad8a2"
+                }
+            },
+            "comments": 2,
+            "excerpt": "Sony Group Corporation and Bandai Namco Holdings Inc. have announced a strategic partnership underpinned by a 68 billion yen (approximately US$463 million) equity investment. As part of the agreement, Sony will acquire 16 million shares, roughly 2.5% of Bandai Namco's total outs...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "companies",
+                    "name": "Companies",
+                    "url": "https://myanimelist.net/news/tag/companies"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 69670962,
+            "url": "https://myanimelist.net/news/69670962",
+            "title": "'Pokemon' Net Anime Series 'Houkago no Breath' Announced for September 6",
+            "date": "2023-08-09T05:56:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2111129",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1691585661-540e78295e83248966725642c5edd2f2.png?s=c190c7c3f6c8c504322ca03211fadae5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1691585661-540e78295e83248966725642c5edd2f2.png?s=c190c7c3f6c8c504322ca03211fadae5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1691585661-540e78295e83248966725642c5edd2f2.png?s=c190c7c3f6c8c504322ca03211fadae5"
+                }
+            },
+            "comments": 8,
+            "excerpt": "The Pokemon Presents livestream announced on Tuesday a new original net anime, titled Houkago no Breath (Pokémon: Paldean Winds), revealing the main cast and staff. The four-episode original net anime is set to premiere on September 6 on the official YouTube channel. Cast Ohara:...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73627707,
+            "url": "https://myanimelist.net/news/73627707",
+            "title": "'Black Torch' Announces Additional Cast Pair",
+            "date": "2025-12-20T23:11:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2245863",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1766300918-08486acc2aa9f64f8167e0643de467a2.jpeg?s=b94e40892af6f3a9865b3c7e4ce6497c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1766300918-08486acc2aa9f64f8167e0643de467a2.jpeg?s=b94e40892af6f3a9865b3c7e4ce6497c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1766300918-08486acc2aa9f64f8167e0643de467a2.jpeg?s=b94e40892af6f3a9865b3c7e4ce6497c"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The Black Torch presentation at Jump Festa 2026's Jump Station announced a pair of additional cast on Sunday. The anime, adapting Tsuyoshi Takaki's action supernatural manga, is scheduled to premiere in July 2026. Ryousuke Shiba: Junichi Suwabe (Black Clover) Hana Usami: Reina U...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "jump_festa",
+                    "name": "Jump Festa",
+                    "url": "https://myanimelist.net/news/tag/jump_festa"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2026",
+                    "name": "Summer 2026",
+                    "url": "https://myanimelist.net/news/tag/summer_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 72971976,
+            "url": "https://myanimelist.net/news/72971976",
+            "title": "Second Season of 'Black Clover' Announced",
+            "date": "2025-07-06T10:08:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2222177",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1751821711-51a9f618e8f93d6d92f478c9ac471ae0.jpeg?s=aa8d117fe3dbea3e3f18a7c280a748d3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1751821711-51a9f618e8f93d6d92f478c9ac471ae0.jpeg?s=aa8d117fe3dbea3e3f18a7c280a748d3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1751821711-51a9f618e8f93d6d92f478c9ac471ae0.jpeg?s=aa8d117fe3dbea3e3f18a7c280a748d3"
+                }
+            },
+            "comments": 17,
+            "excerpt": "The Crunchyroll Industry Panel at Anime Expo 2025 announced a second season of Black Clover on Saturday, revealing a \"kick off\" visual (pictured) and an announcement promo. Produced by Pierrot, the first anime season adapting Yuuki Tabata's fantasy action manga premiered in Fall...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "anime_expo",
+                    "name": "Anime Expo",
+                    "url": "https://myanimelist.net/news/tag/anime_expo"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 69925170,
+            "url": "https://myanimelist.net/news/69925170",
+            "title": "'Bleach: Sennen Kessen-hen' Third Part Announced for 2024",
+            "date": "2023-09-30T08:59:00+00:00",
+            "authorUsername": "Hyperion_PS",
+            "authorUrl": "https://myanimelist.net/profile/Hyperion_PS",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2120426",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1696089283-edbc1dab9e7669616344a2b9c4e30f82.jpeg?s=2db7d978b901c394fe8b430cfa3d92e2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1696089283-edbc1dab9e7669616344a2b9c4e30f82.jpeg?s=2db7d978b901c394fe8b430cfa3d92e2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1696089283-edbc1dab9e7669616344a2b9c4e30f82.jpeg?s=2db7d978b901c394fe8b430cfa3d92e2"
+                }
+            },
+            "comments": 24,
+            "excerpt": "The 13th and final episode of the Bleach: Sennen Kessen-hen - Ketsubetsu-tan (Bleach: Thousand-Year Blood War - The Separation) television anime announced on Sunday that the third part of the anime series, subtitled Soukoku-tan, is set to premiere in 2024 on TV Tokyo. The officia...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 72455328,
+            "url": "https://myanimelist.net/news/72455328",
+            "title": "Manga 'Black Torch' Gets TV Anime Adaptation",
+            "date": "2025-03-08T13:58:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2205130",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1741471042-332cd35e2df5de1cf080156b51a7d3bf.jpeg?s=ad101af2bace6e24af2bc331bcae4347",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1741471042-332cd35e2df5de1cf080156b51a7d3bf.jpeg?s=ad101af2bace6e24af2bc331bcae4347",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1741471042-332cd35e2df5de1cf080156b51a7d3bf.jpeg?s=ad101af2bace6e24af2bc331bcae4347"
+                }
+            },
+            "comments": 30,
+            "excerpt": "A television anime adaptation of Tsuyoshi Takaki's Black Torch manga was announced at the Emerald City Comic Con in Seattle, Washington on Saturday. Production company Bushiroad simultaneously opened an official website, revealing the main staff, a teaser promo, and a teaser visu...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 68252438,
+            "url": "https://myanimelist.net/news/68252438",
+            "title": "'Bleach: Sennen Kessen-hen' Gets Second Part in Summer 2023",
+            "date": "2022-12-26T10:14:00+00:00",
+            "authorUsername": "Hyperion_PS",
+            "authorUrl": "https://myanimelist.net/profile/Hyperion_PS",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2066161",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1672082268-b7e007e72ba3c6d9a0ec3fe087624f15.jpeg?s=638c20063b4004be8f54971e70974c4a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1672082268-b7e007e72ba3c6d9a0ec3fe087624f15.jpeg?s=638c20063b4004be8f54971e70974c4a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1672082268-b7e007e72ba3c6d9a0ec3fe087624f15.jpeg?s=638c20063b4004be8f54971e70974c4a"
+                }
+            },
+            "comments": 27,
+            "excerpt": "The 13th and final episode of the Bleach: Sennen Kessen-hen (Bleach: Thousand-Year Blood War) television anime announced its second cours on Tuesday, subtitled Ketsubetsu-tan (The Separation), revealing an announcement promo. The second part is set to premiere in July 2023 on TV...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2023",
+                    "name": "Summer 2023",
+                    "url": "https://myanimelist.net/news/tag/summer_2023"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 69283316,
+            "url": "https://myanimelist.net/news/69283316",
+            "title": "'Bleach: Sennen Kessen-hen - Ketsubetsu-tan' Reveals Additional Cast, Opening Theme, First Promo",
+            "date": "2023-05-28T06:26:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2096123",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1685280389-8422e63352f6d692388ab4f114ebc79c.png?s=11ef007bdc9379ba122defff99a3603e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1685280389-8422e63352f6d692388ab4f114ebc79c.png?s=11ef007bdc9379ba122defff99a3603e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1685280389-8422e63352f6d692388ab4f114ebc79c.png?s=11ef007bdc9379ba122defff99a3603e"
+                }
+            },
+            "comments": 17,
+            "excerpt": "The official website of the Bleach: Sennen Kessen-hen (Bleach: Thousand-Year Blood War) television anime revealed on Sunday four additional cast, opening theme, key visual (pictured), and a promotional video for the second cour. Ketsubetsu-tan is scheduled to premiere on July 8 a...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2023",
+                    "name": "Summer 2023",
+                    "url": "https://myanimelist.net/news/tag/summer_2023"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 67089951,
+            "url": "https://myanimelist.net/news/67089951",
+            "title": "'Bleach: Sennen Kessen-hen' Unveils Supporting Cast, Second Key Visual",
+            "date": "2022-08-06T09:44:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2035920",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1659804266-18d3fd8e57b680c1c3d1ded030c36f66.jpeg?s=18c1e1ba2e30335c31c1a159fc8c1963",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1659804266-18d3fd8e57b680c1c3d1ded030c36f66.jpeg?s=18c1e1ba2e30335c31c1a159fc8c1963",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1659804266-18d3fd8e57b680c1c3d1ded030c36f66.jpeg?s=18c1e1ba2e30335c31c1a159fc8c1963"
+                }
+            },
+            "comments": 14,
+            "excerpt": "The official website of the Bleach: Sennen Kessen-hen (Bleach: Thousand-Year Blood War) television anime unveiled supporting cast and a second key visual on Sunday (pictured). The final arc adapting Tite Kubo's supernatural adventure manga is scheduled to begin airing on TV Tokyo...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "screening",
+                    "name": "Screening",
+                    "url": "https://myanimelist.net/news/tag/screening"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2022",
+                    "name": "Fall 2022",
+                    "url": "https://myanimelist.net/news/tag/fall_2022"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 62598403,
+            "url": "https://myanimelist.net/news/62598403",
+            "title": "Lerche Produces 'Gyakuten Sekai no Denchi Shoujo' Original Anime Series",
+            "date": "2021-04-02T09:26:00+00:00",
+            "authorUsername": "Aidan",
+            "authorUrl": "https://myanimelist.net/profile/Aidan",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=1911357",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1617380431-16320b31f18f8caccb9dca969d203d7c.jpeg?s=2b4c624d2efbb324f6d608b927e8cd17",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1617380431-16320b31f18f8caccb9dca969d203d7c.jpeg?s=2b4c624d2efbb324f6d608b927e8cd17",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1617380431-16320b31f18f8caccb9dca969d203d7c.jpeg?s=2b4c624d2efbb324f6d608b927e8cd17"
+                }
+            },
+            "comments": 31,
+            "excerpt": "Kadokawa opened an official website for an original television anime titled Gyakuten Sekai no Denchi Shoujo (Reversal World's Battery Girl) on Friday, revealing the main staff and a teaser visual (pictured). Staff Director: Masaomi Andou (Kanata no Astra) Series Composition: Mako...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 66764688,
+            "url": "https://myanimelist.net/news/66764688",
+            "title": "'Bleach: Sennen Kessen-hen' Reveals Additional Staff, First Promo",
+            "date": "2022-07-02T20:07:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2027160",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1656817558-b5c3cce8258e2a3bd04b1bf06c8becb3.jpeg?s=f86cdb05df0f8bf77e205a049ac9864c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1656817558-b5c3cce8258e2a3bd04b1bf06c8becb3.jpeg?s=f86cdb05df0f8bf77e205a049ac9864c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1656817558-b5c3cce8258e2a3bd04b1bf06c8becb3.jpeg?s=f86cdb05df0f8bf77e205a049ac9864c"
+                }
+            },
+            "comments": 28,
+            "excerpt": "The Bleach: Sennen Kessen-hen (Bleach: Thousand-Year Blood War) Celebration Panel at Anime Expo revealed on Saturday additional staff, first key visual (pictured) and first promotional video. The new season is scheduled to premiere on TV Tokyo in October 2022. Staff Series Compos...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "anime_expo",
+                    "name": "Anime Expo",
+                    "url": "https://myanimelist.net/news/tag/anime_expo"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2022",
+                    "name": "Fall 2022",
+                    "url": "https://myanimelist.net/news/tag/fall_2022"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 65218486,
+            "url": "https://myanimelist.net/news/65218486",
+            "title": "'Bleach: Sennen Kessen-hen' TV Anime Debuts in Fall 2022",
+            "date": "2021-12-18T01:47:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=1980259",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1639820857-46f2d673dd4f0ec7fecc105d80c4bb84.jpeg?s=5a0d8a3d76c6f08486f4bece67394a04",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1639820857-46f2d673dd4f0ec7fecc105d80c4bb84.jpeg?s=5a0d8a3d76c6f08486f4bece67394a04",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1639820857-46f2d673dd4f0ec7fecc105d80c4bb84.jpeg?s=5a0d8a3d76c6f08486f4bece67394a04"
+                }
+            },
+            "comments": 65,
+            "excerpt": "The Jump Super Studio EX stage for Bleach: Sennen Kessen-hen (Bleach: Thousand-Year Blood War arc)—the anime adaptation of the final arc in Tite Kubo's supernatural adventure manga—unveiled a teaser visual (pictured) and teaser promo on Saturday. Aniplex simultaneously opened an...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "jump_festa",
+                    "name": "Jump Festa",
+                    "url": "https://myanimelist.net/news/tag/jump_festa"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2022",
+                    "name": "Fall 2022",
+                    "url": "https://myanimelist.net/news/tag/fall_2022"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 67429094,
+            "url": "https://myanimelist.net/news/67429094",
+            "title": "'Bleach: Sennen Kessen-hen' Reveals Additional Cast, Second Promo, Theme Song Artists",
+            "date": "2022-09-11T04:00:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2044102",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1662893987-f907ca14c6b1fe89cc0492f491e0335a.jpeg?s=2363e04d5e6b52c75edb11440a42bb0c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1662893987-f907ca14c6b1fe89cc0492f491e0335a.jpeg?s=2363e04d5e6b52c75edb11440a42bb0c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1662893987-f907ca14c6b1fe89cc0492f491e0335a.jpeg?s=2363e04d5e6b52c75edb11440a42bb0c"
+                }
+            },
+            "comments": 48,
+            "excerpt": "The advance screening event of the Bleach: Sennen Kessen-hen (Bleach: Thousand-Year Blood War) television anime revealed five additional cast, a second promo, and the opening and ending theme artists on Sunday. The final arc adapting Tite Kubo's supernatural adventure manga will...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2022",
+                    "name": "Fall 2022",
+                    "url": "https://myanimelist.net/news/tag/fall_2022"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 69043777,
+            "url": "https://myanimelist.net/news/69043777",
+            "title": "'Kuroko no Basket', 'Shokugeki no Souma' Creators Each Begin New Manga",
+            "date": "2023-04-17T23:38:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2088833",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1681799845-f446783c84c78e0e620eedc1bfafae7c.jpeg?s=4544850cee7ca37687b82320d30716fb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1681799845-f446783c84c78e0e620eedc1bfafae7c.jpeg?s=4544850cee7ca37687b82320d30716fb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1681799845-f446783c84c78e0e620eedc1bfafae7c.jpeg?s=4544850cee7ca37687b82320d30716fb"
+                }
+            },
+            "comments": 7,
+            "excerpt": "The 20th issue of Weekly Shounen Jump began publishing Tadatoshi Fujimaki's new manga Kill Ao (Kill Blue) on Monday. Fujimaki previously drew the Kill Aoharu one-shot in the same magazine in December 2021. VIZ Media and Shueisha's Manga Plus platform are simultaneously serializin...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_manga",
+                    "name": "New Manga",
+                    "url": "https://myanimelist.net/news/tag/new_manga"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 62004170,
+            "url": "https://myanimelist.net/news/62004170",
+            "title": "'Peach Boy Riverside' Reveals Additional Cast, Staff Members",
+            "date": "2021-02-13T22:05:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=1897387",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1613282539-9c837ddca3aa00a484209489f63c90c8.png?s=4a01bea35779bf8b9c21557ee4ea50ed",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1613282539-9c837ddca3aa00a484209489f63c90c8.png?s=4a01bea35779bf8b9c21557ee4ea50ed",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1613282539-9c837ddca3aa00a484209489f63c90c8.png?s=4a01bea35779bf8b9c21557ee4ea50ed"
+                }
+            },
+            "comments": 4,
+            "excerpt": "The official website for the television anime of Cool-kyou Shinja and Yohane's Peach Boy Riverside manga revealed on Sunday additional staff, cast and a key visual (pictured). The anime series is scheduled to premiere in July 2021. Cast Frau: Mao Ichimichi (Enen no Shouboutai) Ha...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2021",
+                    "name": "Summer 2021",
+                    "url": "https://myanimelist.net/news/tag/summer_2021"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 70291566,
+            "url": "https://myanimelist.net/news/70291566",
+            "title": "Manga 'Black Jack' Gets Live-Action TV Drama in 2024",
+            "date": "2023-12-16T11:53:00+00:00",
+            "authorUsername": "Hyperion_PS",
+            "authorUrl": "https://myanimelist.net/profile/Hyperion_PS",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2135719",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1702756160-ecdbf3b561abfc3fc2810086b4d24fde.jpeg?s=4a67d44b0967efee66def97b54416e57",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1702756160-ecdbf3b561abfc3fc2810086b4d24fde.jpeg?s=4a67d44b0967efee66def97b54416e57",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1702756160-ecdbf3b561abfc3fc2810086b4d24fde.jpeg?s=4a67d44b0967efee66def97b54416e57"
+                }
+            },
+            "comments": 0,
+            "excerpt": "TV Asahi announced on Saturday that Osamu Tezuka's Black Jack manga is receiving a Japanese live-action television drama adaptation to commemorate the manga's 50th anniversary. The television drama is set to air in 2024 on TV Asahi. Issei Takahashi (Mimi wo Sumaseba) is starring...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "live_action",
+                    "name": "Live Action",
+                    "url": "https://myanimelist.net/news/tag/live_action"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 59392515,
+            "url": "https://myanimelist.net/news/59392515",
+            "title": "'Bleach' Anime Returns After Eight Years, Adapts Final Arc",
+            "date": "2020-03-20T18:47:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=1830135",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1584755181-9f6e0073b7cef42e72c2edf1604970cb.jpeg?s=db7c7117efad5da1710e9198fff7ae30",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1584755181-9f6e0073b7cef42e72c2edf1604970cb.jpeg?s=db7c7117efad5da1710e9198fff7ae30",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1584755181-9f6e0073b7cef42e72c2edf1604970cb.jpeg?s=db7c7117efad5da1710e9198fff7ae30"
+                }
+            },
+            "comments": 103,
+            "excerpt": "The Bleach 20th Anniversary Project & Tite Kubo New Project Presentation livestream announced on Saturday that the anime series is making a return. The new anime will adapt the final manga arc, Sennen Kessen-hen (Thousand-Year Blood War arc), which spans from the 55th to the 74th...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        }
+    ]
+}

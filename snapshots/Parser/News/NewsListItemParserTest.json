@@ -1,0 +1,29 @@
+{
+    "@class": "Jikan\\Model\\News\\NewsListItem",
+    "malId": 74811025,
+    "url": "https://myanimelist.net/news/74811025",
+    "title": "'Noa-senpai wa Tomodachi' Reveals Main Cast, 2027 Debut",
+    "date": "<date>",
+    "authorUsername": "Syureria",
+    "authorUrl": "https://myanimelist.net/profile/Syureria",
+    "forumUrl": "https://myanimelist.net/forum/?topicid=2282401",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791713753-684272201e881400d9c608311ba31ab7.jpeg?s=241106ffb7c66abb70930882ac67dac6",
+            "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791713753-684272201e881400d9c608311ba31ab7.jpeg?s=241106ffb7c66abb70930882ac67dac6",
+            "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791713753-684272201e881400d9c608311ba31ab7.jpeg?s=241106ffb7c66abb70930882ac67dac6"
+        }
+    },
+    "comments": 3,
+    "excerpt": "The official website for the television anime adaptation of Enma Akiyama's Noa-senpai wa Tomodachi (Noa Is My Senior, and My Friend) manga revealed the main cast and a key visual (pictured) on Sunday. The anime series will premiere in 2027. Voice actors Rina Kawaguchi (Witch Watc...",
+    "tags": [
+        {
+            "@class": "Jikan\\Model\\Common\\TagUrl",
+            "malId": "more_info",
+            "name": "More Info",
+            "url": "https://myanimelist.net/news/tag/more_info"
+        }
+    ]
+}

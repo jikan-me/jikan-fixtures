@@ -1,0 +1,208 @@
+{
+    "@class": "Jikan\\Model\\Anime\\Anime",
+    "malId": 6,
+    "url": "https://myanimelist.net/anime/6/Trigun",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002l.webp"
+        }
+    },
+    "trailer": {
+        "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+        "youtubeId": "bJVyIXeUznY",
+        "url": "https://www.youtube.com/watch?v=bJVyIXeUznY",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+            "imageUrl": "https://img.youtube.com/vi/bJVyIXeUznY/default.jpg",
+            "smallImageUrl": "https://img.youtube.com/vi/bJVyIXeUznY/sddefault.jpg",
+            "mediumImageUrl": "https://img.youtube.com/vi/bJVyIXeUznY/mqdefault.jpg",
+            "largeImageUrl": "https://img.youtube.com/vi/bJVyIXeUznY/hqdefault.jpg",
+            "maximumImageUrl": "https://img.youtube.com/vi/bJVyIXeUznY/maxresdefault.jpg"
+        }
+    },
+    "title": "Trigun",
+    "titleEnglish": "Trigun",
+    "titleJapanese": "トライガン",
+    "titleSynonyms": [],
+    "titles": [
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Default",
+            "title": "Trigun"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Japanese",
+            "title": "トライガン"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "English",
+            "title": "Trigun"
+        }
+    ],
+    "approved": true,
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+        "@class": "Jikan\\Model\\Common\\DateRange",
+        "date": "Apr 1, 1998 to Sep 30, 1998"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 8.22,
+    "scoredBy": 396690,
+    "rank": 394,
+    "popularity": 264,
+    "members": 822213,
+    "favorites": 17375,
+    "synopsis": "Vash the Stampede is the man with a $$60,000,000,000 bounty on his head. The reason: he's a merciless villain who lays waste to all those that oppose him and flattens entire cities for fun, garnering him the title \"The Humanoid Typhoon.\" He leaves a trail of death and destruction wherever he goes, and anyone can count themselves dead if they so much as make eye contact—or so the rumors say. In actuality, Vash is a huge softie who claims to have never taken a life and avoids violence at all costs.\n\nWith his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses the wasteland of the planet Gunsmoke, all the while followed by two insurance agents, Meryl Stryfe and Milly Thompson, who attempt to minimize his impact on the public. But soon, their misadventures evolve into life-or-death situations as a group of legendary assassins are summoned to bring about suffering to the trio. Vash's agonizing past will be unraveled and his morality and principles pushed to the breaking point.\n\n[Written by MAL Rewrite]",
+    "background": "The Japanese release by Victor Entertainment has different openings relating to the specific episode it's played on. The initial Geneon Entertainment USA (then known as Pioneer) releases on VHS and DVD (singles, Signature Series, and box set) used only the first opening on each episode. This was due to the Japanese licensor providing them clean materials for only the first opening to put the English credits on. Geneon later fixed this mistake on their Limited Edition tin releases in 2005/2006, as well as on the Remix singles. Following Geneon USA's demise in late 2007, the show went out of print. When FUNimation Entertainment picked up the show in 2010 and released it, they repeated Geneon's mistake of using only the first opening on every episode. This mistake was later fixed in 2013 on the Anime Classics re-release.",
+    "premiered": "Spring 1998",
+    "broadcast": "Thursdays at 01:15 (JST)",
+    "related": {
+        "Adaptation": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Trigun",
+                "url": "https://myanimelist.net/manga/703/Trigun"
+            }
+        ],
+        "Side Story": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Trigun: Badlands Rumble",
+                "url": "https://myanimelist.net/anime/4106/Trigun__Badlands_Rumble"
+            }
+        ],
+        "Alternative Version": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Trigun Stampede",
+                "url": "https://myanimelist.net/anime/52093/Trigun_Stampede"
+            }
+        ]
+    },
+    "producers": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Victor Entertainment",
+            "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Arts Pro",
+            "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+        }
+    ],
+    "licensors": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Funimation",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "studios": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "genres": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "explicitGenres": [],
+    "demographics": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "themes": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        }
+    ],
+    "openingThemes": [
+        "\"H.T.\" by Tsuneo Imahori"
+    ],
+    "endingThemes": [
+        "\"Kaze wa Mirai ni Fuku (The Wind Blows to the Future)\" by AKIMA & NEOS"
+    ],
+    "externalLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Official Site",
+            "url": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=396"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "AniDB",
+            "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=53"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "ANN",
+            "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=88"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Trigun"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AC%E3%83%B3"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Syoboi",
+            "url": "https://cal.syoboi.jp/tid/1448"
+        }
+    ],
+    "streamingLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Crunchyroll",
+            "url": "http://www.crunchyroll.com/series-275669"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Netflix",
+            "url": "https://www.netflix.com/"
+        }
+    ]
+}

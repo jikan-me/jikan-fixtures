@@ -1,0 +1,737 @@
+{
+    "@class": "Jikan\\Model\\News\\NewsList",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73734818,
+            "url": "https://myanimelist.net/news/73734818",
+            "title": "Webtoon 'Tomb Raider King' Gets TV Anime in Summer 2026",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249381",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768575437-330d22da893102c06382e843cefbfc91.jpeg?s=cf510c09c73775a079f96bc6d255b235",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768575437-330d22da893102c06382e843cefbfc91.jpeg?s=cf510c09c73775a079f96bc6d255b235",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768575437-330d22da893102c06382e843cefbfc91.jpeg?s=cf510c09c73775a079f96bc6d255b235"
+                }
+            },
+            "comments": 17,
+            "excerpt": "Production company Kadokawa opened an official website for the television anime adaptation of Sanji Jiksong and 3B2S's Tomb Raider King webtoon on Friday, revealing the main cast, staff, the opening theme, first promotional video, and a teaser visual (pictured). The anime series...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2026",
+                    "name": "Summer 2026",
+                    "url": "https://myanimelist.net/news/tag/summer_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73734511,
+            "url": "https://myanimelist.net/news/73734511",
+            "title": "Additional Cast Pair for 'Kaze wo Tsugumono' Announced",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249361",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768566244-6ae4ae855ac11d041f8851b9b9b865bb.jpeg?s=be3e9f48f73a0918e841077f9168baa1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768566244-6ae4ae855ac11d041f8851b9b9b865bb.jpeg?s=be3e9f48f73a0918e841077f9168baa1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768566244-6ae4ae855ac11d041f8851b9b9b865bb.jpeg?s=be3e9f48f73a0918e841077f9168baa1"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website of the Kaze wo Tsugumono (Inherit the Winds) revealed an additional pair of cast on Friday. Voice Actors Kouki Uchiyama (Kusuriya no Hitorigoto) and Yuuichi Nakamura (Rurouni Kenshin: Meiji Kenkaku Romantan (2023)) are joining the cast as Hijikata Toshizou a...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73734439,
+            "url": "https://myanimelist.net/news/73734439",
+            "title": "Manga 'Iwamoto-Senpai no Suisen' Gets TV Anime Adaptation",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249358",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768563728-11ec3218ae771d71b013660e2eefa55b.jpeg?s=88a6650644f0a581b89d75d992b97386",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768563728-11ec3218ae771d71b013660e2eefa55b.jpeg?s=88a6650644f0a581b89d75d992b97386",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768563728-11ec3218ae771d71b013660e2eefa55b.jpeg?s=88a6650644f0a581b89d75d992b97386"
+                }
+            },
+            "comments": 4,
+            "excerpt": "Entertainment company Hakuhodo DY Music & Pictures opened an official website for a television anime adaptation of Hiroshi Shiibashi's Iwamoto-senpai no Suisen (Recommendation from Mr. Iwamoto) manga on Friday, revealing the main cast, staff, a teaser visual (pictured) and first...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73734335,
+            "url": "https://myanimelist.net/news/73734335",
+            "title": "'Yuusha no Kuzu' Announces Supporting Cast Pair",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249356",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768558762-29dedc4fe1a016ebb9662cb1d06373fe.jpeg?s=5eec7379a12ca85e1c3d42433914c652",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768558762-29dedc4fe1a016ebb9662cb1d06373fe.jpeg?s=5eec7379a12ca85e1c3d42433914c652",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768558762-29dedc4fe1a016ebb9662cb1d06373fe.jpeg?s=5eec7379a12ca85e1c3d42433914c652"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website for the television anime adaptation of Rocket Shoukai and Nakashima723's Yuusha no Kuzu (Scum of the Brave) manga revealed a supporting pair of cast on Friday. The anime aired on January 11 at 12:55 a.m. on NTV, followed by AT-X. Voice actors Kenjirou Tsuda (...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "winter_2026",
+                    "name": "Winter 2026",
+                    "url": "https://myanimelist.net/news/tag/winter_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73734285,
+            "url": "https://myanimelist.net/news/73734285",
+            "title": "'Himekishi wa Barbaroi no Yome' Unveils Additional Cast, Theme Songs, Second Promo",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249352",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768556648-4f30582660eaf15fac4f1b0f4d7a8199.jpeg?s=c03da282bb368e64101d46bcfc10e88b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768556648-4f30582660eaf15fac4f1b0f4d7a8199.jpeg?s=c03da282bb368e64101d46bcfc10e88b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768556648-4f30582660eaf15fac4f1b0f4d7a8199.jpeg?s=c03da282bb368e64101d46bcfc10e88b"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website for the television anime adaptation of Noriaki Kotoba's Himekishi wa Barbaroi no Yome (The Barbarian's Bride) manga revealed additional cast, theme songs, new key visual (pictured), and the second main promotional video on Friday. The anime is scheduled to pr...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "spring_2026",
+                    "name": "Spring 2026",
+                    "url": "https://myanimelist.net/news/tag/spring_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73731761,
+            "url": "https://myanimelist.net/news/73731761",
+            "title": "Winners of the 71st Shogakukan Manga Awards Announced",
+            "date": "<date>",
+            "authorUsername": "Snow",
+            "authorUrl": "https://myanimelist.net/profile/Snow",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249280",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768497505-878eb1123e118c7cffedbabde24b00f2.jpeg?s=a3e3da31c3e726429fccb58bacb896a6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768497505-878eb1123e118c7cffedbabde24b00f2.jpeg?s=a3e3da31c3e726429fccb58bacb896a6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768497505-878eb1123e118c7cffedbabde24b00f2.jpeg?s=a3e3da31c3e726429fccb58bacb896a6"
+                }
+            },
+            "comments": 7,
+            "excerpt": "Shogakukan announced the winners of its annual manga awards on Wednesday. Unmei no Makimodoshi (\"All Great Achievements Require Time\") Fuuta Kimura's action manga has been serialized in the Monthly CoroCoro Comic magazine since January 2022. Shogakukan published its 11th compile...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "manga_awards",
+                    "name": "Manga Awards",
+                    "url": "https://myanimelist.net/news/tag/manga_awards"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73731322,
+            "url": "https://myanimelist.net/news/73731322",
+            "title": "Manga 'Ingoku Danchi' Gets TV Anime in 2026",
+            "date": "<date>",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249259",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768488074-6ff0d51b0c8eda59dfa7c6c1d3977dc4.jpeg?s=43b4b662d9eb266c84d8b7c116ef5661",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768488074-6ff0d51b0c8eda59dfa7c6c1d3977dc4.jpeg?s=43b4b662d9eb266c84d8b7c116ef5661",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768488074-6ff0d51b0c8eda59dfa7c6c1d3977dc4.jpeg?s=43b4b662d9eb266c84d8b7c116ef5661"
+                }
+            },
+            "comments": 9,
+            "excerpt": "WWWaveCorporation's Deregula animation label announced a television anime adaptation of Kenkyuujyo Sakusei and Yui Jouyama's Ingoku Danchi (Deviant's Apartment Complex) manga on Thursday, scheduled for a 2026 premiere. Jouyama drew an illustration to celebrate the announcement (...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73730347,
+            "url": "https://myanimelist.net/news/73730347",
+            "title": "New 'Soukou Kihei Votoms' Anime 'Haiiro no Majo' Announced for 2026",
+            "date": "<date>",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249214",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768449108-721e9a6ad102b1b718c7cdebda5956d5.jpeg?s=689bdf2d5c5797c19e4aced1c47f7a9c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768449108-721e9a6ad102b1b718c7cdebda5956d5.jpeg?s=689bdf2d5c5797c19e4aced1c47f7a9c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768449108-721e9a6ad102b1b718c7cdebda5956d5.jpeg?s=689bdf2d5c5797c19e4aced1c47f7a9c"
+                }
+            },
+            "comments": 18,
+            "excerpt": "Bandai Namco Filmworks announced a new Soukou Kihei Votoms (Armored Trooper Votoms) anime subtitled Haiiro no Majo (Die Graue Hexe, alternatively The Gray Witch) on Thursday, scheduled for a 2026 release. The anime marks the first part of the Sunrise 50th Anniversary project. Ma...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73728780,
+            "url": "https://myanimelist.net/news/73728780",
+            "title": "'Mahou no Shimai Lulutto Lilly' Announces Additional Cast",
+            "date": "<date>",
+            "authorUsername": "Naitik7897",
+            "authorUrl": "https://myanimelist.net/profile/Naitik7897",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249164",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768410592-26c95b0a579c297bd1e08d63b7564da0.jpeg?s=a1548faa8bc784b880c0cd943e84924c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768410592-26c95b0a579c297bd1e08d63b7564da0.jpeg?s=a1548faa8bc784b880c0cd943e84924c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768410592-26c95b0a579c297bd1e08d63b7564da0.jpeg?s=a1548faa8bc784b880c0cd943e84924c"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website of the Mahou no Shimai Lulutto Lilly (Magical Sisters Lulutto Lilly) original television anime revealed additional cast on Wednesday. The anime series is scheduled to premiere in April 2026. Cast Meeter: Hikaru Yaotome Shouta Seo: Kouhei Amasaki (Witch Watch)...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "spring_2026",
+                    "name": "Spring 2026",
+                    "url": "https://myanimelist.net/news/tag/spring_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73727998,
+            "url": "https://myanimelist.net/news/73727998",
+            "title": "'Kore Kaite Shine' Reveals Main Cast, Staff, Summer 2026 Premiere",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249116",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768386595-2fde8f870b135a5f9b6022effeec4497.jpeg?s=0b4390f2356bbf32c5fc6420798229f5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768386595-2fde8f870b135a5f9b6022effeec4497.jpeg?s=0b4390f2356bbf32c5fc6420798229f5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768386595-2fde8f870b135a5f9b6022effeec4497.jpeg?s=0b4390f2356bbf32c5fc6420798229f5"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The official website for the television anime adaptation of Minoru Toyoda's Kore Kaite Shine (Draw This, Then Die!) manga unveiled the main cast, staff, and a main visual (pictured) on Wednesday. The anime series is scheduled to premiere on the Nippon TV network in July 2026. Ca...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2026",
+                    "name": "Summer 2026",
+                    "url": "https://myanimelist.net/news/tag/summer_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73727513,
+            "url": "https://myanimelist.net/news/73727513",
+            "title": "Manga 'Hotaru no Yomeiri' Concludes Serialization",
+            "date": "<date>",
+            "authorUsername": "Naitik7897",
+            "authorUrl": "https://myanimelist.net/profile/Naitik7897",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2249102",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768367373-9aa622d9e09de729cbe0cfa08cac20ec.jpeg?s=936bec4eb9d7cbbf20f3e930df14654d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768367373-9aa622d9e09de729cbe0cfa08cac20ec.jpeg?s=936bec4eb9d7cbbf20f3e930df14654d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768367373-9aa622d9e09de729cbe0cfa08cac20ec.jpeg?s=936bec4eb9d7cbbf20f3e930df14654d"
+                }
+            },
+            "comments": 4,
+            "excerpt": "The editor of Oreco Tachibana's Hotaru no Yomeiri (Firefly Wedding) manga announced on Monday that it will end with the 79th chapter on February 2. MangaONE, the platform where the manga runs, further announced a two part spin-off story, Koi to Doku (Love and Poison), with the f...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "series_end",
+                    "name": "Series End",
+                    "url": "https://myanimelist.net/news/tag/series_end"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73720396,
+            "url": "https://myanimelist.net/news/73720396",
+            "title": "Mixed Media Project 'Zero Rise' Announces TV Anime Adaptation",
+            "date": "<date>",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2248917",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768231588-3894dafeb8b947f3aa3abf05cb3f4fe1.jpeg?s=e6f5159753a58aa9d589d9e157923ecf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768231588-3894dafeb8b947f3aa3abf05cb3f4fe1.jpeg?s=e6f5159753a58aa9d589d9e157923ecf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768231588-3894dafeb8b947f3aa3abf05cb3f4fe1.jpeg?s=e6f5159753a58aa9d589d9e157923ecf"
+                }
+            },
+            "comments": 11,
+            "excerpt": "The Bushiroad New Year Grand Presentation 2026 event announced a television anime for its ZERO RISE mixed-media project on Monday, revealing the cast members, staff, a cross-media project visual (pictured above), the character promo, and animation promotional video. Cast UNFIXXX...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73720148,
+            "url": "https://myanimelist.net/news/73720148",
+            "title": "'BanG Dream! Yume∞Mita' Unveils Production Staff, First Promo, Summer 2026 Premiere",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2248910",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768224568-5ab46eb4280248c3216b2ea4b617c716.jpeg?s=e49fc16e3deeb23b64eaa78ba7db32e5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768224568-5ab46eb4280248c3216b2ea4b617c716.jpeg?s=e49fc16e3deeb23b64eaa78ba7db32e5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768224568-5ab46eb4280248c3216b2ea4b617c716.jpeg?s=e49fc16e3deeb23b64eaa78ba7db32e5"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The Bushiroad New Year Grand Presentation 2026 event revealed the production staff, first promotional video, and a key visual for the BanG Dream! Yume∞Mita television anime on Monday. Produced by Nichicaline, the anime is scheduled to premiere in Summer 2026. Staff Director: Tomo...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2026",
+                    "name": "Summer 2026",
+                    "url": "https://myanimelist.net/news/tag/summer_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73719688,
+            "url": "https://myanimelist.net/news/73719688",
+            "title": "'Shoujo☆Kageki Revue Starlight' Sequel Anime in Production",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2248885",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768238385-9a1e662f3c704b6e780c8b562bc3f54c.jpeg?s=911b173ca042494c3ffcc91f6e400040",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768238385-9a1e662f3c704b6e780c8b562bc3f54c.jpeg?s=911b173ca042494c3ffcc91f6e400040",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768238385-9a1e662f3c704b6e780c8b562bc3f54c.jpeg?s=911b173ca042494c3ffcc91f6e400040"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The Bushiroad New Year Grand Presentation 2026 event announced on Monday that a brand-new sequel anime for the Shoujo☆Kageki Revue Starlight (Revue Starlight) series is currently in production and revealed an announcement promotional video. The new anime will be a completely ori...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73715973,
+            "url": "https://myanimelist.net/news/73715973",
+            "title": "Manga 'Hotaru no Yomeiri' Gets TV Anime Adaptation in Fall 2026",
+            "date": "<date>",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2248805",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768146255-c22fcba5ed13b282f01d7b227310051a.jpeg?s=bee6988ba6af9fffef36fc4fcccbf145",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768146255-c22fcba5ed13b282f01d7b227310051a.jpeg?s=bee6988ba6af9fffef36fc4fcccbf145",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768146255-c22fcba5ed13b282f01d7b227310051a.jpeg?s=bee6988ba6af9fffef36fc4fcccbf145"
+                }
+            },
+            "comments": 9,
+            "excerpt": "Publishing company Shogakukan opened an official website for a television anime adaptation of Oreco Tachibana's Hotaru no Yomeiri (Firefly Wedding) on Monday, revealing the main staff and a teaser visual (pictured). The anime is scheduled to premiere on Fuji TV's noitaminA progra...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2026",
+                    "name": "Fall 2026",
+                    "url": "https://myanimelist.net/news/tag/fall_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73715879,
+            "url": "https://myanimelist.net/news/73715879",
+            "title": "'Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II' Reveals New Staff, Teaser Promo for Summer 2026",
+            "date": "<date>",
+            "authorUsername": "Naitik7897",
+            "authorUrl": "https://myanimelist.net/profile/Naitik7897",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2248798",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768144662-80445e23674634b86e86a7bd6b441b43.jpeg?s=247dfd86e463fc7424ef0206fabe6403",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768144662-80445e23674634b86e86a7bd6b441b43.jpeg?s=247dfd86e463fc7424ef0206fabe6403",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768144662-80445e23674634b86e86a7bd6b441b43.jpeg?s=247dfd86e463fc7424ef0206fabe6403"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The official website of the Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton Knight in Another World) television anime revealed new staff, teaser promo, and a key visual (pictured) for the second season on Sunday. The second season adapting Ennki Hakari's action fantas...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2026",
+                    "name": "Summer 2026",
+                    "url": "https://myanimelist.net/news/tag/summer_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73715860,
+            "url": "https://myanimelist.net/news/73715860",
+            "title": "Light Novel 'Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku' Gets TV Anime",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2248795",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768144083-195fa3e8fcf08e1e4a26f07b78edd208.jpeg?s=dfc3c8221766e5391d2fd1e1e2a80706",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768144083-195fa3e8fcf08e1e4a26f07b78edd208.jpeg?s=dfc3c8221766e5391d2fd1e1e2a80706",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768144083-195fa3e8fcf08e1e4a26f07b78edd208.jpeg?s=dfc3c8221766e5391d2fd1e1e2a80706"
+                }
+            },
+            "comments": 4,
+            "excerpt": "Entertainment company Hakuhodo DY Music & Pictures announced a television anime adaptation of Isle Oosaki's Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku (Full Clearing Another World under a Goddess with Zero Believers) light novel on Sunday, revealing commemorative illu...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73713275,
+            "url": "https://myanimelist.net/news/73713275",
+            "title": "TMS Entertainment Forms Production Alliance With Taiwan's R. Animation",
+            "date": "<date>",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2248712",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768087845-9cabc2ce0b0e1d08bd56260146fdf6c5.jpeg?s=3d8a4066684001ce119aaa315661e3af",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768087845-9cabc2ce0b0e1d08bd56260146fdf6c5.jpeg?s=3d8a4066684001ce119aaa315661e3af",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768087845-9cabc2ce0b0e1d08bd56260146fdf6c5.jpeg?s=3d8a4066684001ce119aaa315661e3af"
+                }
+            },
+            "comments": 6,
+            "excerpt": "TMS Entertainment has entered into a business partnership with Taiwan-based animation studio R. Animation, as the Japanese production company moves to reinforce its production pipeline amid mounting capacity constraints in the anime industry. The agreement, announced on January...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "companies",
+                    "name": "Companies",
+                    "url": "https://myanimelist.net/news/tag/companies"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73710568,
+            "url": "https://myanimelist.net/news/73710568",
+            "title": "'Needy Girl Overdose' Announces Cast",
+            "date": "<date>",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2248647",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768039644-d7401d3aeeedb2dec1d264419f1c2acf.jpeg?s=fc25c0ee08012d0d35e00fac68b6b4d5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768039644-d7401d3aeeedb2dec1d264419f1c2acf.jpeg?s=fc25c0ee08012d0d35e00fac68b6b4d5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768039644-d7401d3aeeedb2dec1d264419f1c2acf.jpeg?s=fc25c0ee08012d0d35e00fac68b6b4d5"
+                }
+            },
+            "comments": 6,
+            "excerpt": "The official website of the Needy Girl Overdose television anime revealed cast and third key visual on Saturday. The anime adapting Xemono's visual novel will premiere in April 2026. Cast Nechika-sama: Seena Hoshiki (Bocchi the Rock!) Poison Denpa Girl☆Purple Lollipop: Rina Kawag...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "spring_2026",
+                    "name": "Spring 2026",
+                    "url": "https://myanimelist.net/news/tag/spring_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73709547,
+            "url": "https://myanimelist.net/news/73709547",
+            "title": "'Koori no Jouheki' Unveils Additional Staff, First Promo",
+            "date": "<date>",
+            "authorUsername": "Naitik7897",
+            "authorUrl": "https://myanimelist.net/profile/Naitik7897",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2248628",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1768019244-f6f57bfc079845393ee3dcc2304f20bc.jpeg?s=23e2c6a04c571fd2d6dff17236c3b988",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1768019244-f6f57bfc079845393ee3dcc2304f20bc.jpeg?s=23e2c6a04c571fd2d6dff17236c3b988",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1768019244-f6f57bfc079845393ee3dcc2304f20bc.jpeg?s=23e2c6a04c571fd2d6dff17236c3b988"
+                }
+            },
+            "comments": 4,
+            "excerpt": "The official website for the television anime adaptation of Koucha Agasawa's Koori no Jouheki (The Ramparts of Ice) web manga unveiled aditional staff, a key visual (pictured), and the first promotional video on Saturday. The anime is scheduled to premiere on April 2 at 11:56 p.m...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "spring_2026",
+                    "name": "Spring 2026",
+                    "url": "https://myanimelist.net/news/tag/spring_2026"
+                }
+            ]
+        }
+    ]
+}

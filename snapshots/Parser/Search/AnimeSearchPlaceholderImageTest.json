@@ -1,0 +1,277 @@
+{
+    "@class": "Jikan\\Model\\Search\\AnimeSearch",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 43535,
+            "url": "https://myanimelist.net/anime/43535/Qi_Guai_De_Shou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": null,
+                    "smallImageUrl": null,
+                    "largeImageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": null,
+                    "smallImageUrl": null,
+                    "largeImageUrl": null
+                }
+            },
+            "title": "Qi Guai De Shou",
+            "airing": false,
+            "synopsis": "",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "1983-01-01T00:00:00+00:00",
+            "endDate": "1983-01-01T00:00:00+00:00",
+            "members": 115,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 60588,
+            "url": "https://myanimelist.net/anime/60588/Kai_Pai_La_Guaishou_Da_Dianying",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1620/157012.jpg?s=3446f4dca65e6be83aefe10d224def62",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1620/157012t.jpg?s=3446f4dca65e6be83aefe10d224def62",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1620/157012l.jpg?s=3446f4dca65e6be83aefe10d224def62"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1620/157012.webp?s=3446f4dca65e6be83aefe10d224def62",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1620/157012t.webp?s=3446f4dca65e6be83aefe10d224def62",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1620/157012l.webp?s=3446f4dca65e6be83aefe10d224def62"
+                }
+            },
+            "title": "Kai Pai La! Guaishou Da Dianying",
+            "airing": false,
+            "synopsis": "Following a decline in the amount of monster movies created, Meng Qi, a director who is obsessed with the monster movie genre, becomes unsure about his persistence—he never expected that one day an ac...",
+            "type": "ONA",
+            "episodes": 12,
+            "score": 6.45,
+            "startDate": "2026-04-24T00:00:00+00:00",
+            "endDate": "2026-07-03T00:00:00+00:00",
+            "members": 1931,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 59179,
+            "url": "https://myanimelist.net/anime/59179/Guai_Xiang_Shou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1000/154645.jpg?s=bb9a5bd0174ffe692b8c3d43d90e0400",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1000/154645t.jpg?s=bb9a5bd0174ffe692b8c3d43d90e0400",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1000/154645l.jpg?s=bb9a5bd0174ffe692b8c3d43d90e0400"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1000/154645.webp?s=bb9a5bd0174ffe692b8c3d43d90e0400",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1000/154645t.webp?s=bb9a5bd0174ffe692b8c3d43d90e0400",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1000/154645l.webp?s=bb9a5bd0174ffe692b8c3d43d90e0400"
+                }
+            },
+            "title": "Guai Xiang Shou",
+            "airing": false,
+            "synopsis": "Wei Ran, a college graduate, was accidentally led into a world he never thought existed by a cat. When he was trying to find a way to return home, he learned that the only train that could take him ba...",
+            "type": "ONA",
+            "episodes": 8,
+            "score": 6.73,
+            "startDate": "2024-08-05T00:00:00+00:00",
+            "endDate": "2024-09-16T00:00:00+00:00",
+            "members": 1843,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 55738,
+            "url": "https://myanimelist.net/anime/55738/Guaishou_Xiao_Guan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/136606.jpg?s=bb35550ccd372f56de8735531494bb26",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1169/136606t.jpg?s=bb35550ccd372f56de8735531494bb26",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1169/136606l.jpg?s=bb35550ccd372f56de8735531494bb26"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/136606.webp?s=bb35550ccd372f56de8735531494bb26",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1169/136606t.webp?s=bb35550ccd372f56de8735531494bb26",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1169/136606l.webp?s=bb35550ccd372f56de8735531494bb26"
+                }
+            },
+            "title": "Guaishou Xiao Guan",
+            "airing": false,
+            "synopsis": "Monsters are hiding in the human world, but most of them follow the code of conduct of the monster world, which is not to pick on the humans. However, as with humans, monsters also live on food. There...",
+            "type": "ONA",
+            "episodes": 12,
+            "score": 6.36,
+            "startDate": "2023-07-13T00:00:00+00:00",
+            "endDate": "2023-09-21T00:00:00+00:00",
+            "members": 819,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 47203,
+            "url": "https://myanimelist.net/anime/47203/Guaishou_Jiazu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1053/129237.jpg?s=200843a936cc74637022406d57530127",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1053/129237t.jpg?s=200843a936cc74637022406d57530127",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1053/129237l.jpg?s=200843a936cc74637022406d57530127"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1053/129237.webp?s=200843a936cc74637022406d57530127",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1053/129237t.webp?s=200843a936cc74637022406d57530127",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1053/129237l.webp?s=200843a936cc74637022406d57530127"
+                }
+            },
+            "title": "Guaishou Jiazu",
+            "airing": true,
+            "synopsis": "",
+            "type": "TV",
+            "episodes": 100,
+            "score": 0.0,
+            "startDate": "2015-01-01T00:00:00+00:00",
+            "endDate": null,
+            "members": 96,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 46773,
+            "url": "https://myanimelist.net/anime/46773/Can_Wa_Yu_Tianchi_Guaishou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1648/131140.jpg?s=fa1aeaab312061dd9d77b3fa5546ba57",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1648/131140t.jpg?s=fa1aeaab312061dd9d77b3fa5546ba57",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1648/131140l.jpg?s=fa1aeaab312061dd9d77b3fa5546ba57"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1648/131140.webp?s=fa1aeaab312061dd9d77b3fa5546ba57",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1648/131140t.webp?s=fa1aeaab312061dd9d77b3fa5546ba57",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1648/131140l.webp?s=fa1aeaab312061dd9d77b3fa5546ba57"
+                }
+            },
+            "title": "Can Wa Yu Tianchi Guaishou",
+            "airing": false,
+            "synopsis": "",
+            "type": "TV",
+            "episodes": 78,
+            "score": 0.0,
+            "startDate": "2012-09-01T00:00:00+00:00",
+            "endDate": "2014-10-01T00:00:00+00:00",
+            "members": 160,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 47276,
+            "url": "https://myanimelist.net/anime/47276/Guaishou_Chufang",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1775/129207.jpg?s=670ba764c0decf690720b5668ac70ef9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1775/129207t.jpg?s=670ba764c0decf690720b5668ac70ef9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1775/129207l.jpg?s=670ba764c0decf690720b5668ac70ef9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1775/129207.webp?s=670ba764c0decf690720b5668ac70ef9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1775/129207t.webp?s=670ba764c0decf690720b5668ac70ef9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1775/129207l.webp?s=670ba764c0decf690720b5668ac70ef9"
+                }
+            },
+            "title": "Guaishou Chufang",
+            "airing": true,
+            "synopsis": "",
+            "type": "TV",
+            "episodes": 26,
+            "score": 0.0,
+            "startDate": "2016-01-01T00:00:00+00:00",
+            "endDate": null,
+            "members": 102,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 56336,
+            "url": "https://myanimelist.net/anime/56336/Bai_Bian_Mading__Guaishou_Da_Zuozhan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1646/137844.jpg?s=e8a03261fce6bda1f0ce654aacada7a1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1646/137844t.jpg?s=e8a03261fce6bda1f0ce654aacada7a1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1646/137844l.jpg?s=e8a03261fce6bda1f0ce654aacada7a1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1646/137844.webp?s=e8a03261fce6bda1f0ce654aacada7a1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1646/137844t.webp?s=e8a03261fce6bda1f0ce654aacada7a1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1646/137844l.webp?s=e8a03261fce6bda1f0ce654aacada7a1"
+                }
+            },
+            "title": "Bai Bian Mading: Guaishou Da Zuozhan",
+            "airing": false,
+            "synopsis": "",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "2023-07-22T00:00:00+00:00",
+            "endDate": "2023-07-22T00:00:00+00:00",
+            "members": 155,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 45095,
+            "url": "https://myanimelist.net/anime/45095/Can_Wa_Yu_Tianchi_Guaishou__Ruixue_Zhao_Fengnian",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1801/127738.jpg?s=8ba67378d533ed47103df423eb19f474",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1801/127738t.jpg?s=8ba67378d533ed47103df423eb19f474",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1801/127738l.jpg?s=8ba67378d533ed47103df423eb19f474"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1801/127738.webp?s=8ba67378d533ed47103df423eb19f474",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1801/127738t.webp?s=8ba67378d533ed47103df423eb19f474",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1801/127738l.webp?s=8ba67378d533ed47103df423eb19f474"
+                }
+            },
+            "title": "Can Wa Yu Tianchi Guaishou: Ruixue Zhao Fengnian",
+            "airing": false,
+            "synopsis": "The animated film tells the story of two monsters from Changbai Mountain who learn that they were once dragons of Tianchi Lake in Changbai Mountain. To transform back into dragons, they must consume a...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "2019-02-16T00:00:00+00:00",
+            "endDate": "2019-02-16T00:00:00+00:00",
+            "members": 139,
+            "rated": "PG"
+        }
+    ]
+}

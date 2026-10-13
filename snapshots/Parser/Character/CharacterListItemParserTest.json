@@ -1,0 +1,178 @@
+{
+    "@class": "Jikan\\Model\\Character\\CharacterListItem",
+    "character": {
+        "@class": "Jikan\\Model\\Common\\CharacterMeta",
+        "malId": 116281,
+        "url": "https://myanimelist.net/character/116281/Momonga",
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+            "jpg": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                "imageUrl": "https://cdn.myanimelist.net/images/characters/10/508402.jpg?s=53acfa56d556fb22228e7142643ab9da"
+            },
+            "webp": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                "imageUrl": "https://cdn.myanimelist.net/images/characters/10/508402.webp?s=53acfa56d556fb22228e7142643ab9da",
+                "smallImageUrl": "https://cdn.myanimelist.net/images/characters/10/508402t.webp?s=53acfa56d556fb22228e7142643ab9da"
+            }
+        },
+        "name": "Momonga"
+    },
+    "role": "Main",
+    "favorites": 13947,
+    "voiceActors": [
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 245,
+                "url": "https://myanimelist.net/people/245/Satoshi_Hino",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/62832.jpg?s=25d1f3f058ad0e1cf56615b5130ca712"
+                    }
+                },
+                "name": "Hino, Satoshi"
+            },
+            "language": "Japanese"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 21333,
+                "url": "https://myanimelist.net/people/21333/Chris_Guerrero",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/24441.jpg?s=c61dfda8d58ffa8eb69acdeb9fe67d56"
+                    }
+                },
+                "name": "Guerrero, Chris"
+            },
+            "language": "English"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 43693,
+                "url": "https://myanimelist.net/people/43693/Dláigelles_Silva",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/77324.jpg?s=7cb24b19355ebfa289d06498f9711fb6"
+                    }
+                },
+                "name": "Silva, Dláigelles"
+            },
+            "language": "Portuguese (BR)"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 45750,
+                "url": "https://myanimelist.net/people/45750/Charles_Mendiant",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/71537.jpg?s=3c312a609def4e6f60b788f7e6088ed6"
+                    }
+                },
+                "name": "Mendiant, Charles"
+            },
+            "language": "French"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 57213,
+                "url": "https://myanimelist.net/people/57213/Héctor_Mena",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/70974.jpg?s=36b62e15cb54a6e7ef5e6a491981b2b4"
+                    }
+                },
+                "name": "Mena, Héctor"
+            },
+            "language": "Spanish"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 57472,
+                "url": "https://myanimelist.net/people/57472/Víctor_Hugo_Aguilar",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/73323.jpg?s=d229fb478d6d27cab1e44c72c75a469f"
+                    }
+                },
+                "name": "Aguilar, Víctor Hugo"
+            },
+            "language": "Spanish"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 7728,
+                "url": "https://myanimelist.net/people/7728/Maurizio_Merluzzo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/38427.jpg?s=8761e8af68e907913b9171249ac82834"
+                    }
+                },
+                "name": "Merluzzo, Maurizio"
+            },
+            "language": "Italian"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 46031,
+                "url": "https://myanimelist.net/people/46031/José_Manuel_Oliva",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/82816.jpg?s=07c5481fa318106975fcc14983dcd6dc"
+                    }
+                },
+                "name": "Oliva, José Manuel"
+            },
+            "language": "Spanish"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 45764,
+                "url": "https://myanimelist.net/people/45764/Stefan_Kaminski",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/54705.jpg?s=71dd4af5301d44a25b51916df765438f"
+                    }
+                },
+                "name": "Kaminski, Stefan"
+            },
+            "language": "German"
+        }
+    ]
+}

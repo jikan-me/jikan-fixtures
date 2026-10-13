@@ -1,0 +1,17 @@
+{
+    "@class": "Jikan\\Model\\Character\\VoiceActor",
+    "person": {
+        "@class": "Jikan\\Model\\Common\\PersonMeta",
+        "malId": 245,
+        "url": "https://myanimelist.net/people/245/Satoshi_Hino",
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+            "jpg": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/62832.jpg"
+            }
+        },
+        "name": "Hino, Satoshi"
+    },
+    "language": "Japanese"
+}

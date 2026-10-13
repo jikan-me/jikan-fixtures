@@ -1,0 +1,21 @@
+{
+    "@class": "Jikan\\Model\\User\\Friend",
+    "user": {
+        "@class": "Jikan\\Model\\Common\\UserMeta",
+        "username": "sandshark",
+        "url": "https://myanimelist.net/profile/sandshark",
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+            "jpg": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7168664d-c9f3-4e6c-9936-bf7b3cb25e6b_76w?s=2f3e2ce6c0bed17cb41fd558d269f311"
+            },
+            "webp": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7168664d-c9f3-4e6c-9936-bf7b3cb25e6b_76w?s=2f3e2ce6c0bed17cb41fd558d269f311"
+            }
+        }
+    },
+    "lastOnline": "2026-10-12T14:25:00+00:00",
+    "friendsSince": "2018-07-26T08:45:00+00:00"
+}

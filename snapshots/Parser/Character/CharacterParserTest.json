@@ -1,0 +1,876 @@
+{
+    "@class": "Jikan\\Model\\Character\\Character",
+    "malId": 116281,
+    "url": "https://myanimelist.net/character/116281/Momonga",
+    "name": "Momonga",
+    "nameKanji": "モモンガ",
+    "nicknames": [
+        "Ainz Ooal Gown",
+        "Momon"
+    ],
+    "about": "Ainz Ooal Gown (アインズ・ウール・ゴウン), formerly known as Momonga (モモンガ), is the main protagonist of the Overlord series. He is the guild master of Ainz Ooal Gown, Overlord of the Great Tomb of Nazarick, and the creator of Pandora's Actor. He is regarded as the highest of the Almighty Forty-One Supreme Beings by the NPCs of Nazarick.\n\nA cautious and stingy person, Momonga always tries to plan and control details, avoiding any haphazard actions. Because he doesn't underestimate his opponents, he will usually overkill them. Since being transferred to a new world and becoming an actual Undead being, Momonga could feel himself becoming very cold and calculating, his emotions repressed.\n\nLoyal to his friends and creations, since becoming Lord Ruler of Nazarick in the new world he acts with a certain degree of nobility for his devoted followers. Momonga only does things that will benefit Nazarick or himself, whether it's information or prestige. Although he does have a sense of justice and doesn't hate humans as much as his followers, he holds no attachment to them, and he feels nothing toward their deaths.\n\n\n(Source: Overlord Wikia)",
+    "memberFavorites": 13947,
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/10/508402.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/10/508402.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/characters/10/508402t.webp"
+        }
+    },
+    "animeography": [
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 29803,
+                "url": "https://myanimelist.net/anime/29803/Overlord",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg?s=13e470b9684687adefaf8ad595f0425e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600t.jpg?s=13e470b9684687adefaf8ad595f0425e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg?s=13e470b9684687adefaf8ad595f0425e"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600.webp?s=13e470b9684687adefaf8ad595f0425e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600t.webp?s=13e470b9684687adefaf8ad595f0425e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600l.webp?s=13e470b9684687adefaf8ad595f0425e"
+                    }
+                },
+                "title": "Overlord"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 31138,
+                "url": "https://myanimelist.net/anime/31138/Overlord__Ple_Ple_Pleiades",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1849/100694.jpg?s=4f35bf722e268c2aa48cfa71b6198af3",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1849/100694t.jpg?s=4f35bf722e268c2aa48cfa71b6198af3",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1849/100694l.jpg?s=4f35bf722e268c2aa48cfa71b6198af3"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1849/100694.webp?s=4f35bf722e268c2aa48cfa71b6198af3",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1849/100694t.webp?s=4f35bf722e268c2aa48cfa71b6198af3",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1849/100694l.webp?s=4f35bf722e268c2aa48cfa71b6198af3"
+                    }
+                },
+                "title": "Overlord: Ple Ple Pleiades"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 33372,
+                "url": "https://myanimelist.net/anime/33372/Overlord__Ple_Ple_Pleiades_-_Nazarick_Saidai_no_Kiki",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1779/152983.jpg?s=bea222f7f315917caf778b21cb9befa4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1779/152983t.jpg?s=bea222f7f315917caf778b21cb9befa4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1779/152983l.jpg?s=bea222f7f315917caf778b21cb9befa4"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1779/152983.webp?s=bea222f7f315917caf778b21cb9befa4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1779/152983t.webp?s=bea222f7f315917caf778b21cb9befa4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1779/152983l.webp?s=bea222f7f315917caf778b21cb9befa4"
+                    }
+                },
+                "title": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 34161,
+                "url": "https://myanimelist.net/anime/34161/Overlord_Movie_1__Fushisha_no_Ou",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/87759.jpg?s=1f9c69fee6880739dc7ee8a4530a9409",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/87759t.jpg?s=1f9c69fee6880739dc7ee8a4530a9409",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/87759l.jpg?s=1f9c69fee6880739dc7ee8a4530a9409"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/87759.webp?s=1f9c69fee6880739dc7ee8a4530a9409",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/87759t.webp?s=1f9c69fee6880739dc7ee8a4530a9409",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/87759l.webp?s=1f9c69fee6880739dc7ee8a4530a9409"
+                    }
+                },
+                "title": "Overlord Movie 1: Fushisha no Ou"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 34428,
+                "url": "https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/87758.jpg?s=bd4a80ad351240fd5c0296aeddf25177",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/87758t.jpg?s=bd4a80ad351240fd5c0296aeddf25177",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/87758l.jpg?s=bd4a80ad351240fd5c0296aeddf25177"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/87758.webp?s=bd4a80ad351240fd5c0296aeddf25177",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/87758t.webp?s=bd4a80ad351240fd5c0296aeddf25177",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/87758l.webp?s=bd4a80ad351240fd5c0296aeddf25177"
+                    }
+                },
+                "title": "Overlord Movie 2: Shikkoku no Eiyuu"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 35073,
+                "url": "https://myanimelist.net/anime/35073/Overlord_II",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1212/113415.jpg?s=f9c86696f5813c05cfe5cafcade80c45",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1212/113415t.jpg?s=f9c86696f5813c05cfe5cafcade80c45",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1212/113415l.jpg?s=f9c86696f5813c05cfe5cafcade80c45"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1212/113415.webp?s=f9c86696f5813c05cfe5cafcade80c45",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1212/113415t.webp?s=f9c86696f5813c05cfe5cafcade80c45",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1212/113415l.webp?s=f9c86696f5813c05cfe5cafcade80c45"
+                    }
+                },
+                "title": "Overlord II"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 36497,
+                "url": "https://myanimelist.net/anime/36497/Overlord_Movie__Ple_Ple_Pleiades",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/9/88121.jpg?s=e0d41c10fedcfc0a4b8e91fd3710ebff",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/88121t.jpg?s=e0d41c10fedcfc0a4b8e91fd3710ebff",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/88121l.jpg?s=e0d41c10fedcfc0a4b8e91fd3710ebff"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/9/88121.webp?s=e0d41c10fedcfc0a4b8e91fd3710ebff",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/88121t.webp?s=e0d41c10fedcfc0a4b8e91fd3710ebff",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/88121l.webp?s=e0d41c10fedcfc0a4b8e91fd3710ebff"
+                    }
+                },
+                "title": "Overlord Movie: Ple Ple Pleiades"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 37087,
+                "url": "https://myanimelist.net/anime/37087/Overlord__Ple_Ple_Pleiades_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/90101.jpg?s=45f69cd5b369503d3194d07d821c3c9a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/90101t.jpg?s=45f69cd5b369503d3194d07d821c3c9a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/90101l.jpg?s=45f69cd5b369503d3194d07d821c3c9a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/90101.webp?s=45f69cd5b369503d3194d07d821c3c9a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/90101t.webp?s=45f69cd5b369503d3194d07d821c3c9a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/90101l.webp?s=45f69cd5b369503d3194d07d821c3c9a"
+                    }
+                },
+                "title": "Overlord: Ple Ple Pleiades 2"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 37675,
+                "url": "https://myanimelist.net/anime/37675/Overlord_III",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/93473.jpg?s=37bf09e2c221aa47e034f8e3a076672d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1511/93473t.jpg?s=37bf09e2c221aa47e034f8e3a076672d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1511/93473l.jpg?s=37bf09e2c221aa47e034f8e3a076672d"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/93473.webp?s=37bf09e2c221aa47e034f8e3a076672d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1511/93473t.webp?s=37bf09e2c221aa47e034f8e3a076672d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1511/93473l.webp?s=37bf09e2c221aa47e034f8e3a076672d"
+                    }
+                },
+                "title": "Overlord III"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 37781,
+                "url": "https://myanimelist.net/anime/37781/Overlord__Ple_Ple_Pleiades_3",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1386/93157.jpg?s=1c9f25315ba1566af61c43628c51bbdd",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1386/93157t.jpg?s=1c9f25315ba1566af61c43628c51bbdd",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1386/93157l.jpg?s=1c9f25315ba1566af61c43628c51bbdd"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1386/93157.webp?s=1c9f25315ba1566af61c43628c51bbdd",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1386/93157t.webp?s=1c9f25315ba1566af61c43628c51bbdd",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1386/93157l.webp?s=1c9f25315ba1566af61c43628c51bbdd"
+                    }
+                },
+                "title": "Overlord: Ple Ple Pleiades 3"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 38472,
+                "url": "https://myanimelist.net/anime/38472/Isekai_Quartet",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1965/99667.jpg?s=e39be036357e586d28403adf250b830d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1965/99667t.jpg?s=e39be036357e586d28403adf250b830d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1965/99667l.jpg?s=e39be036357e586d28403adf250b830d"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1965/99667.webp?s=e39be036357e586d28403adf250b830d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1965/99667t.webp?s=e39be036357e586d28403adf250b830d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1965/99667l.webp?s=e39be036357e586d28403adf250b830d"
+                    }
+                },
+                "title": "Isekai Quartet"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 38693,
+                "url": "https://myanimelist.net/anime/38693/Overlord__Ple_Ple_Pleiades_-_Clementine_Toubou-hen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1874/96290.jpg?s=b3f366eb0e004969613b124bf89c97e4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1874/96290t.jpg?s=b3f366eb0e004969613b124bf89c97e4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1874/96290l.jpg?s=b3f366eb0e004969613b124bf89c97e4"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1874/96290.webp?s=b3f366eb0e004969613b124bf89c97e4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1874/96290t.webp?s=b3f366eb0e004969613b124bf89c97e4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1874/96290l.webp?s=b3f366eb0e004969613b124bf89c97e4"
+                    }
+                },
+                "title": "Overlord: Ple Ple Pleiades - Clementine Toubou-hen"
+            },
+            "role": "Supporting"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 39988,
+                "url": "https://myanimelist.net/anime/39988/Isekai_Quartet_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1030/103383.jpg?s=b469e71043d9c1c9da25b971387dd100",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1030/103383t.jpg?s=b469e71043d9c1c9da25b971387dd100",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1030/103383l.jpg?s=b469e71043d9c1c9da25b971387dd100"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1030/103383.webp?s=b469e71043d9c1c9da25b971387dd100",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1030/103383t.webp?s=b469e71043d9c1c9da25b971387dd100",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1030/103383l.webp?s=b469e71043d9c1c9da25b971387dd100"
+                    }
+                },
+                "title": "Isekai Quartet 2"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 39993,
+                "url": "https://myanimelist.net/anime/39993/Isekai_Quartet_Relay_PVs",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1761/101647.jpg?s=eb7ee27fd7a369d41a432444688e9551",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1761/101647t.jpg?s=eb7ee27fd7a369d41a432444688e9551",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1761/101647l.jpg?s=eb7ee27fd7a369d41a432444688e9551"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1761/101647.webp?s=eb7ee27fd7a369d41a432444688e9551",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1761/101647t.webp?s=eb7ee27fd7a369d41a432444688e9551",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1761/101647l.webp?s=eb7ee27fd7a369d41a432444688e9551"
+                    }
+                },
+                "title": "Isekai Quartet Relay PVs"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 41567,
+                "url": "https://myanimelist.net/anime/41567/Isekai_Quartet_Movie__Another_World",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1222/122000.jpg?s=0bcd66d4597c9c939e937f60168ab4e4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1222/122000t.jpg?s=0bcd66d4597c9c939e937f60168ab4e4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1222/122000l.jpg?s=0bcd66d4597c9c939e937f60168ab4e4"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1222/122000.webp?s=0bcd66d4597c9c939e937f60168ab4e4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1222/122000t.webp?s=0bcd66d4597c9c939e937f60168ab4e4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1222/122000l.webp?s=0bcd66d4597c9c939e937f60168ab4e4"
+                    }
+                },
+                "title": "Isekai Quartet Movie: Another World"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 48895,
+                "url": "https://myanimelist.net/anime/48895/Overlord_IV",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/120110.jpg?s=1f713747ca9d351553d94acf32c902ba",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1530/120110t.jpg?s=1f713747ca9d351553d94acf32c902ba",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1530/120110l.jpg?s=1f713747ca9d351553d94acf32c902ba"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/120110.webp?s=1f713747ca9d351553d94acf32c902ba",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1530/120110t.webp?s=1f713747ca9d351553d94acf32c902ba",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1530/120110l.webp?s=1f713747ca9d351553d94acf32c902ba"
+                    }
+                },
+                "title": "Overlord IV"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 48896,
+                "url": "https://myanimelist.net/anime/48896/Overlord_Movie_3__Sei_Oukoku-hen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1954/144101.jpg?s=fc7c3bb2e5e13fbe01d8f2600c51fbb1",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1954/144101t.jpg?s=fc7c3bb2e5e13fbe01d8f2600c51fbb1",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1954/144101l.jpg?s=fc7c3bb2e5e13fbe01d8f2600c51fbb1"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1954/144101.webp?s=fc7c3bb2e5e13fbe01d8f2600c51fbb1",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1954/144101t.webp?s=fc7c3bb2e5e13fbe01d8f2600c51fbb1",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1954/144101l.webp?s=fc7c3bb2e5e13fbe01d8f2600c51fbb1"
+                    }
+                },
+                "title": "Overlord Movie 3: Sei Oukoku-hen"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 48897,
+                "url": "https://myanimelist.net/anime/48897/Overlord__Ple_Ple_Pleiades_4",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1233/119671.jpg?s=759f0659b63edcb397dd9cf2d4e814a1",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1233/119671t.jpg?s=759f0659b63edcb397dd9cf2d4e814a1",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1233/119671l.jpg?s=759f0659b63edcb397dd9cf2d4e814a1"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1233/119671.webp?s=759f0659b63edcb397dd9cf2d4e814a1",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1233/119671t.webp?s=759f0659b63edcb397dd9cf2d4e814a1",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1233/119671l.webp?s=759f0659b63edcb397dd9cf2d4e814a1"
+                    }
+                },
+                "title": "Overlord: Ple Ple Pleiades 4"
+            },
+            "role": "Supporting"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 57034,
+                "url": "https://myanimelist.net/anime/57034/Ple_Ple_Pleiades_x_Kagejitsu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/139404.jpg?s=84a626331d69a525117d336c2aab416e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1880/139404t.jpg?s=84a626331d69a525117d336c2aab416e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1880/139404l.jpg?s=84a626331d69a525117d336c2aab416e"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1880/139404.webp?s=84a626331d69a525117d336c2aab416e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1880/139404t.webp?s=84a626331d69a525117d336c2aab416e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1880/139404l.webp?s=84a626331d69a525117d336c2aab416e"
+                    }
+                },
+                "title": "Ple Ple Pleiades x Kagejitsu!"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 61345,
+                "url": "https://myanimelist.net/anime/61345/Overlord__Sei_Oukoku-hen_-_Manner_Movie",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1971/148897.jpg?s=a775c8d0ed71dd5ff1294ec3a5a3c775",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1971/148897t.jpg?s=a775c8d0ed71dd5ff1294ec3a5a3c775",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1971/148897l.jpg?s=a775c8d0ed71dd5ff1294ec3a5a3c775"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1971/148897.webp?s=a775c8d0ed71dd5ff1294ec3a5a3c775",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1971/148897t.webp?s=a775c8d0ed71dd5ff1294ec3a5a3c775",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1971/148897l.webp?s=a775c8d0ed71dd5ff1294ec3a5a3c775"
+                    }
+                },
+                "title": "Overlord: Sei Oukoku-hen - Manner Movie"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Animeography",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 61851,
+                "url": "https://myanimelist.net/anime/61851/Isekai_Quartet_3",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1044/152103.jpg?s=0005f6703194e79962771691b0404e05",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1044/152103t.jpg?s=0005f6703194e79962771691b0404e05",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1044/152103l.jpg?s=0005f6703194e79962771691b0404e05"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1044/152103.webp?s=0005f6703194e79962771691b0404e05",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1044/152103t.webp?s=0005f6703194e79962771691b0404e05",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1044/152103l.webp?s=0005f6703194e79962771691b0404e05"
+                    }
+                },
+                "title": "Isekai Quartet 3"
+            },
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "@class": "Jikan\\Model\\Character\\Mangaography",
+            "manga": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 81667,
+                "url": "https://myanimelist.net/manga/81667/Overlord",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161407.jpg?s=88c791130b779776693dff85be0cf6ae",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161407t.jpg?s=88c791130b779776693dff85be0cf6ae",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161407l.jpg?s=88c791130b779776693dff85be0cf6ae"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161407.webp?s=88c791130b779776693dff85be0cf6ae",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161407t.webp?s=88c791130b779776693dff85be0cf6ae",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161407l.webp?s=88c791130b779776693dff85be0cf6ae"
+                    }
+                },
+                "title": "Overlord"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Mangaography",
+            "manga": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 81669,
+                "url": "https://myanimelist.net/manga/81669/Overlord",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/160558.jpg?s=bce2f2d8b7ac0be297ee3b6639770872",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/160558t.jpg?s=bce2f2d8b7ac0be297ee3b6639770872",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/160558l.jpg?s=bce2f2d8b7ac0be297ee3b6639770872"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/160558.webp?s=bce2f2d8b7ac0be297ee3b6639770872",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/160558t.webp?s=bce2f2d8b7ac0be297ee3b6639770872",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/160558l.webp?s=bce2f2d8b7ac0be297ee3b6639770872"
+                    }
+                },
+                "title": "Overlord"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Mangaography",
+            "manga": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 116651,
+                "url": "https://myanimelist.net/manga/116651/Overlord__Fushisha_no_Oh",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/221258.jpg?s=d1786bfb10d9ab3c5bddf965c0682825",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/221258t.jpg?s=d1786bfb10d9ab3c5bddf965c0682825",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/221258l.jpg?s=d1786bfb10d9ab3c5bddf965c0682825"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/221258.webp?s=d1786bfb10d9ab3c5bddf965c0682825",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/221258t.webp?s=d1786bfb10d9ab3c5bddf965c0682825",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/221258l.webp?s=d1786bfb10d9ab3c5bddf965c0682825"
+                    }
+                },
+                "title": "Overlord: Fushisha no Oh!"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Mangaography",
+            "manga": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 117956,
+                "url": "https://myanimelist.net/manga/117956/Overlord__Koushiki_Comic_à_la_Carte",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/221257.jpg?s=12d89222755e73b817d752a5fe0ed41e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/221257t.jpg?s=12d89222755e73b817d752a5fe0ed41e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/221257l.jpg?s=12d89222755e73b817d752a5fe0ed41e"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/221257.webp?s=12d89222755e73b817d752a5fe0ed41e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/221257t.webp?s=12d89222755e73b817d752a5fe0ed41e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/221257l.webp?s=12d89222755e73b817d752a5fe0ed41e"
+                    }
+                },
+                "title": "Overlord: Koushiki Comic à la Carte"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Mangaography",
+            "manga": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 119696,
+                "url": "https://myanimelist.net/manga/119696/Overlord__Boukoku_no_Kyuuketsuki",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/269384.jpg?s=6c47301c2a294827a0c268d9c6239e8f",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/269384t.jpg?s=6c47301c2a294827a0c268d9c6239e8f",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/269384l.jpg?s=6c47301c2a294827a0c268d9c6239e8f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/269384.webp?s=6c47301c2a294827a0c268d9c6239e8f",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/269384t.webp?s=6c47301c2a294827a0c268d9c6239e8f",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/269384l.webp?s=6c47301c2a294827a0c268d9c6239e8f"
+                    }
+                },
+                "title": "Overlord: Boukoku no Kyuuketsuki"
+            },
+            "role": "Main"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\Mangaography",
+            "manga": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 169454,
+                "url": "https://myanimelist.net/manga/169454/Overlord__Shin_Sekai-hen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/311780.jpg?s=794c19a5d902de632174bdfc1a2752e2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/311780t.jpg?s=794c19a5d902de632174bdfc1a2752e2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/311780l.jpg?s=794c19a5d902de632174bdfc1a2752e2"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/311780.webp?s=794c19a5d902de632174bdfc1a2752e2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/311780t.webp?s=794c19a5d902de632174bdfc1a2752e2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/311780l.webp?s=794c19a5d902de632174bdfc1a2752e2"
+                    }
+                },
+                "title": "Overlord: \"Shin\" Sekai-hen"
+            },
+            "role": "Main"
+        }
+    ],
+    "voiceActors": [
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 245,
+                "url": "https://myanimelist.net/people/245/Satoshi_Hino",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/62832.jpg"
+                    }
+                },
+                "name": "Hino, Satoshi"
+            },
+            "language": "Japanese"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 21333,
+                "url": "https://myanimelist.net/people/21333/Chris_Guerrero",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/24441.jpg"
+                    }
+                },
+                "name": "Guerrero, Chris"
+            },
+            "language": "English"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 45750,
+                "url": "https://myanimelist.net/people/45750/Charles_Mendiant",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/71537.jpg"
+                    }
+                },
+                "name": "Mendiant, Charles"
+            },
+            "language": "French"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 45764,
+                "url": "https://myanimelist.net/people/45764/Stefan_Kaminski",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/54705.jpg"
+                    }
+                },
+                "name": "Kaminski, Stefan"
+            },
+            "language": "German"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 43693,
+                "url": "https://myanimelist.net/people/43693/Dláigelles_Silva",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/77324.jpg"
+                    }
+                },
+                "name": "Silva, Dláigelles"
+            },
+            "language": "Portuguese (BR)"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 57213,
+                "url": "https://myanimelist.net/people/57213/Héctor_Mena",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/70974.jpg"
+                    }
+                },
+                "name": "Mena, Héctor"
+            },
+            "language": "Spanish"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 57472,
+                "url": "https://myanimelist.net/people/57472/Víctor_Hugo_Aguilar",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/73323.jpg"
+                    }
+                },
+                "name": "Aguilar, Víctor Hugo"
+            },
+            "language": "Spanish"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 7728,
+                "url": "https://myanimelist.net/people/7728/Maurizio_Merluzzo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/38427.jpg"
+                    }
+                },
+                "name": "Merluzzo, Maurizio"
+            },
+            "language": "Italian"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 46031,
+                "url": "https://myanimelist.net/people/46031/José_Manuel_Oliva",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/82816.jpg"
+                    }
+                },
+                "name": "Oliva, José Manuel"
+            },
+            "language": "Spanish"
+        },
+        {
+            "@class": "Jikan\\Model\\Character\\VoiceActor",
+            "person": {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 57323,
+                "url": "https://myanimelist.net/people/57323/Mauricio_Pérez_Castillo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/70978.jpg"
+                    }
+                },
+                "name": "Pérez Castillo, Mauricio"
+            },
+            "language": "Spanish"
+        }
+    ]
+}

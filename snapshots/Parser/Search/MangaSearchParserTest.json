@@ -1,0 +1,487 @@
+{
+    "@class": "Jikan\\Model\\Search\\MangaSearch",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 2,
+            "url": "https://myanimelist.net/manga/2/Berserk",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/157897.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897t.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897l.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/157897.webp?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897t.webp?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897l.webp?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3"
+                }
+            },
+            "title": "Berserk",
+            "publishing": true,
+            "synopsis": "Guts, a former mercenary now known as the Black Swordsman, is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fal...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 9.46,
+            "startDate": "1989-08-25T00:00:00+00:00",
+            "endDate": null,
+            "members": 811730
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 113958,
+            "url": "https://myanimelist.net/manga/113958/Boushoku_no_Berserk__Ore_dake_Level_to_Iu_Gainen_wo_Toppa_suru_the_Comic",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/212091.jpg?s=d42c012a2921c200fb94e9c33ba55c0e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/212091t.jpg?s=d42c012a2921c200fb94e9c33ba55c0e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/212091l.jpg?s=d42c012a2921c200fb94e9c33ba55c0e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/212091.webp?s=d42c012a2921c200fb94e9c33ba55c0e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/212091t.webp?s=d42c012a2921c200fb94e9c33ba55c0e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/212091l.webp?s=d42c012a2921c200fb94e9c33ba55c0e"
+                }
+            },
+            "title": "Boushoku no Berserk: Ore dake Level to Iu Gainen wo Toppa suru the Comic",
+            "publishing": true,
+            "synopsis": "Fate Graphite has never tasted true power. Born into a world with two kinds of people—those with superior skills and those without—he's been shunned his entire life. Fate's skill is Gluttony, a curse...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.8,
+            "startDate": "2018-03-01T00:00:00+00:00",
+            "endDate": null,
+            "members": 35817
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 92299,
+            "url": "https://myanimelist.net/manga/92299/Berserk__Shinen_no_Kami_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/162254.jpg?s=9be40f85899b1374da24eb61e1a29a02",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/162254t.jpg?s=9be40f85899b1374da24eb61e1a29a02",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/162254l.jpg?s=9be40f85899b1374da24eb61e1a29a02"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/162254.webp?s=9be40f85899b1374da24eb61e1a29a02",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/162254t.webp?s=9be40f85899b1374da24eb61e1a29a02",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/162254l.webp?s=9be40f85899b1374da24eb61e1a29a02"
+                }
+            },
+            "title": "Berserk: Shinen no Kami 2",
+            "publishing": false,
+            "synopsis": "When Griffith realizes that he will no longer be able to actualize his dream in his debilitated state, he wishes upon his Crimson Behelit as a final resort. Doing so triggers the \"Eclipse\"—a ritual in...",
+            "type": "One-shot",
+            "chapters": 1,
+            "volumes": 0,
+            "score": 8.47,
+            "startDate": "1996-07-12T00:00:00+00:00",
+            "endDate": "1996-07-12T00:00:00+00:00",
+            "members": 20686
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 159765,
+            "url": "https://myanimelist.net/manga/159765/Ripple__Berserker",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/284918.jpg?s=5ac3995c3b9165576a24c3699e9517b5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/284918t.jpg?s=5ac3995c3b9165576a24c3699e9517b5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/284918l.jpg?s=5ac3995c3b9165576a24c3699e9517b5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/284918.webp?s=5ac3995c3b9165576a24c3699e9517b5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/284918t.webp?s=5ac3995c3b9165576a24c3699e9517b5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/284918l.webp?s=5ac3995c3b9165576a24c3699e9517b5"
+                }
+            },
+            "title": "Ripple: Berserker",
+            "publishing": false,
+            "synopsis": "Due to the virtual reality creation item \"Real Play\" (Ripple), rank 1 pro gamer Hyun-soo leaves the gaming scene. Unlike his peers, he despises Ripple and is bullied for it, spending his days barely g...",
+            "type": "Manhwa",
+            "chapters": 50,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2022-01-17T00:00:00+00:00",
+            "endDate": "2022-11-21T00:00:00+00:00",
+            "members": 231
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 115165,
+            "url": "https://myanimelist.net/manga/115165/Boushoku_no_Berserk__Ore_dake_Level_to_Iu_Gainen_wo_Toppa_suru",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/211022.jpg?s=69338f3115b898527cfee854179cb0d0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/211022t.jpg?s=69338f3115b898527cfee854179cb0d0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/211022l.jpg?s=69338f3115b898527cfee854179cb0d0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/211022.webp?s=69338f3115b898527cfee854179cb0d0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/211022t.webp?s=69338f3115b898527cfee854179cb0d0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/211022l.webp?s=69338f3115b898527cfee854179cb0d0"
+                }
+            },
+            "title": "Boushoku no Berserk: Ore dake Level to Iu Gainen wo Toppa suru",
+            "publishing": false,
+            "synopsis": "Fate Graphite is one of the forsaken. Cursed with the skill \"Gluttony,\" he is ever starving, never sated...until the day he kills a dying thief and devours the man's strength—and his soul. The true hu...",
+            "type": "Light Novel",
+            "chapters": 0,
+            "volumes": 8,
+            "score": 7.18,
+            "startDate": "2017-11-30T00:00:00+00:00",
+            "endDate": "2022-10-28T00:00:00+00:00",
+            "members": 7919
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 189931,
+            "url": "https://myanimelist.net/manga/189931/The_Berserkers_Second_Playthrough",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/339531.jpg?s=34128c8528f3d4ff60aa8b4fed0181b4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/339531t.jpg?s=34128c8528f3d4ff60aa8b4fed0181b4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/339531l.jpg?s=34128c8528f3d4ff60aa8b4fed0181b4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/339531.webp?s=34128c8528f3d4ff60aa8b4fed0181b4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/339531t.webp?s=34128c8528f3d4ff60aa8b4fed0181b4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/339531l.webp?s=34128c8528f3d4ff60aa8b4fed0181b4"
+                }
+            },
+            "title": "The Berserker's Second Playthrough",
+            "publishing": true,
+            "synopsis": "The protagonist, having possessed a berserker character within the game, has finally slain the Great Demon and cleared the ending after many events. He believed that was the end. However, before his e...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.45,
+            "startDate": "2025-12-31T00:00:00+00:00",
+            "endDate": null,
+            "members": 849
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 45709,
+            "url": "https://myanimelist.net/manga/45709/Bousou_Honnou_Melancholia",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/212353.jpg?s=a8cef3a8e3920303c94e1faa6f43e9f3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/212353t.jpg?s=a8cef3a8e3920303c94e1faa6f43e9f3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/212353l.jpg?s=a8cef3a8e3920303c94e1faa6f43e9f3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/212353.webp?s=a8cef3a8e3920303c94e1faa6f43e9f3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/212353t.webp?s=a8cef3a8e3920303c94e1faa6f43e9f3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/212353l.webp?s=a8cef3a8e3920303c94e1faa6f43e9f3"
+                }
+            },
+            "title": "Bousou Honnou Melancholia",
+            "publishing": false,
+            "synopsis": "Cornered by delinquents, Katanabe Shino was just waiting for her end... until Tachibana, her bad-tempered classmate, saves her. She then decides to give him a not so chaste \"thank you gift.\" (Source:...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 1,
+            "score": 0.0,
+            "startDate": "2012-04-01T00:00:00+00:00",
+            "endDate": "2013-01-18T00:00:00+00:00",
+            "members": 491
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 105783,
+            "url": "https://myanimelist.net/manga/105783/Tantei_Akechi_wa_Kyouransu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/206563.jpg?s=a30ad41acf40e7c31c993cf65737716a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/206563t.jpg?s=a30ad41acf40e7c31c993cf65737716a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/206563l.jpg?s=a30ad41acf40e7c31c993cf65737716a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/206563.webp?s=a30ad41acf40e7c31c993cf65737716a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/206563t.webp?s=a30ad41acf40e7c31c993cf65737716a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/206563l.webp?s=a30ad41acf40e7c31c993cf65737716a"
+                }
+            },
+            "title": "Tantei Akechi wa Kyouransu",
+            "publishing": false,
+            "synopsis": "The manga's story is an homage to Edogawa Rampo's fictional character Akechi Kogorou. The mystery centers around Mayumi Hanazaki, a middle-school girl who used to live with her aunt and uncle until a...",
+            "type": "Manga",
+            "chapters": 19,
+            "volumes": 4,
+            "score": 0.0,
+            "startDate": "2017-03-25T00:00:00+00:00",
+            "endDate": "2018-12-26T00:00:00+00:00",
+            "members": 553
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 103579,
+            "url": "https://myanimelist.net/manga/103579/Majutsu_Gakuen_Ryouiki_no_Berserker",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/190013.jpg?s=e85646406adaf9afd84512b10afdb5dc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/190013t.jpg?s=e85646406adaf9afd84512b10afdb5dc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/190013l.jpg?s=e85646406adaf9afd84512b10afdb5dc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/190013.webp?s=e85646406adaf9afd84512b10afdb5dc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/190013t.webp?s=e85646406adaf9afd84512b10afdb5dc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/190013l.webp?s=e85646406adaf9afd84512b10afdb5dc"
+                }
+            },
+            "title": "Majutsu Gakuen Ryouiki no Berserker",
+            "publishing": true,
+            "synopsis": "",
+            "type": "Light Novel",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2017-01-20T00:00:00+00:00",
+            "endDate": null,
+            "members": 167
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 112121,
+            "url": "https://myanimelist.net/manga/112121/Kuro_no_Shoukanshi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/210357.jpg?s=611095aa38129c2cb9b3c9daacd17e06",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/210357t.jpg?s=611095aa38129c2cb9b3c9daacd17e06",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/210357l.jpg?s=611095aa38129c2cb9b3c9daacd17e06"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/210357.webp?s=611095aa38129c2cb9b3c9daacd17e06",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/210357t.webp?s=611095aa38129c2cb9b3c9daacd17e06",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/210357l.webp?s=611095aa38129c2cb9b3c9daacd17e06"
+                }
+            },
+            "title": "Kuro no Shoukanshi",
+            "publishing": true,
+            "synopsis": "While being transmigrated to another world, Kelvin gave up his memories for powerful new abilities. Setting out on the ultimate adventure as the world's strongest Summoner—his first Follower the very...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.12,
+            "startDate": "2018-01-10T00:00:00+00:00",
+            "endDate": null,
+            "members": 26641
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 106677,
+            "url": "https://myanimelist.net/manga/106677/Shousetsu_Berserk__Enryuu_no_Kishi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/266240.jpg?s=b9a510e7ab4a12b3be1fc7ff73e2f0ce",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/266240t.jpg?s=b9a510e7ab4a12b3be1fc7ff73e2f0ce",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/266240l.jpg?s=b9a510e7ab4a12b3be1fc7ff73e2f0ce"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/266240.webp?s=b9a510e7ab4a12b3be1fc7ff73e2f0ce",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/266240t.webp?s=b9a510e7ab4a12b3be1fc7ff73e2f0ce",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/266240l.webp?s=b9a510e7ab4a12b3be1fc7ff73e2f0ce"
+                }
+            },
+            "title": "Shousetsu Berserk: Enryuu no Kishi",
+            "publishing": false,
+            "synopsis": "The Flame Dragon Knight traces the rise of the warrior Grunbeld from humble beginnings to the all-powerful Apostle who will one day face Guts in mortal combat! (Source: Dark Horse)",
+            "type": "Light Novel",
+            "chapters": 6,
+            "volumes": 1,
+            "score": 6.57,
+            "startDate": "2017-06-23T00:00:00+00:00",
+            "endDate": "2017-06-23T00:00:00+00:00",
+            "members": 1380
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 101249,
+            "url": "https://myanimelist.net/manga/101249/Isekai_Guild_no_Berserk",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/199709.jpg?s=0d4841156eb1be43560029ed9f2f0aa7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/199709t.jpg?s=0d4841156eb1be43560029ed9f2f0aa7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/199709l.jpg?s=0d4841156eb1be43560029ed9f2f0aa7"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/199709.webp?s=0d4841156eb1be43560029ed9f2f0aa7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/199709t.webp?s=0d4841156eb1be43560029ed9f2f0aa7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/199709l.webp?s=0d4841156eb1be43560029ed9f2f0aa7"
+                }
+            },
+            "title": "Isekai Guild no Berserk",
+            "publishing": true,
+            "synopsis": "",
+            "type": "Light Novel",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2016-09-30T00:00:00+00:00",
+            "endDate": null,
+            "members": 254
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 86735,
+            "url": "https://myanimelist.net/manga/86735/Otousan_made_Osewa_shimasu_Ikumen_Hatsuiku♂Bousouchuu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/150636.jpg?s=25f70aa905b01c55356ba01541ad46d2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/150636t.jpg?s=25f70aa905b01c55356ba01541ad46d2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/150636l.jpg?s=25f70aa905b01c55356ba01541ad46d2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/150636.webp?s=25f70aa905b01c55356ba01541ad46d2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/150636t.webp?s=25f70aa905b01c55356ba01541ad46d2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/150636l.webp?s=25f70aa905b01c55356ba01541ad46d2"
+                }
+            },
+            "title": "Otousan made Osewa shimasu! Ikumen Hatsuiku♂Bousouchuu",
+            "publishing": false,
+            "synopsis": "Meet our hot-blooded nursery teacher, Taiyou. He can't resist helping others out. One day, he runs into a hunky young father, called Shiina. After discovering Shiina's other side, Taiyou can't stand i...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 1,
+            "score": 0.0,
+            "startDate": "2012-01-01T00:00:00+00:00",
+            "endDate": "2012-01-01T00:00:00+00:00",
+            "members": 143
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 194971,
+            "url": "https://myanimelist.net/manga/194971/Kyousenshi_na_Mob_Mujikaku_ni_Honpen_wo_Hakai_suru",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/347788.jpg?s=579363350dd5b3fca4a201475bf795aa",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/347788t.jpg?s=579363350dd5b3fca4a201475bf795aa",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/347788l.jpg?s=579363350dd5b3fca4a201475bf795aa"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/347788.webp?s=579363350dd5b3fca4a201475bf795aa",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/347788t.webp?s=579363350dd5b3fca4a201475bf795aa",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/347788l.webp?s=579363350dd5b3fca4a201475bf795aa"
+                }
+            },
+            "title": "Kyousenshi na Mob, Mujikaku ni Honpen wo Hakai suru",
+            "publishing": true,
+            "synopsis": "Albert, the youngest son of a family of noble warriors called the Falconers, has a secret—he's been reincarnated into the world of a video game! Unfortunately, his memories of the game are hazy, and h...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2023-08-29T00:00:00+00:00",
+            "endDate": null,
+            "members": 66
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 99059,
+            "url": "https://myanimelist.net/manga/99059/Kuro_no_Shoukanshi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/178493.jpg?s=aa0d7f52efbcfcfd9117c0c652e2c003",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/178493t.jpg?s=aa0d7f52efbcfcfd9117c0c652e2c003",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/178493l.jpg?s=aa0d7f52efbcfcfd9117c0c652e2c003"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/178493.webp?s=aa0d7f52efbcfcfd9117c0c652e2c003",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/178493t.webp?s=aa0d7f52efbcfcfd9117c0c652e2c003",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/178493l.webp?s=aa0d7f52efbcfcfd9117c0c652e2c003"
+                }
+            },
+            "title": "Kuro no Shoukanshi",
+            "publishing": true,
+            "synopsis": "Waking up in a strange new place with no memory of his past life, Kelvin learns that he's bartered away those very memories in exchange for powerful new abilities during his recent transmigration. Hea...",
+            "type": "Light Novel",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.25,
+            "startDate": "2016-06-25T00:00:00+00:00",
+            "endDate": null,
+            "members": 3606
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 136771,
+            "url": "https://myanimelist.net/manga/136771/Solo_Shinkan_no_VRMMO_Boukenki__Doko_kara_Mitemo_Kyou-senshi_desu_Hontou_ni_Arigatou_Gozaimashita",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/246073.jpg?s=fd1d9db1bf1c26f9b1a5ce976dfd9c99",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/246073t.jpg?s=fd1d9db1bf1c26f9b1a5ce976dfd9c99",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/246073l.jpg?s=fd1d9db1bf1c26f9b1a5ce976dfd9c99"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/246073.webp?s=fd1d9db1bf1c26f9b1a5ce976dfd9c99",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/246073t.webp?s=fd1d9db1bf1c26f9b1a5ce976dfd9c99",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/246073l.webp?s=fd1d9db1bf1c26f9b1a5ce976dfd9c99"
+                }
+            },
+            "title": "Solo Shinkan no VRMMO Boukenki: Doko kara Mitemo Kyou-senshi desu Hontou ni Arigatou Gozaimashita",
+            "publishing": true,
+            "synopsis": "Ryuu Shinjou is a student who is invited (forced) by his best friend to enter the world of virtual and online role-playing games (VRMMORPG). During the game and when choosing his class, Ryuu decides t...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2020-08-06T00:00:00+00:00",
+            "endDate": null,
+            "members": 650
+        }
+    ]
+}
