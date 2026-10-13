@@ -1,0 +1,564 @@
+{
+    "@class": "Jikan\\Model\\Genre\\MangaGenreList",
+    "genres": [
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 1,
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action",
+            "count": 11422
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 2,
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure",
+            "count": 4698
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 5,
+            "name": "Avant Garde",
+            "url": "https://myanimelist.net/manga/genre/5/Avant_Garde",
+            "count": 104
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 46,
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning",
+            "count": 509
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 28,
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/manga/genre/28/Boys_Love",
+            "count": 12859
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 4,
+            "name": "Comedy",
+            "url": "https://myanimelist.net/manga/genre/4/Comedy",
+            "count": 16994
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 8,
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama",
+            "count": 11922
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 10,
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy",
+            "count": 16458
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 26,
+            "name": "Girls Love",
+            "url": "https://myanimelist.net/manga/genre/26/Girls_Love",
+            "count": 2259
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 47,
+            "name": "Gourmet",
+            "url": "https://myanimelist.net/manga/genre/47/Gourmet",
+            "count": 773
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 14,
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror",
+            "count": 2132
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 7,
+            "name": "Mystery",
+            "url": "https://myanimelist.net/manga/genre/7/Mystery",
+            "count": 2939
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 22,
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance",
+            "count": 21056
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 24,
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/manga/genre/24/Sci-Fi",
+            "count": 3785
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 36,
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life",
+            "count": 5556
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 30,
+            "name": "Sports",
+            "url": "https://myanimelist.net/manga/genre/30/Sports",
+            "count": 1375
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 37,
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural",
+            "count": 9071
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 45,
+            "name": "Suspense",
+            "url": "https://myanimelist.net/manga/genre/45/Suspense",
+            "count": 1064
+        }
+    ],
+    "explicitGenres": [
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 9,
+            "name": "Ecchi",
+            "url": "https://myanimelist.net/manga/genre/9/Ecchi",
+            "count": 4205
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 49,
+            "name": "Erotica",
+            "url": "https://myanimelist.net/manga/genre/49/Erotica",
+            "count": 12305
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 12,
+            "name": "Hentai",
+            "url": "https://myanimelist.net/manga/genre/12/Hentai",
+            "count": 14320
+        }
+    ],
+    "themes": [
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 50,
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast",
+            "count": 2044
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 51,
+            "name": "Anthropomorphic",
+            "url": "https://myanimelist.net/manga/genre/51/Anthropomorphic",
+            "count": 437
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 52,
+            "name": "CGDCT",
+            "url": "https://myanimelist.net/manga/genre/52/CGDCT",
+            "count": 200
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 53,
+            "name": "Childcare",
+            "url": "https://myanimelist.net/manga/genre/53/Childcare",
+            "count": 344
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 54,
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/manga/genre/54/Combat_Sports",
+            "count": 218
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 44,
+            "name": "Crossdressing",
+            "url": "https://myanimelist.net/manga/genre/44/Crossdressing",
+            "count": 787
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 55,
+            "name": "Delinquents",
+            "url": "https://myanimelist.net/manga/genre/55/Delinquents",
+            "count": 227
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 39,
+            "name": "Detective",
+            "url": "https://myanimelist.net/manga/genre/39/Detective",
+            "count": 517
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 56,
+            "name": "Educational",
+            "url": "https://myanimelist.net/manga/genre/56/Educational",
+            "count": 81
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 57,
+            "name": "Gag Humor",
+            "url": "https://myanimelist.net/manga/genre/57/Gag_Humor",
+            "count": 449
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 58,
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore",
+            "count": 413
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 35,
+            "name": "Harem",
+            "url": "https://myanimelist.net/manga/genre/35/Harem",
+            "count": 2732
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 59,
+            "name": "High Stakes Game",
+            "url": "https://myanimelist.net/manga/genre/59/High_Stakes_Game",
+            "count": 129
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 13,
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical",
+            "count": 3067
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 60,
+            "name": "Idols (Female)",
+            "url": "https://myanimelist.net/manga/genre/60/Idols_Female",
+            "count": 119
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 61,
+            "name": "Idols (Male)",
+            "url": "https://myanimelist.net/manga/genre/61/Idols_Male",
+            "count": 133
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 62,
+            "name": "Isekai",
+            "url": "https://myanimelist.net/manga/genre/62/Isekai",
+            "count": 2545
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 63,
+            "name": "Iyashikei",
+            "url": "https://myanimelist.net/manga/genre/63/Iyashikei",
+            "count": 167
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 64,
+            "name": "Love Polygon",
+            "url": "https://myanimelist.net/manga/genre/64/Love_Polygon",
+            "count": 489
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 75,
+            "name": "Love Status Quo",
+            "url": "https://myanimelist.net/manga/genre/75/Love_Status_Quo",
+            "count": 309
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 65,
+            "name": "Magical Sex Shift",
+            "url": "https://myanimelist.net/manga/genre/65/Magical_Sex_Shift",
+            "count": 327
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 66,
+            "name": "Mahou Shoujo",
+            "url": "https://myanimelist.net/manga/genre/66/Mahou_Shoujo",
+            "count": 214
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 17,
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts",
+            "count": 900
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 18,
+            "name": "Mecha",
+            "url": "https://myanimelist.net/manga/genre/18/Mecha",
+            "count": 784
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 67,
+            "name": "Medical",
+            "url": "https://myanimelist.net/manga/genre/67/Medical",
+            "count": 230
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 68,
+            "name": "Memoir",
+            "url": "https://myanimelist.net/manga/genre/68/Memoir",
+            "count": 275
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 38,
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military",
+            "count": 830
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 19,
+            "name": "Music",
+            "url": "https://myanimelist.net/manga/genre/19/Music",
+            "count": 679
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 6,
+            "name": "Mythology",
+            "url": "https://myanimelist.net/manga/genre/6/Mythology",
+            "count": 1039
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 69,
+            "name": "Organized Crime",
+            "url": "https://myanimelist.net/manga/genre/69/Organized_Crime",
+            "count": 336
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 70,
+            "name": "Otaku Culture",
+            "url": "https://myanimelist.net/manga/genre/70/Otaku_Culture",
+            "count": 299
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 20,
+            "name": "Parody",
+            "url": "https://myanimelist.net/manga/genre/20/Parody",
+            "count": 417
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 71,
+            "name": "Performing Arts",
+            "url": "https://myanimelist.net/manga/genre/71/Performing_Arts",
+            "count": 174
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 72,
+            "name": "Pets",
+            "url": "https://myanimelist.net/manga/genre/72/Pets",
+            "count": 283
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 40,
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological",
+            "count": 1907
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 3,
+            "name": "Racing",
+            "url": "https://myanimelist.net/manga/genre/3/Racing",
+            "count": 98
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 73,
+            "name": "Reincarnation",
+            "url": "https://myanimelist.net/manga/genre/73/Reincarnation",
+            "count": 1807
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 74,
+            "name": "Reverse Harem",
+            "url": "https://myanimelist.net/manga/genre/74/Reverse_Harem",
+            "count": 255
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 21,
+            "name": "Samurai",
+            "url": "https://myanimelist.net/manga/genre/21/Samurai",
+            "count": 328
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 23,
+            "name": "School",
+            "url": "https://myanimelist.net/manga/genre/23/School",
+            "count": 13330
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 76,
+            "name": "Showbiz",
+            "url": "https://myanimelist.net/manga/genre/76/Showbiz",
+            "count": 279
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 29,
+            "name": "Space",
+            "url": "https://myanimelist.net/manga/genre/29/Space",
+            "count": 320
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 11,
+            "name": "Strategy Game",
+            "url": "https://myanimelist.net/manga/genre/11/Strategy_Game",
+            "count": 336
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 31,
+            "name": "Super Power",
+            "url": "https://myanimelist.net/manga/genre/31/Super_Power",
+            "count": 734
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 77,
+            "name": "Survival",
+            "url": "https://myanimelist.net/manga/genre/77/Survival",
+            "count": 267
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 78,
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/manga/genre/78/Team_Sports",
+            "count": 528
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 79,
+            "name": "Time Travel",
+            "url": "https://myanimelist.net/manga/genre/79/Time_Travel",
+            "count": 1068
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 83,
+            "name": "Urban Fantasy",
+            "url": "https://myanimelist.net/manga/genre/83/Urban_Fantasy",
+            "count": 529
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 32,
+            "name": "Vampire",
+            "url": "https://myanimelist.net/manga/genre/32/Vampire",
+            "count": 680
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 80,
+            "name": "Video Game",
+            "url": "https://myanimelist.net/manga/genre/80/Video_Game",
+            "count": 427
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 81,
+            "name": "Villainess",
+            "url": "https://myanimelist.net/manga/genre/81/Villainess",
+            "count": 545
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 82,
+            "name": "Visual Arts",
+            "url": "https://myanimelist.net/manga/genre/82/Visual_Arts",
+            "count": 172
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 48,
+            "name": "Workplace",
+            "url": "https://myanimelist.net/manga/genre/48/Workplace",
+            "count": 1030
+        }
+    ],
+    "demographics": [
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 42,
+            "name": "Josei",
+            "url": "https://myanimelist.net/manga/genre/42/Josei",
+            "count": 4781
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 15,
+            "name": "Kids",
+            "url": "https://myanimelist.net/manga/genre/15/Kids",
+            "count": 330
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 41,
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen",
+            "count": 9625
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 25,
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/manga/genre/25/Shoujo",
+            "count": 8955
+        },
+        {
+            "@class": "Jikan\\Model\\Genre\\MangaGenreListItem",
+            "malId": 27,
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen",
+            "count": 8021
+        }
+    ]
+}

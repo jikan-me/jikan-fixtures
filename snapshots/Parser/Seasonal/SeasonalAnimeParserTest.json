@@ -1,0 +1,65 @@
+{
+    "@class": "Jikan\\Model\\Common\\AnimeCard",
+    "malId": 36456,
+    "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season",
+    "title": "Boku no Hero Academia 3rd Season",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp"
+        }
+    },
+    "synopsis": "As summer arrives for the students at UA Academy, each of these superheroes-in-training puts in their best efforts to become renowned heroes. They head off to a forest training camp run by UA's pro heroes, where the students face one another in battle and go through dangerous tests, improving their abilities and pushing past their limits. However, their school trip is suddenly turned upside down when the League of Villains arrives, invading the camp with a mission to capture one of the students. Boku no Hero Academia 3rd Season follows Izuku \"Deku\" Midoriya, an ambitious student training to achieve his dream of becoming a hero similar to his role model—All Might. Being one of the students caught up amidst the chaos of the villain attack, Deku must take a stand with his classmates and fight for their survival. [Written by MAL Rewrite]",
+    "type": null,
+    "airingStart": "2018-04-06T15:00:00+00:00",
+    "episodes": 25,
+    "members": 23000000,
+    "genres": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+    ],
+    "explicitGenres": [],
+    "themes": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Super Power",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "demographics": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "source": "Manga",
+    "producers": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "score": 7.98,
+    "licensors": [],
+    "r18": false,
+    "kids": false
+}

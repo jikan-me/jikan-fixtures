@@ -1,0 +1,544 @@
+{
+    "@class": "Jikan\\Model\\Article\\ArticleList",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2362,
+            "url": "https://myanimelist.net/featured/2362/Special_Report_from_Aniplex_Online_Fest_2021",
+            "title": "Special Report from Aniplex Online Fest 2021",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1625817089-5243aa73d42dac6444e7cad5e611eda6.jpeg"
+                }
+            },
+            "views": 48717,
+            "excerpt": "Breaking down the hottest panels at Aniplex Online Fest 2021, featuring Puella Magi Madoka Magica, Fate/Grand Order, Sword Art Online, and Demon Slayer: Kimetsu no Yaiba.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 844,
+            "url": "https://myanimelist.net/featured/844/Test_Your_Powers_of_Deduction_with_These_Detective_Conan_Games",
+            "title": "Test Your Powers of Deduction with These Detective Conan Games!",
+            "authorUsername": "une3valentine",
+            "authorUrl": "https://myanimelist.net/profile/une3valentine",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1447295833-9e5fd7340b9ee4e84c4d2153893bcd0d.jpeg"
+                }
+            },
+            "views": 13231,
+            "excerpt": "Shinichi Kudo uses his amazing powers of deduction to solve crimes in the hit series Detective Conan. If you want a taste of what it's like to solve crimes with the greatest high school detective, take a look at these video games. You, too, can be a sleuth like Shinichi!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "games",
+                    "name": "Games",
+                    "url": "https://myanimelist.net/featured/tag/games"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1680,
+            "url": "https://myanimelist.net/featured/1680/Flower_Knight_Girl_Review__Squash_Pests_with_your_Flower_Knights",
+            "title": "Flower Knight Girl Review: Squash Pests with your Flower Knights!",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1463275017-a690ffc99a87f44bc1e89790d44f4236.jpeg"
+                }
+            },
+            "views": 15804,
+            "excerpt": "The wildly popular Flower Knight Girl from Japan is now available in English at Nutaku.com. This turn-based RPG puts you in command of an army of blossoming female warriors as you defend the World of Flowers against the evil Pugnacious Pests!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "cute_girls",
+                    "name": "Cute Girls",
+                    "url": "https://myanimelist.net/featured/tag/cute_girls"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1646,
+            "url": "https://myanimelist.net/featured/1646/Top_15_Best_Love_Triangle_Anime__The_Bittersweet_Taste_of_Love",
+            "title": "Top 15 Best Love Triangle Anime: The Bittersweet Taste of Love",
+            "authorUsername": "FreeNightFalls",
+            "authorUrl": "https://myanimelist.net/profile/FreeNightFalls",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1463774853-0dea68d38f550166233ef5a24b53f10d.jpeg"
+                }
+            },
+            "views": 375897,
+            "excerpt": "The more the merrier! The power of love between two people is already something not to be trifled with, but what happens when there are more than two lovers involved? Let's take a look at 15 of the best love triangle anime and what makes them so interesting and enticing!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "love",
+                    "name": "Love",
+                    "url": "https://myanimelist.net/featured/tag/love"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1775,
+            "url": "https://myanimelist.net/featured/1775/Is_Anime_Sexist_The_Most_Popular_Anime_Pass_the_Bechdel_Test",
+            "title": "Is Anime Sexist? The Most Popular Anime Pass the Bechdel Test",
+            "authorUsername": "samcook",
+            "authorUrl": "https://myanimelist.net/profile/samcook",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1467221751-04bb6fb62fb2a1aba8e20727920d5c2a.jpeg"
+                }
+            },
+            "views": 58530,
+            "excerpt": "Although anime often receives barbs, slings and arrows for its portrayal of women, most of the most popular anime shows still pass one of gender politics' favored bellwethers: The Bechdel test. What are the implications?",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "analysis",
+                    "name": "Analysis",
+                    "url": "https://myanimelist.net/featured/tag/analysis"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2014,
+            "url": "https://myanimelist.net/featured/2014/The_Best_Anime_Fanart_Ever",
+            "title": "The Best Anime Fanart Ever",
+            "authorUsername": "Littoface",
+            "authorUrl": "https://myanimelist.net/profile/Littoface",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1478636311-221438232c4f4f4c4428e77ad980747b.jpeg"
+                }
+            },
+            "views": 109674,
+            "excerpt": "We love anime, but we love anime fanart even more! Join us as we round up some of our favorite anime fanart images ever.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "art",
+                    "name": "Art",
+                    "url": "https://myanimelist.net/featured/tag/art"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1922,
+            "url": "https://myanimelist.net/featured/1922/Ten_of_the_Best_Violent_Anime",
+            "title": "Ten of the Best Violent Anime",
+            "authorUsername": "MissSimplice",
+            "authorUrl": "https://myanimelist.net/profile/MissSimplice",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1474381606-a2777ef58e738dbe96c707fdbaa00138.jpeg"
+                }
+            },
+            "views": 216687,
+            "excerpt": "On screen violence is thrilling, exhilarating, and without a doubt makes the adrenaline run and pump through the veins. Here's a list of 10 of the best violent anime to tie your knickers in a knot.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "action",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/featured/tag/action"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 688,
+            "url": "https://myanimelist.net/featured/688/Pokemon_XY__Battling_to_be_the_Best",
+            "title": "Pokemon XY: Battling to be the Best",
+            "authorUsername": "NicWat10",
+            "authorUrl": "https://myanimelist.net/profile/NicWat10",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1445958104-06035958d68a7b44c3af4667eadcff6d.jpeg"
+                }
+            },
+            "views": 5211,
+            "excerpt": "If you want to be the very best like no one ever was, catching Pokemon is simply not enough. Any Pokemon Trainer worth their merit must polish their skills and the skills of their Pokemon partners through the exciting world of Pokemon Battles!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "analysis",
+                    "name": "Analysis",
+                    "url": "https://myanimelist.net/featured/tag/analysis"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "action",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/featured/tag/action"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2340,
+            "url": "https://myanimelist.net/featured/2340/The_Best_and_Worst_Episodes_of_Summer_2020",
+            "title": "The Best and Worst Episodes of Summer 2020",
+            "authorUsername": "Shymander",
+            "authorUrl": "https://myanimelist.net/profile/Shymander",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1601837184-ac0fe6bf7cb6d99780e4c6fc6cf9b161.jpeg"
+                }
+            },
+            "views": 64570,
+            "excerpt": "In this first of a three-part series, I go over the highs and lows of nearly every anime that aired in Summer 2020!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2023,
+            "url": "https://myanimelist.net/featured/2023/The_10_Best_Anime_Movies_of_2011",
+            "title": "The 10 Best Anime Movies of 2011",
+            "authorUsername": "MissSimplice",
+            "authorUrl": "https://myanimelist.net/profile/MissSimplice",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1479097458-bf7047f813a8f1b1a49578182d8b45a2.jpeg"
+                }
+            },
+            "views": 63193,
+            "excerpt": "Here are the anime movies that we've picked out as the top ten of 2011, all from different genres and all ones you should've seen already.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1811,
+            "url": "https://myanimelist.net/featured/1811/Best_Friends_Found_in_Webtoon_and_Anime",
+            "title": "Best Friends Found in Webtoon and Anime",
+            "authorUsername": "LezhinComicsUS",
+            "authorUrl": "https://myanimelist.net/profile/LezhinComicsUS",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1469501346-d67dd5c3d5a4b04efcbd992a70397fae.jpeg"
+                }
+            },
+            "views": 38858,
+            "excerpt": "Sometimes, the last person you suspect ends up being your friend for life and you sometimes wonder how that happened.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "character_analysis",
+                    "name": "Character Analysis",
+                    "url": "https://myanimelist.net/featured/tag/character_analysis"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 646,
+            "url": "https://myanimelist.net/featured/646/10_Best_Superhuman_Abilities_in_Charlotte",
+            "title": "10 Best Superhuman Abilities in Charlotte",
+            "authorUsername": "FreeNightFalls",
+            "authorUrl": "https://myanimelist.net/profile/FreeNightFalls",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1445630627-1585c6cbc913d7267e7da7b497ea30c8.jpeg"
+                }
+            },
+            "views": 49796,
+            "excerpt": "Let's take a look at some of the most amazing superhuman abilities from the latest anime Charlotte. Some of them are so awesome that you will regret not having them!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "supernatural",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/featured/tag/supernatural"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "superhuman",
+                    "name": "Superhuman",
+                    "url": "https://myanimelist.net/featured/tag/superhuman"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1025,
+            "url": "https://myanimelist.net/featured/1025/Top_20_Best_Anime_of_2013",
+            "title": "Top 20 Best Anime of 2013",
+            "authorUsername": "MoxieWriter001",
+            "authorUrl": "https://myanimelist.net/profile/MoxieWriter001",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1449209391-99b796fd651c483f65b35f7e14ea9f3c.jpeg"
+                }
+            },
+            "views": 1328195,
+            "excerpt": "The world of anime in 2013 was a whirlwind of quality. Some of the most popular shows in recent history came out this season, giving anime a massive popularity boost overseas. We've collected the top 20 anime of 2013, based on their MAL scores. Are your favorites on the list?",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "recommendation",
+                    "name": "Recommendation",
+                    "url": "https://myanimelist.net/featured/tag/recommendation"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1722,
+            "url": "https://myanimelist.net/featured/1722/Top_25_Best_Adventure_Anime",
+            "title": "Top 25 Best Adventure Anime",
+            "authorUsername": "FreeNightFalls",
+            "authorUrl": "https://myanimelist.net/profile/FreeNightFalls",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1464333749-b243f72d639d16fcdde0d18e8f0bca50.jpeg"
+                }
+            },
+            "views": 975714,
+            "excerpt": "Are you into anime shows in which the characters embark on an exciting journey (who isn't)? If the answer is yes, then check out these 25 amazing adventure anime and prepare for being part of the experience yourself!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "gif",
+                    "name": "GIF",
+                    "url": "https://myanimelist.net/featured/tag/gif"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2309,
+            "url": "https://myanimelist.net/featured/2309/In_Numbers__The_Best_Anime_of_the_Decade",
+            "title": "In Numbers: The Best Anime of the Decade",
+            "authorUsername": "Shymander",
+            "authorUrl": "https://myanimelist.net/profile/Shymander",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1577540570-68106f0780fe4c0dce683614a68d3249.jpeg"
+                }
+            },
+            "views": 686609,
+            "excerpt": "What's the #1 anime of the 2010s? Which year was the best? What studio had the most hits? We have the answers to all these questions and more!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 674,
+            "url": "https://myanimelist.net/featured/674/20_Best_Moments_of_Naruto",
+            "title": "20 Best Moments of Naruto",
+            "authorUsername": "Torden99",
+            "authorUrl": "https://myanimelist.net/profile/Torden99",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1445914112-406631c8330b62294d4ed71d8adc1d20.jpeg"
+                }
+            },
+            "views": 78535,
+            "excerpt": "The Naruto series, written by Masashi Kishimoto, tells the story of Naruto and his companions as they fight to protect their home and achieve their dreams. Being that so, its best moments include all kinds of emotions. Let's take a look! **WARNING, this article contains MAJOR spoilers!**",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "action",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/featured/tag/action"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "friendship",
+                    "name": "Friendship",
+                    "url": "https://myanimelist.net/featured/tag/friendship"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "honor",
+                    "name": "Honor",
+                    "url": "https://myanimelist.net/featured/tag/honor"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "love",
+                    "name": "Love",
+                    "url": "https://myanimelist.net/featured/tag/love"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "naruto",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/featured/tag/naruto"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2343,
+            "url": "https://myanimelist.net/featured/2343/The_Best_and_Worst_Anime_of_Summer_2020",
+            "title": "The Best and Worst Anime of Summer 2020",
+            "authorUsername": "Shymander",
+            "authorUrl": "https://myanimelist.net/profile/Shymander",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1602844260-16530fcbbbd974b678e4aad843c930eb.jpeg"
+                }
+            },
+            "views": 138609,
+            "excerpt": "And finally... the Summer 2020 Anime of the Season and how we got there!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2076,
+            "url": "https://myanimelist.net/featured/2076/Top_20_Best_Anime_of_2016",
+            "title": "Top 20 Best Anime of 2016",
+            "authorUsername": "MisterD98",
+            "authorUrl": "https://myanimelist.net/profile/MisterD98",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1483404958-d303b9ff7dbcbe4329b84dcf7746765f.jpeg"
+                }
+            },
+            "views": 1106878,
+            "excerpt": "2016 was weird, but it was a great year for our favorite medium! We were spoiled with a variety of excellent series. Now let’s take a look at the top 20 best anime of 2016!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "recommendation",
+                    "name": "Recommendation",
+                    "url": "https://myanimelist.net/featured/tag/recommendation"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2040,
+            "url": "https://myanimelist.net/featured/2040/The_15_Best_Anime_Movies_2013",
+            "title": "The 15 Best Anime Movies 2013",
+            "authorUsername": "MisterD98",
+            "authorUrl": "https://myanimelist.net/profile/MisterD98",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1480585416-0cbe6345c694fc1f5a88f533e098286e.jpeg"
+                }
+            },
+            "views": 126323,
+            "excerpt": "Find out what the best anime movies of 2013 are right here, in case you missed a few. You might have some catching up to do!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                }
+            ]
+        }
+    ]
+}

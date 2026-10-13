@@ -1,0 +1,734 @@
+{
+    "@class": "Jikan\\Model\\Search\\PersonSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 4,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 67,
+            "url": "https://myanimelist.net/people/67/Kappei_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/74474.jpg?s=2c38687135fa60b538d2fe2704608fc2"
+                }
+            },
+            "name": "Yamaguchi, Kappei",
+            "alternativeNames": [
+                "山口光雄",
+                "Mitsuo Yamaguchi"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 35069,
+            "url": "https://myanimelist.net/people/35069/Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 66238,
+            "url": "https://myanimelist.net/people/66238/Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 77542,
+            "url": "https://myanimelist.net/people/77542/Yuu_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Yuu",
+            "alternativeNames": [
+                "Isamu Yamaguchi"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 46926,
+            "url": "https://myanimelist.net/people/46926/mabanua",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/55288.jpg?s=669aa6053844d6d02b09989f314a4374"
+                }
+            },
+            "name": "mabanua",
+            "alternativeNames": [
+                "Manabu Yamaguchi",
+                "山口学"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 130,
+            "url": "https://myanimelist.net/people/130/Yuriko_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/63904.jpg?s=361a492739e486e1f4d2953700983f47"
+                }
+            },
+            "name": "Yamaguchi, Yuriko",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 2015,
+            "url": "https://myanimelist.net/people/2015/Yuu_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Yuu",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 86596,
+            "url": "https://myanimelist.net/people/86596/Mai_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Mai",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 44670,
+            "url": "https://myanimelist.net/people/44670/Mie_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Mie",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 8598,
+            "url": "https://myanimelist.net/people/8598/Ken_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/7570.jpg?s=fb3aee6cceb4a35271bf2dfafb7a23f3"
+                }
+            },
+            "name": "Yamaguchi, Ken",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 85338,
+            "url": "https://myanimelist.net/people/85338/Aoi_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Aoi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 12042,
+            "url": "https://myanimelist.net/people/12042/Rie_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/14561.jpg?s=541dee5930820d238621aec2851701da"
+                }
+            },
+            "name": "Yamaguchi, Rie",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 81568,
+            "url": "https://myanimelist.net/people/81568/You_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, You",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 81370,
+            "url": "https://myanimelist.net/people/81370/Kei_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Kei",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 53865,
+            "url": "https://myanimelist.net/people/53865/Mai_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Mai",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 54068,
+            "url": "https://myanimelist.net/people/54068/Mai_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Mai",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 75802,
+            "url": "https://myanimelist.net/people/75802/Sai_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Sai",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 44693,
+            "url": "https://myanimelist.net/people/44693/Aki_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Aki",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 29229,
+            "url": "https://myanimelist.net/people/29229/Mayu_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/30581.jpg?s=73fd60cdb75e787388e8eb931fd5b0bf"
+                }
+            },
+            "name": "Yamaguchi, Mayu",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 94553,
+            "url": "https://myanimelist.net/people/94553/Shou_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Shou",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 50859,
+            "url": "https://myanimelist.net/people/50859/Kira_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/58547.jpg?s=a5dd510d11d676060f60ff256768c8f9"
+                }
+            },
+            "name": "Yamaguchi, Kira",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 84934,
+            "url": "https://myanimelist.net/people/84934/Tako_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Tako",
+            "alternativeNames": [
+                "TAKU1175"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 5279,
+            "url": "https://myanimelist.net/people/5279/Nana_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/17489.jpg?s=9f056fd8a99dfec8a2a2302a8c196197"
+                }
+            },
+            "name": "Yamaguchi, Nana",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 49230,
+            "url": "https://myanimelist.net/people/49230/Kana_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Kana",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 89772,
+            "url": "https://myanimelist.net/people/89772/Mami_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Mami",
+            "alternativeNames": [
+                "山口真朱"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 76618,
+            "url": "https://myanimelist.net/people/76618/Maki_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Maki",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 96456,
+            "url": "https://myanimelist.net/people/96456/Momo_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Momo",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 51736,
+            "url": "https://myanimelist.net/people/51736/Eito_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/60215.jpg?s=33bb895ffc021d0032d02f451f0b98a2"
+                }
+            },
+            "name": "Yamaguchi, Eito",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 56800,
+            "url": "https://myanimelist.net/people/56800/Rina_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/66424.jpg?s=53c84eb8ae01a7d68682b1e47b36e96f"
+                }
+            },
+            "name": "Yamaguchi, Rina",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 39285,
+            "url": "https://myanimelist.net/people/39285/Nene_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Nene",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 69855,
+            "url": "https://myanimelist.net/people/69855/Yume_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Yume",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 11607,
+            "url": "https://myanimelist.net/people/11607/Ryuu_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/10677.jpg?s=f5b52071c0bd535f2bc03b0302822fbd"
+                }
+            },
+            "name": "Yamaguchi, Ryuu",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 55619,
+            "url": "https://myanimelist.net/people/55619/yuma_yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/91052.jpg?s=235bbd3c577f4d5d7db42584ac970fce"
+                }
+            },
+            "name": "yamaguchi, yuma",
+            "alternativeNames": [
+                "山口由馬"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 66309,
+            "url": "https://myanimelist.net/people/66309/Hami_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Hami",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 79501,
+            "url": "https://myanimelist.net/people/79501/Keiko_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Keiko",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 71576,
+            "url": "https://myanimelist.net/people/71576/Taira_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Taira",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 989,
+            "url": "https://myanimelist.net/people/989/Tarou_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/90312.jpg?s=fad5cb98f4d665e27793cde7c99dcada"
+                }
+            },
+            "name": "Yamaguchi, Tarou",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 29035,
+            "url": "https://myanimelist.net/people/29035/Akira_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Akira",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 31717,
+            "url": "https://myanimelist.net/people/31717/Asuka_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Asuka",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 22139,
+            "url": "https://myanimelist.net/people/22139/Yasuo_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/25493.jpg?s=420d8f3d75ab49730b969e6a9178a83d"
+                }
+            },
+            "name": "Yamaguchi, Yasuo",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 9494,
+            "url": "https://myanimelist.net/people/9494/Akiko_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Akiko",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 97920,
+            "url": "https://myanimelist.net/people/97920/Gorou_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Gorou",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 23521,
+            "url": "https://myanimelist.net/people/23521/Maiko_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Maiko",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 19842,
+            "url": "https://myanimelist.net/people/19842/Yuuji_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/80645.jpg?s=f9287569828a931c9698974e9e2e089f"
+                }
+            },
+            "name": "Yamaguchi, Yuuji",
+            "alternativeNames": [
+                "虎田功",
+                "Isao Torada",
+                "やしろ駿",
+                "Shun Yashiro",
+                "小田切警視",
+                "Keishi Odagiri",
+                "山元清里",
+                "Kiyosato Yamamoto",
+                "小野葉塚之人"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 46595,
+            "url": "https://myanimelist.net/people/46595/Ayako_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Ayako",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 8271,
+            "url": "https://myanimelist.net/people/8271/Izumi_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Izumi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 36821,
+            "url": "https://myanimelist.net/people/36821/Akira_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Akira",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 70001,
+            "url": "https://myanimelist.net/people/70001/Reigo_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/78184.jpg?s=23515dc4eec9acf6a06402a4cc0f7b12"
+                }
+            },
+            "name": "Yamaguchi, Reigo",
+            "alternativeNames": [
+                "山口崇浩",
+                "Takahiro Yamaguchi"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 79268,
+            "url": "https://myanimelist.net/people/79268/Hiroo_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Hiroo",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 60664,
+            "url": "https://myanimelist.net/people/60664/Adana_Yamaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yamaguchi, Adana",
+            "alternativeNames": []
+        }
+    ]
+}

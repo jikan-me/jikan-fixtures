@@ -1,0 +1,19 @@
+{
+    "@class": "Jikan\\Model\\Anime\\StaffListItem",
+    "person": {
+        "@class": "Jikan\\Model\\Common\\PersonMeta",
+        "malId": 37118,
+        "url": "https://myanimelist.net/people/37118/Fumiyuki_Gou",
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+            "jpg": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/63242.jpg?s=14a622b100af71197c315a1ef7ea8997"
+            }
+        },
+        "name": "Gou, Fumiyuki"
+    },
+    "positions": [
+        "Sound Director"
+    ]
+}

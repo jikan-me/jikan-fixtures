@@ -1,0 +1,103 @@
+{
+    "@class": "Jikan\\Model\\Anime\\Anime",
+    "malId": 43535,
+    "url": "https://myanimelist.net/anime/43535/Qi_Guai_De_Shou",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": null,
+            "smallImageUrl": null,
+            "largeImageUrl": null
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": null,
+            "smallImageUrl": null,
+            "largeImageUrl": null
+        }
+    },
+    "trailer": {
+        "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+        "youtubeId": null,
+        "url": null,
+        "embedUrl": null,
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+            "imageUrl": null,
+            "smallImageUrl": null,
+            "mediumImageUrl": null,
+            "largeImageUrl": null,
+            "maximumImageUrl": null
+        }
+    },
+    "title": "Qi Guai De Shou",
+    "titleEnglish": null,
+    "titleJapanese": "奇怪的手",
+    "titleSynonyms": [
+        "Weird Hand"
+    ],
+    "titles": [
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Default",
+            "title": "Qi Guai De Shou"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Synonym",
+            "title": "Weird Hand"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Japanese",
+            "title": "奇怪的手"
+        }
+    ],
+    "approved": true,
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+        "@class": "Jikan\\Model\\Common\\DateRange",
+        "date": "1983"
+    },
+    "duration": "10 min",
+    "rating": "PG - Children",
+    "score": null,
+    "scoredBy": null,
+    "rank": 20047,
+    "popularity": 27798,
+    "members": 115,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "premiered": null,
+    "broadcast": null,
+    "related": [],
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicitGenres": [],
+    "demographics": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Kids",
+            "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+    ],
+    "themes": [],
+    "openingThemes": [],
+    "endingThemes": [],
+    "externalLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Douban",
+            "url": "https://movie.douban.com/subject/25921852/"
+        }
+    ],
+    "streamingLinks": []
+}

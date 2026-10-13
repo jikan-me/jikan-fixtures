@@ -1,0 +1,395 @@
+{
+    "@class": "Jikan\\Model\\Article\\ArticleList",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2408,
+            "url": "https://myanimelist.net/featured/2408/A_Stage_of_Surprises__J-POP_SOUND_CAPSULE__Anime_Expo_2025",
+            "title": "A Stage of Surprises: J-POP SOUND CAPSULE @ Anime Expo 2025",
+            "authorUsername": "firefractal",
+            "authorUrl": "https://myanimelist.net/profile/firefractal",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1758167396-245bd0a2dd244258f3b8c11a717c845d.jpeg"
+                }
+            },
+            "views": 17559,
+            "excerpt": "The J-POP SOUND CAPSULE music festival brought the spirit of the Anisong World Matsuri back to the States with six amazing acts at Anime Expo 2025. Featuring GRANRODEO, FLOW, TOGENASHI TOGEARI, Hiroshi Kitadani, Sakurazaka46, and ASTERISM, this event was a night to remember!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2407,
+            "url": "https://myanimelist.net/featured/2407/Become_a_Kaiju-Slaying_Hero_in_KAIJU_NO_8_THE_GAME",
+            "title": "Become a Kaiju-Slaying Hero in KAIJU NO. 8 THE GAME",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1756434162-3f84ae996f4969f58ddb5dad4e8449fc.jpeg"
+                }
+            },
+            "views": 28135,
+            "excerpt": "Crush colossal Kaiju with a game-changing blow in this Kaiju-Slaying Battle RPG! Relive the hit anime KAIJU NO.8 and experience the characters like new with the original story mode. Free-to-start and available now on multiple platforms.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2404,
+            "url": "https://myanimelist.net/featured/2404/Mobile_Suit_Gundam_GQuuuuuuX_Takes_Center_Stage_at_Anime_Expo",
+            "title": "Mobile Suit Gundam GQuuuuuuX Takes Center Stage at Anime Expo!",
+            "authorUsername": "Timcampy",
+            "authorUrl": "https://myanimelist.net/profile/Timcampy",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1752198651-05c15fec70c9190c99a870e06284205e.jpeg"
+                }
+            },
+            "views": 23904,
+            "excerpt": "Mobile Suit Gundam GQuuuuuuX ignited the stage at Anime Expo 2025 with an electrifying showcase that drew thousands of passionate fans to the Peacock Theater.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "events",
+                    "name": "Events",
+                    "url": "https://myanimelist.net/featured/tag/events"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2401,
+            "url": "https://myanimelist.net/featured/2401/Which_Tale_of_Love_or_Doom_Belongs_on_NOVELOUS",
+            "title": "Which Tale of Love or Doom Belongs on NOVELOUS?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1750398653-88c871cc27a16af301d42a19aaf50b84.jpeg"
+                }
+            },
+            "views": 21095,
+            "excerpt": "Here are the 10 finalists from the MAL × Honeyfeed Writing Contest 2025! Your vote will help decide which web novels will become the next big winners—so check them out and cast your vote!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2400,
+            "url": "https://myanimelist.net/featured/2400/Love_Fire_Force_Here_Are_5_Manga_You_Should_Read_Next_on_emaqi",
+            "title": "Love Fire Force? Here Are 5 Manga You Should Read Next on emaqi",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1748325217-0e0a58de13c50abcfd6fccf4291f596f.jpeg"
+                }
+            },
+            "views": 25384,
+            "excerpt": "From Gachiakuta to Noragami, discover your next favorite series on emaqi.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2399,
+            "url": "https://myanimelist.net/featured/2399/Which_Futuristic_High-Tech_World_Should_Be_Adapted_by_WIT_Studio",
+            "title": "Which Futuristic High-Tech World Should Be Adapted by WIT Studio?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1739950224-c64b1718b61db3f85f18c17f9c934dd7.jpeg"
+                }
+            },
+            "views": 36243,
+            "excerpt": "Here are the 10 finalists from the MAL x Honeyfeed Writing Contest 2024! Try them out and let us know which web novels you want to see brought to life as published light novel or manga.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2398,
+            "url": "https://myanimelist.net/featured/2398/Behind_the_Masks__Unveiling_the_mystery_gothic_anime_Ave_Mujica",
+            "title": "Behind the Masks: Unveiling the mystery gothic anime Ave Mujica",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1734918805-7d43d1c96aa13b0f26d4da1523d973d2.jpeg"
+                }
+            },
+            "views": 44878,
+            "excerpt": "Ave Mujica - The Die is Cast - Exclusive interview with Director Kodai Kakimoto and Band Producer Hiroki Matsumoto. Explore the symphonic metal band’s gothic beauty, psychological drama, and haunting themes. Step into a dark, exquisite world of duality and tragedy in this gripping series.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2396,
+            "url": "https://myanimelist.net/featured/2396/Event_Report_for_Kinnikuman_-Perfect_Origin_Arc-_at_Anime_Expo",
+            "title": "Event Report for \"Kinnikuman -Perfect Origin Arc-\" at Anime Expo",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1725136497-0fe4253bb9d18b902606fba8a5b681d2.jpeg"
+                }
+            },
+            "views": 64282,
+            "excerpt": "Kinnikuman panels and booths were a big hit!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "events",
+                    "name": "Events",
+                    "url": "https://myanimelist.net/featured/tag/events"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2395,
+            "url": "https://myanimelist.net/featured/2395/Blue_Lock_Takes_Over_Anime_Expo",
+            "title": "Blue Lock Takes Over Anime Expo!",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1725144108-e19af89ac5bbe2f4682acd22ac5b511c.jpeg"
+                }
+            },
+            "views": 92600,
+            "excerpt": "Themed Booth and \"Meet the EGOISTS at AX!\" Panel Excite Fans for 2nd Season",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "events",
+                    "name": "Events",
+                    "url": "https://myanimelist.net/featured/tag/events"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2393,
+            "url": "https://myanimelist.net/featured/2393/History_Unfolds_at_the_Blue_Miburo_Panel_at_Anime_Expo",
+            "title": "History Unfolds at the Blue Miburo Panel at Anime Expo!",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1725134558-d152de0f51d994d6fc6377e62ce4261c.jpeg"
+                }
+            },
+            "views": 92327,
+            "excerpt": "Episode 1 Premieres To An Eager Audience as Staff Preview the Rest of the Series",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "events",
+                    "name": "Events",
+                    "url": "https://myanimelist.net/featured/tag/events"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2392,
+            "url": "https://myanimelist.net/featured/2392/DRAGON_BALL_Z_DOKKAN_BATTLE_9th_Anniversary_is_live",
+            "title": "DRAGON BALL Z DOKKAN BATTLE 9th Anniversary is live!",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1720741989-2f614bd2b4ce1243b513908e2d38f447.jpeg"
+                }
+            },
+            "views": 75559,
+            "excerpt": "\"Super Saiyan Broly\" and \"Super Saiyan Gogeta\" join the 9th Anniversary Campaign. Celebrate with a special movie screening in Times Square, NY! Participate in events to earn tons of dragon stones. New players are welcome. Don't miss out on this epic opportunity!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2391,
+            "url": "https://myanimelist.net/featured/2391/Ramen_in_Anime__A_Bowl_of_Nourishment_and_Symbolism",
+            "title": "Ramen in Anime: A Bowl of Nourishment and Symbolism",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1701817528-cbfe5ff2cff10b25ba2e8b433ad6167c.jpeg"
+                }
+            },
+            "views": 80937,
+            "excerpt": "Come along on a ramen-infused anime journey presented to you by ZenPlus - the site unifying thousands of Japanese online shops in one shopping cart.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2390,
+            "url": "https://myanimelist.net/featured/2390/Which_Wholesome_Romance_Novel_Should_Be_Adapted_to_Manga",
+            "title": "Which Wholesome Romance Novel Should Be Adapted to Manga?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1698261010-92810df812d377c00c4989e2efdd1221.jpeg"
+                }
+            },
+            "views": 107441,
+            "excerpt": "Here are the 10 finalists from the MAL x Honeyfeed Writing Contest 2023! Try them out and let us know which web novels you want to see brought to life as published light novel or manga.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2387,
+            "url": "https://myanimelist.net/featured/2387/ROG_x_EVANGELION__Where_Gaming_Meets_the_Power_of_EVA-02",
+            "title": "ROG x EVANGELION: Where Gaming Meets the Power of EVA-02",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1695973057-b74eb773095be5e88b1e89454d7d0a71.jpeg"
+                }
+            },
+            "views": 91117,
+            "excerpt": "Republic of Gamers (ROG) has teamed up with the iconic anime series Evangelion to create a gaming collection, this time introducing Evangelion EVA-02 into the gaming universe.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2386,
+            "url": "https://myanimelist.net/featured/2386/GUNMACHAN_please_teach_us_about_Gunma_Japan",
+            "title": "GUNMACHAN, please teach us about Gunma, Japan!",
+            "authorUsername": "Kineta",
+            "authorUrl": "https://myanimelist.net/profile/Kineta",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1692201655-c3671028ee4cf5d1894335e4d0dffb4f.jpeg"
+                }
+            },
+            "views": 99462,
+            "excerpt": "Do you know which popular anime have been set in Gunma prefecture? Find out with us as we learn more about this prefecture with the adorable GUNMACHAN!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2384,
+            "url": "https://myanimelist.net/featured/2384/My_Dress-Up_Darling__An_Interview_with_the_Director_Part_1",
+            "title": "My Dress-Up Darling: An Interview with the Director, Part 1",
+            "authorUsername": "Febri",
+            "authorUrl": "https://myanimelist.net/profile/Febri",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1669954873-3edd1c911f5a62d0b1e64399cffd0ce9.jpeg"
+                }
+            },
+            "views": 150776,
+            "excerpt": "*My Dress-Up Darling* has sold over 8million copies, with a hit anime in Winter 2022 and a sequel in the way. It's about cosplay-loving Marin and Wakana, an aspiring doll craftsman. Fans were captivated by the slow-burning love and the realistic cosplay. We got the details from the director.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2383,
+            "url": "https://myanimelist.net/featured/2383/Top_12_Finalists_Which_web_novel_do_you_want_to_read_as_manga",
+            "title": "Top 12 Finalists! Which web novel do you want to read as manga?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1667435828-82622dc0c7a49c12e0c3399e5a2b4c2c.jpeg"
+                }
+            },
+            "views": 93938,
+            "excerpt": "Here are the 12 finalist novels from the MAL x Honeyfeed Writing Contest! Try them out and let us know which web novels you want to see brought to life as published manga.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2379,
+            "url": "https://myanimelist.net/featured/2379/What_Made_Wonder_Egg_Priority_Such_a_Special_Anime_Part_1",
+            "title": "What Made Wonder Egg Priority Such a Special Anime, Part 1",
+            "authorUsername": "Febri",
+            "authorUrl": "https://myanimelist.net/profile/Febri",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1654244194-c316ab52d5594e50bdf730892ded06aa.jpeg"
+                }
+            },
+            "views": 162824,
+            "excerpt": "Wonder Egg Priority is the first anime series created by hit television drama screenwriter, Shinji Nojima. It's an unique show imbued with the passion of its young team of creators. In this special interview, we asked the core staff on the series what made Wonder Egg Priority so outstanding.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2354,
+            "url": "https://myanimelist.net/featured/2354/A_Manga_for_Anyone__Nagabe_and_the_Unique_Charm_of_Totsukuni_no_Shoujo",
+            "title": "A Manga for Anyone: Nagabe and the Unique Charm of Totsukuni no Shoujo",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1614929364-d10fff37abdd0caff378dc650cfe315f.jpeg"
+                }
+            },
+            "views": 107757,
+            "excerpt": "Commemorating the manga's final chapter and new anime announcement, creator Nagabe and editor Shinpuku gave an exclusive interview.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2385,
+            "url": "https://myanimelist.net/featured/2385/English_Version_of_Code_Geass__Lost_Stories_Releases_on_September_13",
+            "title": "English Version of 'Code Geass: Lost Stories' Releases on September 13",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1691467935-21e9f6d023057505d2a5de08ea4ed995.jpeg"
+                }
+            },
+            "views": 87502,
+            "excerpt": "'Code Geass: Lost Stories' is set to go global on September 13, merging anime and gaming. With pre-registration rewards, real-time battles, deep customization, and iconic characters, the game is set to continue the Code Geass legacy.",
+            "tags": []
+        }
+    ]
+}

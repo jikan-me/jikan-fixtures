@@ -1,0 +1,10 @@
+{
+    "@class": "Jikan\\Model\\SeasonList\\SeasonListItem",
+    "year": 2026,
+    "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "fall"
+    ]
+}

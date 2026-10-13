@@ -1,0 +1,415 @@
+{
+    "@class": "Jikan\\Model\\Search\\UserSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "irfanhamka",
+            "url": "https://myanimelist.net/profile/irfanhamka",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "irfan_istoto",
+            "url": "https://myanimelist.net/profile/irfan_istoto",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "irfan48",
+            "url": "https://myanimelist.net/profile/irfan48",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "Fikry_Irfanda",
+            "url": "https://myanimelist.net/profile/Fikry_Irfanda",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/aa6cf550-4d73-48fd-94d2-8b61fc864c50_225w?s=28c6a25077eefdd2522d3721d82cb259"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/aa6cf550-4d73-48fd-94d2-8b61fc864c50_225w?s=28c6a25077eefdd2522d3721d82cb259"
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "Mohammedirfan",
+            "url": "https://myanimelist.net/profile/Mohammedirfan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f2ff010a-ddd8-4e41-b2c8-a0a9ed05b506_225w?s=fc9dc61d742c8592aa34112d505bbad5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f2ff010a-ddd8-4e41-b2c8-a0a9ed05b506_225w?s=fc9dc61d742c8592aa34112d505bbad5"
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "irfangoodlike",
+            "url": "https://myanimelist.net/profile/irfangoodlike",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "Irfana_Islam",
+            "url": "https://myanimelist.net/profile/Irfana_Islam",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "irfanKAvenir",
+            "url": "https://myanimelist.net/profile/irfanKAvenir",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "Irfan_111202",
+            "url": "https://myanimelist.net/profile/Irfan_111202",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "IrfanA",
+            "url": "https://myanimelist.net/profile/IrfanA",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "Irfan_Rismawan16",
+            "url": "https://myanimelist.net/profile/Irfan_Rismawan16",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "Irfan_Aufa",
+            "url": "https://myanimelist.net/profile/Irfan_Aufa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "sunomerirfan",
+            "url": "https://myanimelist.net/profile/sunomerirfan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "Haider_Irfan786",
+            "url": "https://myanimelist.net/profile/Haider_Irfan786",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "IrfanOtaku",
+            "url": "https://myanimelist.net/profile/IrfanOtaku",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/739474d2-c45b-4bd3-bf61-72f6ff5c311e_225w?s=2eb2496add3c51a8754406af3a9a1abb"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/739474d2-c45b-4bd3-bf61-72f6ff5c311e_225w?s=2eb2496add3c51a8754406af3a9a1abb"
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "irfandcoolz",
+            "url": "https://myanimelist.net/profile/irfandcoolz",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "IrfanYang",
+            "url": "https://myanimelist.net/profile/IrfanYang",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "irfanmaulann",
+            "url": "https://myanimelist.net/profile/irfanmaulann",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "IrfanZain",
+            "url": "https://myanimelist.net/profile/IrfanZain",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "Irfan_kece",
+            "url": "https://myanimelist.net/profile/Irfan_kece",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "B-irfan",
+            "url": "https://myanimelist.net/profile/B-irfan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "IrfanDK",
+            "url": "https://myanimelist.net/profile/IrfanDK",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "irfan_faqih",
+            "url": "https://myanimelist.net/profile/irfan_faqih",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\UserSearchListItem",
+            "username": "Irfanknight",
+            "url": "https://myanimelist.net/profile/Irfanknight",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                    "imageUrl": null
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                    "imageUrl": null
+                }
+            },
+            "lastOnline": "<date>"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "@class": "Jikan\\Model\\Manga\\Manga",
+    "malId": 11,
+    "url": "https://myanimelist.net/manga/11/Naruto",
+    "title": "Naruto",
+    "titleEnglish": "Naruto",
+    "titleSynonyms": [],
+    "approved": true,
+    "titleJapanese": "NARUTO―ナルト―",
+    "titles": [
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Default",
+            "title": "Naruto"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Japanese",
+            "title": "NARUTO―ナルト―"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "English",
+            "title": "Naruto"
+        }
+    ],
+    "status": "Finished",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/249658.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/249658t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/249658l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/249658.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/249658t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/249658l.webp"
+        }
+    },
+    "type": "Manga",
+    "volumes": 72,
+    "chapters": 700,
+    "publishing": false,
+    "published": {
+        "@class": "Jikan\\Model\\Common\\DateRange",
+        "date": "Sep 21, 1999 to Nov 10, 2014"
+    },
+    "rank": 654,
+    "score": 8.08,
+    "scoredBy": 285558,
+    "popularity": 13,
+    "members": 440021,
+    "favorites": 44299,
+    "synopsis": "Whenever Naruto Uzumaki proclaims that he will someday become the Hokage—a title bestowed upon the best ninja in the Village Hidden in the Leaves—no one takes him seriously. Since birth, Naruto has been shunned and ridiculed by his fellow villagers. But their contempt isn't because Naruto is loud-mouthed, mischievous, or because of his ineptitude in the ninja arts, but because there is a demon inside him. Prior to Naruto's birth, the powerful and deadly Nine-Tailed Fox attacked the village. In order to stop the rampage, the Fourth Hokage sacrificed his life to seal the demon inside the body of the newborn Naruto.\n\nAnd so when he is assigned to Team 7—along with his new teammates Sasuke Uchiha and Sakura Haruno, under the mentorship of veteran ninja Kakashi Hatake—Naruto is forced to work together with other people for the first time in his life. Through undergoing vigorous training and taking on challenging missions, Naruto must learn what it means to work in a team and carve his own route toward becoming a full-fledged ninja recognized by his village.\n\n[Written by MAL Rewrite]",
+    "background": "Naruto has sold over 250 million copies worldwide as of 2020, making it the 4th highest-grossing manga series of all time. It was nominated for the 19th Tezuka Osamu Cultural Prize in 2014, and in the same year, Masashi Kishimoto was awarded Rookie of the Year in the media fine arts category by Japan's Agency for Cultural Affairs. The series was published in English by VIZ Media under the Shonen Jump imprint from August 16, 2003, to October 6, 2015. In the last four months of 2007, the campaign titled Naruto Nation was launched, in which three volumes were published each month so that US releases would be closer to Japan's. The same practice was done in February through April of 2009, this time titled Generation Ninja. A 3-in-1 omnibus edition was later released. A box set containing volumes 1 through 27 was released on August 6, 2008, a set containing volumes 28 through 48 on July 7, 2015, and the final box set with volumes 49 through 72 on January 5, 2016. It was also published in Brazilian Portuguese by Panini Comics from May 2007 to June 2015; in German by Carlsen Verlag; and in French and Dutch by Kana. Numerous databooks, artbooks, novels, and fanbooks on the series have been released. Eight summary volumes featuring unaltered color pages, larger dimensions, and exclusive interviews, covering the first part of the series were released between November 7, 2008, and April 10, 2009.",
+    "related": {
+        "Sequel": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Boruto: Naruto Next Generations",
+                "url": "https://myanimelist.net/manga/95210/Boruto__Naruto_Next_Generations"
+            }
+        ],
+        "Adaptation": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto",
+                "url": "https://myanimelist.net/anime/20/Naruto"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto: Shippuuden",
+                "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Road of Naruto",
+                "url": "https://myanimelist.net/anime/53236/Road_of_Naruto"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto (Shinsaku Anime)",
+                "url": "https://myanimelist.net/anime/54688/Naruto_Shinsaku_Anime"
+            }
+        ]
+    },
+    "genres": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+    ],
+    "explicitGenres": [],
+    "demographics": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/manga/genre/27/Shounen"
+        }
+    ],
+    "themes": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Martial Arts",
+            "url": "https://myanimelist.net/manga/genre/17/Martial_Arts"
+        }
+    ],
+    "authors": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Kishimoto, Masashi",
+            "url": "https://myanimelist.net/people/1879/Masashi_Kishimoto"
+        }
+    ],
+    "serializations": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Shounen Jump (Weekly)",
+            "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+        }
+    ],
+    "externalLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/NARUTO_-%E3%83%8A%E3%83%AB%E3%83%88-"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Naruto"
+        }
+    ]
+}

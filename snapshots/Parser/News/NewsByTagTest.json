@@ -1,0 +1,863 @@
+{
+    "@class": "Jikan\\Model\\News\\NewsList",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 72151278,
+            "url": "https://myanimelist.net/news/72151278",
+            "title": "'Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran' Reveals Supporting Cast, Fourth Promo",
+            "date": "2024-12-20T20:32:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2194411",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1734755485-2e3720eda48f241b354707a867bcb0bd.jpeg?s=338a34101aaab494b01e445a779068d4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1734755485-2e3720eda48f241b354707a867bcb0bd.jpeg?s=338a34101aaab494b01e445a779068d4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1734755485-2e3720eda48f241b354707a867bcb0bd.jpeg?s=338a34101aaab494b01e445a779068d4"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran (Rurouni Kenshin: Kyoto Disturbance) Super Red Stage at Jump Festa 2025 revealed supporting cast, second cour's opening theme, and a story visual (pictured above) on Saturday. Cast Uonuma Usui: Junichi Suwabe (Bleach) Ka...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "jump_festa",
+                    "name": "Jump Festa",
+                    "url": "https://myanimelist.net/news/tag/jump_festa"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71935569,
+            "url": "https://myanimelist.net/news/71935569",
+            "title": "'Blue Lock vs. U-20 Japan' Announces Additional Cast",
+            "date": "2024-11-02T14:38:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2187377",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1730583027-031d168f5386afecc490cd4cfcab54b5.jpeg?s=2dc2807714fba739c27a7e4d826bac2f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1730583027-031d168f5386afecc490cd4cfcab54b5.jpeg?s=2dc2807714fba739c27a7e4d826bac2f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1730583027-031d168f5386afecc490cd4cfcab54b5.jpeg?s=2dc2807714fba739c27a7e4d826bac2f"
+                }
+            },
+            "comments": 9,
+            "excerpt": "The official website of the Blue Lock vs. U-20 Japan television anime revealed cast members for the U-20 team as well as new key visual (pictured) and promotional videos for both teams on Sunday. The television anime is currently airing for 14 episodes and began on October 5 at 1...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71767538,
+            "url": "https://myanimelist.net/news/71767538",
+            "title": "Fall 2024 Simulcast List [Update 10/7]",
+            "date": "2024-10-01T11:20:00+00:00",
+            "authorUsername": "Snow",
+            "authorUrl": "https://myanimelist.net/profile/Snow",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2182086",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1727806789-79733430d462cda5b2c3a8e6a4a4ef26.jpeg?s=1fcc4b17d72b7f86ee78f42c0bc1aa94",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1727806789-79733430d462cda5b2c3a8e6a4a4ef26.jpeg?s=1fcc4b17d72b7f86ee78f42c0bc1aa94",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1727806789-79733430d462cda5b2c3a8e6a4a4ef26.jpeg?s=1fcc4b17d72b7f86ee78f42c0bc1aa94"
+                }
+            },
+            "comments": 10,
+            "excerpt": "In this thread, you'll find a comprehensive list of television anime acquired for simulcast release during the Fall 2024 season. Anime series licensed for home video release can be found here. This post will be continuously updated as more simulcasts are announced. Feel free to p...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "broadcast",
+                    "name": "Broadcast",
+                    "url": "https://myanimelist.net/news/tag/broadcast"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71767533,
+            "url": "https://myanimelist.net/news/71767533",
+            "title": "Q4 2024 Anime & Manga Licenses [Update 11/16]",
+            "date": "2024-10-01T11:19:00+00:00",
+            "authorUsername": "Snow",
+            "authorUrl": "https://myanimelist.net/profile/Snow",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2182085",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1727806521-b65692f86976df76896515879144421a.jpeg?s=c78cf9ff04ba9b5a1c01972e80cba854",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1727806521-b65692f86976df76896515879144421a.jpeg?s=c78cf9ff04ba9b5a1c01972e80cba854",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1727806521-b65692f86976df76896515879144421a.jpeg?s=c78cf9ff04ba9b5a1c01972e80cba854"
+                }
+            },
+            "comments": 4,
+            "excerpt": "In this thread, you'll find a comprehensive list of anime and manga licensed in the third quarter (Oct-Dec) of 2024. Fall 2024 anime which were licensed before the quarter began will also be carried over for convenience. Please note that the anime licenses are for home video rele...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "licenses",
+                    "name": "Licenses",
+                    "url": "https://myanimelist.net/news/tag/licenses"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71715665,
+            "url": "https://myanimelist.net/news/71715665",
+            "title": "Fall 2024 Preview",
+            "date": "2024-09-21T10:01:00+00:00",
+            "authorUsername": "Snow",
+            "authorUrl": "https://myanimelist.net/profile/Snow",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2180277",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726938024-33500a45b355c0889af8f768782333ab.jpeg?s=4e2f6d0a22f1979977be29336ef49ceb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726938024-33500a45b355c0889af8f768782333ab.jpeg?s=4e2f6d0a22f1979977be29336ef49ceb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726938024-33500a45b355c0889af8f768782333ab.jpeg?s=4e2f6d0a22f1979977be29336ef49ceb"
+                }
+            },
+            "comments": 12,
+            "excerpt": "In this thread, you'll find a comprehensive list of Fall 2024 titles with an accompanying promotional video, commercial, teaser, or trailer. This post will be updated to include a video for titles that are missing one, leading up to the start of the season. Titles that already ha...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71715109,
+            "url": "https://myanimelist.net/news/71715109",
+            "title": "Additional 'Ao no Hako' Cast Members Announced",
+            "date": "2024-09-21T07:15:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2180248",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726928062-e2924f58ac458294e66bb339938434fc.jpeg?s=b198e562913b516f39fd2d9ac73900ed",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726928062-e2924f58ac458294e66bb339938434fc.jpeg?s=b198e562913b516f39fd2d9ac73900ed",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726928062-e2924f58ac458294e66bb339938434fc.jpeg?s=b198e562913b516f39fd2d9ac73900ed"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The Ao no Hako (Blue Box) special stage at Kyoto International Manga Anime Fair announced three supporting cast for the television anime on Saturday. The anime series adapting Kouji Miura's sports romance manga will begin airing on October 3 at 11:56 p.m. on TBS' 28 affiliated c...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71713246,
+            "url": "https://myanimelist.net/news/71713246",
+            "title": "'Nageki no Bourei wa Intai shitai' Unveils New Cast, Main Promo",
+            "date": "2024-09-20T19:59:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2180198",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726887526-3e5fac8ab463a914328c8fb2b5cafc23.jpeg?s=41256867300037c1c1a0aa7214a756b9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726887526-3e5fac8ab463a914328c8fb2b5cafc23.jpeg?s=41256867300037c1c1a0aa7214a756b9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726887526-3e5fac8ab463a914328c8fb2b5cafc23.jpeg?s=41256867300037c1c1a0aa7214a756b9"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website of the Nageki no Bourei wa Intai shitai (Let This Grieving Soul Retire!) television anime revealed three new cast, the main visual (pictured), and a second promo on Friday. The anime series adapting Tsukikage's adventure fantasy novel will premiere on October...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71710264,
+            "url": "https://myanimelist.net/news/71710264",
+            "title": "Board Game 'Murder Mystery of the Dead' Gets TV Anime in Fall 2024",
+            "date": "2024-09-20T06:24:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2180107",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726838226-74c9f445186c05c865f36901f9a7caf3.jpeg?s=ec0fa96cd8c62b6d4f3628c94302bcac",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726838226-74c9f445186c05c865f36901f9a7caf3.jpeg?s=ec0fa96cd8c62b6d4f3628c94302bcac",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726838226-74c9f445186c05c865f36901f9a7caf3.jpeg?s=ec0fa96cd8c62b6d4f3628c94302bcac"
+                }
+            },
+            "comments": 11,
+            "excerpt": "Production company ABC Animation opened an official website for a television anime adaptation of cosaic and Group SNE's Murder Mystery of the Dead board game on Friday, revealing the main cast, staff, a key visual (pictured), and promotional video. The anime is scheduled to premi...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71702610,
+            "url": "https://myanimelist.net/news/71702610",
+            "title": "'Touhai: Ura Rate Mahjong Touhai Roku' Unveils Additional Cast, Third Promo",
+            "date": "2024-09-18T15:55:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2179873",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726700112-c2714095131413f0254c51fdb7248ad3.jpeg?s=d084131d2f15803210fc74b79618c9b3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726700112-c2714095131413f0254c51fdb7248ad3.jpeg?s=d084131d2f15803210fc74b79618c9b3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726700112-c2714095131413f0254c51fdb7248ad3.jpeg?s=d084131d2f15803210fc74b79618c9b3"
+                }
+            },
+            "comments": 4,
+            "excerpt": "The official website of the Touhai: Ura Rate Mahjong Touhai Roku television anime announced three additional casts, main visual (pictured), and a third promotional video on Thursday. The anime is scheduled to air on October 5 at 2:23 a.m. on MBS and TBS, followed by BS-TBS, RKB,...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71698231,
+            "url": "https://myanimelist.net/news/71698231",
+            "title": "'Hitoribocchi no Isekai Kouryaku' Reveals More Cast, Second Promo",
+            "date": "2024-09-17T16:38:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2179691",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726616312-282e70a5625d234ddb9d0642fa65a941.jpeg?s=378944d438e8fc50462176608209a94f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726616312-282e70a5625d234ddb9d0642fa65a941.jpeg?s=378944d438e8fc50462176608209a94f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726616312-282e70a5625d234ddb9d0642fa65a941.jpeg?s=378944d438e8fc50462176608209a94f"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website for the Hitoribocchi no Isekai Kouryaku (Loner Life in Another World) television anime revealed six additional casts, a second key visual (pictured), and a second promotional video on Wednesday. The anime is scheduled to premiere on October 4 at 12:00 a.m. on...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71693980,
+            "url": "https://myanimelist.net/news/71693980",
+            "title": "'Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran' Unveils New Cast, Opening Theme, Third Promo",
+            "date": "2024-09-16T16:20:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2179526",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726528753-1b3e6bdfef3edf6cd5ad4587a3e1a942.jpeg?s=df7403b9500c6fa7e053d7a756ed2a80",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726528753-1b3e6bdfef3edf6cd5ad4587a3e1a942.jpeg?s=df7403b9500c6fa7e053d7a756ed2a80",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726528753-1b3e6bdfef3edf6cd5ad4587a3e1a942.jpeg?s=df7403b9500c6fa7e053d7a756ed2a80"
+                }
+            },
+            "comments": 5,
+            "excerpt": "The Aniplex Online Fest 2024 event revealed new cast, opening theme, a second key visual (pictured), and a third promotional video for the second season of the new Rurouni Kenshin: Meiji Kenkaku Romantan (Rurouni Kenshin) television anime series on Monday. The new season is sched...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "aof",
+                    "name": "AOF",
+                    "url": "https://myanimelist.net/news/tag/aof"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71692835,
+            "url": "https://myanimelist.net/news/71692835",
+            "title": "'Dandadan' Unveils Supporting Cast, New Visual",
+            "date": "2024-09-16T11:21:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2179490",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726510879-c56fac12231ff7ca7425a0f426960d5d.jpeg?s=79a6edb2455e6c1819fef6130172fc46",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726510879-c56fac12231ff7ca7425a0f426960d5d.jpeg?s=79a6edb2455e6c1819fef6130172fc46",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726510879-c56fac12231ff7ca7425a0f426960d5d.jpeg?s=79a6edb2455e6c1819fef6130172fc46"
+                }
+            },
+            "comments": 5,
+            "excerpt": "The official website for the television anime adaptation of Yukinobu Tatsu's Dandadan manga revealed additional cast, a new visual (pictured), and three commercial videos on Tuesday. The anime is scheduled to premiere on October 4 at 12:26 a.m. on MBS and TBS' Super Animeism TURB...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71690380,
+            "url": "https://myanimelist.net/news/71690380",
+            "title": "'Maou 2099' Reveals Additional Staff, First Promo",
+            "date": "2024-09-15T22:48:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2179382",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726465668-99b55fbba78787c21463c1abf79dfe74.jpeg?s=a670022c096143d2f8b37daa4223b343",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726465668-99b55fbba78787c21463c1abf79dfe74.jpeg?s=a670022c096143d2f8b37daa4223b343",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726465668-99b55fbba78787c21463c1abf79dfe74.jpeg?s=a670022c096143d2f8b37daa4223b343"
+                }
+            },
+            "comments": 5,
+            "excerpt": "The Aniplex Online Fest 2024 event revealed additional staff and a promotional video for the Maou 2099 (Demon Lord 2099) television anime series on Monday. The anime is scheduled to premiere on October 13 at 12:00 a.m. on Tokyo MX, Gunma TV, Tochigi TV, and BS11 followed by MBS,...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "aof",
+                    "name": "AOF",
+                    "url": "https://myanimelist.net/news/tag/aof"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71686286,
+            "url": "https://myanimelist.net/news/71686286",
+            "title": "'Amagami-san Chi no Enmusubi' Announces Supporting Cast, Ending Theme",
+            "date": "2024-09-15T02:44:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2179235",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726393409-90da215f5488841e3ef938a4468afae5.jpeg?s=d269e5ebe18ebfb956b8dde1bcbd6dda",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726393409-90da215f5488841e3ef938a4468afae5.jpeg?s=d269e5ebe18ebfb956b8dde1bcbd6dda",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726393409-90da215f5488841e3ef938a4468afae5.jpeg?s=d269e5ebe18ebfb956b8dde1bcbd6dda"
+                }
+            },
+            "comments": 3,
+            "excerpt": "The official website of the Amagami-san Chi no Enmusubi (Tying the Knot with an Amagami Sister) television anime announced five supporting cast and the ending theme on Sunday. The anime series adapting Marcey Naitou's romantic comedy manga will air in 24 episodes beginning Octobe...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71681783,
+            "url": "https://myanimelist.net/news/71681783",
+            "title": "'Kekkon suru tte, Hontou desu ka' Unveils Additional Cast, Theme Songs, Third Promo",
+            "date": "2024-09-14T03:49:00+00:00",
+            "authorUsername": "Nioxys",
+            "authorUrl": "https://myanimelist.net/profile/Nioxys",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2179089",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726310875-4e6e4bafe164bfadce25a44c1e2dd8d9.jpeg?s=ccbdaac3bd4262e57bc42f58817a93df",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726310875-4e6e4bafe164bfadce25a44c1e2dd8d9.jpeg?s=ccbdaac3bd4262e57bc42f58817a93df",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726310875-4e6e4bafe164bfadce25a44c1e2dd8d9.jpeg?s=ccbdaac3bd4262e57bc42f58817a93df"
+                }
+            },
+            "comments": 4,
+            "excerpt": "The official website for the television anime adaptation of Tamiki Wakaki's Kekkon suru tte, Hontou desu ka (365 Days to the Wedding) manga unveiled additional cast, the second key visual (pictured), theme songs artists, and the third promotional video on Saturday. The anime is s...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71680126,
+            "url": "https://myanimelist.net/news/71680126",
+            "title": "'Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru' Announces Additional Voice Cast, Theme Songs",
+            "date": "2024-09-13T16:51:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2179038",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726271425-cf2a78d9324b48071de61f76ca19e3dd.jpeg?s=9b8d64619799729e062e3ad28b8bb683",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726271425-cf2a78d9324b48071de61f76ca19e3dd.jpeg?s=9b8d64619799729e062e3ad28b8bb683",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726271425-cf2a78d9324b48071de61f76ca19e3dd.jpeg?s=9b8d64619799729e062e3ad28b8bb683"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website of the Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru (The Most Notorious \"Talker\" Runs the World's Greatest Clan) television anime revealed three additional cast, a key visual (pictured), and theme songs on Friday. The anim...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71673797,
+            "url": "https://myanimelist.net/news/71673797",
+            "title": "'Hoshifuru Oukoku no Nina' Unveils Supporting Cast Members",
+            "date": "2024-09-12T02:45:00+00:00",
+            "authorUsername": "Nioxys",
+            "authorUrl": "https://myanimelist.net/profile/Nioxys",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2178815",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726133481-1804327a6f89b564505a6624c521f9e3.jpeg?s=683bb4b7fa6a905179492afb533af648",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726133481-1804327a6f89b564505a6624c521f9e3.jpeg?s=683bb4b7fa6a905179492afb533af648",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726133481-1804327a6f89b564505a6624c521f9e3.jpeg?s=683bb4b7fa6a905179492afb533af648"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website of the television anime adaptation of Rikachi's Hoshifuru Oukoku no Nina (Nina the Starry Bride) manga unveiled three additional cast members on Thursday. The anime is scheduled to premiere on October 10 at 10:00 p.m. on Tokyo MX, followed by TV Asahi and MBS...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71672131,
+            "url": "https://myanimelist.net/news/71672131",
+            "title": "'Kabushikigaisha Magi-Lumière' Announces Cast Pair [Update 9/18]",
+            "date": "2024-09-11T16:29:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2178760",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1726097329-08bc7d522e0bbb7afa530845d6228277.jpeg?s=88763bb66c6dd3d6480da1b53fdaa430",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1726097329-08bc7d522e0bbb7afa530845d6228277.jpeg?s=88763bb66c6dd3d6480da1b53fdaa430",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1726097329-08bc7d522e0bbb7afa530845d6228277.jpeg?s=88763bb66c6dd3d6480da1b53fdaa430"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website for the television anime adaptation of Sekka Iwata and Yuu Aoki's Kabushikigaisha Magi-Lumière (Magilumiere Magical Girls Inc.) manga revealed a pair of cast and a new visual (pictured). The anime is scheduled to premiere on October 4 at 11:00 p.m. on the Fri...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71664664,
+            "url": "https://myanimelist.net/news/71664664",
+            "title": "'Nanatsu no Taizai: Mokushiroku no Yonkishi' Season 2 Unveils Additional Cast, Theme Songs, First Promo",
+            "date": "2024-09-09T20:58:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2178444",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1725940657-51435511982861250827432d0c42182f.jpeg?s=b911c4560fa3ca015d60ac32cc05352d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1725940657-51435511982861250827432d0c42182f.jpeg?s=b911c4560fa3ca015d60ac32cc05352d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1725940657-51435511982861250827432d0c42182f.jpeg?s=b911c4560fa3ca015d60ac32cc05352d"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The official website for the Nanatsu no Taizai: Mokushiroku no Yonkishi (The Seven Deadly Sins: Four Knights of the Apocalypse) television anime series revealed on Tuesday three additional casts, theme songs, key visual (pictured), and a promotional video for the second season. T...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 71664079,
+            "url": "https://myanimelist.net/news/71664079",
+            "title": "'Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season' Reveals Additional Cast, Theme Songs, First Promo",
+            "date": "2024-09-09T16:15:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2178420",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1725923518-e9c02f142ee51cd2871eb04cf7225b77.jpeg?s=8077c92303aad925877554b0a942dc8c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1725923518-e9c02f142ee51cd2871eb04cf7225b77.jpeg?s=8077c92303aad925877554b0a942dc8c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1725923518-e9c02f142ee51cd2871eb04cf7225b77.jpeg?s=8077c92303aad925877554b0a942dc8c"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website of the Tensei Kizoku, Kantei Skill de Nariagaru (As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World) television anime revealed additional cast, theme songs, and the first promotional video for the second season on Tuesday. The anim...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2024",
+                    "name": "Fall 2024",
+                    "url": "https://myanimelist.net/news/tag/fall_2024"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "@class": "Jikan\\Model\\Recommendations\\UserRecommendations",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Recommendations\\RecommendationListItem",
+            "malId": "17909-19703",
+            "entry": [
+                {
+                    "@class": "Jikan\\Model\\Common\\CommonMeta",
+                    "malId": 17909,
+                    "url": "https://myanimelist.net/anime/17909/Uchouten_Kazoku",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/3/85433.jpg?s=d6b67ca658c509a3a78d7b0507a4a005",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/85433t.jpg?s=d6b67ca658c509a3a78d7b0507a4a005",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/85433l.jpg?s=d6b67ca658c509a3a78d7b0507a4a005"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/3/85433.webp?s=d6b67ca658c509a3a78d7b0507a4a005",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/85433t.webp?s=d6b67ca658c509a3a78d7b0507a4a005",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/85433l.webp?s=d6b67ca658c509a3a78d7b0507a4a005"
+                        }
+                    },
+                    "title": "Uchouten Kazoku"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\CommonMeta",
+                    "malId": 19703,
+                    "url": "https://myanimelist.net/anime/19703/Kyousou_Giga_TV",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/5/85431.jpg?s=53fa6df68719060cf42314432532f45a",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/85431t.jpg?s=53fa6df68719060cf42314432532f45a",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/85431l.jpg?s=53fa6df68719060cf42314432532f45a"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/5/85431.webp?s=53fa6df68719060cf42314432532f45a",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/85431t.webp?s=53fa6df68719060cf42314432532f45a",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/85431l.webp?s=53fa6df68719060cf42314432532f45a"
+                        }
+                    },
+                    "title": "Kyousou Giga (TV)"
+                }
+            ],
+            "content": "Both are fantasy adventures set in a city with a great story about families who arent humans and with high quality and original artstyle/animation.",
+            "date": "2017-01-15T00:00:00+00:00",
+            "user": {
+                "@class": "Jikan\\Model\\Recommendations\\Recommender",
+                "url": "https://myanimelist.net/profile/DatRandomDude",
+                "username": "DatRandomDude"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Recommendations\\RecommendationListItem",
+            "malId": "12189-30895",
+            "entry": [
+                {
+                    "@class": "Jikan\\Model\\Common\\CommonMeta",
+                    "malId": 12189,
+                    "url": "https://myanimelist.net/anime/12189/Hyouka",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/13/50521.jpg?s=ff131ec601f11633ddb168f6542c62fc",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/50521t.jpg?s=ff131ec601f11633ddb168f6542c62fc",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/50521l.jpg?s=ff131ec601f11633ddb168f6542c62fc"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/13/50521.webp?s=ff131ec601f11633ddb168f6542c62fc",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/50521t.webp?s=ff131ec601f11633ddb168f6542c62fc",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/50521l.webp?s=ff131ec601f11633ddb168f6542c62fc"
+                        }
+                    },
+                    "title": "Hyouka"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\CommonMeta",
+                    "malId": 30895,
+                    "url": "https://myanimelist.net/anime/30895/HaruChika__Haruta_to_Chika_wa_Seishun_suru",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/6/77835.jpg?s=8e16e5a8b436d83828eb99bf968f9781",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/77835t.jpg?s=8e16e5a8b436d83828eb99bf968f9781",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/77835l.jpg?s=8e16e5a8b436d83828eb99bf968f9781"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/6/77835.webp?s=8e16e5a8b436d83828eb99bf968f9781",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/77835t.webp?s=8e16e5a8b436d83828eb99bf968f9781",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/77835l.webp?s=8e16e5a8b436d83828eb99bf968f9781"
+                        }
+                    },
+                    "title": "HaruChika: Haruta to Chika wa Seishun suru"
+                }
+            ],
+            "content": "Both are animes happening in high school with little mysteries to solve and some slice of life moments.",
+            "date": "2016-01-27T00:00:00+00:00",
+            "user": {
+                "@class": "Jikan\\Model\\Recommendations\\Recommender",
+                "url": "https://myanimelist.net/profile/DatRandomDude",
+                "username": "DatRandomDude"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Recommendations\\RecommendationListItem",
+            "malId": "2605-20431",
+            "entry": [
+                {
+                    "@class": "Jikan\\Model\\Common\\CommonMeta",
+                    "malId": 2605,
+                    "url": "https://myanimelist.net/anime/2605/Sayonara_Zetsubou_Sensei",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/5/6559.jpg?s=6b2f856eefa11024f479374e7e4a35b5",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/6559t.jpg?s=6b2f856eefa11024f479374e7e4a35b5",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/6559l.jpg?s=6b2f856eefa11024f479374e7e4a35b5"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/5/6559.webp?s=6b2f856eefa11024f479374e7e4a35b5",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/6559t.webp?s=6b2f856eefa11024f479374e7e4a35b5",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/6559l.webp?s=6b2f856eefa11024f479374e7e4a35b5"
+                        }
+                    },
+                    "title": "Sayonara Zetsubou Sensei"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\CommonMeta",
+                    "malId": 20431,
+                    "url": "https://myanimelist.net/anime/20431/Hoozuki_no_Reitetsu",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/7/87177.jpg?s=8ef4548ebf9097a3d8a1be22e7fcd1ff",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/87177t.jpg?s=8ef4548ebf9097a3d8a1be22e7fcd1ff",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/87177l.jpg?s=8ef4548ebf9097a3d8a1be22e7fcd1ff"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/7/87177.webp?s=8ef4548ebf9097a3d8a1be22e7fcd1ff",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/87177t.webp?s=8ef4548ebf9097a3d8a1be22e7fcd1ff",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/87177l.webp?s=8ef4548ebf9097a3d8a1be22e7fcd1ff"
+                        }
+                    },
+                    "title": "Hoozuki no Reitetsu"
+                }
+            ],
+            "content": "Both MC have their problems and have a huge cast with them. The humor is, most of the time, similar (imo) and there's a lot of japanese and pop culture references that can make you scratch your head. However, both are still really enjoyable even if you don't get some of the references.",
+            "date": "2015-09-04T00:00:00+00:00",
+            "user": {
+                "@class": "Jikan\\Model\\Recommendations\\Recommender",
+                "url": "https://myanimelist.net/profile/DatRandomDude",
+                "username": "DatRandomDude"
+            }
+        }
+    ]
+}

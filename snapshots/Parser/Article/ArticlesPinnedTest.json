@@ -1,0 +1,77 @@
+{
+    "@class": "Jikan\\Model\\Article\\PinnedArticleList",
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Article\\PinnedArticleListItem",
+            "malId": 2402,
+            "url": "https://myanimelist.net/featured/2402/%F0%9F%94%A5_Stream_Legendary_Anime_for_Free_%E2%80%94_No_Subscriptions_No_Strings",
+            "title": "🔥 Stream Legendary Anime for Free — No Subscriptions, No Strings",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1755063891-ac9a543d3647d97f7268e2e60575380f.png?s=f8ad3e8a52961c17322e9d857dddc5a8"
+                }
+            },
+            "views": 7156,
+            "excerpt": "Dive into BLEACH, NARUTO, and Hunter x Hunter movie sagas, now streaming 24/7 across the U.S. and Canada.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\PinnedArticleListItem",
+            "malId": 2409,
+            "url": "https://myanimelist.net/featured/2409/Interview__Kyoto_Animations_New_TV_Anime_Sparks_of_Tomorrow",
+            "title": "Interview: Kyoto Animation's New TV Anime, Sparks of Tomorrow",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1760518915-4f1488b2877ef2f429a60982fb369c74.jpeg?s=5d54a0833bf19a035d1b02c497ae23bf"
+                }
+            },
+            "views": 18186,
+            "excerpt": "In our exclusive interview with Director Minoru Ota, we go behind the scenes to explore how Kyoto Animation is bringing to life a story that intertwines invention, emotion, and the pursuit of connection in a rapidly changing era.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\PinnedArticleListItem",
+            "malId": 2410,
+            "url": "https://myanimelist.net/featured/2410/What_Isekai_Fantasy_story_do_you_think_should_be_adapted_by_KADOKAWA",
+            "title": "What Isekai Fantasy story do you think should be adapted by KADOKAWA?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1763098837-db1940b417fd86b11ea586280ca4295b.png?s=59546a48acbb53c8ae23c9e0796e8110"
+                }
+            },
+            "views": 37368,
+            "excerpt": "Here are the 10 finalists from the second MAL × Honeyfeed Writing Contest of 2025! Your vote will help decide which web novels will become the next big Isekai hit. Check them out and cast your vote!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\PinnedArticleListItem",
+            "malId": 2406,
+            "url": "https://myanimelist.net/featured/2406/Hypnosis_Mic___Uta%E2%98%86Pri_Movie_Anime_Expo_2025_Screening_Report",
+            "title": "Hypnosis Mic & Uta☆Pri Movie Anime Expo 2025 Screening Report",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1755084862-8269fa22847452bb8d93820cc787abc6.png?s=03cb3c047fea34b53a0cd1186e6b141c"
+                }
+            },
+            "views": 32329,
+            "excerpt": "At Anime Expo 2025, King Records presented “HYPNOSISMIC -Division Rap Battle-” and “Uta no☆Prince-sama♪ TABOO NIGHT XXXX.” HypMic’s interactive voting saw DOTSUITARE-HOMPO win, while Uta☆Pri’s QUARTET NIGHT live-style show captured Japanese concert energy, with fans’ passion rivaling Japan’s.",
+            "tags": []
+        }
+    ]
+}
