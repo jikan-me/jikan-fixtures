@@ -1907,5 +1907,356 @@
             }
         }
     ],
-    "publishedManga": []
+    "publishedManga": [
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 24980,
+                "url": "https://myanimelist.net/manga/24980/Chuunen_wa_Kouya_wo_Mezasu_zo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/134619.jpg?s=b184282f74eb6d463ae8cae8bab10d73",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/134619t.jpg?s=b184282f74eb6d463ae8cae8bab10d73",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/134619l.jpg?s=b184282f74eb6d463ae8cae8bab10d73"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/134619.webp?s=b184282f74eb6d463ae8cae8bab10d73",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/134619t.webp?s=b184282f74eb6d463ae8cae8bab10d73",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/134619l.webp?s=b184282f74eb6d463ae8cae8bab10d73"
+                    }
+                },
+                "title": "Chuunen wa Kouya wo Mezasu zo"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 13971,
+                "url": "https://myanimelist.net/manga/13971/Dobutsu_Takarajima",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/19837.jpg?s=2617baa7a9a558f134a44d8673dd82d7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/19837t.jpg?s=2617baa7a9a558f134a44d8673dd82d7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/19837l.jpg?s=2617baa7a9a558f134a44d8673dd82d7"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/19837.webp?s=2617baa7a9a558f134a44d8673dd82d7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/19837t.webp?s=2617baa7a9a558f134a44d8673dd82d7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/19837l.webp?s=2617baa7a9a558f134a44d8673dd82d7"
+                    }
+                },
+                "title": "Dobutsu Takarajima"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 14741,
+                "url": "https://myanimelist.net/manga/14741/Doromamire_no_Tora__Miyazaki_Hayao_Mousou_Note",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/115903.jpg?s=751574f4753b33933eaf56e83313d781",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/115903t.jpg?s=751574f4753b33933eaf56e83313d781",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/115903l.jpg?s=751574f4753b33933eaf56e83313d781"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/115903.webp?s=751574f4753b33933eaf56e83313d781",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/115903t.webp?s=751574f4753b33933eaf56e83313d781",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/115903l.webp?s=751574f4753b33933eaf56e83313d781"
+                    }
+                },
+                "title": "Doromamire no Tora: Miyazaki Hayao Mousou Note"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 12595,
+                "url": "https://myanimelist.net/manga/12595/Hansu_no_Kikan",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/17506.jpg?s=77add84aff85fee9850913914156e830",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/17506t.jpg?s=77add84aff85fee9850913914156e830",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/17506l.jpg?s=77add84aff85fee9850913914156e830"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/17506.webp?s=77add84aff85fee9850913914156e830",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/17506t.webp?s=77add84aff85fee9850913914156e830",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/17506l.webp?s=77add84aff85fee9850913914156e830"
+                    }
+                },
+                "title": "Hansu no Kikan"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 24979,
+                "url": "https://myanimelist.net/manga/24979/Hikoutei_Jidai",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/297821.jpg?s=1dc2127492cd49276ef2d64dbaed1167",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/297821t.jpg?s=1dc2127492cd49276ef2d64dbaed1167",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/297821l.jpg?s=1dc2127492cd49276ef2d64dbaed1167"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/297821.webp?s=1dc2127492cd49276ef2d64dbaed1167",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/297821t.webp?s=1dc2127492cd49276ef2d64dbaed1167",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/297821l.webp?s=1dc2127492cd49276ef2d64dbaed1167"
+                    }
+                },
+                "title": "Hikoutei Jidai"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 24978,
+                "url": "https://myanimelist.net/manga/24978/Imouto_e",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/40248.jpg?s=a60e1951e843e5e06f6d14f68296841b",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/40248t.jpg?s=a60e1951e843e5e06f6d14f68296841b",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/40248l.jpg?s=a60e1951e843e5e06f6d14f68296841b"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/40248.webp?s=a60e1951e843e5e06f6d14f68296841b",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/40248t.webp?s=a60e1951e843e5e06f6d14f68296841b",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/40248l.webp?s=a60e1951e843e5e06f6d14f68296841b"
+                    }
+                },
+                "title": "Imouto e"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 651,
+                "url": "https://myanimelist.net/manga/651/Kaze_no_Tani_no_Nausicaä",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/259856.jpg?s=af1751d2200ce475bedff6c7be0c7dcf",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856t.jpg?s=af1751d2200ce475bedff6c7be0c7dcf",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856l.jpg?s=af1751d2200ce475bedff6c7be0c7dcf"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/259856.webp?s=af1751d2200ce475bedff6c7be0c7dcf",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856t.webp?s=af1751d2200ce475bedff6c7be0c7dcf",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856l.webp?s=af1751d2200ce475bedff6c7be0c7dcf"
+                    }
+                },
+                "title": "Kaze no Tani no Nausicaä"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 46318,
+                "url": "https://myanimelist.net/manga/46318/Kaze_Tachinu__Miyazaki_Hayao_no_Mousou_Comeback",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/165109.jpg?s=e8db6292952ea08a32aa62188c2c801c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/165109t.jpg?s=e8db6292952ea08a32aa62188c2c801c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/165109l.jpg?s=e8db6292952ea08a32aa62188c2c801c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/165109.webp?s=e8db6292952ea08a32aa62188c2c801c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/165109t.webp?s=e8db6292952ea08a32aa62188c2c801c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/165109l.webp?s=e8db6292952ea08a32aa62188c2c801c"
+                    }
+                },
+                "title": "Kaze Tachinu: Miyazaki Hayao no Mousou Comeback"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 24977,
+                "url": "https://myanimelist.net/manga/24977/Kuuchuu_de_Oshokuji",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/40247.jpg?s=1a13cbd5c43af6b81e1e70a0f4bd251d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/40247t.jpg?s=1a13cbd5c43af6b81e1e70a0f4bd251d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/40247l.jpg?s=1a13cbd5c43af6b81e1e70a0f4bd251d"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/40247.webp?s=1a13cbd5c43af6b81e1e70a0f4bd251d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/40247t.webp?s=1a13cbd5c43af6b81e1e70a0f4bd251d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/40247l.webp?s=1a13cbd5c43af6b81e1e70a0f4bd251d"
+                    }
+                },
+                "title": "Kuuchuu de Oshokuji"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 71215,
+                "url": "https://myanimelist.net/manga/71215/Nagagutsu_wo_Haita_Neko",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/293135.jpg?s=f49ae9f046d31f3d19a80a7be8ca4ba5",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/293135t.jpg?s=f49ae9f046d31f3d19a80a7be8ca4ba5",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/293135l.jpg?s=f49ae9f046d31f3d19a80a7be8ca4ba5"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/293135.webp?s=f49ae9f046d31f3d19a80a7be8ca4ba5",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/293135t.webp?s=f49ae9f046d31f3d19a80a7be8ca4ba5",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/293135l.webp?s=f49ae9f046d31f3d19a80a7be8ca4ba5"
+                    }
+                },
+                "title": "Nagagutsu wo Haita Neko"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 18293,
+                "url": "https://myanimelist.net/manga/18293/Sabaku_no_Tami",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/268463.jpg?s=d5e73057ecb6acf2d341f96e0b54e506",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/268463t.jpg?s=d5e73057ecb6acf2d341f96e0b54e506",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/268463l.jpg?s=d5e73057ecb6acf2d341f96e0b54e506"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/268463.webp?s=d5e73057ecb6acf2d341f96e0b54e506",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/268463t.webp?s=d5e73057ecb6acf2d341f96e0b54e506",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/268463l.webp?s=d5e73057ecb6acf2d341f96e0b54e506"
+                    }
+                },
+                "title": "Sabaku no Tami"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 3274,
+                "url": "https://myanimelist.net/manga/3274/Shuna_no_Tabi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/281604.jpg?s=806219a046e7b6869b84ded07338e47c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/281604t.jpg?s=806219a046e7b6869b84ded07338e47c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/281604l.jpg?s=806219a046e7b6869b84ded07338e47c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/281604.webp?s=806219a046e7b6869b84ded07338e47c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/281604t.webp?s=806219a046e7b6869b84ded07338e47c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/281604l.webp?s=806219a046e7b6869b84ded07338e47c"
+                    }
+                },
+                "title": "Shuna no Tabi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 76407,
+                "url": "https://myanimelist.net/manga/76407/Tenkuu_no_Shiro_Laputa",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/132763.jpg?s=96ebf00f006314c5a0cec9e26d0c8d54",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/132763t.jpg?s=96ebf00f006314c5a0cec9e26d0c8d54",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/132763l.jpg?s=96ebf00f006314c5a0cec9e26d0c8d54"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/132763.webp?s=96ebf00f006314c5a0cec9e26d0c8d54",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/132763t.webp?s=96ebf00f006314c5a0cec9e26d0c8d54",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/132763l.webp?s=96ebf00f006314c5a0cec9e26d0c8d54"
+                    }
+                },
+                "title": "Tenkuu no Shiro Laputa"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 71163,
+                "url": "https://myanimelist.net/manga/71163/Westall_Gensou__Tynemouth_e_no_Tabi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/151906.jpg?s=5512d7a6127a957421de4840f80d3ae2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/151906t.jpg?s=5512d7a6127a957421de4840f80d3ae2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/151906l.jpg?s=5512d7a6127a957421de4840f80d3ae2"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/151906.webp?s=5512d7a6127a957421de4840f80d3ae2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/151906t.webp?s=5512d7a6127a957421de4840f80d3ae2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/151906l.webp?s=5512d7a6127a957421de4840f80d3ae2"
+                    }
+                },
+                "title": "Westall Gensou: Tynemouth e no Tabi"
+            }
+        }
+    ]
 }

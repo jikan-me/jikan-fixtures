@@ -1,7 +1,7 @@
 {
     "@class": "Jikan\\Model\\News\\NewsList",
-    "hasNextPage": false,
-    "lastVisiblePage": 1,
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
     "results": [
         {
             "@class": "Jikan\\Model\\News\\NewsListItem",

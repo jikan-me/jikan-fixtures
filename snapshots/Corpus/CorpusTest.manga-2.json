@@ -100,6 +100,20 @@
                 "name": "Berserk: Ougon Jidai-hen - Memorial Edition",
                 "url": "https://myanimelist.net/anime/52976/Berserk__Ougon_Jidai-hen_-_Memorial_Edition"
             }
+        ],
+        "Spin-Off": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Shousetsu Berserk: Enryuu no Kishi",
+                "url": "https://myanimelist.net/manga/106677/Shousetsu_Berserk__Enryuu_no_Kishi"
+            }
+        ],
+        "Other": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Berserk: Shinen no Kami 2",
+                "url": "https://myanimelist.net/manga/92299/Berserk__Shinen_no_Kami_2"
+            }
         ]
     },
     "genres": [

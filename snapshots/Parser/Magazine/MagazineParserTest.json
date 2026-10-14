@@ -27,7 +27,7 @@
                 }
             },
             "synopsis": "Kenzou Tenma, a renowned Japanese neurosurgeon working in post-war Germany, faces a difficult choice: to operate on Johan Liebert, an orphan boy on the verge of death, or on the mayor of Düsseldorf. In the end, Tenma decides to gamble his reputation by saving Johan, effectively leaving the mayor for dead. As a consequence of his actions, hospital director Heinemann strips Tenma of his position, and Heinemann's daughter Eva breaks off their engagement. Disgraced and shunned by his colleagues, Tenma loses all hope of a successful career—that is, until the mysterious killing of Heinemann gives him another chance. Nine years later, Tenma is the head of the surgical department and close to becoming the director himself. Although all seems well for him at first, he soon becomes entangled in a chain of gruesome murders that have taken place throughout Germany. The culprit is a monster—the same one that Tenma saved on that fateful day nine years ago. [Written by MAL Rewrite]",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1994-10-12T00:00:00+00:00",
             "volumes": 18,
             "members": 284000,
@@ -70,7 +70,9 @@
             ],
             "authors": [],
             "score": 9.16,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -93,7 +95,7 @@
                 }
             },
             "synopsis": "Famous for his military service in the 39th Asian War, the legendary Swiss robot Montblanc is violently murdered. Humans and robots around the world mourn for the beloved celebrity. Montblanc's popularity only grew in the years following the war, thanks to his dedication to nature conservation and his loving personality. Fellow war veteran and robotic Europol detective Gesicht is sent to investigate Montblanc's tragic demise. In his pursuit, Gesicht uncovers evidence of a mysterious entity known only as \"Pluto.\" He also learns of a conspiratorial plot to dismantle the eight specialized robots from around the world who participated in the war. Racing against time to save those who still remain, Gesicht grapples with his memory, morality, and a world full of hate, desperately attempting to defend the fragile coexistence of man and machine. [Written by MAL Rewrite]",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 8,
             "members": 137000,
@@ -144,9 +146,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Urasawa, Naoki",
+                    "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Tezuka, Osamu",
+                    "url": "https://myanimelist.net/people/1938/Osamu_Tezuka"
+                }
+            ],
             "score": 8.62,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -169,7 +184,7 @@
                 }
             },
             "synopsis": "44 years old, single, working in a construction company for his entire life. All Kurosawa wants is a little respect from his co-workers. And a little popularity won't hurt. Unfortunately Kurosawa's plans fail miserably from time to time and one day, he finds himself right in the middle of a fight against...delinquent middle schoolers?",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 11,
             "members": 29000,
@@ -217,7 +232,9 @@
             ],
             "authors": [],
             "score": 8.31,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -240,7 +257,7 @@
                 }
             },
             "synopsis": "\"Mine has been a life of much shame.\" \"I can't even guess myself what it must be to live the life of a human being.\" Plagued by a maddening anxiety, the terrible disconnect between his own concept of happiness and the joy of the rest of the world, Yozo Oba plays the clown in his dissolute life, holding up a mask for those around him as he spirals ever downward, locked arm-in-arm with death. Osamu Dazai's immortal—and supposedly autobiographical—work of Japanese literature, is perfectly adapted here into a manga by Junji Ito. The imagery wrenches open the text of the novel one line at a time to sublimate Yozo's mental landscape into something even more delicate and grotesque. This is the ultimate in art by Ito, proof that nothing can surpass the terror of the human psyche. (Source: VIZ Media)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 3,
             "members": 26000,
@@ -266,9 +283,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Itou, Junji",
+                    "url": "https://myanimelist.net/people/2410/Junji_Itou"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Dazai, Osamu",
+                    "url": "https://myanimelist.net/people/9154/Osamu_Dazai"
+                }
+            ],
             "score": 7.86,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -291,7 +321,7 @@
                 }
             },
             "synopsis": "Master Keaton introduces Taichi Hiraga Keaton, an archeology professor and part-time insurance investigator known for his successful and unorthodox methods of investigation. The son of a Japanese zoologist and an English noblewoman, educated in archaeology at Oxford and a former member of the SAS, Master Keaton uses his knowledge and combat training to uncover buried secrets, thwart would-be villains, and pursue the truth. (Source: VIZ Media)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1988-10-12T00:00:00+00:00",
             "volumes": 18,
             "members": 10000,
@@ -342,9 +372,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Urasawa, Naoki",
+                    "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Katsushika, Hokusei",
+                    "url": "https://myanimelist.net/people/2654/Hokusei_Katsushika"
+                }
+            ],
             "score": 7.7,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -367,7 +410,7 @@
                 }
             },
             "synopsis": "Kamoda will do anything to earn a quick buck, even if it means skipping out on his taxes to take his wife on a luxury cruise. But when a random tax audit bankrupts his family, Kamoda soon discovers his wife has taken that cruise after all—only without Kamoda or their daughter Kasumi. Desperate to provide, Kamoda invests in a scheme to mass-produce masks of controversial American presidential candidate Beverly Duncan. But a lackluster election kills their sales potential, burying Kamoda under a mountain of masks and debt. On the verge of despair, Kamoda discovers a sign that leads him to the Director, an art fanatic who vows he can make all of Kamoda and Kasumi's dreams come true. (Source: VIZ Media)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 92000,
@@ -388,7 +431,9 @@
             "demographics": [],
             "authors": [],
             "score": 6.76,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -411,7 +456,7 @@
                 }
             },
             "synopsis": "Cécile Green is a tour guide at the Louvre Museum in Paris. While presenting the famous Mona Lisa painting, Cécile spots a little white cat in the crowd. Yukinoko is the white cat Cécile saw, living at the Louvre with a small feline colony. Despite the other cats being harsh and cold toward him, Yukinoko believes it is better than being out on the street. Curiously, he has not grown beyond being a kitten, but he possesses a mysterious power—he can hide inside the Louvre's paintings. Marcel is a man who has been a nighttime security guard at the Louvre his whole life. As children, Marcel and his sister would play at the museum; during their visits, she would tell him she could hear the voices of the paintings. But shortly after, his sister disappeared in a cloud of mystery and Marcel has been searching for her ever since. Soon, these three lives are destined to collide in a way none of them would have ever imagined. [Written by MAL Rewrite]",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 2,
             "members": 44000,
@@ -433,7 +478,9 @@
             ],
             "authors": [],
             "score": 7.47,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -456,7 +503,7 @@
                 }
             },
             "synopsis": "The only common feature running through these stories is a grown-up protagonist somehow coming face-to-face with his childhood past, in a testament to the loss of youth, the disillusionment of growing old, and nostalgia for better times. In the Adachi pantheon, this is a rare diametric view of his eternal theme of \"youth,\" in this case youth as seen through the lens of the past. It's a powerful statement from Adachi that might even be an acknowledgment of his steadily-creeping age. What is impressive about these stories is not the plots or characters themselves, but the absolutely perfect way he tells them, another facet of experience that comes with age. Most of the stories may require multiple readings to fully appreciate the airtightness of the plot and visual motifs. (Source: Mangascreener)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1998-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 35000,
@@ -472,7 +519,9 @@
             "demographics": [],
             "authors": [],
             "score": 7.04,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -495,7 +544,7 @@
                 }
             },
             "synopsis": "A manga that revolves around an old-fashioned all-night food stall, the various dishes that the stall owner prepares to suit the tastes of different customers, and the joys, griefs, trials and tribulations of his faithful patrons. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 34000,
@@ -533,7 +582,9 @@
             ],
             "authors": [],
             "score": 7.7,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -556,7 +607,7 @@
                 }
             },
             "synopsis": "Kurosawa, a 44-year-old underpaid construction worker, sustains a head injury during a brawl. He then lives a peaceful life in heaven for eight years, immobile on his hospital bed, until he comes to a startling realization: there are no women in heaven. As a headstrong man, Kurosawa choses to leave the luxuries of the afterlife behind to pursue his lifetime goal: to date a woman. Although Kurosawa returns to Earth with an objective in mind, he finds himself in many undesirable situations caused by his own straightforward behavior. Groping women, fighting, and acting petty are just a few things that a soul from heaven should not be doing. As a result, Kurosawa's misdeeds earn him only society's disdain. However, Kurosawa's mistakes are due to his strong human impulses—he also benefits from the positive sides of his nature. He is introspective, and his battles are opportunities for lessons to be learned. Despite starting his mid-life crisis as nothing more than a desperate soul searching for a woman, Kurosawa soon finds other worthy reasons to live and gains a new perspective on moral virtues. [Written by MAL Rewrite]",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 21,
             "members": 31000,
@@ -599,7 +650,9 @@
             ],
             "authors": [],
             "score": 7.13,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -622,7 +675,7 @@
                 }
             },
             "synopsis": "1-2. NASA 3. Scenario 4. Crash Dance!! 5. Children Children 6. Return 7. Tsutomenin Hashiru!! 8. Street Corner Gangs 9. Beta!! 10. Old Western Mama 11-12. Mighty Boy",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1988-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 24000,
@@ -638,7 +691,9 @@
             "demographics": [],
             "authors": [],
             "score": 6.34,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -661,7 +716,7 @@
                 }
             },
             "synopsis": "Shimazaki Sanpo is a volunteer member of the mountain rescue team of Japanese Alps. Confronting a life-threatening situations he always seeks out the best solution to save the climbers. It's a human drama of the lives and deaths in the mountains.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 18,
             "members": 21000,
@@ -682,7 +737,9 @@
             "demographics": [],
             "authors": [],
             "score": 7.54,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -705,7 +762,7 @@
                 }
             },
             "synopsis": "Jinbe is the story of the relationship between Jinpei and his step-daughter, Miku. Miku's mother died after being married to Jinpei for a little over a year, when she was 13 years old, and Jinpei has been raising Miku alone since then. (Source: Wikipedia)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1992-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 18000,
@@ -731,7 +788,9 @@
             "demographics": [],
             "authors": [],
             "score": 6.48,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -754,7 +813,7 @@
                 }
             },
             "synopsis": "An anthology of six short stories. The title story is set in the Klondike region in 1897 and recounts the American author Jack London’s fortuitous encounter with an enigmatic old man. White Wilderness is also related to Jack London - it's an adaptation of the early part of his White Fang novel in which two men and their dog team are relentlessly pursued by a pack of wolves. Our Mountains, set in Japan in the 1920s, follows an elderly hunter in his attempts to take vengeance on the enormous bear that killed his son. Kaiyose-Jima is a nostalgic tale in which a boy is sent to spend the summer with relatives on the coast after his mother is taken ill. In Shôkarô, a mangaka looks back on the strange apartment building he lived in when he first came to Tokyo as an aspiring artist and the unusual people he met there. Return To The Sea is the tale of a marine biologist working on the coast of Alaska who becomes obsessed by an elderly bowhead whale and by Inuit tales of a whale cemetery. (Source: ANN)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1994-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 17000,
@@ -780,7 +839,9 @@
             "demographics": [],
             "authors": [],
             "score": 7.24,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -803,7 +864,7 @@
                 }
             },
             "synopsis": "Pineapple Army is a story about a legendary Japanese ex-mercenary, working as a self-defense instructor. He is sent all around the world for a job by an international self-defense agency, and in each episode, there is a human drama. Along the way, he also saves the world a few times from the hands of terrorists. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1986-10-12T00:00:00+00:00",
             "volumes": 8,
             "members": 16000,
@@ -829,9 +890,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Urasawa, Naoki",
+                    "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Kudo, Kazuya",
+                    "url": "https://myanimelist.net/people/2206/Kazuya_Kudo"
+                }
+            ],
             "score": 6.49,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -854,7 +928,7 @@
                 }
             },
             "synopsis": "Following a collective trip to Europe, a Japanese artist makes a solo career in Paris, intending to visit the museums of the French capital.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 16000,
@@ -882,7 +956,9 @@
             ],
             "authors": [],
             "score": 7.03,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -905,7 +981,7 @@
                 }
             },
             "synopsis": "Set 20 years after the end of the original Master Keaton story. The series will again follow the half-Japanese, half-English father and multi-talented sleuth as he investigates more cases in Europe. (Source: ANN)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 15000,
@@ -946,9 +1022,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Urasawa, Naoki",
+                    "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Nagasaki, Takashi",
+                    "url": "https://myanimelist.net/people/17205/Takashi_Nagasaki"
+                }
+            ],
             "score": 7.32,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -971,7 +1060,7 @@
                 }
             },
             "synopsis": "1. Higaeri no Yume (One Day Dream) 2. Oyaji Graffiti (Graffiti Pop) 3. Giri no Holidays (A Compulsory Holidays) 4. Help 5. Akai Hanataba (Red Bouquet) 6. Permanent Love",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 11000,
@@ -992,7 +1081,9 @@
             "demographics": [],
             "authors": [],
             "score": 6.7,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1015,7 +1106,7 @@
                 }
             },
             "synopsis": "1. Positive Cooking 2. Toshigai mo Naku (How Ridiculous at that Age) 3. Unmei no Tori (Birds of Fate) 4. Shiawase List (Happiness List) 5. Rinka no Nayami (Trouble with the Neighbors) 6. Jiken no Genba (Scene of the Crime)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 10000,
@@ -1031,7 +1122,9 @@
             "demographics": [],
             "authors": [],
             "score": 6.74,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1054,7 +1147,7 @@
                 }
             },
             "synopsis": "A sophisticated collection of tales, ranging from the macabre to heartwarming to wacky. The trials and tribulations of daily life. 1. P no Higeki (The Tragedy of P) 2. Roman no Akindo (The Merchant of Romance) 3. Poi no Ie (The House of Trash) 4. Hachi no Naka (Hidden in the Pottery) 5. Hyakunen no Koi (One Hundred Years of Love) 6. L-size no Shiawase (Extra-Large Sized Happiness)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1987-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 969,
@@ -1080,7 +1173,9 @@
             "demographics": [],
             "authors": [],
             "score": 6.92,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1103,7 +1198,7 @@
                 }
             },
             "synopsis": "Senmu no Inu contains six short stories that may especially appeal to readers with an appreciation for stories about relationships, character, and understanding other people. These are stories for thinking and feeling adults. 1. Semmu no Inu (The Executive's Dog) 2. Meisou Kazoku Fire (The Astray 'F' Family) 3. Kimi ga Iru dake de (As Long as You Are Here) 4. Chanoma no Love Song (Living Room Love Song) 5. Oyaji Low Teen (Teen Papa) 6. Orei ni Kaete (As Way of Thanks)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1994-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 783,
@@ -1129,7 +1224,9 @@
             "demographics": [],
             "authors": [],
             "score": 6.9,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1152,7 +1249,7 @@
                 }
             },
             "synopsis": "Dragon Gon... A 36 year old bachelor and lusterless boxer who is on the verge of retirement. By all expectations, he would quietly and uneventfully retire. Until he happened to meet a vivacious actress... Love, laughter, and boxing; a drama about the prime of life now unfolds! (Source: Viscans)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 774,
@@ -1185,7 +1282,9 @@
             ],
             "authors": [],
             "score": 6.82,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1208,7 +1307,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 2,
             "members": 649,
@@ -1246,7 +1345,9 @@
             ],
             "authors": [],
             "score": 6.64,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1269,7 +1370,7 @@
                 }
             },
             "synopsis": "Chaos ensues after Take's guitar, which belonged to his late uncle, gets stolen.",
-            "type": null,
+            "type": "One-shot",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 438,
@@ -1297,7 +1398,9 @@
             ],
             "authors": [],
             "score": 6.54,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1320,7 +1423,7 @@
                 }
             },
             "synopsis": "The hero, nearly killed by carbon monoxide poisoning while on a solo assignment in another city, loses his memory and can no longer recognize his own family. Unconsciously, his feet carry him to the homes of his former lover, his parents, old friends. As he journeys, he follows the threads of their memories to find out what kind of person he used to be. The clear story line and design draw readers into this powerful work. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1997-10-12T00:00:00+00:00",
             "volumes": 2,
             "members": 433,
@@ -1358,7 +1461,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1381,7 +1486,7 @@
                 }
             },
             "synopsis": "1-3. Aoi Tori 4-8. Wakuraba (Kaikou)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 412,
@@ -1402,7 +1507,9 @@
             "demographics": [],
             "authors": [],
             "score": 7.24,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1425,7 +1532,7 @@
                 }
             },
             "synopsis": "Set at the end of the Edo (Tokugawa Shoganate) era, the series depicts Kumo's family with his wife, Kame, their 11-year-old son and 8-year-old daughter. They are always ignoring work and playing and Kumo is notorious for womanizing.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1973-10-12T00:00:00+00:00",
             "volumes": 112,
             "members": 406,
@@ -1458,7 +1565,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1481,7 +1590,7 @@
                 }
             },
             "synopsis": "Abu-san is a baseball manga that tells the story of fictional baseball player Kageura Yasutake.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1973-10-12T00:00:00+00:00",
             "volumes": 107,
             "members": 395,
@@ -1519,7 +1628,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1542,7 +1653,7 @@
                 }
             },
             "synopsis": "The manga consists of nine entirely separate short stories set in World War II, each reimagining a famous fairy tale with the European theater of World War II as a backdrop, often with poignant results. (Source: Hokuto no Gun)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1988-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 389,
@@ -1570,7 +1681,9 @@
             ],
             "authors": [],
             "score": 6.55,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1593,7 +1706,7 @@
                 }
             },
             "synopsis": "Kyouto, April 1928. Oshikouji Ryu (Ryu means dragon in Japanese, the title Ron is the Chinese pronunciation of dragon (Long)) is 17 years old, and is called 'Genius swordman, Dragon of Kyouto'. He will inherit the property of the noble Oshikouji family, but prefers practising Kendou. He enters a school for training Kendou swordman, but the seniors of school are very harsh and intolerable. But Ryu doesn't surrender and overcomes the problems, later on he impresses his seniors and they begin to like him. Kosuzu, a geisha in Gion (famous red-light district in Kyouto), is Ryu's childhood friend. Ryu and Kosuzu love each other, but Ryu's uncle Takuma came in between and made Kosuzu his second wife. But their lives were still tied together, through Kyouto and the Japanese Imperialism. Tatsuru Tei, sent to Toukyou because of her family's debt, meets Ryu by accident. Ryu and his friends save her from a drunken mob, and Ryu teaches her never to give up even when the situation seems hopeless. She later becomes housemaid of an Oshikouji resident. When Ryu becomes a senior in school, he and Tatsuru fall in love. He tells his father he wants to marry Tei, but Kazuma (Ryu's father) will only allow him to marry her and return home after he earns 100 Yen (present value being about 2,500$). So Ryu searches for a job, but that's not easy as the Great Depression makes life very hard... This manga tells a great story against the richly textured background of historical Japan and China, it has a refined and excellent artwork. Murakami's views on Chinese and Korean people is very warm, and not those of the previous invader and governor such as the extreme right party in Japan. Another interesting part of the manga is its rich depiction of Japanese colorful life (Gion, Geisha's dance, etc.). A typical example of the realistic style and a manga of high reputation in Korea and Japan. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1991-10-12T00:00:00+00:00",
             "volumes": 42,
             "members": 359,
@@ -1626,7 +1739,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1649,7 +1764,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 2,
             "members": 345,
@@ -1659,7 +1774,9 @@
             "demographics": [],
             "authors": [],
             "score": 7.17,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1682,7 +1799,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 329,
@@ -1702,9 +1819,27 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Eifuku, Issei",
+                    "url": "https://myanimelist.net/people/8613/Issei_Eifuku"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Noujou, Junichi",
+                    "url": "https://myanimelist.net/people/9875/Junichi_Noujou"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Handou, Kazutoshi",
+                    "url": "https://myanimelist.net/people/45151/Kazutoshi_Handou"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1727,7 +1862,7 @@
                 }
             },
             "synopsis": "The manga is about a series of unrelated short stories of people's life and their lessons in life. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1980-10-12T00:00:00+00:00",
             "volumes": 27,
             "members": 308,
@@ -1753,7 +1888,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1776,7 +1913,7 @@
                 }
             },
             "synopsis": "England in the year 1533 was a time of uncertainty, with questions about right and wrong, the balance of power, and even life and death. There a boy dreamed of the future. Accompanying his father, an official in charge of the royal costumes, 12-year old William Cecil came to court for the first time, hoping to find a place in the royal household. At first, he was disappointed with the realities of royalty being so different from what he had dreamed of. But then he met Queen Anne Boleyn, and he was so struck by her that he vowed to serve her and the future \"king\" in her belly. A story based on historical events! (Source: Shogakukan, translated)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 282,
@@ -1798,7 +1935,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1821,7 +1960,7 @@
                 }
             },
             "synopsis": "1. Majo to Dinner 2. Yamashii Dekigoto 3. Shineba Ii no ni 4. Futeikei Family 5. (Hi) Renaissance 6. Watashi no Sky",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 268,
@@ -1831,7 +1970,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1854,7 +1995,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1977-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 263,
@@ -1875,7 +2016,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1898,7 +2041,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1969-10-12T00:00:00+00:00",
             "volumes": 9,
             "members": 229,
@@ -1941,7 +2084,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -1964,7 +2109,7 @@
                 }
             },
             "synopsis": "In the 1950s, anti-Communist movement in the United States intensified as the Cold War deepened. In Hollywood, a series of well-known filmmakers were accused of being communists. The Hollywood Ten who refused subpoenas or declined to testify were found guilty, and the next target would be master director Elia KAZAN. The story of betrayal suffered by KAZAN at the hands of both country and organization is depicted in detailed manga panels. (Source: Japan Media Arts Festival)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 10,
             "members": 219,
@@ -1992,7 +2137,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2015,7 +2162,7 @@
                 }
             },
             "synopsis": "Searching for the lost island Atlantis.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 15,
             "members": 211,
@@ -2034,9 +2181,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Nagasaki, Takashi",
+                    "url": "https://myanimelist.net/people/17205/Takashi_Nagasaki"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Uoto, Osamu",
+                    "url": "https://myanimelist.net/people/20661/Osamu_Uoto"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2059,7 +2219,7 @@
                 }
             },
             "synopsis": "The plot takes place in a small community in post-war Tokyo, and follows the interweaving story threads of a number of the community's residents over the course of a single year as Tokyo Tower is being built.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1974-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 208,
@@ -2080,7 +2240,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2103,7 +2265,7 @@
                 }
             },
             "synopsis": "How about this, a manga for adults—and not young adults either. This is a series of stories about love and romance amongst the older generations. As the manga itself says, \"In the later years of their lives, men and women sometimes find themselves in the glow of love. Their love stories are shining like shooting stars in the twilight.\" (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1995-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 189,
@@ -2134,7 +2296,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2157,7 +2321,7 @@
                 }
             },
             "synopsis": "Okita Keisuke begins his career as a golfer at age 24. Okita gets a good result in the Asian tour, and attends the UK open. He meets a caddie named Lily who's the daughter of a family of many excellent caddies. While fighting the tough tournament together, Okita and Lily get attracted to each other. Kaze no Daichi received the 1994 Shogakukan Manga Award for general manga. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1991-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 158,
@@ -2186,9 +2350,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Kazama, Eiji",
+                    "url": "https://myanimelist.net/people/27449/Eiji_Kazama"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Sakata, Nobuhiro",
+                    "url": "https://myanimelist.net/people/27451/Nobuhiro_Sakata"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2211,7 +2388,7 @@
                 }
             },
             "synopsis": "Fujii Yoshiyuki is a single man who works as a cameraman and has found no success in life. At the age of 32, he enrolls at the Buddhist Institute in order to become a Buddhist monk and to take over the temple of his uncle, who has no heir. Despite the Buddhist etiquette he is not familiar with and thanks to his adventures with his new classmates, Fujii's way of life will inadvertently begin to gravitate towards the core values of Buddhism. (Source: Shogakukan)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 4,
             "members": 145,
@@ -2230,9 +2407,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Eifuku, Issei",
+                    "url": "https://myanimelist.net/people/8613/Issei_Eifuku"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Noujou, Junichi",
+                    "url": "https://myanimelist.net/people/9875/Junichi_Noujou"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2255,7 +2445,7 @@
                 }
             },
             "synopsis": "The story focuses on salaryman Densuke Hamasaki (a.k.a Hama-chan), whom his supervisor Sasaki has dubbed the \"Fishing Baka\" because of his passion for fishing. One day Hama-chan meets and befriends an older fisherman named Su-san, who turns out to be Ichinosuke Suzuki, the CEO of the \"Suzuki Construction\" company that Hama-chan works for. The stories tend to focus on their relathionship inside and outside of the office. (Source: Wikipedia)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1979-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 142,
@@ -2274,9 +2464,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Kitami, Kenichi",
+                    "url": "https://myanimelist.net/people/9145/Kenichi_Kitami"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Yamasaki, Juuzou",
+                    "url": "https://myanimelist.net/people/18781/Juuzou_Yamasaki"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2299,7 +2502,7 @@
                 }
             },
             "synopsis": "\"Rashoumon\" is the last gate for humans to pass in life. Detectives of Toto Police Station have an urge to fight against something beyond crimes. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 9,
             "members": 141,
@@ -2325,9 +2528,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Nakayama, Masaaki",
+                    "url": "https://myanimelist.net/people/3581/Masaaki_Nakayama"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Yajima, Masao",
+                    "url": "https://myanimelist.net/people/8688/Masao_Yajima"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2350,7 +2566,7 @@
                 }
             },
             "synopsis": "Miwa Kubota is a 29-year old movie fanatic who just got fired from her dead-end job. She saw that her favorite actor, the world-renowned Takahashi Yakai, is looking for a housekeeper. Even though she is totally unqualified, she goes there anyway. When she saw the new hire get into an accident outside his door, Miwa steps in to become the \"pretend\" housekeeper for her idol. (Source: Shogakukan, translated)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 137,
@@ -2371,7 +2587,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2394,7 +2612,7 @@
                 }
             },
             "synopsis": "Follows the trials and tribulations of Agawa Kayo, a volunteer probation officer. [Written by Denji]",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 136,
@@ -2413,9 +2631,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Tsukishima, Touji",
+                    "url": "https://myanimelist.net/people/18439/Touji_Tsukishima"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Kagawa, Masahito",
+                    "url": "https://myanimelist.net/people/44778/Masahito_Kagawa"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2438,7 +2669,7 @@
                 }
             },
             "synopsis": "Retired deep-sea diver Albert goes on one final job to recover a unique, once in a lifetime treasure, which is said to be inside the safe of a U-Boat, 620 meters under sea. Together with his old team, the treasure hunters known as DEEP, the mission to recover the safe begins...? (Source: Catmanga)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 2,
             "members": 132,
@@ -2454,7 +2685,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2477,7 +2710,7 @@
                 }
             },
             "synopsis": "The story centers on the life of Kawata Yoshio, an eccentric judge. The popularity of the series seems to stem from both the good-natured wisdom of its hero, Judge Kawata, and the glimpse it offers of Japan's judicial system as it deals with current social issues ranging from divorce to substance abuse.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1987-10-12T00:00:00+00:00",
             "volumes": 15,
             "members": 132,
@@ -2496,9 +2729,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mouri, Jinpachi",
+                    "url": "https://myanimelist.net/people/5719/Jinpachi_Mouri"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Uoto, Osamu",
+                    "url": "https://myanimelist.net/people/20661/Osamu_Uoto"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2521,7 +2767,7 @@
                 }
             },
             "synopsis": "Manga centers on Toshiko Ueda, a woman who during the pre-war era when drawing manga was not considered a popular career choice, decided to devote her life to being a manga creator. (Source: ANN)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 10,
             "members": 119,
@@ -2543,7 +2789,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2566,7 +2814,7 @@
                 }
             },
             "synopsis": "Just before the end of Edo period, under the Tenpou era. Inflation, rice shortages, political corruption, epidemics... In a world where common people suffer, a swordsman who has lost his sight and an Akita dog journey together in pursuit of \"justice\" and \"strength.\" Where did they come from, and where are they heading? At the end of their path, will they find light—or darkness? (Source: Shogakukan, translated)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 119,
@@ -2597,9 +2845,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Naba, Fusai",
+                    "url": "https://myanimelist.net/people/45554/Fusai_Naba"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Shimozawa, Kan",
+                    "url": "https://myanimelist.net/people/89843/Kan_Shimozawa"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2622,7 +2883,7 @@
                 }
             },
             "synopsis": "Ando Natsu, whose dream is to become a patissiere, finds herself jobless after the shop owner's sudden death. She goes to Tokyo in search of another job at a confectionery but the recruiting period has just ended and there are no available positions. This is when she makes her first encounter with the well-established Japanese confectionery \"Mangetsudo\". It is run by the veteran confectioner Umekichi, Takezo, and Mitsuko, and they happened to be looking for a part-time worker. A number of chance events follow and Natsu starts working at Mangetsudo. Although her job is to serve customers, Natsu becomes interested in the world of Japanese confection. Having only worked in cake shops, everything is new to her and she is gradually drawn into the deepness and profoundness of Japanese confection. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 20,
             "members": 117,
@@ -2646,9 +2907,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Nishi, Yuji",
+                    "url": "https://myanimelist.net/people/12310/Yuji_Nishi"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Yamamoto, Terry",
+                    "url": "https://myanimelist.net/people/33693/Terry_Yamamoto"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2671,7 +2945,7 @@
                 }
             },
             "synopsis": "Bengoshi no Kuzu is about Takeda Masami, a new lawyer and fellow lawyer Kuzu Motohito, who Takeda is teamed up with, and how they deal with different court cases.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 10,
             "members": 114,
@@ -2697,7 +2971,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2720,7 +2996,7 @@
                 }
             },
             "synopsis": "Follows a middle-aged bank employee who sees a small man running whenever something bad is about to happen. (Source: Comic Natalie, translated)",
-            "type": null,
+            "type": "One-shot",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 104,
@@ -2741,7 +3017,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2764,7 +3042,7 @@
                 }
             },
             "synopsis": "1. Sonde Yoshi! 2-8. Tokyo Check In 9. This First Step",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 102,
@@ -2780,7 +3058,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2803,7 +3083,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 4,
             "members": 98,
@@ -2817,9 +3097,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Christie, Agatha",
+                    "url": "https://myanimelist.net/people/9665/Agatha_Christie"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Hoshino, Yasushi",
+                    "url": "https://myanimelist.net/people/11245/Yasushi_Hoshino"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2842,7 +3135,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 86,
@@ -2863,7 +3156,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2886,7 +3181,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 4,
             "members": 84,
@@ -2912,9 +3207,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Fujisawa, Yuki",
+                    "url": "https://myanimelist.net/people/3897/Yuki_Fujisawa"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Inai, Yuuto",
+                    "url": "https://myanimelist.net/people/12951/Yuuto_Inai"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2937,7 +3245,7 @@
                 }
             },
             "synopsis": "Short fantasy, science fiction, or horror stories, often concluding with an eerie or unexpected twist. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1988-10-12T00:00:00+00:00",
             "volumes": 6,
             "members": 80,
@@ -2968,7 +3276,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -2991,7 +3301,7 @@
                 }
             },
             "synopsis": "A ghost of a mask-wearing woman in a kimono appears before a husband and wife during the coronavirus pandemic. The woman reminds the husband of a girl from his past. (Source: Comic Natalie, translated)",
-            "type": null,
+            "type": "One-shot",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 78,
@@ -3007,7 +3317,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3030,7 +3342,7 @@
                 }
             },
             "synopsis": "The mini-series centers on a woman, who, at the age of 23, promised to support her favorite stage actor until death, even if it means using her own money. It has been 50 years since her favorite actor died. Now in her old age, living at a retirement home, and surrounded by her favorite actor's merchandise that she kept, an unexpected trouble occurs. (Source: ANN)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 78,
@@ -3058,7 +3370,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3081,7 +3395,7 @@
                 }
             },
             "synopsis": "The manga centers on slovenly police detective Yukimasa Yugami, and his search for \"true justice\" as he tackles mysterious crimes and cases that he encounters in the criminal investigation department. (Source: ANN)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 77,
@@ -3109,7 +3423,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3132,7 +3448,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 3,
             "members": 75,
@@ -3146,9 +3462,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Kikuni, Masahiko",
+                    "url": "https://myanimelist.net/people/4704/Masahiko_Kikuni"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Yamagami, Tatsuhiko",
+                    "url": "https://myanimelist.net/people/30965/Tatsuhiko_Yamagami"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3171,7 +3500,7 @@
                 }
             },
             "synopsis": "Tomomi Asahina greatly admired Tsuchikado Daigo, a doctor who saved her brother's life 17 years ago, so she became a paediatrician at the Tsuchikado children's medical clinic. Unfortunately, children's medical clinics in Japan are on the verge of crisis because of a chronic shortage of doctors. Tomomi vows to fight hard for the children of the future. (Source: MU)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 5,
             "members": 75,
@@ -3185,9 +3514,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Kitahara, Masaki",
+                    "url": "https://myanimelist.net/people/23935/Masaki_Kitahara"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Aoki, Tetsuo",
+                    "url": "https://myanimelist.net/people/38279/Tetsuo_Aoki"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3210,7 +3552,7 @@
                 }
             },
             "synopsis": "After graduating middle school, Ramou Gousuke opted to travel Europe instead of continuing to high school and ended up being the guardian of a girl named Maretta.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1980-10-12T00:00:00+00:00",
             "volumes": 7,
             "members": 75,
@@ -3220,7 +3562,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3243,7 +3587,7 @@
                 }
             },
             "synopsis": "1. Kanzashi 2. Choubikei 3. Menboku 4. Kappa 5. Sobakiri 6. Ominaeshi 7. Honkai 8. Kataguruma 9. Oyakozake",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 61,
@@ -3265,7 +3609,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3288,7 +3634,7 @@
                 }
             },
             "synopsis": "Shouta, a man in his late 20s, works at a nursery school and tries his best to make the children laugh and smile. However, the children seem to have a hard time paying attention to his comedic storytelling. One night, he goes to a storytelling theater and ends up getting some useful advice from a woman who performed in the show. Afterward, he re-tells his comedic story in a way that is extremely well accepted by the laughing children and he decides that performing storytelling is what he wants to do with his life. Soon, he begins to take steps to make this dream a reality. (Source: MangaHelpers)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 18,
             "members": 57,
@@ -3298,7 +3644,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3321,7 +3669,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 56,
@@ -3342,7 +3690,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3365,7 +3715,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 2,
             "members": 54,
@@ -3379,9 +3729,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Christie, Agatha",
+                    "url": "https://myanimelist.net/people/9665/Agatha_Christie"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Hoshino, Yasushi",
+                    "url": "https://myanimelist.net/people/11245/Yasushi_Hoshino"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3404,7 +3767,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 52,
@@ -3431,7 +3794,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3454,7 +3819,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 11,
             "members": 49,
@@ -3475,7 +3840,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3498,7 +3865,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 49,
@@ -3518,9 +3885,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Nakamura, Mariko",
+                    "url": "https://myanimelist.net/people/14379/Mariko_Nakamura"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Nagasaki, Takashi",
+                    "url": "https://myanimelist.net/people/17205/Takashi_Nagasaki"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3543,7 +3923,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "One-shot",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 46,
@@ -3551,9 +3931,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Ishizuka, Shinichi",
+                    "url": "https://myanimelist.net/people/7446/Shinichi_Ishizuka"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "NUMBER 8",
+                    "url": "https://myanimelist.net/people/59150/NUMBER_8"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3576,7 +3969,7 @@
                 }
             },
             "synopsis": "The essay comedy manga centers on a fourth-grade elementary school student named Akiko Hayashi, who lives in Miyazaki in Japan's Showa era. (Source: ANN, edited)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 43,
@@ -3604,7 +3997,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3627,7 +4022,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 39,
@@ -3655,7 +4050,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3678,7 +4075,7 @@
                 }
             },
             "synopsis": "Mizcov is a 35-year-old Israeli who is a professor of Japanese literature in Tokyo. He is passionate about Japan, and is always searching for the so-called Japanese \"kokoro\" (spirit, soul), which seems to be lost but, in reality, still survives in certain places, people, and communities. (Source: MangaLand, translated)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "1995-10-12T00:00:00+00:00",
             "volumes": 5,
             "members": 39,
@@ -3694,7 +4091,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3717,7 +4116,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "One-shot",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 39,
@@ -3733,7 +4132,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3756,7 +4157,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 36,
@@ -3789,7 +4190,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3812,7 +4215,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 33,
@@ -3828,7 +4231,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3851,7 +4256,7 @@
                 }
             },
             "synopsis": "Akio has changed his job for some reason, just as he is about to leave middle age. His new job is at a small detective agency, run by his childhood friend, Hirose. Akio and Hirose are curious buddies and they heal the hearts of their clients while solving difficult requests. (Source: Shogakukan, translated)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 33,
@@ -3899,7 +4304,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3922,7 +4329,7 @@
                 }
             },
             "synopsis": "1. Futari no Ie 2. Kimi wa No.1 3. Iya na Runner 4. Mukashi no Onna 5. S ni Sasagu 6. Kin no Chikara",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 1,
             "members": 32,
@@ -3938,7 +4345,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -3961,7 +4370,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 30,
@@ -3977,7 +4386,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4000,7 +4411,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 30,
@@ -4016,7 +4427,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4039,7 +4452,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 4,
             "members": 27,
@@ -4058,9 +4471,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Miyazaki, Masaru",
+                    "url": "https://myanimelist.net/people/3027/Masaru_Miyazaki"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Hashimoto, Mitsuo",
+                    "url": "https://myanimelist.net/people/50923/Mitsuo_Hashimoto"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4083,7 +4509,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 23,
@@ -4102,9 +4528,27 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Matsuda, Yuka",
+                    "url": "https://myanimelist.net/people/12597/Yuka_Matsuda"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Nishio, Yuuta",
+                    "url": "https://myanimelist.net/people/36533/Yuuta_Nishio"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Muroi, Daisuke",
+                    "url": "https://myanimelist.net/people/39288/Daisuke_Muroi"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4127,7 +4571,7 @@
                 }
             },
             "synopsis": "An omnibus sci-fi series.",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 21,
@@ -4148,7 +4592,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4171,7 +4617,7 @@
                 }
             },
             "synopsis": "The manga tells the stories of married women who live a secret life and work as prostitutes when they are free from their families on weekday afternoons. (Source: ANN)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 21,
@@ -4193,7 +4639,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4216,7 +4664,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 20,
@@ -4232,7 +4680,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4255,7 +4705,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 2,
             "members": 19,
@@ -4269,9 +4719,22 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mochizuki, Minetarou",
+                    "url": "https://myanimelist.net/people/2287/Minetarou_Mochizuki"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Yamakawa, Naoto",
+                    "url": "https://myanimelist.net/people/10479/Naoto_Yamakawa"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4294,7 +4757,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 19,
@@ -4315,7 +4778,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4338,7 +4803,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 18,
@@ -4371,7 +4836,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4394,7 +4861,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 2,
             "members": 15,
@@ -4410,7 +4877,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4433,7 +4902,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 14,
@@ -4461,7 +4930,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4484,7 +4955,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 13,
@@ -4505,7 +4976,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4528,7 +5001,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 12,
@@ -4556,7 +5029,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4579,7 +5054,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 11,
@@ -4595,7 +5070,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4618,7 +5095,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 11,
@@ -4634,7 +5111,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4657,7 +5136,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 10,
@@ -4673,7 +5152,9 @@
             "demographics": [],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4696,7 +5177,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": null,
             "members": 10,
@@ -4722,9 +5203,22 @@
                     "url": "https://myanimelist.net/manga/genre/41/Seinen"
                 }
             ],
-            "authors": [],
+            "authors": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Nagamatsu, Kiyoshi",
+                    "url": "https://myanimelist.net/people/7155/Kiyoshi_Nagamatsu"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Takahashi, Enshuu",
+                    "url": "https://myanimelist.net/people/87255/Enshuu_Takahashi"
+                }
+            ],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         },
         {
             "@class": "Jikan\\Model\\Common\\MangaCard",
@@ -4747,7 +5241,7 @@
                 }
             },
             "synopsis": "(No synopsis yet.)",
-            "type": null,
+            "type": "Manga",
             "publishingStart": "2026-10-12T00:00:00+00:00",
             "volumes": 10,
             "members": 9,
@@ -4780,7 +5274,9 @@
             ],
             "authors": [],
             "score": null,
-            "serialization": []
+            "serialization": [
+                "Big Comic Original"
+            ]
         }
     ]
 }

@@ -63,6 +63,13 @@
                 "name": "Monster",
                 "url": "https://myanimelist.net/anime/19/Monster"
             }
+        ],
+        "Side Story": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Mou Hitotsu no Monster: The Investigative Report",
+                "url": "https://myanimelist.net/manga/10968/Mou_Hitotsu_no_Monster__The_Investigative_Report"
+            }
         ]
     },
     "genres": [

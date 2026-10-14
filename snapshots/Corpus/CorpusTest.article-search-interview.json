@@ -1,7 +1,7 @@
 {
     "@class": "Jikan\\Model\\Article\\ArticleList",
-    "hasNextPage": false,
-    "lastVisiblePage": 1,
+    "hasNextPage": true,
+    "lastVisiblePage": 3,
     "results": [
         {
             "@class": "Jikan\\Model\\Article\\ArticleListItem",

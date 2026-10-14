@@ -1,7 +1,7 @@
 {
     "@class": "Jikan\\Model\\Manga\\MangaUserUpdates",
-    "hasNextPage": false,
-    "lastVisiblePage": 1,
+    "hasNextPage": true,
+    "lastVisiblePage": 2,
     "results": [
         {
             "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",

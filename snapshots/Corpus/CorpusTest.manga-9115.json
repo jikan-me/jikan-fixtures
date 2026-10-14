@@ -106,6 +106,32 @@
                 "name": "Ookami to Koushinryou: Merchant Meets the Wise Wolf 2nd Season",
                 "url": "https://myanimelist.net/anime/59928/Ookami_to_Koushinryou__Merchant_Meets_the_Wise_Wolf_2nd_Season"
             }
+        ],
+        "Spin-Off": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi",
+                "url": "https://myanimelist.net/manga/99821/Shinsetsu_Ookami_to_Koushinryou__Ookami_to_Youhishi"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou-tei: Gourmet Tanbouki",
+                "url": "https://myanimelist.net/manga/176253/Ookami_to_Koushinryou-tei__Gourmet_Tanbouki"
+            }
+        ],
+        "Alternative Version": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou: Spring Log",
+                "url": "https://myanimelist.net/manga/176198/Ookami_to_Koushinryou__Spring_Log"
+            }
+        ],
+        "Other": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou: Dengeki Comic Anthology",
+                "url": "https://myanimelist.net/manga/108080/Ookami_to_Koushinryou__Dengeki_Comic_Anthology"
+            }
         ]
     },
     "genres": [
