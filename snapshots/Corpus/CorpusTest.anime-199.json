@@ -1,0 +1,377 @@
+{
+    "@class": "Jikan\\Model\\Anime\\Anime",
+    "malId": 199,
+    "url": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/6/79597.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.webp"
+        }
+    },
+    "trailer": {
+        "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+        "youtubeId": "ByXuk9QqQkk",
+        "url": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/ByXuk9QqQkk?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+            "imageUrl": "https://img.youtube.com/vi/ByXuk9QqQkk/default.jpg",
+            "smallImageUrl": "https://img.youtube.com/vi/ByXuk9QqQkk/sddefault.jpg",
+            "mediumImageUrl": "https://img.youtube.com/vi/ByXuk9QqQkk/mqdefault.jpg",
+            "largeImageUrl": "https://img.youtube.com/vi/ByXuk9QqQkk/hqdefault.jpg",
+            "maximumImageUrl": "https://img.youtube.com/vi/ByXuk9QqQkk/maxresdefault.jpg"
+        }
+    },
+    "title": "Sen to Chihiro no Kamikakushi",
+    "titleEnglish": "Spirited Away",
+    "titleJapanese": "千と千尋の神隠し",
+    "titleSynonyms": [
+        "Sen and Chihiro's Spiriting Away"
+    ],
+    "titles": [
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Default",
+            "title": "Sen to Chihiro no Kamikakushi"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Synonym",
+            "title": "Sen and Chihiro's Spiriting Away"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Japanese",
+            "title": "千と千尋の神隠し"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "English",
+            "title": "Spirited Away"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "German",
+            "title": "Chihiros Reise ins Zauberland"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Spanish",
+            "title": "El viaje de Chihiro"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "French",
+            "title": "Le Voyage de Chihiro"
+        }
+    ],
+    "approved": true,
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+        "@class": "Jikan\\Model\\Common\\DateRange",
+        "date": "Jul 20, 2001"
+    },
+    "duration": "2 hr 4 min",
+    "rating": "PG - Children",
+    "score": 8.77,
+    "scoredBy": 1432103,
+    "rank": 49,
+    "popularity": 45,
+    "members": 2058878,
+    "favorites": 35431,
+    "synopsis": "Stubborn, spoiled, and naïve, 10-year-old Chihiro Ogino is less than pleased when she and her parents discover an abandoned amusement park on the way to their new house. Cautiously venturing inside, she realizes that there is more to this place than meets the eye, as strange things begin to happen once dusk falls. Ghostly apparitions and food that turns her parents into pigs are just the start—Chihiro has unwittingly crossed over into the spirit world. Now trapped, she must summon the courage to live and work amongst spirits, with the help of the enigmatic Haku and the cast of unique characters she meets along the way.\n\nVivid and intriguing, Sen to Chihiro no Kamikakushi tells the story of Chihiro's journey through an unfamiliar world as she strives to save her parents and return home.\n\n[Written by MAL Rewrite]",
+    "background": "Sen to Chihiro no Kamikakushi held the record of being the highest-grossing film in Japanese history from 2001 until 2020. As of December 2020, it has amassed a total of 31.68 billion yen from Japanese box office sales and a total of $395.8 million worldwide. This critically acclaimed film has won numerous awards, including the Academy Award—more commonly known as the \"Oscar\"—for Best Animated Feature at the 75th Academy Awards in 2003 as well as the Golden Bear at the 2002 Berlin International Film Festival (alongside Bloody Sunday). It is also among the top 10 in the British Film Institute's list of the \"50 films you should see by the age of 14.\" The English version of Sen to Chihiro no Kamikakushi was dubbed by Walt Disney Pictures and premiered in 2002. The film was released on DVD and VHS formats in North America by Buena Vista Home Entertainment in 2003.",
+    "premiered": null,
+    "broadcast": null,
+    "related": [],
+    "producers": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Dentsu",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "TOHO",
+            "url": "https://myanimelist.net/anime/producer/245/TOHO"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Tokuma Shoten",
+            "url": "https://myanimelist.net/anime/producer/382/Tokuma_Shoten"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Tohokushinsha Film Corporation",
+            "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Nippon Television Network",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Mitsubishi",
+            "url": "https://myanimelist.net/anime/producer/1564/Mitsubishi"
+        }
+    ],
+    "licensors": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Disney Platform Distribution",
+            "url": "https://myanimelist.net/anime/producer/417/Disney_Platform_Distribution"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "GKIDS",
+            "url": "https://myanimelist.net/anime/producer/783/GKIDS"
+        }
+    ],
+    "studios": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ],
+    "genres": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Mythology",
+            "url": "https://myanimelist.net/anime/genre/6/Mythology"
+        }
+    ],
+    "openingThemes": [
+        "\"Day of the River/Ano hi no kawa\" by Joe Hisaishi"
+    ],
+    "endingThemes": [
+        "\"Itsumo Nando demo (Always with Me)\" by Yumi Kimura"
+    ],
+    "externalLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Official Site",
+            "url": "https://www.ghibli.jp/works/chihiro/"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "AniDB",
+            "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=112"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "ANN",
+            "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=377"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Spirited_Away"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E3%81%A8%E5%8D%83%E5%B0%8B%E3%81%AE%E7%A5%9E%E9%9A%A0%E3%81%97"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Syoboi",
+            "url": "https://cal.syoboi.jp/tid/2613"
+        }
+    ],
+    "streamingLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Netflix",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJQS1IiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjgsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6NDgyOTcsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTQ4Mjk3In19XX0&r=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F60023642&uct_country=pk"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Apple TV Store",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJBcHBsZSBUViBTdG9yZSIsIm1vbmV0aXphdGlvblR5cGUiOiJyZW50IiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJBRUQiLCJwcmljZSI6MTQuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MiwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fitunes.apple.com%2Fae%2Fmovie%2Fspirited-away%2Fid1554502225%3Fuo%3D4%26at%3D1000l3V2&uct_country=ae"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Google Play Movies",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJHb29nbGUgUGxheSBNb3ZpZXMiLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjMuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fplay.google.com%2Fstore%2Fmovies%2Fdetails%2FChihiros_Reise_ins_Zauberland%3Fgl%3DAT%26hl%3Den%26id%3DAqiQIU1QpLg.P&uct_country=at"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Catchplay",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJDYXRjaHBsYXkiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IlRXRCIsInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MTU5LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQ4Mjk3LCJvYmplY3RUeXBlIjoibW92aWUiLCJqd0VudGl0eUlkIjoidG00ODI5NyJ9fV19&r=https%3A%2F%2Fwww.catchplay.com%2Ftw%2Fvideo%2F5eafb486-a29a-45fd-b782-514b3efcd4ef&uct_country=tw"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "wavve",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJ3YXZ2ZSIsIm1vbmV0aXphdGlvblR5cGUiOiJyZW50IiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJLUlciLCJwcmljZSI6Mjc1MCwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjozNTYsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6NDgyOTcsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTQ4Mjk3In19XX0&r=https%3A%2F%2Fwww.wavve.com%2Fplayer%2Fmovie%3Fmovieid%3DMV_CR01_DN0000011309&uct_country=kr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Fandango At Home",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJGYW5kYW5nbyBBdCBIb21lIiwibW9uZXRpemF0aW9uVHlwZSI6InJlbnQiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IlVTRCIsInByaWNlIjo0Ljk5LCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjcsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6NDgyOTcsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTQ4Mjk3In19XX0&r=https%3A%2F%2Fathome.fandango.com%2Fcontent%2Fbrowse%2Fdetails%2FSpirited-Away-English-Language-%2F31778&uct_country=us"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "maxdome Store",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJtYXhkb21lIFN0b3JlIiwibW9uZXRpemF0aW9uVHlwZSI6InJlbnQiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjozLjk5LCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjIwLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQ4Mjk3LCJvYmplY3RUeXBlIjoibW92aWUiLCJqd0VudGl0eUlkIjoidG00ODI5NyJ9fV19&r=https%3A%2F%2Fstore.maxdome.at%2Fmo44904937&uct_country=at"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Rakuten TV",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJSYWt1dGVuIFRWIiwibW9uZXRpemF0aW9uVHlwZSI6InJlbnQiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjozLjk5LCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjM1LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQ4Mjk3LCJvYmplY3RUeXBlIjoibW92aWUiLCJqd0VudGl0eUlkIjoidG00ODI5NyJ9fV19&r=https%3A%2F%2Fwww.rakuten.tv%2Ffi%2Fmovies%2Fhenkien-katkema&uct_country=fi"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Sky Store",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJTa3kgU3RvcmUiLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjMuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MTMwLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQ4Mjk3LCJvYmplY3RUeXBlIjoibW92aWUiLCJqd0VudGl0eUlkIjoidG00ODI5NyJ9fV19&r=https%3A%2F%2Fstore.sky.at%2Fproduct%2Fchihiros-reise-ins-zauberland%2F1aa7252d-1dab-45f4-b6f2-f25e72b4db05&uct_country=at"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "MagentaTV",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJNYWdlbnRhIFRWIiwibW9uZXRpemF0aW9uVHlwZSI6InJlbnQiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjoyLjk4LCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjE4NTYsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6NDgyOTcsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTQ4Mjk3In19XX0&r=https%3A%2F%2Ftv.magenta.at%2Fdetails%2F2500-75723_AUSTRIA_ger&uct_country=at"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Videoload",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJWaWRlb2xvYWQiLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjIuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MTk5MywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fwww.videoload.de%2Ffilm%2Fchihiros-reise-ins-zauberland%2FGN_MV014149030000&uct_country=de"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Sooner",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJTb29uZXIiLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjMuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6Mzg5LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQ4Mjk3LCJvYmplY3RUeXBlIjoibW92aWUiLCJqd0VudGl0eUlkIjoidG00ODI5NyJ9fV19&r=https%3A%2F%2Fsooner.fr%2Ffilms%2Fle-voyage-de-chihiro&uct_country=fr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Fetch TV",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJGZXRjaCBUViIsIm1vbmV0aXphdGlvblR5cGUiOiJyZW50IiwicHJlc2VudGF0aW9uVHlwZSI6InNkIiwiY3VycmVuY3kiOiJBVUQiLCJwcmljZSI6NC45OSwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjo0MzYsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6NDgyOTcsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTQ4Mjk3In19XX0&r=https%3A%2F%2Fwww.fetchtv.com.au%2Fmovie%2Fdetails%2F2179288&uct_country=au"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Canal VOD",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJDYW5hbCBWT0QiLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjIuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6NTgsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6NDgyOTcsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTQ4Mjk3In19XX0&r=https%3A%2F%2Fwww.canalplus.com%2Fcinema%2Fle-voyage-de-chihiro%2Fh%2F4595759_40099&uct_country=fr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Freenet meinVOD",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJGcmVlbmV0IG1laW5WT0QiLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjMuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MjIwOSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Ffreenet-video.meinvod.de%2Fchihiros-reise-ins-zauberland-mo44904959&uct_country=de"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "VIVA by videofutur",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJWSVZBIGJ5IHZpZGVvZnV0dXIiLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjIuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MjI4NiwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fvod.viva.videofutur.fr%2Fle-voyage-de-chihiro%2F10616%3Futm_source%3Djustwatch&uct_country=fr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Premiere Max",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJQcmVtaWVyZSBNYXgiLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjIuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MjMwNywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fvod.premieremax.com%2Fle-voyage-de-chihiro%2F10616%3Futm_source%3Djustwatch&uct_country=fr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Orange VOD",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJPcmFuZ2UgVk9EIiwibW9uZXRpemF0aW9uVHlwZSI6InJlbnQiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjoyLjk5LCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjYxLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQ4Mjk3LCJvYmplY3RUeXBlIjoibW92aWUiLCJqd0VudGl0eUlkIjoidG00ODI5NyJ9fV19&r=https%3A%2F%2Fvideo-a-la-demande.orange.fr%2Ffilm%2FLEVOYAGEDECW0174776&uct_country=fr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Okko",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJPa2tvIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6InNkIiwiY3VycmVuY3kiOiJSVUIiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjExNSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fokko.tv%2Fmovie%2Fsen-to-chihiro-no-kamikakushi&uct_country=ru"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "MovistarTV",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJNb3Zpc3RhclRWIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJBUlMiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjMzOSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fwww.play.movistar.com.ar%2Fdetails%2Fmovie%2F15770130&uct_country=ar"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Plex",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJQbGV4IiwibW9uZXRpemF0aW9uVHlwZSI6InJlbnQiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkNBRCIsInByaWNlIjo0Ljk5LCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjUzOCwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fwatch.plex.tv%2Fmovie%2Fspirited-away%3Futm_content%3D5d7768243c3c2a001fbca858%26utm_medium%3Ddeeplink%26utm_source%3DjustWatch-v2-catalog&uct_country=ca"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "SF Anytime",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJTRiBBbnl0aW1lIiwibW9uZXRpemF0aW9uVHlwZSI6InJlbnQiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkRLSyIsInByaWNlIjo0OSwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjo0MjYsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6NDgyOTcsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTQ4Mjk3In19XX0&r=https%3A%2F%2Fwww.sfanytime.com%2Fda%2Fmovie%2Fspirited-away&uct_country=dk"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "CosmoGo",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJDb3Ntb0dvIiwibW9uZXRpemF0aW9uVHlwZSI6InJlbnQiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkNBRCIsInByaWNlIjo0Ljk5LCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjE0MCwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fwww.cosmogo.com%2F%23%21%2Fhero%2Fcp820162&uct_country=ca"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "HBO Max",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJIQk8gTWF4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJVU0QiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjE4OTksImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6NDgyOTcsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTQ4Mjk3In19XX0&r=https%3A%2F%2Fplay.hbomax.com%2Fshow%2F00ad6746-f3f0-4f6b-b8ea-0997f5880aa5&uct_country=us"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Blockbuster",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJCbG9ja2J1c3RlciIsIm1vbmV0aXphdGlvblR5cGUiOiJyZW50IiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6My45LCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjQyMywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fblockbuster.fi%2Fmovie%2Fhenkien-katkema&uct_country=fi"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "ARTE Boutique",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJBUlRFIFZPRCIsIm1vbmV0aXphdGlvblR5cGUiOiJyZW50IiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6Mi45OSwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjoyNjcxLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQ4Mjk3LCJvYmplY3RUeXBlIjoibW92aWUiLCJqd0VudGl0eUlkIjoidG00ODI5NyJ9fV19&r=https%3A%2F%2Fvod.arte.tv%2Fdetail%2Fle-voyage-de-chihiro&uct_country=fr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Cineasterna",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJDaW5lYXN0ZXJuYSIsIm1vbmV0aXphdGlvblR5cGUiOiJmcmVlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJOT0siLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjQ5NiwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Fwww.cineast.no%2Fno%2Flibrary%2F185%2Ftitle%2F4810&uct_country=no"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Kirjastokino",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJLaXJqYXN0b2tpbm8iLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjUuOTksInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6NDYzLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQ4Mjk3LCJvYmplY3RUeXBlIjoibW92aWUiLCJqd0VudGl0eUlkIjoidG00ODI5NyJ9fV19&r=https%3A%2F%2Fkotikino.fi%2Fvideo%2Fdetails%2F70283302%2F172592829&uct_country=fi"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Filmoteket",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJGaWxtb3Rla2V0IiwibW9uZXRpemF0aW9uVHlwZSI6ImZyZWUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6Ik5PSyIsInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6NTYwLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQ4Mjk3LCJvYmplY3RUeXBlIjoibW92aWUiLCJqd0VudGl0eUlkIjoidG00ODI5NyJ9fV19&r=https%3A%2F%2Ffilmoteket.no%2Ffilm%2F195237&uct_country=no"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "TriArt Play",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJUcmlBcnQgUGxheSIsIm1vbmV0aXphdGlvblR5cGUiOiJmbGF0cmF0ZSIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiU0VLIiwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjo1MTcsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6NDgyOTcsIm9iamVjdFR5cGUiOiJtb3ZpZSIsImp3RW50aXR5SWQiOiJ0bTQ4Mjk3In19XX0&r=https%3A%2F%2Ftriart.se%2Ffilm%2Fspirited-away&uct_country=se"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Filmstriben",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJGaWxtc3RyaWJlbiIsIm1vbmV0aXphdGlvblR5cGUiOiJmcmVlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJES0siLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjQ0MywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Ffjernleje.filmstriben.dk%2Ffilm%2F9000006171%2Fchihiro-og-heksene&uct_country=dk"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "",
+            "url": "https://www.justwatch.com/pk/movie/spirited-away"
+        }
+    ]
+}

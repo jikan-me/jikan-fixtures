@@ -1,0 +1,274 @@
+{
+    "@class": "Jikan\\Model\\Anime\\Anime",
+    "malId": 1,
+    "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/4/19644.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644l.webp"
+        }
+    },
+    "trailer": {
+        "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+        "youtubeId": "gY5nDXOtv_o",
+        "url": "https://www.youtube.com/watch?v=gY5nDXOtv_o",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/gY5nDXOtv_o?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+            "imageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/default.jpg",
+            "smallImageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/sddefault.jpg",
+            "mediumImageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/mqdefault.jpg",
+            "largeImageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/hqdefault.jpg",
+            "maximumImageUrl": "https://img.youtube.com/vi/gY5nDXOtv_o/maxresdefault.jpg"
+        }
+    },
+    "title": "Cowboy Bebop",
+    "titleEnglish": "Cowboy Bebop",
+    "titleJapanese": "カウボーイビバップ",
+    "titleSynonyms": [],
+    "titles": [
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Default",
+            "title": "Cowboy Bebop"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Japanese",
+            "title": "カウボーイビバップ"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "English",
+            "title": "Cowboy Bebop"
+        }
+    ],
+    "approved": true,
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+        "@class": "Jikan\\Model\\Common\\DateRange",
+        "date": "Apr 3, 1998 to Apr 24, 1999"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 8.75,
+    "scoredBy": 1078402,
+    "rank": 51,
+    "popularity": 41,
+    "members": 2091252,
+    "favorites": 91058,
+    "synopsis": "Crime is timeless. By the year 2071, humanity has expanded across the galaxy, filling the surface of other planets with settlements like those on Earth. These new societies are plagued by murder, drug use, and theft, and intergalactic outlaws are hunted by a growing number of tough bounty hunters.\n\nSpike Spiegel and Jet Black pursue criminals throughout space to make a humble living. Beneath his goofy and aloof demeanor, Spike is haunted by the weight of his violent past. Meanwhile, Jet manages his own troubled memories while taking care of Spike and the Bebop, their ship. The duo is joined by the beautiful con artist Faye Valentine, odd child Edward Wong Hau Pepelu Tivrusky IV, and Ein, a bioengineered Welsh corgi.\n\nWhile developing bonds and working to catch a colorful cast of criminals, the Bebop crew's lives are disrupted by a menace from Spike's past. As a rival's maniacal plot continues to unravel, Spike must choose between life with his newfound family or revenge for his old wounds.\n\n[Written by MAL Rewrite]",
+    "background": "When Cowboy Bebop first aired in spring of 1998 on TV Tokyo, only episodes 2-3, 7-15, and 18 were broadcast, it was concluded with a recap special known as Yose Atsume Blues. This was due to anime censorship having increased following the big controversies over Evangelion, as a result most of the series was pulled from the air due to violent content. Satellite channel WOWOW picked up the series in the fall of that year and aired it in its entirety uncensored. Cowboy Bebop was not a ratings hit in Japan, but sold over 19,000 DVD units in the initial release run, and 81,000 overall. Protagonist Spike Spiegel won Best Male Character, and Megumi Hayashibara won Best Voice Actor for her role as Faye Valentine in the 1999 and 2000 Anime Grand Prix, respectively. Cowboy Bebop's biggest influence has been in the United States, where it premiered on Adult Swim in 2001 with many reruns since. The show's heavy Western influence struck a chord with American viewers, where it became a \"gateway drug\" to anime aimed at adult audiences.",
+    "premiered": "Spring 1998",
+    "broadcast": "Saturdays at 01:00 (JST)",
+    "related": {
+        "Adaptation": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Shooting Star Bebop: Cowboy Bebop",
+                "url": "https://myanimelist.net/manga/174/Shooting_Star_Bebop__Cowboy_Bebop"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Cowboy Bebop",
+                "url": "https://myanimelist.net/manga/173/Cowboy_Bebop"
+            }
+        ],
+        "Side Story": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Cowboy Bebop: Tengoku no Tobira",
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Cowboy Bebop: Ein no Natsuyasumi",
+                "url": "https://myanimelist.net/anime/17205/Cowboy_Bebop__Ein_no_Natsuyasumi"
+            }
+        ],
+        "Summary": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Cowboy Bebop: Yose Atsume Blues",
+                "url": "https://myanimelist.net/anime/4037/Cowboy_Bebop__Yose_Atsume_Blues"
+            }
+        ]
+    },
+    "producers": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Bandai Visual",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Victor Entertainment",
+            "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Audio Planning U",
+            "url": "https://myanimelist.net/anime/producer/1506/Audio_Planning_U"
+        }
+    ],
+    "licensors": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Funimation",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "studios": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "genres": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Space",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+    ],
+    "openingThemes": [
+        "\"Tank!\" by The Seatbelts (eps 1-25)"
+    ],
+    "endingThemes": [
+        "1: \"The Real Folk Blues\" by The Seatbelts feat. Mai Yamane (eps 1-12, 14-25)",
+        "2: \"Space Lion\" by The Seatbelts (eps 13)",
+        "3: \"Blue\" by The Seatbelts feat. Mai Yamane (eps 26)"
+    ],
+    "externalLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Official Site",
+            "url": "http://www.cowboy-bebop.net/"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "AniDB",
+            "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=23"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "ANN",
+            "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Cowboy_Bebop"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A6%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%93%E3%83%90%E3%83%83%E3%83%97"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Syoboi",
+            "url": "https://cal.syoboi.jp/tid/538"
+        }
+    ],
+    "streamingLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Netflix",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJQS1IiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjgsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MzQ0MzUsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMzQ0MzUiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3M1MTkyMyJ9fV19&r=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F80001305&uct_country=pk"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Crunchyroll",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJDcnVuY2h5cm9sbCIsIm1vbmV0aXphdGlvblR5cGUiOiJmbGF0cmF0ZSIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiWENEIiwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjoyODMsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MzQ0MzUsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMzQ0MzUiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3M1MTkyMyJ9fV19&r=https%3A%2F%2Fwww.crunchyroll.com%2Fwatch%2FG14U4XX4N%2Fasteroid-blues&uct_country=ag"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Amazon Prime Video",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJtb25ldGl6YXRpb25UeXBlIjoiZnJlZSIsInByZXNlbnRhdGlvblR5cGUiOiJzZCIsImN1cnJlbmN5IjoiSlBZIiwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjo5LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM0NDM1LCJvYmplY3RUeXBlIjoic2hvdyIsImp3RW50aXR5SWQiOiJ0czM0NDM1Iiwic2Vhc29uTnVtYmVyIjoxLCJqd1Jhd0VudGl0eUlkIjoidHNzNTE5MjMifX1dfQ&r=https%3A%2F%2Fwatch.amazon.co.jp%2Fdetail%3Fgti%3Damzn1.dv.gti.36df0dcc-d84a-4a45-8a49-8a24747078c3&uct_country=jp"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "FOD",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJGT0QiLCJtb25ldGl6YXRpb25UeXBlIjoiZnJlZSIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiSlBZIiwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjoyNjgzLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM0NDM1LCJvYmplY3RUeXBlIjoic2hvdyIsImp3RW50aXR5SWQiOiJ0czM0NDM1Iiwic2Vhc29uTnVtYmVyIjoxLCJqd1Jhd0VudGl0eUlkIjoidHNzNTE5MjMifX1dfQ&r=https%3A%2F%2Ffod.fujitv.co.jp%2Ftitle%2Fc3wg%2Fc3wg110006%2F&uct_country=jp"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "U-NEXT",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJVLU5FWFQiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkpQWSIsInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6ODQsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MzQ0MzUsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMzQ0MzUiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3M1MTkyMyJ9fV19&r=https%3A%2F%2Fvideo.unext.jp%2Fepisode%2FSID0012856%2FED00058268&uct_country=jp"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Apple TV Store",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJBcHBsZSBUViBTdG9yZSIsIm1vbmV0aXphdGlvblR5cGUiOiJidXkiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkFVRCIsInByaWNlIjozOS45OSwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjoyLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM0NDM1LCJvYmplY3RUeXBlIjoic2hvdyIsImp3RW50aXR5SWQiOiJ0czM0NDM1Iiwic2Vhc29uTnVtYmVyIjoxLCJqd1Jhd0VudGl0eUlkIjoidHNzNTE5MjMifX1dfQ&r=https%3A%2F%2Ftv.apple.com%2Fau%2Fshow%2Fcowboy-bebop%2Fumc.cmc.p83rtqx9v5ptlevdexc1v6b4%3Fat%3D1000l3V2%26ct%3Dapp_tv%26itscg%3D30200%26itsct%3Djustwatch_tv&uct_country=au"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Google Play Movies",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJHb29nbGUgUGxheSBNb3ZpZXMiLCJtb25ldGl6YXRpb25UeXBlIjoiYnV5IiwicHJlc2VudGF0aW9uVHlwZSI6InNkIiwiY3VycmVuY3kiOiJKUFkiLCJwcmljZSI6MTkzMCwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjozLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM0NDM1LCJvYmplY3RUeXBlIjoic2hvdyIsImp3RW50aXR5SWQiOiJ0czM0NDM1Iiwic2Vhc29uTnVtYmVyIjoxLCJqd1Jhd0VudGl0eUlkIjoidHNzNTE5MjMifX1dfQ&r=https%3A%2F%2Fplay.google.com%2Fstore%2Ftv%2Fshow%3Fcdid%3Dtvseason-8Fth-MLgnZM%26gl%3DJP%26hl%3Den%26id%3DpKBHlVIOlTc&uct_country=jp"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Watcha",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJXYXRjaGEiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IktSVyIsInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6OTcsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MzQ0MzUsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMzQ0MzUiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3M1MTkyMyJ9fV19&r=https%3A%2F%2Fwatcha.com%2Fcontents%2FtR5VopP&uct_country=kr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Fandango At Home",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJGYW5kYW5nbyBBdCBIb21lIiwibW9uZXRpemF0aW9uVHlwZSI6ImJ1eSIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiVVNEIiwicHJpY2UiOjUzLjk5LCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjcsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MzQ0MzUsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMzQ0MzUiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3M1MTkyMyJ9fV19&r=https%3A%2F%2Fathome.fandango.com%2Fcontent%2Fbrowse%2Fdetails%2FCowboy-Bebop-The-Complete-Series%2F589663&uct_country=us"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Tubi TV",
+            "url": "https://tubitv.com/series/2052/cowboy-bebop-subtitled"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Neon TV",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJOZW9uIFRWIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJOWkQiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjI3MywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjozNDQzNSwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzNDQzNSIsInNlYXNvbk51bWJlciI6MSwiandSYXdFbnRpdHlJZCI6InRzczUxOTIzIn19XX0&r=https%3A%2F%2Fwww.neontv.co.nz%2Fseries%2Fcowboy-bebop&uct_country=nz"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "",
+            "url": "https://www.justwatch.com/pk/tv-show/cowboy-bebop-1998/season-1"
+        }
+    ]
+}

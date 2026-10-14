@@ -1,0 +1,388 @@
+{
+    "@class": "Jikan\\Model\\Article\\ArticleList",
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2419,
+            "url": "https://myanimelist.net/featured/2419/Your_ultimate_guide_to_all_things_ramen_and_how_you_can_get_it",
+            "title": "Your ultimate guide to all things ramen and how you can get it!",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1784706719-60538912f1a4512e5735b15a60de70f7.jpeg"
+                }
+            },
+            "views": 5657,
+            "excerpt": "Think ramen is just noodles and broth? From tonkotsu and miso to regional specialties and anime-inspired food culture, discover what makes Japan's most iconic comfort food so beloved and how to bring authentic ramen experiences home.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2417,
+            "url": "https://myanimelist.net/featured/2417/BanG_Dream_YUME%E2%88%9EMITA__First_Impressions_Episodes_1%E2%80%933",
+            "title": "BanG Dream! YUME∞MITA: First Impressions (Episodes 1–3)",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1783067463-69ae65d0884bccd761a9393b52cb57fa.jpeg"
+                }
+            },
+            "views": 8310,
+            "excerpt": "BanG Dream! YUME∞MITA is the latest entry in the BanG Dream! franchise, bringing a fresh take with virtual performance culture, a memorable new cast, heartfelt drama, and energetic comedy. Here's a spoiler-light review of Episodes 1–3.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2416,
+            "url": "https://myanimelist.net/featured/2416/Vote_for_the_Next_Rom-Com___Psychological_Horror_on_NOVELOUS",
+            "title": "Vote for the Next Rom-Com & Psychological Horror on NOVELOUS",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1782452535-db9eb1efe0aef040eb0f118c775a5dc9.jpeg"
+                }
+            },
+            "views": 61483,
+            "excerpt": "Here are the 10 finalists from the MAL × Honeyfeed Writing Contest 2026! Your vote will help decide which web novels will become the next big winners—so check them out and cast your vote!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2414,
+            "url": "https://myanimelist.net/featured/2414/Why_Japan-only_items_rarely_reach_global_stores",
+            "title": "Why Japan-only items rarely reach global stores",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1778729749-fbc18899896f7e697aaf0db4937c07f5.jpeg"
+                }
+            },
+            "views": 9499,
+            "excerpt": "Japan produces some of the most sought-after anime merchandise, but much of it never makes it overseas. From limited releases to shipping restrictions, here's why these items stay locked in Japan and how fans can still access them.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2413,
+            "url": "https://myanimelist.net/featured/2413/Why_used_goods_in_Japan_are_almost_always_perfect",
+            "title": "Why used goods in Japan are almost always perfect",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1774930734-100dfe728320cd5064883bdf4d9af679.jpeg"
+                }
+            },
+            "views": 12622,
+            "excerpt": "Japan has an incredible range of affordable secondhand goods, but what surprises most people is how pristine they are. From luxury items to anime figures, Japan’s resale market is known for its quality, trust, and consistency. Here’s why.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2412,
+            "url": "https://myanimelist.net/featured/2412/Cast_your_vote_in_the_Twilight_Frontiers_Writing_Contest_%F0%9F%90%9D",
+            "title": "Cast your vote in the \"Twilight Frontiers\" Writing Contest! 🐝",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1773906534-b3565dc5b6049017ac31a441e675ac9b.jpeg"
+                }
+            },
+            "views": 28721,
+            "excerpt": "The \"MAL × Honeyfeed Writing Contest 2026 – Twilight Frontiers\", presented by Frontier Works, has reached its final stage, and the top 10 stories have been selected. Your vote helps decide which 3 authors win $3,000. Vote now!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2411,
+            "url": "https://myanimelist.net/featured/2411/Most_anime_fans_buy_merch_the_wrong_way",
+            "title": "Most anime fans buy merch the wrong way",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1771377632-b564ef5f0a06d39cd14c67f2156b0127.jpeg"
+                }
+            },
+            "views": 12039,
+            "excerpt": "Buying anime merch from Japan can feel overwhelming. From limited-edition figures to Japan-exclusive releases, it’s easy to overspend or accidentally purchase counterfeits. In this guide, we explore common collecting pitfalls and how to avoid them so you can shop with more confidence.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2410,
+            "url": "https://myanimelist.net/featured/2410/What_Isekai_Fantasy_story_do_you_think_should_be_adapted_by_KADOKAWA",
+            "title": "What Isekai Fantasy story do you think should be adapted by KADOKAWA?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1763098837-9567d3e6795234db0c62bcfa53a62caf.jpeg"
+                }
+            },
+            "views": 54786,
+            "excerpt": "Here are the 10 finalists from the second MAL × Honeyfeed Writing Contest of 2025! Your vote will help decide which web novels will become the next big Isekai hit. Check them out and cast your vote!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2409,
+            "url": "https://myanimelist.net/featured/2409/Interview__Kyoto_Animations_New_TV_Anime_Sparks_of_Tomorrow",
+            "title": "Interview: Kyoto Animation's New TV Anime, Sparks of Tomorrow",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1760518915-1b527a47831b7de3747eb3b8c4e84f17.jpeg"
+                }
+            },
+            "views": 43346,
+            "excerpt": "In our exclusive interview with Director Minoru Ota, we go behind the scenes to explore how Kyoto Animation is bringing to life a story that intertwines invention, emotion, and the pursuit of connection in a rapidly changing era.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2408,
+            "url": "https://myanimelist.net/featured/2408/A_Stage_of_Surprises__J-POP_SOUND_CAPSULE__Anime_Expo_2025",
+            "title": "A Stage of Surprises: J-POP SOUND CAPSULE @ Anime Expo 2025",
+            "authorUsername": "firefractal",
+            "authorUrl": "https://myanimelist.net/profile/firefractal",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1758167396-245bd0a2dd244258f3b8c11a717c845d.jpeg"
+                }
+            },
+            "views": 23489,
+            "excerpt": "The J-POP SOUND CAPSULE music festival brought the spirit of the Anisong World Matsuri back to the States with six amazing acts at Anime Expo 2025. Featuring GRANRODEO, FLOW, TOGENASHI TOGEARI, Hiroshi Kitadani, Sakurazaka46, and ASTERISM, this event was a night to remember!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2407,
+            "url": "https://myanimelist.net/featured/2407/Become_a_Kaiju-Slaying_Hero_in_KAIJU_NO_8_THE_GAME",
+            "title": "Become a Kaiju-Slaying Hero in KAIJU NO. 8 THE GAME",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1756434162-3f84ae996f4969f58ddb5dad4e8449fc.jpeg"
+                }
+            },
+            "views": 34057,
+            "excerpt": "Crush colossal Kaiju with a game-changing blow in this Kaiju-Slaying Battle RPG! Relive the hit anime KAIJU NO.8 and experience the characters like new with the original story mode. Free-to-start and available now on multiple platforms.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2406,
+            "url": "https://myanimelist.net/featured/2406/Hypnosis_Mic___Uta%E2%98%86Pri_Movie_Anime_Expo_2025_Screening_Report",
+            "title": "Hypnosis Mic & Uta☆Pri Movie Anime Expo 2025 Screening Report",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1755084862-48828a90e96de3e2a75a5e4bd28ffa50.jpeg"
+                }
+            },
+            "views": 43787,
+            "excerpt": "At Anime Expo 2025, King Records presented “HYPNOSISMIC -Division Rap Battle-” and “Uta no☆Prince-sama♪ TABOO NIGHT XXXX.” HypMic’s interactive voting saw DOTSUITARE-HOMPO win, while Uta☆Pri’s QUARTET NIGHT live-style show captured Japanese concert energy, with fans’ passion rivaling Japan’s.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2404,
+            "url": "https://myanimelist.net/featured/2404/Mobile_Suit_Gundam_GQuuuuuuX_Takes_Center_Stage_at_Anime_Expo",
+            "title": "Mobile Suit Gundam GQuuuuuuX Takes Center Stage at Anime Expo!",
+            "authorUsername": "Timcampy",
+            "authorUrl": "https://myanimelist.net/profile/Timcampy",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1752198651-05c15fec70c9190c99a870e06284205e.jpeg"
+                }
+            },
+            "views": 30260,
+            "excerpt": "Mobile Suit Gundam GQuuuuuuX ignited the stage at Anime Expo 2025 with an electrifying showcase that drew thousands of passionate fans to the Peacock Theater.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "events",
+                    "name": "Events",
+                    "url": "https://myanimelist.net/featured/tag/events"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2402,
+            "url": "https://myanimelist.net/featured/2402/%F0%9F%94%A5_Stream_Legendary_Anime_for_Free_%E2%80%94_No_Subscriptions_No_Strings",
+            "title": "🔥 Stream Legendary Anime for Free — No Subscriptions, No Strings",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1755063891-de71fa279b27bd7583c25fdbcb3ddbf3.jpeg"
+                }
+            },
+            "views": 17516,
+            "excerpt": "Dive into BLEACH, NARUTO, and Hunter x Hunter movie sagas, now streaming 24/7 across the U.S. and Canada.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2401,
+            "url": "https://myanimelist.net/featured/2401/Which_Tale_of_Love_or_Doom_Belongs_on_NOVELOUS",
+            "title": "Which Tale of Love or Doom Belongs on NOVELOUS?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1750398653-88c871cc27a16af301d42a19aaf50b84.jpeg"
+                }
+            },
+            "views": 26750,
+            "excerpt": "Here are the 10 finalists from the MAL × Honeyfeed Writing Contest 2025! Your vote will help decide which web novels will become the next big winners—so check them out and cast your vote!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2400,
+            "url": "https://myanimelist.net/featured/2400/Love_Fire_Force_Here_Are_5_Manga_You_Should_Read_Next_on_emaqi",
+            "title": "Love Fire Force? Here Are 5 Manga You Should Read Next on emaqi",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1748325217-0e0a58de13c50abcfd6fccf4291f596f.jpeg"
+                }
+            },
+            "views": 31167,
+            "excerpt": "From Gachiakuta to Noragami, discover your next favorite series on emaqi.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2399,
+            "url": "https://myanimelist.net/featured/2399/Which_Futuristic_High-Tech_World_Should_Be_Adapted_by_WIT_Studio",
+            "title": "Which Futuristic High-Tech World Should Be Adapted by WIT Studio?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1739950224-c64b1718b61db3f85f18c17f9c934dd7.jpeg"
+                }
+            },
+            "views": 41319,
+            "excerpt": "Here are the 10 finalists from the MAL x Honeyfeed Writing Contest 2024! Try them out and let us know which web novels you want to see brought to life as published light novel or manga.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2398,
+            "url": "https://myanimelist.net/featured/2398/Behind_the_Masks__Unveiling_the_mystery_gothic_anime_Ave_Mujica",
+            "title": "Behind the Masks: Unveiling the mystery gothic anime Ave Mujica",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1734918805-7d43d1c96aa13b0f26d4da1523d973d2.jpeg"
+                }
+            },
+            "views": 51250,
+            "excerpt": "Ave Mujica - The Die is Cast - Exclusive interview with Director Kodai Kakimoto and Band Producer Hiroki Matsumoto. Explore the symphonic metal band’s gothic beauty, psychological drama, and haunting themes. Step into a dark, exquisite world of duality and tragedy in this gripping series.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2396,
+            "url": "https://myanimelist.net/featured/2396/Event_Report_for_Kinnikuman_-Perfect_Origin_Arc-_at_Anime_Expo",
+            "title": "Event Report for \"Kinnikuman -Perfect Origin Arc-\" at Anime Expo",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1725136497-0fe4253bb9d18b902606fba8a5b681d2.jpeg"
+                }
+            },
+            "views": 68835,
+            "excerpt": "Kinnikuman panels and booths were a big hit!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "events",
+                    "name": "Events",
+                    "url": "https://myanimelist.net/featured/tag/events"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2395,
+            "url": "https://myanimelist.net/featured/2395/Blue_Lock_Takes_Over_Anime_Expo",
+            "title": "Blue Lock Takes Over Anime Expo!",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1725144108-e19af89ac5bbe2f4682acd22ac5b511c.jpeg"
+                }
+            },
+            "views": 97702,
+            "excerpt": "Themed Booth and \"Meet the EGOISTS at AX!\" Panel Excite Fans for 2nd Season",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "events",
+                    "name": "Events",
+                    "url": "https://myanimelist.net/featured/tag/events"
+                }
+            ]
+        }
+    ]
+}

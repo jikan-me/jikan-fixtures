@@ -14,11 +14,11 @@
             "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7168664d-c9f3-4e6c-9936-bf7b3cb25e6b_225w?s=6a5507ec62b4f11918233a31f37a0490"
         }
     },
-    "lastOnline": "<date>",
+    "lastOnline": "2026-10-11T21:25:00+00:00",
     "gender": "Male",
     "birthday": null,
     "location": "The wired",
-    "joined": "<date>",
+    "joined": "2014-02-26T00:00:00+00:00",
     "animeStats": {
         "@class": "Jikan\\Model\\User\\AnimeStats",
         "daysWatched": 226.9,
@@ -568,7 +568,7 @@
                 "status": "Watching -",
                 "episodesSeen": null,
                 "episodesTotal": null,
-                "date": "<date>"
+                "date": "2026-01-01T16:57:00+00:00"
             },
             {
                 "@class": "Jikan\\Model\\User\\LastAnimeUpdate",
@@ -597,7 +597,7 @@
                 "status": "Plan to Watch",
                 "episodesSeen": null,
                 "episodesTotal": null,
-                "date": "<date>"
+                "date": "2025-12-30T15:48:00+00:00"
             },
             {
                 "@class": "Jikan\\Model\\User\\LastAnimeUpdate",
@@ -626,7 +626,7 @@
                 "status": "Completed",
                 "episodesSeen": 12,
                 "episodesTotal": 12,
-                "date": "<date>"
+                "date": "2025-12-23T08:28:00+00:00"
             }
         ],
         "manga": [
@@ -657,7 +657,7 @@
                 "status": "Plan to Read",
                 "chaptersRead": null,
                 "chaptersTotal": null,
-                "date": "<date>"
+                "date": "2023-01-29T13:43:00+00:00"
             },
             {
                 "@class": "Jikan\\Model\\User\\LastMangaUpdate",
@@ -686,7 +686,7 @@
                 "status": "Plan to Read",
                 "chaptersRead": null,
                 "chaptersTotal": null,
-                "date": "<date>"
+                "date": "2019-09-30T07:45:00+00:00"
             },
             {
                 "@class": "Jikan\\Model\\User\\LastMangaUpdate",
@@ -715,7 +715,7 @@
                 "status": "On-Hold -",
                 "chaptersRead": null,
                 "chaptersTotal": null,
-                "date": "<date>"
+                "date": "2017-10-02T09:36:00+00:00"
             }
         ]
     },
@@ -746,5 +746,5 @@
             "url": "https://myanimelist.net/rss.php?type=blog&u=sandshark"
         }
     ],
-    "about": ""
+    "about": null
 }

@@ -1,0 +1,1407 @@
+{
+    "@class": "Jikan\\Model\\Top\\TopManga",
+    "hasNextPage": true,
+    "lastVisiblePage": 2,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 2,
+            "rank": 1,
+            "title": "Berserk",
+            "url": "https://myanimelist.net/manga/2/Berserk",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/157897.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897t.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897l.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/157897.webp?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897t.webp?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897l.webp?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3"
+                }
+            },
+            "type": "Manga",
+            "volumes": null,
+            "startDate": "Aug 1989",
+            "endDate": null,
+            "members": 811903,
+            "score": 9.46
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 1706,
+            "rank": 2,
+            "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+            "url": "https://myanimelist.net/manga/1706/JoJo_no_Kimyou_na_Bouken_Part_7__Steel_Ball_Run",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/179882.jpg?s=dac8109140406ca296cf4946296b5037",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/179882t.jpg?s=dac8109140406ca296cf4946296b5037",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/179882l.jpg?s=dac8109140406ca296cf4946296b5037"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/179882.webp?s=dac8109140406ca296cf4946296b5037",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/179882t.webp?s=dac8109140406ca296cf4946296b5037",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/179882l.webp?s=dac8109140406ca296cf4946296b5037"
+                }
+            },
+            "type": "Manga",
+            "volumes": 24,
+            "startDate": "Jan 2004",
+            "endDate": "Apr 2011",
+            "members": 333044,
+            "score": 9.34
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 656,
+            "rank": 3,
+            "title": "Vagabond",
+            "url": "https://myanimelist.net/manga/656/Vagabond",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/259070.jpg?s=44d04f9e5ce80fa5af1bd6dc74241e81",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/259070t.jpg?s=44d04f9e5ce80fa5af1bd6dc74241e81",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/259070l.jpg?s=44d04f9e5ce80fa5af1bd6dc74241e81"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/259070.webp?s=44d04f9e5ce80fa5af1bd6dc74241e81",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/259070t.webp?s=44d04f9e5ce80fa5af1bd6dc74241e81",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/259070l.webp?s=44d04f9e5ce80fa5af1bd6dc74241e81"
+                }
+            },
+            "type": "Manga",
+            "volumes": 37,
+            "startDate": "Sep 1998",
+            "endDate": "May 2015",
+            "members": 469426,
+            "score": 9.27
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 13,
+            "rank": 4,
+            "title": "One Piece",
+            "url": "https://myanimelist.net/manga/13/One_Piece",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/253146.jpg?s=e5286481ed2b4c11ab39d1420110dc43",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/253146t.jpg?s=e5286481ed2b4c11ab39d1420110dc43",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/253146l.jpg?s=e5286481ed2b4c11ab39d1420110dc43"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/253146.webp?s=e5286481ed2b4c11ab39d1420110dc43",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/253146t.webp?s=e5286481ed2b4c11ab39d1420110dc43",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/253146l.webp?s=e5286481ed2b4c11ab39d1420110dc43"
+                }
+            },
+            "type": "Manga",
+            "volumes": null,
+            "startDate": "Jul 1997",
+            "endDate": null,
+            "members": 709220,
+            "score": 9.21
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 162032,
+            "rank": 5,
+            "title": "Guimi Zhi Zhu",
+            "url": "https://myanimelist.net/manga/162032/Guimi_Zhi_Zhu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/287344.jpg?s=f45c8825c49ab18ecb5d2afe93067886",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/287344t.jpg?s=f45c8825c49ab18ecb5d2afe93067886",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/287344l.jpg?s=f45c8825c49ab18ecb5d2afe93067886"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/287344.webp?s=f45c8825c49ab18ecb5d2afe93067886",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/287344t.webp?s=f45c8825c49ab18ecb5d2afe93067886",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/287344l.webp?s=f45c8825c49ab18ecb5d2afe93067886"
+                }
+            },
+            "type": "Novel",
+            "volumes": 18,
+            "startDate": "May 2020",
+            "endDate": "Aug 2023",
+            "members": 26825,
+            "score": 9.2
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 1,
+            "rank": 6,
+            "title": "Monster",
+            "url": "https://myanimelist.net/manga/1/Monster",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258224.jpg?s=f65b4f0f7c01818fedf3987591ab7ce2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258224t.jpg?s=f65b4f0f7c01818fedf3987591ab7ce2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258224l.jpg?s=f65b4f0f7c01818fedf3987591ab7ce2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258224.webp?s=f65b4f0f7c01818fedf3987591ab7ce2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258224t.webp?s=f65b4f0f7c01818fedf3987591ab7ce2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258224l.webp?s=f65b4f0f7c01818fedf3987591ab7ce2"
+                }
+            },
+            "type": "Manga",
+            "volumes": 18,
+            "startDate": "Dec 1994",
+            "endDate": "Dec 2001",
+            "members": 296159,
+            "score": 9.16
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 147272,
+            "rank": 7,
+            "title": "The Greatest Estate Developer",
+            "url": "https://myanimelist.net/manga/147272/The_Greatest_Estate_Developer",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/290131.jpg?s=d14feac4c0311f7f8469cab6fe5af3c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/290131t.jpg?s=d14feac4c0311f7f8469cab6fe5af3c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/290131l.jpg?s=d14feac4c0311f7f8469cab6fe5af3c6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/290131.webp?s=d14feac4c0311f7f8469cab6fe5af3c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/290131t.webp?s=d14feac4c0311f7f8469cab6fe5af3c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/290131l.webp?s=d14feac4c0311f7f8469cab6fe5af3c6"
+                }
+            },
+            "type": "Manhwa",
+            "volumes": null,
+            "startDate": "Jul 2021",
+            "endDate": "Jan 2026",
+            "members": 97504,
+            "score": 9.11
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 51,
+            "rank": 8,
+            "title": "Slam Dunk",
+            "url": "https://myanimelist.net/manga/51/Slam_Dunk",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/258749.jpg?s=fad0d2cae56806beefaca50b445fa0dd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/258749t.jpg?s=fad0d2cae56806beefaca50b445fa0dd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/258749l.jpg?s=fad0d2cae56806beefaca50b445fa0dd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/258749.webp?s=fad0d2cae56806beefaca50b445fa0dd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/258749t.webp?s=fad0d2cae56806beefaca50b445fa0dd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/258749l.webp?s=fad0d2cae56806beefaca50b445fa0dd"
+                }
+            },
+            "type": "Manga",
+            "volumes": 31,
+            "startDate": "Sep 1990",
+            "endDate": "Jun 1996",
+            "members": 204342,
+            "score": 9.09
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 642,
+            "rank": 9,
+            "title": "Vinland Saga",
+            "url": "https://myanimelist.net/manga/642/Vinland_Saga",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/188925.jpg?s=18b1d30b74bf96b476068901f579e408",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/188925t.jpg?s=18b1d30b74bf96b476068901f579e408",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/188925l.jpg?s=18b1d30b74bf96b476068901f579e408"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/188925.webp?s=18b1d30b74bf96b476068901f579e408",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/188925t.webp?s=18b1d30b74bf96b476068901f579e408",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/188925l.webp?s=18b1d30b74bf96b476068901f579e408"
+                }
+            },
+            "type": "Manga",
+            "volumes": 29,
+            "startDate": "Apr 2005",
+            "endDate": "Jul 2025",
+            "members": 369076,
+            "score": 9.09
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 25,
+            "rank": 10,
+            "title": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/243675.jpg?s=8cb0a643f8a7597514447f2dd0e4ffc2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/243675t.jpg?s=8cb0a643f8a7597514447f2dd0e4ffc2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/243675l.jpg?s=8cb0a643f8a7597514447f2dd0e4ffc2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/243675.webp?s=8cb0a643f8a7597514447f2dd0e4ffc2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/243675t.webp?s=8cb0a643f8a7597514447f2dd0e4ffc2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/243675l.webp?s=8cb0a643f8a7597514447f2dd0e4ffc2"
+                }
+            },
+            "type": "Manga",
+            "volumes": 27,
+            "startDate": "Jul 2001",
+            "endDate": "Sep 2010",
+            "members": 327977,
+            "score": 9.05
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 70345,
+            "rank": 11,
+            "title": "Grand Blue",
+            "url": "https://myanimelist.net/manga/70345/Grand_Blue",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/166124.jpg?s=3a3e1279dd192ea90a32ff6bdfdbe4dc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/166124t.jpg?s=3a3e1279dd192ea90a32ff6bdfdbe4dc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/166124l.jpg?s=3a3e1279dd192ea90a32ff6bdfdbe4dc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/166124.webp?s=3a3e1279dd192ea90a32ff6bdfdbe4dc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/166124t.webp?s=3a3e1279dd192ea90a32ff6bdfdbe4dc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/166124l.webp?s=3a3e1279dd192ea90a32ff6bdfdbe4dc"
+                }
+            },
+            "type": "Manga",
+            "volumes": null,
+            "startDate": "Apr 2014",
+            "endDate": null,
+            "members": 206015,
+            "score": 9.05
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 143441,
+            "rank": 12,
+            "title": "Omniscient Reader's Viewpoint",
+            "url": "https://myanimelist.net/manga/143441/Omniscient_Readers_Viewpoint",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/265768.jpg?s=15dc7827b6b809cdca27f104ad5a2b67",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/265768t.jpg?s=15dc7827b6b809cdca27f104ad5a2b67",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/265768l.jpg?s=15dc7827b6b809cdca27f104ad5a2b67"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/265768.webp?s=15dc7827b6b809cdca27f104ad5a2b67",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/265768t.webp?s=15dc7827b6b809cdca27f104ad5a2b67",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/265768l.webp?s=15dc7827b6b809cdca27f104ad5a2b67"
+                }
+            },
+            "type": "Novel",
+            "volumes": 20,
+            "startDate": "Jan 2022",
+            "endDate": "Sep 2023",
+            "members": 37789,
+            "score": 9.04
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 130826,
+            "rank": 13,
+            "title": "Tian Guan Cifu",
+            "url": "https://myanimelist.net/manga/130826/Tian_Guan_Cifu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258775.jpg?s=e4af1f1e58eb9b5dc27eeba08f5c47ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258775t.jpg?s=e4af1f1e58eb9b5dc27eeba08f5c47ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258775l.jpg?s=e4af1f1e58eb9b5dc27eeba08f5c47ec"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258775.webp?s=e4af1f1e58eb9b5dc27eeba08f5c47ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258775t.webp?s=e4af1f1e58eb9b5dc27eeba08f5c47ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258775l.webp?s=e4af1f1e58eb9b5dc27eeba08f5c47ec"
+                }
+            },
+            "type": "Novel",
+            "volumes": 6,
+            "startDate": "Feb 2021",
+            "endDate": "Mar 2022",
+            "members": 23434,
+            "score": 9.02
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 16765,
+            "rank": 14,
+            "title": "Kingdom",
+            "url": "https://myanimelist.net/manga/16765/Kingdom",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/171872.jpg?s=21a45c6d977c58c19e3075b015c4ee39",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/171872t.jpg?s=21a45c6d977c58c19e3075b015c4ee39",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/171872l.jpg?s=21a45c6d977c58c19e3075b015c4ee39"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/171872.webp?s=21a45c6d977c58c19e3075b015c4ee39",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/171872t.webp?s=21a45c6d977c58c19e3075b015c4ee39",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/171872l.webp?s=21a45c6d977c58c19e3075b015c4ee39"
+                }
+            },
+            "type": "Manga",
+            "volumes": null,
+            "startDate": "Jan 2006",
+            "endDate": null,
+            "members": 206241,
+            "score": 9.02
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 44489,
+            "rank": 15,
+            "title": "Houseki no Kuni",
+            "url": "https://myanimelist.net/manga/44489/Houseki_no_Kuni",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/115443.jpg?s=9795cb8739785d402a60e5aade4ddf3b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/115443t.jpg?s=9795cb8739785d402a60e5aade4ddf3b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/115443l.jpg?s=9795cb8739785d402a60e5aade4ddf3b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/115443.webp?s=9795cb8739785d402a60e5aade4ddf3b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/115443t.webp?s=9795cb8739785d402a60e5aade4ddf3b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/115443l.webp?s=9795cb8739785d402a60e5aade4ddf3b"
+                }
+            },
+            "type": "Manga",
+            "volumes": 13,
+            "startDate": "Oct 2012",
+            "endDate": "Apr 2024",
+            "members": 180380,
+            "score": 9.0
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 657,
+            "rank": 16,
+            "title": "Real",
+            "url": "https://myanimelist.net/manga/657/Real",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/115969.jpg?s=5a4f02899c76aa4e575a7e877b20b4d8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/115969t.jpg?s=5a4f02899c76aa4e575a7e877b20b4d8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/115969l.jpg?s=5a4f02899c76aa4e575a7e877b20b4d8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/115969.webp?s=5a4f02899c76aa4e575a7e877b20b4d8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/115969t.webp?s=5a4f02899c76aa4e575a7e877b20b4d8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/115969l.webp?s=5a4f02899c76aa4e575a7e877b20b4d8"
+                }
+            },
+            "type": "Manga",
+            "volumes": null,
+            "startDate": "Oct 1999",
+            "endDate": null,
+            "members": 114478,
+            "score": 8.98
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 133431,
+            "rank": 17,
+            "title": "Uma Musume Cinderella Gray",
+            "url": "https://myanimelist.net/manga/133431/Uma_Musume_Cinderella_Gray",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/240780.jpg?s=6785975e04c582cbd9ed817786c0759e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/240780t.jpg?s=6785975e04c582cbd9ed817786c0759e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/240780l.jpg?s=6785975e04c582cbd9ed817786c0759e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/240780.webp?s=6785975e04c582cbd9ed817786c0759e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/240780t.webp?s=6785975e04c582cbd9ed817786c0759e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/240780l.webp?s=6785975e04c582cbd9ed817786c0759e"
+                }
+            },
+            "type": "Manga",
+            "volumes": 23,
+            "startDate": "Jun 2020",
+            "endDate": "Dec 2025",
+            "members": 12787,
+            "score": 8.98
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 4632,
+            "rank": 18,
+            "title": "Oyasumi Punpun",
+            "url": "https://myanimelist.net/manga/4632/Oyasumi_Punpun",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/266834.jpg?s=0e22ce75cad9b1b0d7c61f16d4d8fbe2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/266834t.jpg?s=0e22ce75cad9b1b0d7c61f16d4d8fbe2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/266834l.jpg?s=0e22ce75cad9b1b0d7c61f16d4d8fbe2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/266834.webp?s=0e22ce75cad9b1b0d7c61f16d4d8fbe2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/266834t.webp?s=0e22ce75cad9b1b0d7c61f16d4d8fbe2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/266834l.webp?s=0e22ce75cad9b1b0d7c61f16d4d8fbe2"
+                }
+            },
+            "type": "Manga",
+            "volumes": 13,
+            "startDate": "Mar 2007",
+            "endDate": "Nov 2013",
+            "members": 530890,
+            "score": 8.97
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 34053,
+            "rank": 19,
+            "title": "Umineko no Naku Koro ni Chiru - Episode 8: Twilight of the Golden Witch",
+            "url": "https://myanimelist.net/manga/34053/Umineko_no_Naku_Koro_ni_Chiru_-_Episode_8__Twilight_of_the_Golden_Witch",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/206205.jpg?s=96c2a8b6097d3d142c66342609fe919c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/206205t.jpg?s=96c2a8b6097d3d142c66342609fe919c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/206205l.jpg?s=96c2a8b6097d3d142c66342609fe919c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/206205.webp?s=96c2a8b6097d3d142c66342609fe919c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/206205t.webp?s=96c2a8b6097d3d142c66342609fe919c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/206205l.webp?s=96c2a8b6097d3d142c66342609fe919c"
+                }
+            },
+            "type": "Manga",
+            "volumes": 9,
+            "startDate": "Jan 2012",
+            "endDate": "Jun 2015",
+            "members": 24944,
+            "score": 8.97
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 1303,
+            "rank": 20,
+            "title": "Ashita no Joe",
+            "url": "https://myanimelist.net/manga/1303/Ashita_no_Joe",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/268827.jpg?s=55e8f76b4a90a8b7d167fa1b9df3d0da",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/268827t.jpg?s=55e8f76b4a90a8b7d167fa1b9df3d0da",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/268827l.jpg?s=55e8f76b4a90a8b7d167fa1b9df3d0da"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/268827.webp?s=55e8f76b4a90a8b7d167fa1b9df3d0da",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/268827t.webp?s=55e8f76b4a90a8b7d167fa1b9df3d0da",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/268827l.webp?s=55e8f76b4a90a8b7d167fa1b9df3d0da"
+                }
+            },
+            "type": "Manga",
+            "volumes": 20,
+            "startDate": "Jan 1968",
+            "endDate": "May 1973",
+            "members": 67265,
+            "score": 8.95
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 3,
+            "rank": 21,
+            "title": "20th Century Boys",
+            "url": "https://myanimelist.net/manga/3/20th_Century_Boys",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/260006.jpg?s=b437a7b1e1f15ff9a5759121351e47d5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/260006t.jpg?s=b437a7b1e1f15ff9a5759121351e47d5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/260006l.jpg?s=b437a7b1e1f15ff9a5759121351e47d5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/260006.webp?s=b437a7b1e1f15ff9a5759121351e47d5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/260006t.webp?s=b437a7b1e1f15ff9a5759121351e47d5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/260006l.webp?s=b437a7b1e1f15ff9a5759121351e47d5"
+                }
+            },
+            "type": "Manga",
+            "volumes": 22,
+            "startDate": "Sep 1999",
+            "endDate": "Apr 2006",
+            "members": 318745,
+            "score": 8.93
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 23751,
+            "rank": 22,
+            "title": "Monogatari Series: Second Season",
+            "url": "https://myanimelist.net/manga/23751/Monogatari_Series__Second_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/181553.jpg?s=f27f4bdebd5a5d90996112eda295cf1b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/181553t.jpg?s=f27f4bdebd5a5d90996112eda295cf1b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/181553l.jpg?s=f27f4bdebd5a5d90996112eda295cf1b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/181553.webp?s=f27f4bdebd5a5d90996112eda295cf1b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/181553t.webp?s=f27f4bdebd5a5d90996112eda295cf1b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/181553l.webp?s=f27f4bdebd5a5d90996112eda295cf1b"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": 6,
+            "startDate": "Oct 2010",
+            "endDate": "Dec 2011",
+            "members": 28648,
+            "score": 8.93
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 104,
+            "rank": 23,
+            "title": "Yotsuba to!",
+            "url": "https://myanimelist.net/manga/104/Yotsuba_to",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/259524.jpg?s=65d98a8441b880cb045253b201b2a595",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/259524t.jpg?s=65d98a8441b880cb045253b201b2a595",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/259524l.jpg?s=65d98a8441b880cb045253b201b2a595"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/259524.webp?s=65d98a8441b880cb045253b201b2a595",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/259524t.webp?s=65d98a8441b880cb045253b201b2a595",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/259524l.webp?s=65d98a8441b880cb045253b201b2a595"
+                }
+            },
+            "type": "Manga",
+            "volumes": null,
+            "startDate": "Jan 2003",
+            "endDate": null,
+            "members": 182332,
+            "score": 8.92
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 14893,
+            "rank": 24,
+            "title": "Monogatari Series: First Season",
+            "url": "https://myanimelist.net/manga/14893/Monogatari_Series__First_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/279887.jpg?s=b366e7f3a20f73ac39e240a649ad6ccc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/279887t.jpg?s=b366e7f3a20f73ac39e240a649ad6ccc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/279887l.jpg?s=b366e7f3a20f73ac39e240a649ad6ccc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/279887.webp?s=b366e7f3a20f73ac39e240a649ad6ccc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/279887t.webp?s=b366e7f3a20f73ac39e240a649ad6ccc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/279887l.webp?s=b366e7f3a20f73ac39e240a649ad6ccc"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": 6,
+            "startDate": "Nov 2006",
+            "endDate": "Jul 2010",
+            "members": 68040,
+            "score": 8.92
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 126479,
+            "rank": 25,
+            "title": "Mikkakan no Koufuku",
+            "url": "https://myanimelist.net/manga/126479/Mikkakan_no_Koufuku",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/248674.jpg?s=8df50c1467deb0ebeb25d3bfe1b4ef13",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/248674t.jpg?s=8df50c1467deb0ebeb25d3bfe1b4ef13",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/248674l.jpg?s=8df50c1467deb0ebeb25d3bfe1b4ef13"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/248674.webp?s=8df50c1467deb0ebeb25d3bfe1b4ef13",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/248674t.webp?s=8df50c1467deb0ebeb25d3bfe1b4ef13",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/248674l.webp?s=8df50c1467deb0ebeb25d3bfe1b4ef13"
+                }
+            },
+            "type": "Novel",
+            "volumes": 1,
+            "startDate": "Dec 2013",
+            "endDate": "Dec 2013",
+            "members": 45693,
+            "score": 8.91
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 74697,
+            "rank": 26,
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "url": "https://myanimelist.net/manga/74697/Re_Zero_kara_Hajimeru_Isekai_Seikatsu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/129447.jpg?s=59022093f8f6937a00b6dc9c9f668c00",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/129447t.jpg?s=59022093f8f6937a00b6dc9c9f668c00",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/129447l.jpg?s=59022093f8f6937a00b6dc9c9f668c00"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/129447.webp?s=59022093f8f6937a00b6dc9c9f668c00",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/129447t.webp?s=59022093f8f6937a00b6dc9c9f668c00",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/129447l.webp?s=59022093f8f6937a00b6dc9c9f668c00"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": null,
+            "startDate": "Jan 2014",
+            "endDate": null,
+            "members": 88611,
+            "score": 8.89
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 44227,
+            "rank": 27,
+            "title": "Monogatari Series: Final Season",
+            "url": "https://myanimelist.net/manga/44227/Monogatari_Series__Final_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/181554.jpg?s=bbd4d7cf1d64d06cfec15220f9c39540",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/181554t.jpg?s=bbd4d7cf1d64d06cfec15220f9c39540",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/181554l.jpg?s=bbd4d7cf1d64d06cfec15220f9c39540"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/181554.webp?s=bbd4d7cf1d64d06cfec15220f9c39540",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/181554t.webp?s=bbd4d7cf1d64d06cfec15220f9c39540",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/181554l.webp?s=bbd4d7cf1d64d06cfec15220f9c39540"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": 6,
+            "startDate": "Sep 2012",
+            "endDate": "Sep 2014",
+            "members": 23751,
+            "score": 8.88
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 86769,
+            "rank": 28,
+            "title": "Kusuriya no Hitorigoto",
+            "url": "https://myanimelist.net/manga/86769/Kusuriya_no_Hitorigoto",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/176943.jpg?s=3b02bd1a65e6fc2cee03ca6b947a1138",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/176943t.jpg?s=3b02bd1a65e6fc2cee03ca6b947a1138",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/176943l.jpg?s=3b02bd1a65e6fc2cee03ca6b947a1138"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/176943.webp?s=3b02bd1a65e6fc2cee03ca6b947a1138",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/176943t.webp?s=3b02bd1a65e6fc2cee03ca6b947a1138",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/176943l.webp?s=3b02bd1a65e6fc2cee03ca6b947a1138"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": null,
+            "startDate": "Aug 2014",
+            "endDate": null,
+            "members": 27871,
+            "score": 8.88
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 90125,
+            "rank": 29,
+            "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+            "url": "https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/188896.jpg?s=107a5af07f0e6992faa286f94596f231",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/188896t.jpg?s=107a5af07f0e6992faa286f94596f231",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/188896l.jpg?s=107a5af07f0e6992faa286f94596f231"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/188896.webp?s=107a5af07f0e6992faa286f94596f231",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/188896t.webp?s=107a5af07f0e6992faa286f94596f231",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/188896l.webp?s=107a5af07f0e6992faa286f94596f231"
+                }
+            },
+            "type": "Manga",
+            "volumes": 28,
+            "startDate": "May 2015",
+            "endDate": "Nov 2022",
+            "members": 310202,
+            "score": 8.88
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 121405,
+            "rank": 30,
+            "title": "Mo Dao Zu Shi",
+            "url": "https://myanimelist.net/manga/121405/Mo_Dao_Zu_Shi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258745.jpg?s=3aa630a0b8a18b7bd7a7785f2b51e66d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258745t.jpg?s=3aa630a0b8a18b7bd7a7785f2b51e66d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258745l.jpg?s=3aa630a0b8a18b7bd7a7785f2b51e66d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258745.webp?s=3aa630a0b8a18b7bd7a7785f2b51e66d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258745t.webp?s=3aa630a0b8a18b7bd7a7785f2b51e66d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258745l.webp?s=3aa630a0b8a18b7bd7a7785f2b51e66d"
+                }
+            },
+            "type": "Novel",
+            "volumes": 4,
+            "startDate": "Dec 2016",
+            "endDate": "Dec 2016",
+            "members": 15435,
+            "score": 8.88
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 126287,
+            "rank": 31,
+            "title": "Sousou no Frieren",
+            "url": "https://myanimelist.net/manga/126287/Sousou_no_Frieren",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/232121.jpg?s=9c05e20374c4df437a85b281efcc5927",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/232121t.jpg?s=9c05e20374c4df437a85b281efcc5927",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/232121l.jpg?s=9c05e20374c4df437a85b281efcc5927"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/232121.webp?s=9c05e20374c4df437a85b281efcc5927",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/232121t.webp?s=9c05e20374c4df437a85b281efcc5927",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/232121l.webp?s=9c05e20374c4df437a85b281efcc5927"
+                }
+            },
+            "type": "Manga",
+            "volumes": 15,
+            "startDate": "Apr 2020",
+            "endDate": "Oct 2025",
+            "members": 179525,
+            "score": 8.87
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 35243,
+            "rank": 32,
+            "title": "Haikyuu!!",
+            "url": "https://myanimelist.net/manga/35243/Haikyuu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/258225.jpg?s=4ea4d6551d8893a82e10ef164d06a00a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/258225t.jpg?s=4ea4d6551d8893a82e10ef164d06a00a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/258225l.jpg?s=4ea4d6551d8893a82e10ef164d06a00a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/258225.webp?s=4ea4d6551d8893a82e10ef164d06a00a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/258225t.webp?s=4ea4d6551d8893a82e10ef164d06a00a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/258225l.webp?s=4ea4d6551d8893a82e10ef164d06a00a"
+                }
+            },
+            "type": "Manga",
+            "volumes": 45,
+            "startDate": "Feb 2012",
+            "endDate": "Jul 2020",
+            "members": 247531,
+            "score": 8.87
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 104039,
+            "rank": 33,
+            "title": "86",
+            "url": "https://myanimelist.net/manga/104039/86",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/194315.jpg?s=3844c469c8f810b8f496b0beddcfaf5c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/194315t.jpg?s=3844c469c8f810b8f496b0beddcfaf5c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/194315l.jpg?s=3844c469c8f810b8f496b0beddcfaf5c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/194315.webp?s=3844c469c8f810b8f496b0beddcfaf5c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/194315t.webp?s=3844c469c8f810b8f496b0beddcfaf5c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/194315l.webp?s=3844c469c8f810b8f496b0beddcfaf5c"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": null,
+            "startDate": "Feb 2017",
+            "endDate": null,
+            "members": 54276,
+            "score": 8.87
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 336,
+            "rank": 34,
+            "title": "GTO",
+            "url": "https://myanimelist.net/manga/336/GTO",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/172982.jpg?s=12df0730d20b4e6c9294bf8293feb5ee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/172982t.jpg?s=12df0730d20b4e6c9294bf8293feb5ee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/172982l.jpg?s=12df0730d20b4e6c9294bf8293feb5ee"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/172982.webp?s=12df0730d20b4e6c9294bf8293feb5ee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/172982t.webp?s=12df0730d20b4e6c9294bf8293feb5ee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/172982l.webp?s=12df0730d20b4e6c9294bf8293feb5ee"
+                }
+            },
+            "type": "Manga",
+            "volumes": 25,
+            "startDate": "Dec 1996",
+            "endDate": "Jan 2002",
+            "members": 193431,
+            "score": 8.86
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 1224,
+            "rank": 35,
+            "title": "3-gatsu no Lion",
+            "url": "https://myanimelist.net/manga/1224/3-gatsu_no_Lion",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/52283.jpg?s=4444b5a8d50383a733a6fd2275f9b0af",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/52283t.jpg?s=4444b5a8d50383a733a6fd2275f9b0af",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/52283l.jpg?s=4444b5a8d50383a733a6fd2275f9b0af"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/52283.webp?s=4444b5a8d50383a733a6fd2275f9b0af",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/52283t.webp?s=4444b5a8d50383a733a6fd2275f9b0af",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/52283l.webp?s=4444b5a8d50383a733a6fd2275f9b0af"
+                }
+            },
+            "type": "Manga",
+            "volumes": null,
+            "startDate": "Jul 2007",
+            "endDate": null,
+            "members": 81955,
+            "score": 8.86
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 56805,
+            "rank": 36,
+            "title": "Koe no Katachi",
+            "url": "https://myanimelist.net/manga/56805/Koe_no_Katachi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/120529.jpg?s=7d7fdc308409589ca579b5a9376effd9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/120529t.jpg?s=7d7fdc308409589ca579b5a9376effd9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/120529l.jpg?s=7d7fdc308409589ca579b5a9376effd9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/120529.webp?s=7d7fdc308409589ca579b5a9376effd9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/120529t.webp?s=7d7fdc308409589ca579b5a9376effd9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/120529l.webp?s=7d7fdc308409589ca579b5a9376effd9"
+                }
+            },
+            "type": "Manga",
+            "volumes": 7,
+            "startDate": "Aug 2013",
+            "endDate": "Nov 2014",
+            "members": 295689,
+            "score": 8.86
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 178182,
+            "rank": 37,
+            "title": "On the Way to Meet Mom",
+            "url": "https://myanimelist.net/manga/178182/On_the_Way_to_Meet_Mom",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/328009.jpg?s=f54899590648bb28f3eaa0d0e6c282ee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/328009t.jpg?s=f54899590648bb28f3eaa0d0e6c282ee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/328009l.jpg?s=f54899590648bb28f3eaa0d0e6c282ee"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/328009.webp?s=f54899590648bb28f3eaa0d0e6c282ee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/328009t.webp?s=f54899590648bb28f3eaa0d0e6c282ee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/328009l.webp?s=f54899590648bb28f3eaa0d0e6c282ee"
+                }
+            },
+            "type": "Manhwa",
+            "volumes": null,
+            "startDate": "Nov 2024",
+            "endDate": "Jul 2026",
+            "members": 16128,
+            "score": 8.86
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 7375,
+            "rank": 38,
+            "title": "Kokou no Hito",
+            "url": "https://myanimelist.net/manga/7375/Kokou_no_Hito",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/324690.jpg?s=f280496e83019228b2a066da33716110",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/324690t.jpg?s=f280496e83019228b2a066da33716110",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/324690l.jpg?s=f280496e83019228b2a066da33716110"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/324690.webp?s=f280496e83019228b2a066da33716110",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/324690t.webp?s=f280496e83019228b2a066da33716110",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/324690l.webp?s=f280496e83019228b2a066da33716110"
+                }
+            },
+            "type": "Manga",
+            "volumes": 17,
+            "startDate": "Nov 2007",
+            "endDate": "Oct 2011",
+            "members": 162651,
+            "score": 8.84
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 21525,
+            "rank": 39,
+            "title": "Akatsuki no Yona",
+            "url": "https://myanimelist.net/manga/21525/Akatsuki_no_Yona",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/269202.jpg?s=afdc44fcf21ebb19cc21d3d430c1da6c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/269202t.jpg?s=afdc44fcf21ebb19cc21d3d430c1da6c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/269202l.jpg?s=afdc44fcf21ebb19cc21d3d430c1da6c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/269202.webp?s=afdc44fcf21ebb19cc21d3d430c1da6c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/269202t.webp?s=afdc44fcf21ebb19cc21d3d430c1da6c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/269202l.webp?s=afdc44fcf21ebb19cc21d3d430c1da6c"
+                }
+            },
+            "type": "Manga",
+            "volumes": 48,
+            "startDate": "Aug 2009",
+            "endDate": "Dec 2025",
+            "members": 156652,
+            "score": 8.83
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 86119,
+            "rank": 40,
+            "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+            "url": "https://myanimelist.net/manga/86119/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/149552.jpg?s=7a09f803927750382bf4f27511a96c53",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/149552t.jpg?s=7a09f803927750382bf4f27511a96c53",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/149552l.jpg?s=7a09f803927750382bf4f27511a96c53"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/149552.webp?s=7a09f803927750382bf4f27511a96c53",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/149552t.webp?s=7a09f803927750382bf4f27511a96c53",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/149552l.webp?s=7a09f803927750382bf4f27511a96c53"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": 33,
+            "startDate": "Jan 2015",
+            "endDate": "Dec 2023",
+            "members": 23095,
+            "score": 8.83
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 140765,
+            "rank": 41,
+            "title": "Tian Guan Cifu",
+            "url": "https://myanimelist.net/manga/140765/Tian_Guan_Cifu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/258222.jpg?s=1c9f1afea3d13e26834247b36e8784cf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/258222t.jpg?s=1c9f1afea3d13e26834247b36e8784cf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/258222l.jpg?s=1c9f1afea3d13e26834247b36e8784cf"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/258222.webp?s=1c9f1afea3d13e26834247b36e8784cf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/258222t.webp?s=1c9f1afea3d13e26834247b36e8784cf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/258222l.webp?s=1c9f1afea3d13e26834247b36e8784cf"
+                }
+            },
+            "type": "Manhua",
+            "volumes": null,
+            "startDate": "Oct 2019",
+            "endDate": null,
+            "members": 20237,
+            "score": 8.83
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 147769,
+            "rank": 42,
+            "title": "No Home",
+            "url": "https://myanimelist.net/manga/147769/No_Home",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/264873.jpg?s=789fd2c7a6515262b66142bffdac87df",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/264873t.jpg?s=789fd2c7a6515262b66142bffdac87df",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/264873l.jpg?s=789fd2c7a6515262b66142bffdac87df"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/264873.webp?s=789fd2c7a6515262b66142bffdac87df",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/264873t.webp?s=789fd2c7a6515262b66142bffdac87df",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/264873l.webp?s=789fd2c7a6515262b66142bffdac87df"
+                }
+            },
+            "type": "Manhwa",
+            "volumes": null,
+            "startDate": "Dec 2018",
+            "endDate": "Aug 2024",
+            "members": 13972,
+            "score": 8.82
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 28,
+            "rank": 43,
+            "title": "Nana",
+            "url": "https://myanimelist.net/manga/28/Nana",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/262324.jpg?s=79dc410cc9c1c5a2b57a1f183625c20b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/262324t.jpg?s=79dc410cc9c1c5a2b57a1f183625c20b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/262324l.jpg?s=79dc410cc9c1c5a2b57a1f183625c20b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/262324.webp?s=79dc410cc9c1c5a2b57a1f183625c20b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/262324t.webp?s=79dc410cc9c1c5a2b57a1f183625c20b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/262324l.webp?s=79dc410cc9c1c5a2b57a1f183625c20b"
+                }
+            },
+            "type": "Manga",
+            "volumes": 21,
+            "startDate": "May 2000",
+            "endDate": "May 2009",
+            "members": 179799,
+            "score": 8.82
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 9115,
+            "rank": 44,
+            "title": "Ookami to Koushinryou",
+            "url": "https://myanimelist.net/manga/9115/Ookami_to_Koushinryou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/153860.jpg?s=3981f0bee3695e1a75744764f8d1b257",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/153860t.jpg?s=3981f0bee3695e1a75744764f8d1b257",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/153860l.jpg?s=3981f0bee3695e1a75744764f8d1b257"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/153860.webp?s=3981f0bee3695e1a75744764f8d1b257",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/153860t.webp?s=3981f0bee3695e1a75744764f8d1b257",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/153860l.webp?s=3981f0bee3695e1a75744764f8d1b257"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": null,
+            "startDate": "Feb 2006",
+            "endDate": null,
+            "members": 71739,
+            "score": 8.82
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 651,
+            "rank": 45,
+            "title": "Kaze no Tani no Nausicaä",
+            "url": "https://myanimelist.net/manga/651/Kaze_no_Tani_no_Nausicaä",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/259856.jpg?s=417999b3b17c01e2991ceb2b5d1662d2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856t.jpg?s=417999b3b17c01e2991ceb2b5d1662d2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856l.jpg?s=417999b3b17c01e2991ceb2b5d1662d2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/259856.webp?s=417999b3b17c01e2991ceb2b5d1662d2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856t.webp?s=417999b3b17c01e2991ceb2b5d1662d2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856l.webp?s=417999b3b17c01e2991ceb2b5d1662d2"
+                }
+            },
+            "type": "Manga",
+            "volumes": 7,
+            "startDate": "Oct 1982",
+            "endDate": "Feb 1994",
+            "members": 69455,
+            "score": 8.81
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 70261,
+            "rank": 46,
+            "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "url": "https://myanimelist.net/manga/70261/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/120337.jpg?s=bac74eab7cfacca199e1674799dfe095",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/120337t.jpg?s=bac74eab7cfacca199e1674799dfe095",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/120337l.jpg?s=bac74eab7cfacca199e1674799dfe095"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/120337.webp?s=bac74eab7cfacca199e1674799dfe095",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/120337t.webp?s=bac74eab7cfacca199e1674799dfe095",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/120337l.webp?s=bac74eab7cfacca199e1674799dfe095"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": 26,
+            "startDate": "Jan 2014",
+            "endDate": "Nov 2022",
+            "members": 105693,
+            "score": 8.81
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 85781,
+            "rank": 47,
+            "title": "Dungeon Meshi",
+            "url": "https://myanimelist.net/manga/85781/Dungeon_Meshi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/148949.jpg?s=57c4d8f3b1edea296d1275a8a75a70d6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/148949t.jpg?s=57c4d8f3b1edea296d1275a8a75a70d6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/148949l.jpg?s=57c4d8f3b1edea296d1275a8a75a70d6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/148949.webp?s=57c4d8f3b1edea296d1275a8a75a70d6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/148949t.webp?s=57c4d8f3b1edea296d1275a8a75a70d6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/148949l.webp?s=57c4d8f3b1edea296d1275a8a75a70d6"
+                }
+            },
+            "type": "Manga",
+            "volumes": 14,
+            "startDate": "Feb 2014",
+            "endDate": "Sep 2023",
+            "members": 118752,
+            "score": 8.81
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 102875,
+            "rank": 48,
+            "title": "Fata Morgana no Yakata: Anata no Genten ni Itaru Monogatari",
+            "url": "https://myanimelist.net/manga/102875/Fata_Morgana_no_Yakata__Anata_no_Genten_ni_Itaru_Monogatari",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/193634.jpg?s=d7d7236c7f6b7bf0752c02be49e3c2d5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/193634t.jpg?s=d7d7236c7f6b7bf0752c02be49e3c2d5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/193634l.jpg?s=d7d7236c7f6b7bf0752c02be49e3c2d5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/193634.webp?s=d7d7236c7f6b7bf0752c02be49e3c2d5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/193634t.webp?s=d7d7236c7f6b7bf0752c02be49e3c2d5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/193634l.webp?s=d7d7236c7f6b7bf0752c02be49e3c2d5"
+                }
+            },
+            "type": "Light Novel",
+            "volumes": 5,
+            "startDate": "Aug 2014",
+            "endDate": "Jan 2016",
+            "members": 9731,
+            "score": 8.81
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 26,
+            "rank": 49,
+            "title": "Hunter x Hunter",
+            "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/253119.jpg?s=f9d25027f52ceb3d4f127ab96c3e0e5e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/253119t.jpg?s=f9d25027f52ceb3d4f127ab96c3e0e5e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/253119l.jpg?s=f9d25027f52ceb3d4f127ab96c3e0e5e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/253119.webp?s=f9d25027f52ceb3d4f127ab96c3e0e5e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/253119t.webp?s=f9d25027f52ceb3d4f127ab96c3e0e5e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/253119l.webp?s=f9d25027f52ceb3d4f127ab96c3e0e5e"
+                }
+            },
+            "type": "Manga",
+            "volumes": null,
+            "startDate": "Mar 1998",
+            "endDate": null,
+            "members": 320054,
+            "score": 8.79
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopMangaListItem",
+            "malId": 129621,
+            "rank": 50,
+            "title": "Medalist",
+            "url": "https://myanimelist.net/manga/129621/Medalist",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/235204.jpg?s=61a20b3bef9caf03bfd53bdab85c9426",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/235204t.jpg?s=61a20b3bef9caf03bfd53bdab85c9426",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/235204l.jpg?s=61a20b3bef9caf03bfd53bdab85c9426"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/235204.webp?s=61a20b3bef9caf03bfd53bdab85c9426",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/235204t.webp?s=61a20b3bef9caf03bfd53bdab85c9426",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/235204l.webp?s=61a20b3bef9caf03bfd53bdab85c9426"
+                }
+            },
+            "type": "Manga",
+            "volumes": 15,
+            "startDate": "May 2020",
+            "endDate": "Jun 2026",
+            "members": 24811,
+            "score": 8.79
+        }
+    ]
+}

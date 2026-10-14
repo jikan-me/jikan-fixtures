@@ -1,0 +1,284 @@
+{
+    "@class": "Jikan\\Model\\Search\\CharacterSearch",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 417,
+            "url": "https://myanimelist.net/character/417/Lelouch_Lamperouge",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/8/406163.jpg?s=e69a97cba35bb909a56523e14212524e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/8/406163.webp?s=e69a97cba35bb909a56523e14212524e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/8/406163t.webp?s=e69a97cba35bb909a56523e14212524e"
+                }
+            },
+            "name": "Lamperouge, Lelouch",
+            "alternativeNames": [
+                "Lelouch vi Britannia",
+                "Zero",
+                "Lulu",
+                "Black Prince",
+                "The Demon Emperor",
+                "L.L."
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch II - Handou",
+                    "url": "https://myanimelist.net/anime/34439/Code_Geass__Hangyaku_no_Lelouch_II_-_Handou"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch I - Koudou",
+                    "url": "https://myanimelist.net/anime/34438/Code_Geass__Hangyaku_no_Lelouch_I_-_Koudou"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch III - Oudou",
+                    "url": "https://myanimelist.net/anime/34440/Code_Geass__Hangyaku_no_Lelouch_III_-_Oudou"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Fukkatsu no Lelouch Picture Drama",
+                    "url": "https://myanimelist.net/anime/40315/Code_Geass__Fukkatsu_no_Lelouch_Picture_Drama"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch R2 Picture Drama - Last Moratorium",
+                    "url": "https://myanimelist.net/anime/33156/Code_Geass__Hangyaku_no_Lelouch_R2_Picture_Drama_-_Last_Moratorium"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Picture Drama - Hajimari no Zenya",
+                    "url": "https://myanimelist.net/anime/33155/Code_Geass__Hangyaku_no_Lelouch_Picture_Drama_-_Hajimari_no_Zenya"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Fukkatsu no Lelouch",
+                    "url": "https://myanimelist.net/anime/34437/Code_Geass__Fukkatsu_no_Lelouch"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch DVD Magazine: Omake Flash - Baba Theater",
+                    "url": "https://myanimelist.net/anime/54249/Code_Geass__Hangyaku_no_Lelouch_DVD_Magazine__Omake_Flash_-_Baba_Theater"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch DVD Magazine Picture Drama",
+                    "url": "https://myanimelist.net/anime/41075/Code_Geass__Hangyaku_no_Lelouch_DVD_Magazine_Picture_Drama"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Dakkan no Rozé",
+                    "url": "https://myanimelist.net/anime/56835/Code_Geass__Dakkan_no_Rozé"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+                    "url": "https://myanimelist.net/anime/40334/Code_Geass__Hangyaku_no_Lelouch_Picture_Drama_-_Kiseki_no_Anniversary"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Picture Drama - Kamen Kokuhaku Taikai",
+                    "url": "https://myanimelist.net/anime/40836/Code_Geass__Hangyaku_no_Lelouch_Picture_Drama_-_Kamen_Kokuhaku_Taikai"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch R2",
+                    "url": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion",
+                    "url": "https://myanimelist.net/anime/4596/Code_Geass__Hangyaku_no_Lelouch_Special_Edition_-_Black_Rebellion"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Recaps",
+                    "url": "https://myanimelist.net/anime/2124/Code_Geass__Hangyaku_no_Lelouch_Recaps"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+                    "url": "https://myanimelist.net/anime/5163/Code_Geass__Hangyaku_no_Lelouch_R2_Picture_Drama"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch",
+                    "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Picture Drama",
+                    "url": "https://myanimelist.net/anime/1953/Code_Geass__Hangyaku_no_Lelouch_Picture_Drama"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland",
+                    "url": "https://myanimelist.net/anime/12685/Code_Geass__Hangyaku_no_Lelouch_-_Nunnally_in_Wonderland"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Omake Flash",
+                    "url": "https://myanimelist.net/anime/18881/Code_Geass__Hangyaku_no_Lelouch_-_Kiseki_no_Birthday_Omake_Flash"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch R2 Omake Flash",
+                    "url": "https://myanimelist.net/anime/9591/Code_Geass__Hangyaku_no_Lelouch_R2_Omake_Flash"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem",
+                    "url": "https://myanimelist.net/anime/6768/Code_Geass__Hangyaku_no_Lelouch_R2_Special_Edition_-_Zero_Requiem"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday",
+                    "url": "https://myanimelist.net/anime/8728/Code_Geass__Hangyaku_no_Lelouch_-_Kiseki_no_Birthday"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Koushiki Comic Anthology For Girls - Knight",
+                    "url": "https://myanimelist.net/manga/12042/Code_Geass__Hangyaku_no_Lelouch_Koushiki_Comic_Anthology_For_Girls_-_Knight"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Shikkoku no Renya",
+                    "url": "https://myanimelist.net/manga/17311/Code_Geass__Shikkoku_no_Renya"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Koushiki Comic Anthology For Boys - Queen",
+                    "url": "https://myanimelist.net/manga/11968/Code_Geass__Hangyaku_no_Lelouch_Koushiki_Comic_Anthology_For_Boys_-_Queen"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch",
+                    "url": "https://myanimelist.net/manga/11496/Code_Geass__Hangyaku_no_Lelouch"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Bakumatsu Ibunroku: Code Geass - Hangyaku no Lelouch",
+                    "url": "https://myanimelist.net/manga/10167/Bakumatsu_Ibunroku__Code_Geass_-_Hangyaku_no_Lelouch"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Chibi Geass: 4-koma no Lelouch",
+                    "url": "https://myanimelist.net/manga/10822/Chibi_Geass__4-koma_no_Lelouch"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Barcode Geass: Hanbai no Lelouch",
+                    "url": "https://myanimelist.net/manga/25854/Barcode_Geass__Hanbai_no_Lelouch"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Soubou no Oz",
+                    "url": "https://myanimelist.net/manga/42381/Code_Geass__Soubou_no_Oz"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch - Seitokai Jikenbo",
+                    "url": "https://myanimelist.net/manga/107648/Code_Geass__Hangyaku_no_Lelouch_-_Seitokai_Jikenbo"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Kateikyoushi no Lelouch-san",
+                    "url": "https://myanimelist.net/manga/115979/Kateikyoushi_no_Lelouch-san"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch - Ake no Kiseki",
+                    "url": "https://myanimelist.net/manga/107646/Code_Geass__Hangyaku_no_Lelouch_-_Ake_no_Kiseki"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch R2",
+                    "url": "https://myanimelist.net/manga/107645/Code_Geass__Hangyaku_no_Lelouch_R2"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Soubou no Oz O2",
+                    "url": "https://myanimelist.net/manga/76957/Code_Geass__Soubou_no_Oz_O2"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Black: Hayabiki no Lelouch",
+                    "url": "https://myanimelist.net/manga/81535/Code_Black__Hayabiki_no_Lelouch"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Nightmare of Nunnally",
+                    "url": "https://myanimelist.net/manga/1547/Code_Geass__Nightmare_of_Nunnally"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hankou no Suzaku",
+                    "url": "https://myanimelist.net/manga/1530/Code_Geass__Hankou_no_Suzaku"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Shin Kidou Senki Gundam W x Code Geass Hangyaku no Lelouch: Minuet Zero",
+                    "url": "https://myanimelist.net/manga/194784/Shin_Kidou_Senki_Gundam_W_x_Code_Geass_Hangyaku_no_Lelouch__Minuet_Zero"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch",
+                    "url": "https://myanimelist.net/manga/1528/Code_Geass__Hangyaku_no_Lelouch"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Fukkatsu no Lelouch",
+                    "url": "https://myanimelist.net/manga/132836/Code_Geass__Fukkatsu_no_Lelouch"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Re;",
+                    "url": "https://myanimelist.net/manga/117984/Code_Geass__Hangyaku_no_Lelouch_Re_"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Code Geass: Hangyaku no Lelouch Gaiden - Shiro no Kishi Kurenai no Yasha",
+                    "url": "https://myanimelist.net/manga/117661/Code_Geass__Hangyaku_no_Lelouch_Gaiden_-_Shiro_no_Kishi_Kurenai_no_Yasha"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 246815,
+            "url": "https://myanimelist.net/character/246815/Mika_Lelouch",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/10/545933.jpg?s=3e34fc1cdb8325ae328c646649bdb702"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/10/545933.webp?s=3e34fc1cdb8325ae328c646649bdb702",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/10/545933t.webp?s=3e34fc1cdb8325ae328c646649bdb702"
+                }
+            },
+            "name": "Lelouch, Mika",
+            "alternativeNames": [],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Tousouchuu: Great Mission",
+                    "url": "https://myanimelist.net/anime/54040/Tousouchuu__Great_Mission"
+                }
+            ],
+            "manga": []
+        }
+    ]
+}

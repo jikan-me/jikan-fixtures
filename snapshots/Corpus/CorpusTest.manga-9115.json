@@ -1,0 +1,203 @@
+{
+    "@class": "Jikan\\Model\\Manga\\Manga",
+    "malId": 9115,
+    "url": "https://myanimelist.net/manga/9115/Ookami_to_Koushinryou",
+    "title": "Ookami to Koushinryou",
+    "titleEnglish": "Spice & Wolf",
+    "titleSynonyms": [
+        "Okami to Koshinryo",
+        "Spice and Wolf"
+    ],
+    "approved": true,
+    "titleJapanese": "狼と香辛料",
+    "titles": [
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Default",
+            "title": "Ookami to Koushinryou"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Synonym",
+            "title": "Okami to Koshinryo"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Synonym",
+            "title": "Spice and Wolf"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Japanese",
+            "title": "狼と香辛料"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "English",
+            "title": "Spice & Wolf"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "French",
+            "title": "Spice & Wolf"
+        }
+    ],
+    "status": "Publishing",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/153860.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/153860t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/153860l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/153860.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/153860t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/153860l.webp"
+        }
+    },
+    "type": "Light Novel",
+    "volumes": null,
+    "chapters": null,
+    "publishing": true,
+    "published": {
+        "@class": "Jikan\\Model\\Common\\DateRange",
+        "date": "Feb 10, 2006 to ?"
+    },
+    "rank": 44,
+    "score": 8.82,
+    "scoredBy": 17421,
+    "popularity": 263,
+    "members": 71739,
+    "favorites": 4312,
+    "synopsis": "A young traveling merchant, Kraft Lawrence, has become accustomed to days of roaming and trading with few companions. Or so it was until one peculiar day when the trader finds a young, naked, wolf-like girl asleep in his wagon.\n\nThe beautiful girl, calling herself Holo, claims to be a local wolf deity worshipped by locals as the God of Good Harvest. Year after year, she ensured they would reap a good harvest, but she has since grown tired of fulfilling the wishes of the ungrateful locals.\n\nHolo ends up striking a deal with Lawrence: if he helps her escape the villagers, she will gladly help him in his merchant endeavors. Together, they roam from town to town in search of business, and Lawrence realizes both the ups and downs of traveling with a haughty and shrewd wolf goddess.\n\n[Written by MAL Rewrite]",
+    "background": "Ookami to Koushinryou placed first in the Kono Light Novel ga Sugoi! for the Best Light Novel category in 2007. Ookami to Koushinryou: Spring Log, a short stories sequel to the main series written on the 10th anniversary since Hasekura Isuna's debut, is the first part of the Ookami to Koushinryou & Hasekura Isuna 10th Anniversary project. The series was published in English as Spice & Wolf by Yen Press from December 15, 2009, to April 19, 2016. A complete Anniversary Collector's Edition omnibus compiling the first 17 volumes was released on October 4, 2016. It has also been published in Russian by Istari Comics since June 2017.",
+    "related": {
+        "Adaptation": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou",
+                "url": "https://myanimelist.net/manga/3299/Ookami_to_Koushinryou"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou",
+                "url": "https://myanimelist.net/anime/2966/Ookami_to_Koushinryou"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+                "url": "https://myanimelist.net/anime/6007/Ookami_to_Koushinryou_II__Ookami_to_Kohakuiro_no_Yuuutsu"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou II",
+                "url": "https://myanimelist.net/anime/5341/Ookami_to_Koushinryou_II"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+                "url": "https://myanimelist.net/anime/51122/Ookami_to_Koushinryou__Merchant_Meets_the_Wise_Wolf"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou: Merchant Meets the Wise Wolf 2nd Season",
+                "url": "https://myanimelist.net/anime/59928/Ookami_to_Koushinryou__Merchant_Meets_the_Wise_Wolf_2nd_Season"
+            }
+        ],
+        "Spin-Off": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi",
+                "url": "https://myanimelist.net/manga/99821/Shinsetsu_Ookami_to_Koushinryou__Ookami_to_Youhishi"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou-tei: Gourmet Tanbouki",
+                "url": "https://myanimelist.net/manga/176253/Ookami_to_Koushinryou-tei__Gourmet_Tanbouki"
+            }
+        ],
+        "Alternative Version": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou: Spring Log",
+                "url": "https://myanimelist.net/manga/176198/Ookami_to_Koushinryou__Spring_Log"
+            }
+        ],
+        "Other": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ookami to Koushinryou: Dengeki Comic Anthology",
+                "url": "https://myanimelist.net/manga/108080/Ookami_to_Koushinryou__Dengeki_Comic_Anthology"
+            }
+        ]
+    },
+    "genres": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Romance",
+            "url": "https://myanimelist.net/manga/genre/22/Romance"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+        }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Adult Cast",
+            "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Historical",
+            "url": "https://myanimelist.net/manga/genre/13/Historical"
+        }
+    ],
+    "authors": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Hasekura, Isuna",
+            "url": "https://myanimelist.net/people/3595/Isuna_Hasekura"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Ayakura, Juu",
+            "url": "https://myanimelist.net/people/7456/Juu_Ayakura"
+        }
+    ],
+    "serializations": [],
+    "externalLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Spice_and_Wolf"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E7%8B%BC%E3%81%A8%E9%A6%99%E8%BE%9B%E6%96%99"
+        }
+    ]
+}

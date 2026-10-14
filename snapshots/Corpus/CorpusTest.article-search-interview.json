@@ -1,0 +1,604 @@
+{
+    "@class": "Jikan\\Model\\Article\\ArticleList",
+    "hasNextPage": true,
+    "lastVisiblePage": 3,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1282,
+            "url": "https://myanimelist.net/featured/1282/Top_10_Best_Anime_Omake_-_What_are_Omake",
+            "title": "Top 10 Best Anime Omake - What are Omake?",
+            "authorUsername": "TLBickler",
+            "authorUrl": "https://myanimelist.net/profile/TLBickler",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1456734394-e8a2fd70bfbaef4fbf34d0052fc9f926.jpeg"
+                }
+            },
+            "views": 58056,
+            "excerpt": "Have you ever wondered what omake are or if they’re even worth watching? Are they just filler or are they something different entirely? Let’s learn the difference with this collection of 10 of the best omake in the worlds of anime and manga!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "anime_terms",
+                    "name": "Anime Terms",
+                    "url": "https://myanimelist.net/featured/tag/anime_terms"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "funny",
+                    "name": "Funny",
+                    "url": "https://myanimelist.net/featured/tag/funny"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "video",
+                    "name": "Video",
+                    "url": "https://myanimelist.net/featured/tag/video"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 97,
+            "url": "https://myanimelist.net/featured/97/Interview_with_Ishiguro_Kyouhei_of_Shigatsu_wa_Kimi_no_Uso__Part_1",
+            "title": "Interview with Ishiguro Kyouhei of Shigatsu wa Kimi no Uso: Part 1",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1438941471-28865632c03c76a22179a4ded1a0e591.jpeg"
+                }
+            },
+            "views": 25266,
+            "excerpt": "Snippets from an interview with the director of the popular music anime Shigatsu wa Kimi no Uso, or Your Lie in April. This part focuses on the difficulties of animating instruments.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "director",
+                    "name": "Director",
+                    "url": "https://myanimelist.net/featured/tag/director"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 116,
+            "url": "https://myanimelist.net/featured/116/The_Voice_Actors_of_Gangsta_Talk_About_Their_Characters",
+            "title": "The Voice Actors of Gangsta. Talk About Their Characters",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1439539541-4ba3105c4dc3242c97da1352760934d2.jpeg"
+                }
+            },
+            "views": 43692,
+            "excerpt": "Gangsta. is a popular new show that was released July 2015. These lighthearted interviews of the two voice actors and the producer of the show are sure to entertain!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "seiyuu",
+                    "name": "Seiyuu",
+                    "url": "https://myanimelist.net/featured/tag/seiyuu"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 111,
+            "url": "https://myanimelist.net/featured/111/Interview_of_the_Producers_of_The_iDOLMSTER__Cinderella_Girls__Part_1",
+            "title": "Interview of the Producers of The iDOLM@STER: Cinderella Girls: Part 1",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1439451995-7152c27096162d1b20663215fd841309.jpeg"
+                }
+            },
+            "views": 12453,
+            "excerpt": "The iDOLM@STER is a popular franchise in Japan that has released many successful anime, games, and manga. This is part 1 of an interview of the two producers of their recent successful anime, The iDOLM@STER: Cinderella Girls!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "director",
+                    "name": "Director",
+                    "url": "https://myanimelist.net/featured/tag/director"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "kawaii",
+                    "name": "Kawaii",
+                    "url": "https://myanimelist.net/featured/tag/kawaii"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 133,
+            "url": "https://myanimelist.net/featured/133/Interview_with_the_Director_of_Hetalia__The_World_Twinkle-_Part_1",
+            "title": "Interview with the Director of Hetalia: The World Twinkle- Part 1",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1440056372-71d72912358742b9e01887f60111cece.jpeg"
+                }
+            },
+            "views": 14653,
+            "excerpt": "Hetalia, beloved short-format animation series, entered its sixth season this year with Hetalia: The World Twinkle. Watanabe Hiroshi, director, gives us some insight behind the scenes of this hilarious show. This is Part 1 of 2",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "director",
+                    "name": "Director",
+                    "url": "https://myanimelist.net/featured/tag/director"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 137,
+            "url": "https://myanimelist.net/featured/137/Owari_no_Seraph__An_Interview_With_Mikaelas_Voice_Actor",
+            "title": "Owari no Seraph: An Interview With Mikaela's Voice Actor",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1440123649-fe3d7dd2a3e703c9c280b903f0a50d62.jpeg"
+                }
+            },
+            "views": 43440,
+            "excerpt": "The voice actor of one of the main characters from Owari no Seraph, released Spring 2015, answers some questions about his character and his experiences voicing him.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "seiyuu",
+                    "name": "Seiyuu",
+                    "url": "https://myanimelist.net/featured/tag/seiyuu"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2148,
+            "url": "https://myanimelist.net/featured/2148/One_of_Us_One_of_Us_Ten_Celebrity_Anime_Fans",
+            "title": "One of Us! One of Us! Ten Celebrity Anime Fans",
+            "authorUsername": "CriticalAndroid",
+            "authorUrl": "https://myanimelist.net/profile/CriticalAndroid",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1497439662-83d244c4431906491acd1f642910ca82.jpeg"
+                }
+            },
+            "views": 27975,
+            "excerpt": "As anime continues to grow in popularity, it's picked up a number of famous fans along the way; here's ten noteworthy ones.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 290,
+            "url": "https://myanimelist.net/featured/290/Interview_with_Takahiro_Sakurai_--_VA_for_Junjou_Romantica_3",
+            "title": "Interview with Takahiro Sakurai -- VA for Junjou Romantica 3!",
+            "authorUsername": "futarochan89",
+            "authorUrl": "https://myanimelist.net/profile/futarochan89",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1442309384-25e423523de08b9975fd5766a88221e8.jpeg"
+                }
+            },
+            "views": 21196,
+            "excerpt": "Ready for some MORE romance? The Junjou Romantica series that took the world by storm oh so many years ago is BACK for its 3rd season! Join us in our interview with the voice actor for the bashful cutie, Misaki -- Takahiro Sakurai!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "cute_guys",
+                    "name": "Cute Guys",
+                    "url": "https://myanimelist.net/featured/tag/cute_guys"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "love",
+                    "name": "Love",
+                    "url": "https://myanimelist.net/featured/tag/love"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 112,
+            "url": "https://myanimelist.net/featured/112/Interview_with_iDOLMSTER__Cinderella_Girls_Producers__Part_2",
+            "title": "Interview with iDOLM@STER: Cinderella Girls' Producers: Part 2",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1439451539-25be2385ba8b557aa4b23d5f3744a9d7.jpeg"
+                }
+            },
+            "views": 6716,
+            "excerpt": "Part 2 of an interview with the producers of the newest series in the iDOLM@STER franchise! Here they discuss what The iDOLM@STER: Cinderella Girls 2nd Season will be like (no plot spoilers)",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "director",
+                    "name": "Director",
+                    "url": "https://myanimelist.net/featured/tag/director"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "kawaii",
+                    "name": "Kawaii",
+                    "url": "https://myanimelist.net/featured/tag/kawaii"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 134,
+            "url": "https://myanimelist.net/featured/134/Interview_with_the_Director_of_Hetalia__The_World_Twinkle-_Part_2",
+            "title": "Interview with the Director of Hetalia: The World Twinkle- Part 2",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1440152302-e2cd3b272e1a2747e9790dbf2cab5501.jpeg"
+                }
+            },
+            "views": 11927,
+            "excerpt": "The second half of an interview with the director of Hetalia: The World Twinkle and Hetalia: The Beautiful World. Watanabe Hiroshi talks about his experiences directing this popular anime!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "director",
+                    "name": "Director",
+                    "url": "https://myanimelist.net/featured/tag/director"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2384,
+            "url": "https://myanimelist.net/featured/2384/My_Dress-Up_Darling__An_Interview_with_the_Director_Part_1",
+            "title": "My Dress-Up Darling: An Interview with the Director, Part 1",
+            "authorUsername": "Febri",
+            "authorUrl": "https://myanimelist.net/profile/Febri",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1669954873-3edd1c911f5a62d0b1e64399cffd0ce9.jpeg"
+                }
+            },
+            "views": 154995,
+            "excerpt": "*My Dress-Up Darling* has sold over 8million copies, with a hit anime in Winter 2022 and a sequel in the way. It's about cosplay-loving Marin and Wakana, an aspiring doll craftsman. Fans were captivated by the slow-burning love and the realistic cosplay. We got the details from the director.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1951,
+            "url": "https://myanimelist.net/featured/1951/Kouta_Hirano__From_Hentai_to_Horror_to_Drifters",
+            "title": "Kouta Hirano: From Hentai to Horror to Drifters",
+            "authorUsername": "MFA_Community",
+            "authorUrl": "https://myanimelist.net/profile/MFA_Community",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1475366797-3368f565428ce2e74d5dc8c3ca77b5df.jpeg"
+                }
+            },
+            "views": 78967,
+            "excerpt": "An article looking at the life and works of mangaka Kouta Hirano who created the Hellsing franchise and is also the original creator of the Drifters manga and its upcoming anime adaptation.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "mangaka",
+                    "name": "Mangaka",
+                    "url": "https://myanimelist.net/featured/tag/mangaka"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 139,
+            "url": "https://myanimelist.net/featured/139/An_Interview_With_Charlottes_Ayane_Sakura",
+            "title": "An Interview With Charlotte's Ayane Sakura!",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1440137582-f7fc6a657c080ae4954aef67066f6393.jpeg"
+                }
+            },
+            "views": 33721,
+            "excerpt": "Charlotte follows in its predecessors, Clannad and Angel Beats!, footsteps as this year's newest heart-rending youth story. Let's see what popular voice actress Ayane Sakura has to say about her character, Tomori Nao!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "cute_girls",
+                    "name": "Cute Girls",
+                    "url": "https://myanimelist.net/featured/tag/cute_girls"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "seiyuu",
+                    "name": "Seiyuu",
+                    "url": "https://myanimelist.net/featured/tag/seiyuu"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1447,
+            "url": "https://myanimelist.net/featured/1447/Manga_Creator_Spotlight__Hiro_Mashima_on_Fairy_Tail",
+            "title": "Manga Creator Spotlight: Hiro Mashima on Fairy Tail",
+            "authorUsername": "KodanshaComics",
+            "authorUrl": "https://myanimelist.net/profile/KodanshaComics",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1456279111-6fea83bc32e8e749652df3c4aee44e75.jpeg"
+                }
+            },
+            "views": 18853,
+            "excerpt": "This interview is for old and new fans of Fairy Tail who want to know a little more about the personal side of Hiro Mashima-sensei!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "mangaka",
+                    "name": "Mangaka",
+                    "url": "https://myanimelist.net/featured/tag/mangaka"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fairy_tail",
+                    "name": "Fairy Tail",
+                    "url": "https://myanimelist.net/featured/tag/fairy_tail"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2354,
+            "url": "https://myanimelist.net/featured/2354/A_Manga_for_Anyone__Nagabe_and_the_Unique_Charm_of_Totsukuni_no_Shoujo",
+            "title": "A Manga for Anyone: Nagabe and the Unique Charm of Totsukuni no Shoujo",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1614929364-d10fff37abdd0caff378dc650cfe315f.jpeg"
+                }
+            },
+            "views": 110286,
+            "excerpt": "Commemorating the manga's final chapter and new anime announcement, creator Nagabe and editor Shinpuku gave an exclusive interview.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 582,
+            "url": "https://myanimelist.net/featured/582/One-Two_Punch_An_Interview_With_One_Punch_Mans_Superhero_Duo",
+            "title": "One-Two Punch! An Interview With One Punch Man's Superhero Duo",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1444977709-924444324640b0b25d6c3d6fc28f91e4.jpeg"
+                }
+            },
+            "views": 28745,
+            "excerpt": "A series overview of the comedy that's taking Japan by storm, plus an interview with voice actors Furukawa Makoto and Ishikawa Kaito!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "funny",
+                    "name": "Funny",
+                    "url": "https://myanimelist.net/featured/tag/funny"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "seiyuu",
+                    "name": "Seiyuu",
+                    "url": "https://myanimelist.net/featured/tag/seiyuu"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "one_punch_man",
+                    "name": "One Punch Man",
+                    "url": "https://myanimelist.net/featured/tag/one_punch_man"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1740,
+            "url": "https://myanimelist.net/featured/1740/The_Mangaka_That_Inspired_Masashi_Kishimoto_to_Create_Naruto_",
+            "title": "The Mangaka That Inspired Masashi Kishimoto to Create Naruto",
+            "authorUsername": "MFA_Community",
+            "authorUrl": "https://myanimelist.net/profile/MFA_Community",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1466665976-afd787022265a506ff976dc08db05d38.jpeg"
+                }
+            },
+            "views": 27318,
+            "excerpt": "An in-depth look into the life and works of mangaka and illustrator Samura Hiroaki.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "mangaka",
+                    "name": "Mangaka",
+                    "url": "https://myanimelist.net/featured/tag/mangaka"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2107,
+            "url": "https://myanimelist.net/featured/2107/New_Gundam_Game_Comes_To_PS4_And_You_Can%E2%80%99t_Play_It",
+            "title": "New Gundam Game Comes To PS4 And You Can’t Play It",
+            "authorUsername": "CriticalAndroid",
+            "authorUrl": "https://myanimelist.net/profile/CriticalAndroid",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1491806875-b7eb512c34c741a50781ab0d9d733ad1.jpeg"
+                }
+            },
+            "views": 8155,
+            "excerpt": "On July 6th, Namco Bandai will be releasing Gundam Versus for the PS4. Right now it is slated only for release in Japan and other Asian markets.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 140,
+            "url": "https://myanimelist.net/featured/140/Interview_With_Prison_School_VA_Kamiya_Hiroshi_",
+            "title": "Interview With Prison School VA Kamiya Hiroshi",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1440143915-328eb517a79a55b9f63592b0913f22eb.jpeg"
+                }
+            },
+            "views": 26274,
+            "excerpt": "In this interview, Kamiya Hiroshi of Prison School talks about how he got his role, what he thinks of the show, and his opinions on the director, Mizushima Tsutomu!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "director",
+                    "name": "Director",
+                    "url": "https://myanimelist.net/featured/tag/director"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "funny",
+                    "name": "Funny",
+                    "url": "https://myanimelist.net/featured/tag/funny"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "seiyuu",
+                    "name": "Seiyuu",
+                    "url": "https://myanimelist.net/featured/tag/seiyuu"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "school_life",
+                    "name": "School Life",
+                    "url": "https://myanimelist.net/featured/tag/school_life"
+                }
+            ]
+        }
+    ]
+}

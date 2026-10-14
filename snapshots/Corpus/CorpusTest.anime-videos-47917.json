@@ -1,0 +1,367 @@
+{
+    "@class": "Jikan\\Model\\Anime\\AnimeVideos",
+    "promo": [
+        {
+            "@class": "Jikan\\Model\\Anime\\PromoListItem",
+            "title": "PV 3",
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "1-o7fmQqSNg",
+                "url": "https://www.youtube.com/watch?v=1-o7fmQqSNg",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/1-o7fmQqSNg?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/1-o7fmQqSNg/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/1-o7fmQqSNg/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/1-o7fmQqSNg/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/1-o7fmQqSNg/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/1-o7fmQqSNg/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\PromoListItem",
+            "title": "PV 2",
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "kXNzx8qh2S8",
+                "url": "https://www.youtube.com/watch?v=kXNzx8qh2S8",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/kXNzx8qh2S8?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/kXNzx8qh2S8/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/kXNzx8qh2S8/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/kXNzx8qh2S8/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/kXNzx8qh2S8/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/kXNzx8qh2S8/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\PromoListItem",
+            "title": "PV 1",
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "nomJbjuQXAY",
+                "url": "https://www.youtube.com/watch?v=nomJbjuQXAY",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/nomJbjuQXAY?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/nomJbjuQXAY/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/nomJbjuQXAY/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/nomJbjuQXAY/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/nomJbjuQXAY/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/nomJbjuQXAY/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\PromoListItem",
+            "title": "PV (Teaser)",
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "Fp7lnCp_LW0",
+                "url": "https://www.youtube.com/watch?v=Fp7lnCp_LW0",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/Fp7lnCp_LW0?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/Fp7lnCp_LW0/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/Fp7lnCp_LW0/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/Fp7lnCp_LW0/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/Fp7lnCp_LW0/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/Fp7lnCp_LW0/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\PromoListItem",
+            "title": "Character PV (Ryou Yamada ver.)",
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "zT9O8cJ_hjY",
+                "url": "https://www.youtube.com/watch?v=zT9O8cJ_hjY",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/zT9O8cJ_hjY?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/zT9O8cJ_hjY/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/zT9O8cJ_hjY/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/zT9O8cJ_hjY/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/zT9O8cJ_hjY/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/zT9O8cJ_hjY/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\PromoListItem",
+            "title": "Character PV (Nijika Ijichi ver.)",
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "HtI2PPXdQaQ",
+                "url": "https://www.youtube.com/watch?v=HtI2PPXdQaQ",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/HtI2PPXdQaQ?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/HtI2PPXdQaQ/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/HtI2PPXdQaQ/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/HtI2PPXdQaQ/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/HtI2PPXdQaQ/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/HtI2PPXdQaQ/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\PromoListItem",
+            "title": "Character PV (Ikuyo Kita ver.)",
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "ExKWf4h8X_A",
+                "url": "https://www.youtube.com/watch?v=ExKWf4h8X_A",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/ExKWf4h8X_A?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/ExKWf4h8X_A/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/ExKWf4h8X_A/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/ExKWf4h8X_A/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/ExKWf4h8X_A/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/ExKWf4h8X_A/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\PromoListItem",
+            "title": "Character PV (Hitori Gotou ver.)",
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "zyuZFkbpVZg",
+                "url": "https://www.youtube.com/watch?v=zyuZFkbpVZg",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/zyuZFkbpVZg?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/zyuZFkbpVZg/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/zyuZFkbpVZg/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/zyuZFkbpVZg/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/zyuZFkbpVZg/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/zyuZFkbpVZg/maxresdefault.jpg"
+                }
+            }
+        }
+    ],
+    "episodes": [
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 12,
+            "title": "Morning Light Falls on You",
+            "episode": "Episode 12",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/12",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/b12c0ae00d1c924ba06086be5c102fb21671896220_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 11,
+            "title": "Duodecimal Sunset",
+            "episode": "Episode 11",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/11",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/e4650eedf1f633c38212c638cfecdf941671278207_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 10,
+            "title": "After Dark",
+            "episode": "Episode 10",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/10",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/8d9758fceed7950f4b5912a0e4acb8b71670690719_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 9,
+            "title": "Enoshima Escar",
+            "episode": "Episode 9",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/9",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ec77b0bfac2b0b265c070722c0ac4a4b1670084334_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 8,
+            "title": "Bocchi the Rock",
+            "episode": "Episode 8",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/8",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/5bb343da3872ef2449a31635fafecac61669478427_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 7,
+            "title": "To Your House",
+            "episode": "Episode 7",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/7",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/3b0d87b18f9b29c63eb454b0e8d1b2841668876016_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 6,
+            "title": "Eight Views",
+            "episode": "Episode 6",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/6",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/75f5856923d5ecb4c0ca191460b011091668268479_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 5,
+            "title": "Flightless Fish",
+            "episode": "Episode 5",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/5",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/8798e700d33fcce6bf4e20929f9245191667663575_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 4,
+            "title": "Jumping Girl(s)",
+            "episode": "Episode 4",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/4",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/cfa102cae390ac1188d82c60695dc2e11667044223_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 3,
+            "title": "Be Right There",
+            "episode": "Episode 3",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/3",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/eac9381c75b183dd2690ac0b7d70933a1666449389_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 2,
+            "title": "See You Tomorrow",
+            "episode": "Episode 2",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/7669310cd3415ed81b3e97e8b5a465d51665844932_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1,
+            "title": "Lonely Rolling Bocchi",
+            "episode": "Episode 1",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock/episode/1",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/3fbfc4ef160319703d1c32cd846a3ca71665244213_large.jpg"
+                }
+            }
+        }
+    ],
+    "musicVideos": [
+        {
+            "@class": "Jikan\\Model\\Anime\\MusicVideoListItem",
+            "title": "OP 1 (Anime ver.)",
+            "video": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "Yd8kUoB72xU",
+                "url": "https://www.youtube.com/watch?v=Yd8kUoB72xU",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/Yd8kUoB72xU?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/Yd8kUoB72xU/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/Yd8kUoB72xU/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/Yd8kUoB72xU/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/Yd8kUoB72xU/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/Yd8kUoB72xU/maxresdefault.jpg"
+                }
+            },
+            "meta": {
+                "@class": "Jikan\\Model\\Common\\MusicMeta",
+                "title": "\"Seishun Complex (青春コンプレックス)\"",
+                "author": "Kessoku Band (結束バンド)"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\MusicVideoListItem",
+            "title": "ED 1 (Anime ver.)",
+            "video": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "Xy6lZxoJ4ts",
+                "url": "https://www.youtube.com/watch?v=Xy6lZxoJ4ts",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/Xy6lZxoJ4ts?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/Xy6lZxoJ4ts/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/Xy6lZxoJ4ts/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/Xy6lZxoJ4ts/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/Xy6lZxoJ4ts/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/Xy6lZxoJ4ts/maxresdefault.jpg"
+                }
+            },
+            "meta": {
+                "@class": "Jikan\\Model\\Common\\MusicMeta",
+                "title": "\"Distortion!!\"",
+                "author": "Kessoku Band (結束バンド)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,767 @@
+{
+    "@class": "Jikan\\Model\\News\\NewsList",
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74814550,
+            "url": "https://myanimelist.net/news/74814550",
+            "title": "Manga 'Nue no Onmyouji' Gets TV Anime in Summer 2027",
+            "date": "2026-10-13T04:54:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282524",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791806165-83f3cba0d7f65b64697ef6aee334e0fd.jpeg?s=b53fd82fcbe321c0533e7945ae51f357",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791806165-83f3cba0d7f65b64697ef6aee334e0fd.jpeg?s=b53fd82fcbe321c0533e7945ae51f357",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791806165-83f3cba0d7f65b64697ef6aee334e0fd.jpeg?s=b53fd82fcbe321c0533e7945ae51f357"
+                }
+            },
+            "comments": 30,
+            "excerpt": "The sixth Jump Press livestream event announced a television anime adaptation of Kouta Kawae's Nue no Onmyouji (Nue's Exorcist) manga on Monday, revealing the main cast, staff, a teaser visual (pictured), and an announcement promotional video. The anime is scheduled to premiere...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2027",
+                    "name": "Summer 2027",
+                    "url": "https://myanimelist.net/news/tag/summer_2027"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74809610,
+            "url": "https://myanimelist.net/news/74809610",
+            "title": "'Naruto x Ninkuu' Crossover Anime Announced",
+            "date": "2026-10-10T16:37:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282354",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg?s=d13e6eae3fcad24edf8a7466aca78113",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg?s=d13e6eae3fcad24edf8a7466aca78113",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg?s=d13e6eae3fcad24edf8a7466aca78113"
+                }
+            },
+            "comments": 26,
+            "excerpt": "The \"Naruto: What's Next?\" panel at New York Comic Con 2026 announced a brand new four-episode crossover anime based on Masashi Kishimoto's Naruto manga and Kouji Kiriyama's Ninkuu manga on Saturday. The Naruto franchise's official website opened a new page, revealing the main c...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74808029,
+            "url": "https://myanimelist.net/news/74808029",
+            "title": "New 'Dr. Stone' Anime Announced",
+            "date": "2026-10-10T06:05:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282296",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg?s=95920d518b4a0fe82c15c0cdd5fbd86b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg?s=95920d518b4a0fe82c15c0cdd5fbd86b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg?s=95920d518b4a0fe82c15c0cdd5fbd86b"
+                }
+            },
+            "comments": 12,
+            "excerpt": "The Stone Fes.2026 event at Yokohama Buntai announced on Saturday that a sequel anime subtitled Dr. Stone: Terraforming is in production. The official website also revealed a new anime logo (pictured above) and an announcement promo. The character designer, Yuuko Iwasa drew an i...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74804055,
+            "url": "https://myanimelist.net/news/74804055",
+            "title": "White Fox Produces 'Monster no Niku wo Kutte Itara Oui ni Tsuita Ken' TV Anime Adaptation for 2027",
+            "date": "2026-10-09T02:00:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282133",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791517737-ee34417371d7288d4bf8cadad0ee0e65.jpeg?s=e9631dfd0b66de0b089789f218616897",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791517737-ee34417371d7288d4bf8cadad0ee0e65.jpeg?s=e9631dfd0b66de0b089789f218616897",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791517737-ee34417371d7288d4bf8cadad0ee0e65.jpeg?s=e9631dfd0b66de0b089789f218616897"
+                }
+            },
+            "comments": 11,
+            "excerpt": "Production company King Records opened an official website for a television anime adaptation of Daken's Monster no Niku wo Kutte Itara Oui ni Tsuita Ken (How I Became King by Eating Monsters) light novel on Friday, revealing a teaser visual (pictured). The anime series is being p...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74803494,
+            "url": "https://myanimelist.net/news/74803494",
+            "title": "Webtoon 'The Boxer' Gets TV Anime",
+            "date": "2026-10-08T16:43:00+00:00",
+            "authorUsername": "SyverenWaterlow",
+            "authorUrl": "https://myanimelist.net/profile/SyverenWaterlow",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282099",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791502423-7eaf732e83edf476ff060386472e9aaa.jpeg?s=91a469d09660408e2ff1194af7aa785c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791502423-7eaf732e83edf476ff060386472e9aaa.jpeg?s=91a469d09660408e2ff1194af7aa785c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791502423-7eaf732e83edf476ff060386472e9aaa.jpeg?s=91a469d09660408e2ff1194af7aa785c"
+                }
+            },
+            "comments": 6,
+            "excerpt": "The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Ji-Hoon Jeong's The Boxer webtoon on Thursday, revealing the main cast, staff, and a special promotional trailer. Cast Yu: Kouki Uchiyama (Blue Lock) J: Toshiyuki Toyonaga (Bungou Stray...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74803489,
+            "url": "https://myanimelist.net/news/74803489",
+            "title": "Webtoon 'The Remarried Empress' Gets TV Anime in 2027",
+            "date": "2026-10-08T16:41:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282098",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791502829-d725b283515855700a2a341f7d6ac536.jpeg?s=bb91aa21fd87a64b43bf599e1ede6b01",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791502829-d725b283515855700a2a341f7d6ac536.jpeg?s=bb91aa21fd87a64b43bf599e1ede6b01",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791502829-d725b283515855700a2a341f7d6ac536.jpeg?s=bb91aa21fd87a64b43bf599e1ede6b01"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Alphatart and Sumpul's The Remarried Princess webtoon on Thursday. An official website was also launched, revealing the main cast, staff, a fourth character visual (pictured), and spec...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74794971,
+            "url": "https://myanimelist.net/news/74794971",
+            "title": "Hideaki Anno, Yutaka Izubuchi Co-Direct 'Uchuu Senkan Yamato √2199' Anime Movie",
+            "date": "2026-10-05T18:33:00+00:00",
+            "authorUsername": "NokkiMal",
+            "authorUrl": "https://myanimelist.net/profile/NokkiMal",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281723",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791250260-dbc9415d1dfb458d66081f1e96b73795.jpeg?s=fe14133f774c06554a7d813b92cbea35",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791250260-dbc9415d1dfb458d66081f1e96b73795.jpeg?s=fe14133f774c06554a7d813b92cbea35",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791250260-dbc9415d1dfb458d66081f1e96b73795.jpeg?s=fe14133f774c06554a7d813b92cbea35"
+                }
+            },
+            "comments": 5,
+            "excerpt": "An official website opened for the new Uchuu Senkan Yamato (Space Battleship Yamato) anime project on Tuesday, revealing its official title, main staff, and a teaser visual (pictured). Titled Uchuu Senkan Yamato √2199 (Cosmoship Yamato √2199), the project will be a feature-length...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74793032,
+            "url": "https://myanimelist.net/news/74793032",
+            "title": "Manga 'Vampire Juujikai' Gets TV Anime For 2027",
+            "date": "2026-10-05T02:48:00+00:00",
+            "authorUsername": "Safuan12616",
+            "authorUrl": "https://myanimelist.net/profile/Safuan12616",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281634",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791193378-7885fbacabf72465c0ee1482a193bda8.jpeg?s=d14b9b2a782137cd3a7c93775abca1db",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791193378-7885fbacabf72465c0ee1482a193bda8.jpeg?s=d14b9b2a782137cd3a7c93775abca1db",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791193378-7885fbacabf72465c0ee1482a193bda8.jpeg?s=d14b9b2a782137cd3a7c93775abca1db"
+                }
+            },
+            "comments": 7,
+            "excerpt": "Production company Pony Canyon opened an official website for the television anime adaptation of Kyou Shirodaira's Vampire Juujikai (The Record of a Fallen Vampire) on Monday revealing the main cast pair, staff, a teaser visual (pictured), and a teaser promo. The anime is schedul...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74790204,
+            "url": "https://myanimelist.net/news/74790204",
+            "title": "Manga 'Manshuu Ahen Squad' Gets Anime Adaptation",
+            "date": "2026-10-04T08:24:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281539",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791127380-8a9cf69f0a96cc33aba0d103a977dcc4.jpeg?s=78d3c6fe4fb344b6037d18c485c88763",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791127380-8a9cf69f0a96cc33aba0d103a977dcc4.jpeg?s=78d3c6fe4fb344b6037d18c485c88763",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791127380-8a9cf69f0a96cc33aba0d103a977dcc4.jpeg?s=78d3c6fe4fb344b6037d18c485c88763"
+                }
+            },
+            "comments": 11,
+            "excerpt": "Production company Pony Canyon opened an official website for an anime adaptation of Tsukasa Monma and Shikako's Manshuu Ahen Squad (Manchuria Opium Squad) manga on Monday. Monma and Shikako originally began serializing the historical crime manga on the Comic Days platform in Apr...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74786099,
+            "url": "https://myanimelist.net/news/74786099",
+            "title": "Light Novel 'Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga' Gets TV Anime Adaptation",
+            "date": "2026-10-03T07:59:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281397",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791039446-a1d8a29a3f1e23fd5ed61fc4438adbab.jpeg?s=99dfc4a2e274cc48e74055869bde1ffa",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791039446-a1d8a29a3f1e23fd5ed61fc4438adbab.jpeg?s=99dfc4a2e274cc48e74055869bde1ffa",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791039446-a1d8a29a3f1e23fd5ed61fc4438adbab.jpeg?s=99dfc4a2e274cc48e74055869bde1ffa"
+                }
+            },
+            "comments": 5,
+            "excerpt": "The Dengeki Bunko Autumn Festival Online 2026 livestream event announced a television anime adaptation of Maware Isogawa and Heirou's Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga (I Can't Exploit it Because of the Expectations and Evaluation from Slaves) ligh...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74786056,
+            "url": "https://myanimelist.net/news/74786056",
+            "title": "Light Novel 'Soshiki no Shukuteki to Kekkon shitara Mecha Amai' Gets TV Anime",
+            "date": "2026-10-03T07:46:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281394",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791038668-380deecc0482404353ad0431e8ae8318.jpeg?s=650253713961af638c1a86afd0339ccf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791038668-380deecc0482404353ad0431e8ae8318.jpeg?s=650253713961af638c1a86afd0339ccf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791038668-380deecc0482404353ad0431e8ae8318.jpeg?s=650253713961af638c1a86afd0339ccf"
+                }
+            },
+            "comments": 5,
+            "excerpt": "The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Toshimichi Uzou's Soshiki no Shukuteki to Kekkon shitara Mecha Amai (My Sweet Marriage to My Ex-Nemesis) light novel on Saturday and revealed the main staff. An illustration (pictured) drawn...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74786020,
+            "url": "https://myanimelist.net/news/74786020",
+            "title": "Light Novel 'Kochira, Shuumatsu Teitai Iinkai' Receives Anime Adaptation",
+            "date": "2026-10-03T07:35:00+00:00",
+            "authorUsername": "Safuan12616",
+            "authorUrl": "https://myanimelist.net/profile/Safuan12616",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281392",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791037956-81ecc4a2264e2448cdbce0ff5d5e3bc2.jpeg?s=632142c076aa2f66ac8fd913d4c21124",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791037956-81ecc4a2264e2448cdbce0ff5d5e3bc2.jpeg?s=632142c076aa2f66ac8fd913d4c21124",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791037956-81ecc4a2264e2448cdbce0ff5d5e3bc2.jpeg?s=632142c076aa2f66ac8fd913d4c21124"
+                }
+            },
+            "comments": 7,
+            "excerpt": "The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Kien Aien's Kochira, Shuumatsu Teitai Iinkai (This Is the End Stagnation Committee.) light novel on Saturday, revealing an announcement promo. Kadokawa began publishing the fantasy romance n...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74785962,
+            "url": "https://myanimelist.net/news/74785962",
+            "title": "Light Novel 'Delta to Gamma no Rigakubu Note' Gets Anime Adaptation",
+            "date": "2026-10-03T07:12:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281389",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791036653-bc1997a8225141b1c39b115f560b8c49.jpeg?s=35a982b9af8f18abcf246af1fb0742e0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791036653-bc1997a8225141b1c39b115f560b8c49.jpeg?s=35a982b9af8f18abcf246af1fb0742e0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791036653-bc1997a8225141b1c39b115f560b8c49.jpeg?s=35a982b9af8f18abcf246af1fb0742e0"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The Dengeki Bunko Autumn Festival Online 2026 announced an anime adaptation of Takuma Sakai's Delta to Gamma no Rigakubu Note (The Science Notes by δ and γ) light novel on Saturday, revealing an announcement promo. The light novel illustrator Asagi Toosaka drew an illustration to...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74785445,
+            "url": "https://myanimelist.net/news/74785445",
+            "title": "'Honzuki no Gekokujou: Ryoushu no Youjo' Gets Sequel TV Anime",
+            "date": "2026-10-03T02:58:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281361",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791021195-4c9279b001d5f4371b0d7e61382cfe22.jpeg?s=504b3878b695ff537cae28c04d6ea099",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791021195-4c9279b001d5f4371b0d7e61382cfe22.jpeg?s=504b3878b695ff537cae28c04d6ea099",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791021195-4c9279b001d5f4371b0d7e61382cfe22.jpeg?s=504b3878b695ff537cae28c04d6ea099"
+                }
+            },
+            "comments": 9,
+            "excerpt": "The 24th and final episode of Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen: Ryoushu no Youjo (Ascendance of a Bookworm: Adopted Daughter of an Archduke) ended with an announcement on Saturday that a sequel television anime adaptation is in productio...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74778514,
+            "url": "https://myanimelist.net/news/74778514",
+            "title": "Light Novel 'Maid nara Touzen desu. Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita' Gets TV Anime",
+            "date": "2026-09-30T21:58:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281134",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1790830664-0c9af6f852f575d5edab435aa0494794.jpeg?s=9cf8af88fe256decb8a283d460881f05",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1790830664-0c9af6f852f575d5edab435aa0494794.jpeg?s=9cf8af88fe256decb8a283d460881f05",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1790830664-0c9af6f852f575d5edab435aa0494794.jpeg?s=9cf8af88fe256decb8a283d460881f05"
+                }
+            },
+            "comments": 9,
+            "excerpt": "Publishing company Earth Star Entertainment announced a television anime adaptation of Yasuaki Mikami's Maid nara Touzen desu. Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita (Looks Like a Job for a Maid! The Tales of a Dismissed Supermaid) light novel o...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74776633,
+            "url": "https://myanimelist.net/news/74776633",
+            "title": "'Thunder 3' Second Season Announced for 2027",
+            "date": "2026-09-30T10:28:00+00:00",
+            "authorUsername": "Safuan12616",
+            "authorUrl": "https://myanimelist.net/profile/Safuan12616",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281076",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1790789167-afd00879ed6a6337c5bd2a12c5058385.jpeg?s=d3b977b6e26732fa59d033cf3774d2f4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1790789167-afd00879ed6a6337c5bd2a12c5058385.jpeg?s=d3b977b6e26732fa59d033cf3774d2f4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1790789167-afd00879ed6a6337c5bd2a12c5058385.jpeg?s=d3b977b6e26732fa59d033cf3774d2f4"
+                }
+            },
+            "comments": 5,
+            "excerpt": "The 12th and final episode of Thunder 3 ended with an announcement on Thursday that its second season is scheduled for 2027, accompanied by a teaser promotional video. Produced by Unend, the television anime series adapting Hiroya Oku's supernatural mystery manga aired in 12 epis...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74776019,
+            "url": "https://myanimelist.net/news/74776019",
+            "title": "'Seirei Gensouki' Receives Third Anime Season",
+            "date": "2026-09-30T07:04:00+00:00",
+            "authorUsername": "Safuan12616",
+            "authorUrl": "https://myanimelist.net/profile/Safuan12616",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281043",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1790776873-95586a52ca4a306d8a1ee31d733e1e0a.jpeg?s=9ca744d3b0f48afa2f9dd8cb6a8f5c5e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1790776873-95586a52ca4a306d8a1ee31d733e1e0a.jpeg?s=9ca744d3b0f48afa2f9dd8cb6a8f5c5e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1790776873-95586a52ca4a306d8a1ee31d733e1e0a.jpeg?s=9ca744d3b0f48afa2f9dd8cb6a8f5c5e"
+                }
+            },
+            "comments": 8,
+            "excerpt": "The official website of the television anime adaptation of Yuri Kitayama's Seirei Gensouki (Seirei Gensouki: Spirit Chronicles) light novel announced a third season on Wednesday. Produced by TMS Entertainment, the first season aired in 12 episodes in Summer 2021. A 12 episodes se...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74770586,
+            "url": "https://myanimelist.net/news/74770586",
+            "title": "'Liar Game' Second Season Announced",
+            "date": "2026-09-28T09:04:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2280815",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1790611413-41667c07a7b60e92e6af013b53fe3834.jpeg?s=26b568301cec72f0f18638d76956b64a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1790611413-41667c07a7b60e92e6af013b53fe3834.jpeg?s=26b568301cec72f0f18638d76956b64a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1790611413-41667c07a7b60e92e6af013b53fe3834.jpeg?s=26b568301cec72f0f18638d76956b64a"
+                }
+            },
+            "comments": 7,
+            "excerpt": "The 26th and final episode of Liar Game ended with an announcement on Tuesday that a second season is in production. The animation character designer Kei Tsuchiya drew an illustration to commemorate the announcement (pictured). Produced by Madhouse, the television anime series ad...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74768378,
+            "url": "https://myanimelist.net/news/74768378",
+            "title": "Web Manga 'Houkago no Idol ni wa Himitsu ga Aru' Gets TV Anime in Spring 2027",
+            "date": "2026-09-27T20:49:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2280776",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1790567314-c180cada59cc88a7b9e12cfdb9cebeba.jpeg?s=d0fbd7b2e2d8a65a9b2151b5e310056a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1790567314-c180cada59cc88a7b9e12cfdb9cebeba.jpeg?s=d0fbd7b2e2d8a65a9b2151b5e310056a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1790567314-c180cada59cc88a7b9e12cfdb9cebeba.jpeg?s=d0fbd7b2e2d8a65a9b2151b5e310056a"
+                }
+            },
+            "comments": 4,
+            "excerpt": "Production company Bushiroad opened an official website for a television anime adaptation of Kashiko Amane's Houkago no Idol ni wa Himitsu ga Aru (Everyone's Darling Has a Secret) web manga on Monday, revealing the main cast, staff, and a teaser visual (pictured). The anime serie...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "spring_2027",
+                    "name": "Spring 2027",
+                    "url": "https://myanimelist.net/news/tag/spring_2027"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74766124,
+            "url": "https://myanimelist.net/news/74766124",
+            "title": "'Mushoku Tensei III: Isekai Ittara Honki Dasu' Part 2 Announced for 2027",
+            "date": "2026-09-27T08:57:00+00:00",
+            "authorUsername": "Safuan12616",
+            "authorUrl": "https://myanimelist.net/profile/Safuan12616",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2280710",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1790524492-c52928ed9fc6f1f11678bea5058ce5f3.jpeg?s=d80d6cdb34009af86f2394824fa9470c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1790524492-c52928ed9fc6f1f11678bea5058ce5f3.jpeg?s=d80d6cdb34009af86f2394824fa9470c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1790524492-c52928ed9fc6f1f11678bea5058ce5f3.jpeg?s=d80d6cdb34009af86f2394824fa9470c"
+                }
+            },
+            "comments": 13,
+            "excerpt": "The 14th and final episode of Mushoku Tensei III: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation Season 3) television anime announced on Sunday that its second part is scheduled for 2027, accompanied by an announcement promotional video. Produced by Studio Bind,...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        }
+    ]
+}

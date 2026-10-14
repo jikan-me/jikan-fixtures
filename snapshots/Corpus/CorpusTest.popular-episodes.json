@@ -1,0 +1,3355 @@
+{
+    "@class": "Jikan\\Model\\Watch\\Episodes",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Cowboy Bebop"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 26,
+                    "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/26",
+                    "title": "Episode 26",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/1/Cowboy_Bebop/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 20,
+                "url": "https://myanimelist.net/anime/20/Naruto",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503l.webp"
+                    }
+                },
+                "title": "Naruto"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 220,
+                    "url": "https://myanimelist.net/anime/20/Naruto/episode/220",
+                    "title": "Episode 220",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 219,
+                    "url": "https://myanimelist.net/anime/20/Naruto/episode/219",
+                    "title": "Episode 219",
+                    "premium": true
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.webp"
+                    }
+                },
+                "title": "One Piece"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 1123,
+                    "url": "https://myanimelist.net/anime/21/One_Piece/episode/1123",
+                    "title": "Episode 1123",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 1122,
+                    "url": "https://myanimelist.net/anime/21/One_Piece/episode/1122",
+                    "title": "Episode 1122",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/75815t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/75815l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75815.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/75815t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/75815l.webp"
+                    }
+                },
+                "title": "Fullmetal Alchemist"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 51,
+                    "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/51",
+                    "title": "Episode 51",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 50,
+                    "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist/episode/50",
+                    "title": "Episode 50",
+                    "premium": true
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774l.webp"
+                    }
+                },
+                "title": "Bleach"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 366,
+                    "url": "https://myanimelist.net/anime/269/Bleach/episode/366",
+                    "title": "Episode 366",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 365,
+                    "url": "https://myanimelist.net/anime/269/Bleach/episode/365",
+                    "title": "Episode 365",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1535,
+                "url": "https://myanimelist.net/anime/1535/Death_Note",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Death Note"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 37,
+                    "url": "https://myanimelist.net/anime/1535/Death_Note/episode/37",
+                    "title": "Episode 37",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 36,
+                    "url": "https://myanimelist.net/anime/1535/Death_Note/episode/36",
+                    "title": "Episode 36",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1575,
+                "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp"
+                    }
+                },
+                "title": "Code Geass: Hangyaku no Lelouch"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1735,
+                "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305l.webp"
+                    }
+                },
+                "title": "Naruto: Shippuuden"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 500,
+                    "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden/episode/500",
+                    "title": "Episode 500",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 499,
+                    "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden/episode/499",
+                    "title": "Episode 499",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2001,
+                "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Tengen Toppa Gurren Lagann"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 27,
+                    "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann/episode/27",
+                    "title": "Episode 27",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 26,
+                    "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann/episode/26",
+                    "title": "Episode 26",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2904,
+                "url": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/135089.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1088/135089t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1088/135089l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1088/135089.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1088/135089t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1088/135089l.webp"
+                    }
+                },
+                "title": "Code Geass: Hangyaku no Lelouch R2"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 3588,
+                "url": "https://myanimelist.net/anime/3588/Soul_Eater",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Soul Eater"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 51,
+                    "url": "https://myanimelist.net/anime/3588/Soul_Eater/episode/51",
+                    "title": "Episode 51",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 50,
+                    "url": "https://myanimelist.net/anime/3588/Soul_Eater/episode/50",
+                    "title": "Episode 50",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 4224,
+                "url": "https://myanimelist.net/anime/4224/Toradora",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Toradora!"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/4224/Toradora/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/4224/Toradora/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 5081,
+                "url": "https://myanimelist.net/anime/5081/Bakemonogatari",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Bakemonogatari"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/5081/Bakemonogatari/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/5081/Bakemonogatari/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Fullmetal Alchemist: Brotherhood"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 64,
+                    "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood/episode/64",
+                    "title": "Episode 64",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 63,
+                    "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood/episode/63",
+                    "title": "Episode 63",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 6547,
+                "url": "https://myanimelist.net/anime/6547/Angel_Beats",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/111115.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/111115t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/111115l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/111115.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/111115t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/111115l.webp"
+                    }
+                },
+                "title": "Angel Beats!"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/6547/Angel_Beats/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/6547/Angel_Beats/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 6702,
+                "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Fairy Tail"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 175,
+                    "url": "https://myanimelist.net/anime/6702/Fairy_Tail/episode/175",
+                    "title": "Episode 175",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 174,
+                    "url": "https://myanimelist.net/anime/6702/Fairy_Tail/episode/174",
+                    "title": "Episode 174",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 6746,
+                "url": "https://myanimelist.net/anime/6746/Durarara",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/71772.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/71772t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/71772l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/71772.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/71772t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/71772l.webp"
+                    }
+                },
+                "title": "Durarara!!"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/6746/Durarara/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/6746/Durarara/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 9253,
+                "url": "https://myanimelist.net/anime/9253/Steins_Gate",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Steins;Gate"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/9253/Steins_Gate/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/9253/Steins_Gate/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 9919,
+                "url": "https://myanimelist.net/anime/9919/Ao_no_Exorcist",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Ao no Exorcist"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/9919/Ao_no_Exorcist/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/9919/Ao_no_Exorcist/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 9989,
+                "url": "https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/79697t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/79697l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/79697.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/79697t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/79697l.webp"
+                    }
+                },
+                "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 10,
+                    "url": "https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai/episode/10",
+                    "title": "Episode 10",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 10087,
+                "url": "https://myanimelist.net/anime/10087/Fate_Zero",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Fate/Zero"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/10087/Fate_Zero/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/10087/Fate_Zero/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 10620,
+                "url": "https://myanimelist.net/anime/10620/Mirai_Nikki_TV",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Mirai Nikki (TV)"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 26,
+                    "url": "https://myanimelist.net/anime/10620/Mirai_Nikki_TV/episode/26",
+                    "title": "Episode 26",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/10620/Mirai_Nikki_TV/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 11061,
+                "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp"
+                    }
+                },
+                "title": "Hunter x Hunter (2011)"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 148,
+                    "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011/episode/148",
+                    "title": "Episode 148",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 147,
+                    "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011/episode/147",
+                    "title": "Episode 147",
+                    "premium": true
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 11111,
+                "url": "https://myanimelist.net/anime/11111/Another",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Another"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/11111/Another/episode/12",
+                    "title": "Episode 12",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/11111/Another/episode/11",
+                    "title": "Episode 11",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 11757,
+                "url": "https://myanimelist.net/anime/11757/Sword_Art_Online",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/39717t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/11/39717.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/39717t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/39717l.webp"
+                    }
+                },
+                "title": "Sword Art Online"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/11757/Sword_Art_Online/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/11757/Sword_Art_Online/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 13601,
+                "url": "https://myanimelist.net/anime/13601/Psycho-Pass",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/142015.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1314/142015t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1314/142015l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/142015.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1314/142015t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1314/142015l.webp"
+                    }
+                },
+                "title": "Psycho-Pass"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 22,
+                    "url": "https://myanimelist.net/anime/13601/Psycho-Pass/episode/22",
+                    "title": "Episode 22",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 21,
+                    "url": "https://myanimelist.net/anime/13601/Psycho-Pass/episode/21",
+                    "title": "Episode 21",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 14719,
+                "url": "https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/3/40409.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/40409t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/40409l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/3/40409.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/40409t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/40409l.webp"
+                    }
+                },
+                "title": "JoJo no Kimyou na Bouken (TV)"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 26,
+                    "url": "https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV/episode/26",
+                    "title": "Episode 26",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 14813,
+                "url": "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru/episode/13",
+                    "title": "Episode 13",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru/episode/12",
+                    "title": "Episode 12",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 15809,
+                "url": "https://myanimelist.net/anime/15809/Hataraku_Maou-sama",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Hataraku Maou-sama!"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/15809/Hataraku_Maou-sama/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/15809/Hataraku_Maou-sama/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 16498,
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Shingeki no Kyojin"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 18679,
+                "url": "https://myanimelist.net/anime/18679/Kill_la_Kill",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Kill la Kill"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/18679/Kill_la_Kill/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/18679/Kill_la_Kill/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 20507,
+                "url": "https://myanimelist.net/anime/20507/Noragami",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Noragami"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/20507/Noragami/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/20507/Noragami/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 20583,
+                "url": "https://myanimelist.net/anime/20583/Haikyuu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/76014t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/76014l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/76014.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/76014t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/76014l.webp"
+                    }
+                },
+                "title": "Haikyuu!!"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/20583/Haikyuu/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/20583/Haikyuu/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 21881,
+                "url": "https://myanimelist.net/anime/21881/Sword_Art_Online_II",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1223/121999.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1223/121999t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1223/121999l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1223/121999.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1223/121999t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1223/121999l.webp"
+                    }
+                },
+                "title": "Sword Art Online II"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/21881/Sword_Art_Online_II/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/21881/Sword_Art_Online_II/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 22199,
+                "url": "https://myanimelist.net/anime/22199/Akame_ga_Kill",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Akame ga Kill!"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/22199/Akame_ga_Kill/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/22199/Akame_ga_Kill/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 22319,
+                "url": "https://myanimelist.net/anime/22319/Tokyo_Ghoul",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Tokyo Ghoul"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/22319/Tokyo_Ghoul/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/22319/Tokyo_Ghoul/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 22535,
+                "url": "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Kiseijuu: Sei no Kakuritsu"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 23273,
+                "url": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Shigatsu wa Kimi no Uso"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 22,
+                    "url": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso/episode/22",
+                    "title": "Episode 22",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 21,
+                    "url": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso/episode/21",
+                    "title": "Episode 21",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 24833,
+                "url": "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/75639t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/75639l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/75639.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/75639t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/75639l.webp"
+                    }
+                },
+                "title": "Ansatsu Kyoushitsu"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 22,
+                    "url": "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu/episode/22",
+                    "title": "Episode 22",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 21,
+                    "url": "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu/episode/21",
+                    "title": "Episode 21",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 25777,
+                "url": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Shingeki no Kyojin Season 2"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 28223,
+                "url": "https://myanimelist.net/anime/28223/Death_Parade",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Death Parade"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/28223/Death_Parade/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/28223/Death_Parade/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 28891,
+                "url": "https://myanimelist.net/anime/28891/Haikyuu_Second_Season",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/9/76662.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/76662t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/76662l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/9/76662.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/76662t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/76662l.webp"
+                    }
+                },
+                "title": "Haikyuu!! Second Season"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/28891/Haikyuu_Second_Season/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/28891/Haikyuu_Second_Season/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 28999,
+                "url": "https://myanimelist.net/anime/28999/Charlotte",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Charlotte"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/28999/Charlotte/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/28999/Charlotte/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 29803,
+                "url": "https://myanimelist.net/anime/29803/Overlord",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600l.webp"
+                    }
+                },
+                "title": "Overlord"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/29803/Overlord/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/29803/Overlord/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 30276,
+                "url": "https://myanimelist.net/anime/30276/One_Punch_Man",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/76049t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/76049.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/76049t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/76049l.webp"
+                    }
+                },
+                "title": "One Punch Man"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/30276/One_Punch_Man/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/30276/One_Punch_Man/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 30503,
+                "url": "https://myanimelist.net/anime/30503/Noragami_Aragoto",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Noragami Aragoto"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/30503/Noragami_Aragoto/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/30503/Noragami_Aragoto/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 30654,
+                "url": "https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/77966.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/77966t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/77966l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/77966.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/77966t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/77966l.webp"
+                    }
+                },
+                "title": "Ansatsu Kyoushitsu 2nd Season"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 30831,
+                "url": "https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Kono Subarashii Sekai ni Shukufuku wo!"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 10,
+                    "url": "https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo/episode/10",
+                    "title": "Episode 10",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 9,
+                    "url": "https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo/episode/9",
+                    "title": "Episode 9",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 31043,
+                "url": "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/77957t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/77957.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/77957t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/77957l.webp"
+                    }
+                },
+                "title": "Boku dake ga Inai Machi"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 31964,
+                "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/78745t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/78745t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+                    }
+                },
+                "title": "Boku no Hero Academia"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 32182,
+                "url": "https://myanimelist.net/anime/32182/Mob_Psycho_100",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Mob Psycho 100"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/32182/Mob_Psycho_100/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/32182/Mob_Psycho_100/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 32281,
+                "url": "https://myanimelist.net/anime/32281/Kimi_no_Na_wa",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Kimi no Na wa."
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 1,
+                    "url": "https://myanimelist.net/anime/32281/Kimi_no_Na_wa/episode/1",
+                    "title": "Episode 1",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 32937,
+                "url": "https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Kono Subarashii Sekai ni Shukufuku wo! 2"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 10,
+                    "url": "https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2/episode/10",
+                    "title": "Episode 10",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 9,
+                    "url": "https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2/episode/9",
+                    "title": "Episode 9",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 33486,
+                "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/85221t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/85221.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/85221t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/85221l.webp"
+                    }
+                },
+                "title": "Boku no Hero Academia 2nd Season"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 34134,
+                "url": "https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1247/122044.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1247/122044t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1247/122044l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1247/122044.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1247/122044t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1247/122044l.webp"
+                    }
+                },
+                "title": "One Punch Man 2nd Season"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 34572,
+                "url": "https://myanimelist.net/anime/34572/Black_Clover",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Black Clover"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 170,
+                    "url": "https://myanimelist.net/anime/34572/Black_Clover/episode/170",
+                    "title": "Episode 170",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 169,
+                    "url": "https://myanimelist.net/anime/34572/Black_Clover/episode/169",
+                    "title": "Episode 169",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 34599,
+                "url": "https://myanimelist.net/anime/34599/Made_in_Abyss",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Made in Abyss"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/34599/Made_in_Abyss/episode/13",
+                    "title": "Episode 13",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/34599/Made_in_Abyss/episode/12",
+                    "title": "Episode 12",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 35760,
+                "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Shingeki no Kyojin Season 3"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 35790,
+                "url": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Tate no Yuusha no Nariagari"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 3,
+                    "url": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari/episode/3",
+                    "title": "Episode 3",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 2,
+                    "url": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari/episode/2",
+                    "title": "Episode 2",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 35849,
+                "url": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1614/90408t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1614/90408l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1614/90408.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1614/90408t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1614/90408l.webp"
+                    }
+                },
+                "title": "Darling in the FranXX"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX/episode/24",
+                    "title": "Episode 24",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX/episode/23",
+                    "title": "Episode 23",
+                    "premium": true
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 36456,
+                "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp"
+                    }
+                },
+                "title": "Boku no Hero Academia 3rd Season"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 37430,
+                "url": "https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Tensei shitara Slime Datta Ken"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 37450,
+                "url": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586l.webp"
+                    }
+                },
+                "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 37510,
+                "url": "https://myanimelist.net/anime/37510/Mob_Psycho_100_II",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Mob Psycho 100 II"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/37510/Mob_Psycho_100_II/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/37510/Mob_Psycho_100_II/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 37521,
+                "url": "https://myanimelist.net/anime/37521/Vinland_Saga",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1500/103005t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/103005.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1500/103005t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp"
+                    }
+                },
+                "title": "Vinland Saga"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/37521/Vinland_Saga/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/37521/Vinland_Saga/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 37779,
+                "url": "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Yakusoku no Neverland"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 37999,
+                "url": "https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 38000,
+                "url": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp"
+                    }
+                },
+                "title": "Kimetsu no Yaiba"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 26,
+                    "url": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba/episode/26",
+                    "title": "Episode 26",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba/episode/25",
+                    "title": "Episode 25",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 38408,
+                "url": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1412/107914t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1412/107914l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1412/107914.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1412/107914t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1412/107914l.webp"
+                    }
+                },
+                "title": "Boku no Hero Academia 4th Season"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season/episode/25",
+                    "title": "Episode 25",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season/episode/24",
+                    "title": "Episode 24",
+                    "premium": true
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 38524,
+                "url": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Shingeki no Kyojin Season 3 Part 2"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 10,
+                    "url": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2/episode/10",
+                    "title": "Episode 10",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 9,
+                    "url": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2/episode/9",
+                    "title": "Episode 9",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 38671,
+                "url": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/103275.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1664/103275t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1664/103275l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/103275.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1664/103275t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1664/103275l.webp"
+                    }
+                },
+                "title": "Enen no Shouboutai"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 39535,
+                "url": "https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1530/117776t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1530/117776.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1530/117776t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1530/117776l.webp"
+                    }
+                },
+                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 10,
+                    "url": "https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu/episode/10",
+                    "title": "Episode 10",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 40028,
+                "url": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Shingeki no Kyojin: The Final Season"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 16,
+                    "url": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season/episode/16",
+                    "title": "Episode 16",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 15,
+                    "url": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season/episode/15",
+                    "title": "Episode 15",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 40456,
+                "url": "https://myanimelist.net/anime/40456/Kimetsu_no_Yaiba_Movie__Mugen_Ressha-hen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 1,
+                    "url": "https://myanimelist.net/anime/40456/Kimetsu_no_Yaiba_Movie__Mugen_Ressha-hen/episode/1",
+                    "title": "Episode 1",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 40591,
+                "url": "https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659l.webp"
+                    }
+                },
+                "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 40748,
+                "url": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1171/109222t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1171/109222t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+                    }
+                },
+                "title": "Jujutsu Kaisen"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 24,
+                    "url": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen/episode/24",
+                    "title": "Episode 24",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 23,
+                    "url": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen/episode/23",
+                    "title": "Episode 23",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 42897,
+                "url": "https://myanimelist.net/anime/42897/Horimiya",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Horimiya"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/42897/Horimiya/episode/13",
+                    "title": "Episode 13",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/42897/Horimiya/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 44511,
+                "url": "https://myanimelist.net/anime/44511/Chainsaw_Man",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
+                    }
+                },
+                "title": "Chainsaw Man"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/44511/Chainsaw_Man/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/44511/Chainsaw_Man/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 47778,
+                "url": "https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036l.webp"
+                    }
+                },
+                "title": "Kimetsu no Yaiba: Yuukaku-hen"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen/episode/11",
+                    "title": "Episode 11",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 10,
+                    "url": "https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen/episode/10",
+                    "title": "Episode 10",
+                    "premium": true
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 48583,
+                "url": "https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Shingeki no Kyojin: The Final Season Part 2"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2/episode/12",
+                    "title": "Episode 12",
+                    "premium": false
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2/episode/11",
+                    "title": "Episode 11",
+                    "premium": false
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 50265,
+                "url": "https://myanimelist.net/anime/50265/Spy_x_Family",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Spy x Family"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/50265/Spy_x_Family/episode/12",
+                    "title": "Episode 12",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 11,
+                    "url": "https://myanimelist.net/anime/50265/Spy_x_Family/episode/11",
+                    "title": "Episode 11",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 52991,
+                "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp"
+                    }
+                },
+                "title": "Sousou no Frieren"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 28,
+                    "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren/episode/28",
+                    "title": "Episode 28",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 27,
+                    "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren/episode/27",
+                    "title": "Episode 27",
+                    "premium": true
+                }
+            ],
+            "regionLocked": false
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "@class": "Jikan\\Model\\Article\\PinnedArticleList",
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Article\\PinnedArticleListItem",
+            "malId": 2422,
+            "url": "https://myanimelist.net/featured/2422/The_Secret_to_Finding_Rare_Japanese_Anime_Merch",
+            "title": "The Secret to Finding Rare Japanese Anime Merch",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1788226153-01a6d5764290629bd8501c6341eb5cd1.jpeg?s=add857f19b4d96435ba38e218e00346a"
+                }
+            },
+            "views": 2096,
+            "excerpt": "Anime merchandise hunting doesn’t have to stop at international retailers. Discover why searching Japanese marketplaces, secondhand stores, and Japanese listings can uncover rare, limited, and discontinued goods, and how international fans can access them through ZenMarket.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\PinnedArticleListItem",
+            "malId": 2423,
+            "url": "https://myanimelist.net/featured/2423/The_Apothecary_Diaries__The_Characters_and_Connection_so_Far",
+            "title": "The Apothecary Diaries: The Characters and Connection so Far",
+            "authorUsername": "Timcampy",
+            "authorUrl": "https://myanimelist.net/profile/Timcampy",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1789497640-cf6fccbd0d2361b96a8fe213c82ad522.jpeg?s=875c60d164d65d75913c8a42e79a1b6a"
+                }
+            },
+            "views": 14508,
+            "excerpt": "Before the anime community dives into the third anime season airing this Fall, we're sharing some of the highlights from two panels at Anime Expo!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "events",
+                    "name": "Events",
+                    "url": "https://myanimelist.net/featured/tag/events"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\PinnedArticleListItem",
+            "malId": 2421,
+            "url": "https://myanimelist.net/featured/2421/Meet_Muv-Luv_Girls_Garden_the_Newest_Entry_in_the_Muv-Luv_Saga",
+            "title": "Meet Muv-Luv Girls Garden, the Newest Entry in the Muv-Luv Saga",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1788147717-5c73614acd2fe7e8dbd68735b8865bd1.png?s=f35b89148ca2828dfa2257409ba9b146"
+                }
+            },
+            "views": 4651,
+            "excerpt": "The latest chapter of the legendary Muv-Luv saga arrives on Steam. Take command of a squad of charming heroines and descend into the Maze, a mysterious underground world, in this full-auto idle RPG, and uncover the truth buried at its heart. Wishlist now to claim launch rewards.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\PinnedArticleListItem",
+            "malId": 2415,
+            "url": "https://myanimelist.net/featured/2415/Updated_9_2_BanG_Dream_YUME%E2%88%9EMITA__Ultimate_Summer_2026_Anime_Guide",
+            "title": "(Updated 9/2) BanG Dream! YUME∞MITA: Ultimate Summer 2026 Anime Guide",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1782185129-5a4a8ba7f91a7769335e16e7bc708ccf.png?s=42a1a8be098dea05f0822718e99a470e"
+                }
+            },
+            "views": 21831,
+            "excerpt": "Wondering whether you need to watch previous BanG Dream! anime before starting YUME∞MITA? Curious about Mugendai MewType, the new virtual band at the center of the story? This guide explains the characters, plot, music, themes, and unique appeal of one of Summer 2026's most anticipated music anime.",
+            "tags": []
+        }
+    ]
+}

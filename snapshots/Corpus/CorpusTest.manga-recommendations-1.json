@@ -1,0 +1,1380 @@
+[
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 3,
+            "url": "https://myanimelist.net/manga/3/20th_Century_Boys",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/260006.jpg?s=b437a7b1e1f15ff9a5759121351e47d5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/260006t.jpg?s=b437a7b1e1f15ff9a5759121351e47d5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/260006l.jpg?s=b437a7b1e1f15ff9a5759121351e47d5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/260006.webp?s=b437a7b1e1f15ff9a5759121351e47d5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/260006t.webp?s=b437a7b1e1f15ff9a5759121351e47d5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/260006l.webp?s=b437a7b1e1f15ff9a5759121351e47d5"
+                }
+            },
+            "title": "20th Century Boys"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-3",
+        "votes": 13
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 21,
+            "url": "https://myanimelist.net/manga/21/Death_Note",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/258245.jpg?s=dc85ade0b0e1083e92fd8c4509808626",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/258245t.jpg?s=dc85ade0b0e1083e92fd8c4509808626",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/258245l.jpg?s=dc85ade0b0e1083e92fd8c4509808626"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/258245.webp?s=dc85ade0b0e1083e92fd8c4509808626",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/258245t.webp?s=dc85ade0b0e1083e92fd8c4509808626",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/258245l.webp?s=dc85ade0b0e1083e92fd8c4509808626"
+                }
+            },
+            "title": "Death Note"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-21",
+        "votes": 12
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 745,
+            "url": "https://myanimelist.net/manga/745/Pluto",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/264496.jpg?s=b7a1b8f1a8415405cb459f1f822f7348",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/264496t.jpg?s=b7a1b8f1a8415405cb459f1f822f7348",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/264496l.jpg?s=b7a1b8f1a8415405cb459f1f822f7348"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/264496.webp?s=b7a1b8f1a8415405cb459f1f822f7348",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/264496t.webp?s=b7a1b8f1a8415405cb459f1f822f7348",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/264496l.webp?s=b7a1b8f1a8415405cb459f1f822f7348"
+                }
+            },
+            "title": "Pluto"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-745",
+        "votes": 9
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 11054,
+            "url": "https://myanimelist.net/manga/11054/Billy_Bat",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/181197.jpg?s=c61c1a6ae51261d85bec5ff0a6b28142",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/181197t.jpg?s=c61c1a6ae51261d85bec5ff0a6b28142",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/181197l.jpg?s=c61c1a6ae51261d85bec5ff0a6b28142"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/181197.webp?s=c61c1a6ae51261d85bec5ff0a6b28142",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/181197t.webp?s=c61c1a6ae51261d85bec5ff0a6b28142",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/181197l.webp?s=c61c1a6ae51261d85bec5ff0a6b28142"
+                }
+            },
+            "title": "Billy Bat"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-11054",
+        "votes": 6
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1695,
+            "url": "https://myanimelist.net/manga/1695/Adolf_ni_Tsugu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/258872.jpg?s=c800c0b039ce1635e70d605239c8f5e2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/258872t.jpg?s=c800c0b039ce1635e70d605239c8f5e2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/258872l.jpg?s=c800c0b039ce1635e70d605239c8f5e2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/258872.webp?s=c800c0b039ce1635e70d605239c8f5e2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/258872t.webp?s=c800c0b039ce1635e70d605239c8f5e2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/258872l.webp?s=c800c0b039ce1635e70d605239c8f5e2"
+                }
+            },
+            "title": "Adolf ni Tsugu"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1695",
+        "votes": 5
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 111213,
+            "url": "https://myanimelist.net/manga/111213/Bastard",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/205549.jpg?s=a11733de6f6b7b3edb060df118b07146",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/205549t.jpg?s=a11733de6f6b7b3edb060df118b07146",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/205549l.jpg?s=a11733de6f6b7b3edb060df118b07146"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/205549.webp?s=a11733de6f6b7b3edb060df118b07146",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/205549t.webp?s=a11733de6f6b7b3edb060df118b07146",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/205549l.webp?s=a11733de6f6b7b3edb060df118b07146"
+                }
+            },
+            "title": "Bastard"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-111213",
+        "votes": 4
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1677,
+            "url": "https://myanimelist.net/manga/1677/MW",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/176646.jpg?s=05d09e464b826c32ca4e6d51347d7c25",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/176646t.jpg?s=05d09e464b826c32ca4e6d51347d7c25",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/176646l.jpg?s=05d09e464b826c32ca4e6d51347d7c25"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/176646.webp?s=05d09e464b826c32ca4e6d51347d7c25",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/176646t.webp?s=05d09e464b826c32ca4e6d51347d7c25",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/176646l.webp?s=05d09e464b826c32ca4e6d51347d7c25"
+                }
+            },
+            "title": "MW"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1677",
+        "votes": 4
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 344,
+            "url": "https://myanimelist.net/manga/344/ES__Eternal_Sabbath",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/174740.jpg?s=d454a4738c58d5ff97db347a23881618",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/174740t.jpg?s=d454a4738c58d5ff97db347a23881618",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/174740l.jpg?s=d454a4738c58d5ff97db347a23881618"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/174740.webp?s=d454a4738c58d5ff97db347a23881618",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/174740t.webp?s=d454a4738c58d5ff97db347a23881618",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/174740l.webp?s=d454a4738c58d5ff97db347a23881618"
+                }
+            },
+            "title": "ES: Eternal Sabbath"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-344",
+        "votes": 3
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1929,
+            "url": "https://myanimelist.net/manga/1929/Loose_Senki__Old_Boy",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/179835.jpg?s=b6c907a26c51e16402a0998e9a91ad82",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/179835t.jpg?s=b6c907a26c51e16402a0998e9a91ad82",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/179835l.jpg?s=b6c907a26c51e16402a0998e9a91ad82"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/179835.webp?s=b6c907a26c51e16402a0998e9a91ad82",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/179835t.webp?s=b6c907a26c51e16402a0998e9a91ad82",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/179835l.webp?s=b6c907a26c51e16402a0998e9a91ad82"
+                }
+            },
+            "title": "Loose Senki: Old Boy"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1929",
+        "votes": 3
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 9783,
+            "url": "https://myanimelist.net/manga/9783/EDD__Eliminate_Dangerous_Doctors",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/173961.jpg?s=c2b49053e0bf80ca10a713060a60da0c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/173961t.jpg?s=c2b49053e0bf80ca10a713060a60da0c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/173961l.jpg?s=c2b49053e0bf80ca10a713060a60da0c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/173961.webp?s=c2b49053e0bf80ca10a713060a60da0c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/173961t.webp?s=c2b49053e0bf80ca10a713060a60da0c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/173961l.webp?s=c2b49053e0bf80ca10a713060a60da0c"
+                }
+            },
+            "title": "E.D.D: Eliminate Dangerous Doctors"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-9783",
+        "votes": 2
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 41709,
+            "url": "https://myanimelist.net/manga/41709/Yuureitou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/89667.jpg?s=30ba1c96b1572629fb91eba5521a2b37",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/89667t.jpg?s=30ba1c96b1572629fb91eba5521a2b37",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/89667l.jpg?s=30ba1c96b1572629fb91eba5521a2b37"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/89667.webp?s=30ba1c96b1572629fb91eba5521a2b37",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/89667t.webp?s=30ba1c96b1572629fb91eba5521a2b37",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/89667l.webp?s=30ba1c96b1572629fb91eba5521a2b37"
+                }
+            },
+            "title": "Yuureitou"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-41709",
+        "votes": 2
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 936,
+            "url": "https://myanimelist.net/manga/936/Homunculus",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/318.jpg?s=9d2801d2afd8794c285be5995d90fd82",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/318t.jpg?s=9d2801d2afd8794c285be5995d90fd82",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/318l.jpg?s=9d2801d2afd8794c285be5995d90fd82"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/318.webp?s=9d2801d2afd8794c285be5995d90fd82",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/318t.webp?s=9d2801d2afd8794c285be5995d90fd82",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/318l.webp?s=9d2801d2afd8794c285be5995d90fd82"
+                }
+            },
+            "title": "Homunculus"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-936",
+        "votes": 2
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1479,
+            "url": "https://myanimelist.net/manga/1479/Blue_Heaven",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/264112.jpg?s=21af8f7d8865566bfc5e3e18419fa690",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/264112t.jpg?s=21af8f7d8865566bfc5e3e18419fa690",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/264112l.jpg?s=21af8f7d8865566bfc5e3e18419fa690"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/264112.webp?s=21af8f7d8865566bfc5e3e18419fa690",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/264112t.webp?s=21af8f7d8865566bfc5e3e18419fa690",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/264112l.webp?s=21af8f7d8865566bfc5e3e18419fa690"
+                }
+            },
+            "title": "Blue Heaven"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1479",
+        "votes": 2
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 39325,
+            "url": "https://myanimelist.net/manga/39325/Boku_dake_ga_Inai_Machi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/172082.jpg?s=e715f8aa98a3f54a232bc5d4697a4e25",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/172082t.jpg?s=e715f8aa98a3f54a232bc5d4697a4e25",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/172082l.jpg?s=e715f8aa98a3f54a232bc5d4697a4e25"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/172082.webp?s=e715f8aa98a3f54a232bc5d4697a4e25",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/172082t.webp?s=e715f8aa98a3f54a232bc5d4697a4e25",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/172082l.webp?s=e715f8aa98a3f54a232bc5d4697a4e25"
+                }
+            },
+            "title": "Boku dake ga Inai Machi"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-39325",
+        "votes": 2
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 2,
+            "url": "https://myanimelist.net/manga/2/Berserk",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/157897.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897t.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897l.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/157897.webp?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897t.webp?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897l.webp?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3"
+                }
+            },
+            "title": "Berserk"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-2",
+        "votes": 2
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 24808,
+            "url": "https://myanimelist.net/manga/24808/Kami_no_Kodomo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/347755.jpg?s=d5da7f032a5f96d3ca71ce2f4c2e1303",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/347755t.jpg?s=d5da7f032a5f96d3ca71ce2f4c2e1303",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/347755l.jpg?s=d5da7f032a5f96d3ca71ce2f4c2e1303"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/347755.webp?s=d5da7f032a5f96d3ca71ce2f4c2e1303",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/347755t.webp?s=d5da7f032a5f96d3ca71ce2f4c2e1303",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/347755l.webp?s=d5da7f032a5f96d3ca71ce2f4c2e1303"
+                }
+            },
+            "title": "Kami no Kodomo"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-24808",
+        "votes": 2
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 44489,
+            "url": "https://myanimelist.net/manga/44489/Houseki_no_Kuni",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/115443.jpg?s=9795cb8739785d402a60e5aade4ddf3b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/115443t.jpg?s=9795cb8739785d402a60e5aade4ddf3b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/115443l.jpg?s=9795cb8739785d402a60e5aade4ddf3b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/115443.webp?s=9795cb8739785d402a60e5aade4ddf3b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/115443t.webp?s=9795cb8739785d402a60e5aade4ddf3b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/115443l.webp?s=9795cb8739785d402a60e5aade4ddf3b"
+                }
+            },
+            "title": "Houseki no Kuni"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-44489",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 401,
+            "url": "https://myanimelist.net/manga/401/Kiseijuu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/188928.jpg?s=05472082fd1016c1e57d3b52add1bfab",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/188928t.jpg?s=05472082fd1016c1e57d3b52add1bfab",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/188928l.jpg?s=05472082fd1016c1e57d3b52add1bfab"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/188928.webp?s=05472082fd1016c1e57d3b52add1bfab",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/188928t.webp?s=05472082fd1016c1e57d3b52add1bfab",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/188928l.webp?s=05472082fd1016c1e57d3b52add1bfab"
+                }
+            },
+            "title": "Kiseijuu"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-401",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1437,
+            "url": "https://myanimelist.net/manga/1437/Strain",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/31701.jpg?s=0c830c146c29a6a43d80108bd7d5224b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/31701t.jpg?s=0c830c146c29a6a43d80108bd7d5224b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/31701l.jpg?s=0c830c146c29a6a43d80108bd7d5224b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/31701.webp?s=0c830c146c29a6a43d80108bd7d5224b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/31701t.webp?s=0c830c146c29a6a43d80108bd7d5224b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/31701l.webp?s=0c830c146c29a6a43d80108bd7d5224b"
+                }
+            },
+            "title": "Strain"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1437",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 155340,
+            "url": "https://myanimelist.net/manga/155340/Psycho_x_Past__Ryouki_Satsujin_Sennyuu_Sousa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/284379.jpg?s=dc19d47d1613971ab0c6f3c36e999e4f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/284379t.jpg?s=dc19d47d1613971ab0c6f3c36e999e4f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/284379l.jpg?s=dc19d47d1613971ab0c6f3c36e999e4f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/284379.webp?s=dc19d47d1613971ab0c6f3c36e999e4f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/284379t.webp?s=dc19d47d1613971ab0c6f3c36e999e4f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/284379l.webp?s=dc19d47d1613971ab0c6f3c36e999e4f"
+                }
+            },
+            "title": "Psycho x Past: Ryouki Satsujin Sennyuu Sousa"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-155340",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 5627,
+            "url": "https://myanimelist.net/manga/5627/Bloody_Monday",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/57141.jpg?s=635769bfaad64cdf5463b6311f3890ce",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/57141t.jpg?s=635769bfaad64cdf5463b6311f3890ce",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/57141l.jpg?s=635769bfaad64cdf5463b6311f3890ce"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/57141.webp?s=635769bfaad64cdf5463b6311f3890ce",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/57141t.webp?s=635769bfaad64cdf5463b6311f3890ce",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/57141l.webp?s=635769bfaad64cdf5463b6311f3890ce"
+                }
+            },
+            "title": "Bloody Monday"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-5627",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 187901,
+            "url": "https://myanimelist.net/manga/187901/Kami_Kill",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/336729.jpg?s=93aac90fcf825d56a6372aa23799cd9b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/336729t.jpg?s=93aac90fcf825d56a6372aa23799cd9b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/336729l.jpg?s=93aac90fcf825d56a6372aa23799cd9b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/336729.webp?s=93aac90fcf825d56a6372aa23799cd9b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/336729t.webp?s=93aac90fcf825d56a6372aa23799cd9b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/336729l.webp?s=93aac90fcf825d56a6372aa23799cd9b"
+                }
+            },
+            "title": "Kami Kill"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-187901",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 116778,
+            "url": "https://myanimelist.net/manga/116778/Chainsaw_Man",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/216464.jpg?s=be8b827c88ca462abed2d034b1a98dae",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/216464t.jpg?s=be8b827c88ca462abed2d034b1a98dae",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/216464l.jpg?s=be8b827c88ca462abed2d034b1a98dae"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/216464.webp?s=be8b827c88ca462abed2d034b1a98dae",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/216464t.webp?s=be8b827c88ca462abed2d034b1a98dae",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/216464l.webp?s=be8b827c88ca462abed2d034b1a98dae"
+                }
+            },
+            "title": "Chainsaw Man"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-116778",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 49865,
+            "url": "https://myanimelist.net/manga/49865/Ajin",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/307700.jpg?s=8c8df36674f81c58d989b5a99ecb1686",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/307700t.jpg?s=8c8df36674f81c58d989b5a99ecb1686",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/307700l.jpg?s=8c8df36674f81c58d989b5a99ecb1686"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/307700.webp?s=8c8df36674f81c58d989b5a99ecb1686",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/307700t.webp?s=8c8df36674f81c58d989b5a99ecb1686",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/307700l.webp?s=8c8df36674f81c58d989b5a99ecb1686"
+                }
+            },
+            "title": "Ajin"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-49865",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 91769,
+            "url": "https://myanimelist.net/manga/91769/Gift±",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161383.jpg?s=4ab842d1cbebbe7dbaeef20c686adb4e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161383t.jpg?s=4ab842d1cbebbe7dbaeef20c686adb4e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161383l.jpg?s=4ab842d1cbebbe7dbaeef20c686adb4e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161383.webp?s=4ab842d1cbebbe7dbaeef20c686adb4e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161383t.webp?s=4ab842d1cbebbe7dbaeef20c686adb4e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161383l.webp?s=4ab842d1cbebbe7dbaeef20c686adb4e"
+                }
+            },
+            "title": "Gift±"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-91769",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 9982,
+            "url": "https://myanimelist.net/manga/9982/Usogui",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/283743.jpg?s=ced23ebfd4f46b4b00acc86d19415adb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/283743t.jpg?s=ced23ebfd4f46b4b00acc86d19415adb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/283743l.jpg?s=ced23ebfd4f46b4b00acc86d19415adb"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/283743.webp?s=ced23ebfd4f46b4b00acc86d19415adb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/283743t.webp?s=ced23ebfd4f46b4b00acc86d19415adb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/283743l.webp?s=ced23ebfd4f46b4b00acc86d19415adb"
+                }
+            },
+            "title": "Usogui"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-9982",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 147468,
+            "url": "https://myanimelist.net/manga/147468/Dear_X",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/262273.jpg?s=e0e583c27126ed319d379e3f7801d4ab",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/262273t.jpg?s=e0e583c27126ed319d379e3f7801d4ab",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/262273l.jpg?s=e0e583c27126ed319d379e3f7801d4ab"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/262273.webp?s=e0e583c27126ed319d379e3f7801d4ab",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/262273t.webp?s=e0e583c27126ed319d379e3f7801d4ab",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/262273l.webp?s=e0e583c27126ed319d379e3f7801d4ab"
+                }
+            },
+            "title": "Dear X"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-147468",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1133,
+            "url": "https://myanimelist.net/manga/1133/Dorohedoro",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258246.jpg?s=a1665c789b2c447fc0294f696ee0a8dd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258246t.jpg?s=a1665c789b2c447fc0294f696ee0a8dd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258246l.jpg?s=a1665c789b2c447fc0294f696ee0a8dd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258246.webp?s=a1665c789b2c447fc0294f696ee0a8dd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258246t.webp?s=a1665c789b2c447fc0294f696ee0a8dd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258246l.webp?s=a1665c789b2c447fc0294f696ee0a8dd"
+                }
+            },
+            "title": "Dorohedoro"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1133",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 55377,
+            "url": "https://myanimelist.net/manga/55377/Kasane",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161524.jpg?s=4b736f6e43ee4fcec7d394f88e01e917",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161524t.jpg?s=4b736f6e43ee4fcec7d394f88e01e917",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161524l.jpg?s=4b736f6e43ee4fcec7d394f88e01e917"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161524.webp?s=4b736f6e43ee4fcec7d394f88e01e917",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161524t.webp?s=4b736f6e43ee4fcec7d394f88e01e917",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161524l.webp?s=4b736f6e43ee4fcec7d394f88e01e917"
+                }
+            },
+            "title": "Kasane"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-55377",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 103622,
+            "url": "https://myanimelist.net/manga/103622/NeuN",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/200227.jpg?s=89c7f416e342e3460ee2987c8d056abf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/200227t.jpg?s=89c7f416e342e3460ee2987c8d056abf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/200227l.jpg?s=89c7f416e342e3460ee2987c8d056abf"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/200227.webp?s=89c7f416e342e3460ee2987c8d056abf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/200227t.webp?s=89c7f416e342e3460ee2987c8d056abf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/200227l.webp?s=89c7f416e342e3460ee2987c8d056abf"
+                }
+            },
+            "title": "NeuN"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-103622",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 62795,
+            "url": "https://myanimelist.net/manga/62795/Tomodachi_Game",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/302138.jpg?s=3810d5329c24c9080f861d004908d95f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/302138t.jpg?s=3810d5329c24c9080f861d004908d95f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/302138l.jpg?s=3810d5329c24c9080f861d004908d95f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/302138.webp?s=3810d5329c24c9080f861d004908d95f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/302138t.webp?s=3810d5329c24c9080f861d004908d95f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/302138l.webp?s=3810d5329c24c9080f861d004908d95f"
+                }
+            },
+            "title": "Tomodachi Game"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-62795",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 5709,
+            "url": "https://myanimelist.net/manga/5709/Litchi☆Hikari_Club",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/65867.jpg?s=1cc95edec7b20ffc6e13261d956bd1f6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/65867t.jpg?s=1cc95edec7b20ffc6e13261d956bd1f6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/65867l.jpg?s=1cc95edec7b20ffc6e13261d956bd1f6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/65867.webp?s=1cc95edec7b20ffc6e13261d956bd1f6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/65867t.webp?s=1cc95edec7b20ffc6e13261d956bd1f6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/65867l.webp?s=1cc95edec7b20ffc6e13261d956bd1f6"
+                }
+            },
+            "title": "Litchi☆Hikari Club"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-5709",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 143336,
+            "url": "https://myanimelist.net/manga/143336/Among_Us",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/256571.jpg?s=2cb014ccca401230d17483c77d1a7688",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/256571t.jpg?s=2cb014ccca401230d17483c77d1a7688",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/256571l.jpg?s=2cb014ccca401230d17483c77d1a7688"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/256571.webp?s=2cb014ccca401230d17483c77d1a7688",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/256571t.webp?s=2cb014ccca401230d17483c77d1a7688",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/256571l.webp?s=2cb014ccca401230d17483c77d1a7688"
+                }
+            },
+            "title": "Among Us"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-143336",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 649,
+            "url": "https://myanimelist.net/manga/649/Gunslinger_Girl",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/160923.jpg?s=6185f6f809485b1579e8bc7a8f9fe013",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/160923t.jpg?s=6185f6f809485b1579e8bc7a8f9fe013",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/160923l.jpg?s=6185f6f809485b1579e8bc7a8f9fe013"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/160923.webp?s=6185f6f809485b1579e8bc7a8f9fe013",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/160923t.webp?s=6185f6f809485b1579e8bc7a8f9fe013",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/160923l.webp?s=6185f6f809485b1579e8bc7a8f9fe013"
+                }
+            },
+            "title": "Gunslinger Girl"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-649",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 904,
+            "url": "https://myanimelist.net/manga/904/Kozure_Ookami",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/159264.jpg?s=6c5b2505e8f1fc6df6bc8bc94e4e5b91",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/159264t.jpg?s=6c5b2505e8f1fc6df6bc8bc94e4e5b91",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/159264l.jpg?s=6c5b2505e8f1fc6df6bc8bc94e4e5b91"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/159264.webp?s=6c5b2505e8f1fc6df6bc8bc94e4e5b91",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/159264t.webp?s=6c5b2505e8f1fc6df6bc8bc94e4e5b91",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/159264l.webp?s=6c5b2505e8f1fc6df6bc8bc94e4e5b91"
+                }
+            },
+            "title": "Kozure Ookami"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-904",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 35593,
+            "url": "https://myanimelist.net/manga/35593/Hanged_Doll",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/266331.jpg?s=93b1de3c99179b2b7eaa8e1379e04231",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/266331t.jpg?s=93b1de3c99179b2b7eaa8e1379e04231",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/266331l.jpg?s=93b1de3c99179b2b7eaa8e1379e04231"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/266331.webp?s=93b1de3c99179b2b7eaa8e1379e04231",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/266331t.webp?s=93b1de3c99179b2b7eaa8e1379e04231",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/266331l.webp?s=93b1de3c99179b2b7eaa8e1379e04231"
+                }
+            },
+            "title": "Hanged Doll"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-35593",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1600,
+            "url": "https://myanimelist.net/manga/1600/Black_Jack",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/266117.jpg?s=29284e1120e98603eccf16031a4cbe88",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/266117t.jpg?s=29284e1120e98603eccf16031a4cbe88",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/266117l.jpg?s=29284e1120e98603eccf16031a4cbe88"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/266117.webp?s=29284e1120e98603eccf16031a4cbe88",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/266117t.webp?s=29284e1120e98603eccf16031a4cbe88",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/266117l.webp?s=29284e1120e98603eccf16031a4cbe88"
+                }
+            },
+            "title": "Black Jack"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1600",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 405,
+            "url": "https://myanimelist.net/manga/405/Hitsuji_no_Uta",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/173240.jpg?s=6fbb5eeeaea42152e640c0b979215ead",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/173240t.jpg?s=6fbb5eeeaea42152e640c0b979215ead",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/173240l.jpg?s=6fbb5eeeaea42152e640c0b979215ead"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/173240.webp?s=6fbb5eeeaea42152e640c0b979215ead",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/173240t.webp?s=6fbb5eeeaea42152e640c0b979215ead",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/173240l.webp?s=6fbb5eeeaea42152e640c0b979215ead"
+                }
+            },
+            "title": "Hitsuji no Uta"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-405",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1297,
+            "url": "https://myanimelist.net/manga/1297/Iryuu__Team_Medical_Dragon",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/197743.jpg?s=9f9d97cef3cc3f70a0996a0bbba26a2a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/197743t.jpg?s=9f9d97cef3cc3f70a0996a0bbba26a2a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/197743l.jpg?s=9f9d97cef3cc3f70a0996a0bbba26a2a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/197743.webp?s=9f9d97cef3cc3f70a0996a0bbba26a2a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/197743t.webp?s=9f9d97cef3cc3f70a0996a0bbba26a2a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/197743l.webp?s=9f9d97cef3cc3f70a0996a0bbba26a2a"
+                }
+            },
+            "title": "Iryuu: Team Medical Dragon"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1297",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1344,
+            "url": "https://myanimelist.net/manga/1344/Kirihito_Sanka",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/273897.jpg?s=aa90d940d62b46ffc6d963e7696442e1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/273897t.jpg?s=aa90d940d62b46ffc6d963e7696442e1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/273897l.jpg?s=aa90d940d62b46ffc6d963e7696442e1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/273897.webp?s=aa90d940d62b46ffc6d963e7696442e1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/273897t.webp?s=aa90d940d62b46ffc6d963e7696442e1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/273897l.webp?s=aa90d940d62b46ffc6d963e7696442e1"
+                }
+            },
+            "title": "Kirihito Sanka"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1344",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1111,
+            "url": "https://myanimelist.net/manga/1111/Buddha",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/260394.jpg?s=0674b29c5ce127cb46a36f2f5bc95129",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/260394t.jpg?s=0674b29c5ce127cb46a36f2f5bc95129",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/260394l.jpg?s=0674b29c5ce127cb46a36f2f5bc95129"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/260394.webp?s=0674b29c5ce127cb46a36f2f5bc95129",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/260394t.webp?s=0674b29c5ce127cb46a36f2f5bc95129",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/260394l.webp?s=0674b29c5ce127cb46a36f2f5bc95129"
+                }
+            },
+            "title": "Buddha"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1111",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1257,
+            "url": "https://myanimelist.net/manga/1257/Higurashi_no_Naku_Koro_ni__Onikakushi-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/259982.jpg?s=e4ac138e3b124d760dfd1a1a69c500fe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/259982t.jpg?s=e4ac138e3b124d760dfd1a1a69c500fe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/259982l.jpg?s=e4ac138e3b124d760dfd1a1a69c500fe"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/259982.webp?s=e4ac138e3b124d760dfd1a1a69c500fe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/259982t.webp?s=e4ac138e3b124d760dfd1a1a69c500fe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/259982l.webp?s=e4ac138e3b124d760dfd1a1a69c500fe"
+                }
+            },
+            "title": "Higurashi no Naku Koro ni: Onikakushi-hen"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1257",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 2965,
+            "url": "https://myanimelist.net/manga/2965/Line",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/312399.jpg?s=d7ec87b83cf3d5a242b67049fce0faf6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/312399t.jpg?s=d7ec87b83cf3d5a242b67049fce0faf6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/312399l.jpg?s=d7ec87b83cf3d5a242b67049fce0faf6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/312399.webp?s=d7ec87b83cf3d5a242b67049fce0faf6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/312399t.webp?s=d7ec87b83cf3d5a242b67049fce0faf6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/312399l.webp?s=d7ec87b83cf3d5a242b67049fce0faf6"
+                }
+            },
+            "title": "Line"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-2965",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 731,
+            "url": "https://myanimelist.net/manga/731/Eden__Its_an_Endless_World",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/63117.jpg?s=4428135143fd42bc1fe584a93e269ca3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/63117t.jpg?s=4428135143fd42bc1fe584a93e269ca3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/63117l.jpg?s=4428135143fd42bc1fe584a93e269ca3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/63117.webp?s=4428135143fd42bc1fe584a93e269ca3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/63117t.webp?s=4428135143fd42bc1fe584a93e269ca3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/63117l.webp?s=4428135143fd42bc1fe584a93e269ca3"
+                }
+            },
+            "title": "Eden: It's an Endless World!"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-731",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 105901,
+            "url": "https://myanimelist.net/manga/105901/Ijousha_no_Ai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/198003.jpg?s=bdc84da2c3cf1f1fa32fe303aa09b01c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/198003t.jpg?s=bdc84da2c3cf1f1fa32fe303aa09b01c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/198003l.jpg?s=bdc84da2c3cf1f1fa32fe303aa09b01c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/198003.webp?s=bdc84da2c3cf1f1fa32fe303aa09b01c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/198003t.webp?s=bdc84da2c3cf1f1fa32fe303aa09b01c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/198003l.webp?s=bdc84da2c3cf1f1fa32fe303aa09b01c"
+                }
+            },
+            "title": "Ijousha no Ai"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-105901",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1211,
+            "url": "https://myanimelist.net/manga/1211/Ore_to_Akuma_no_Blues",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/101327.jpg?s=035aa2b1b4bfd8583c00f8118b5274ae",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/101327t.jpg?s=035aa2b1b4bfd8583c00f8118b5274ae",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/101327l.jpg?s=035aa2b1b4bfd8583c00f8118b5274ae"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/101327.webp?s=035aa2b1b4bfd8583c00f8118b5274ae",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/101327t.webp?s=035aa2b1b4bfd8583c00f8118b5274ae",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/101327l.webp?s=035aa2b1b4bfd8583c00f8118b5274ae"
+                }
+            },
+            "title": "Ore to Akuma no Blues"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1211",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 1668,
+            "url": "https://myanimelist.net/manga/1668/Black_Jack_ni_Yoroshiku",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/176844.jpg?s=629dec8e5559b6d391ee5b7e3ad2b76f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/176844t.jpg?s=629dec8e5559b6d391ee5b7e3ad2b76f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/176844l.jpg?s=629dec8e5559b6d391ee5b7e3ad2b76f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/176844.webp?s=629dec8e5559b6d391ee5b7e3ad2b76f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/176844t.webp?s=629dec8e5559b6d391ee5b7e3ad2b76f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/176844l.webp?s=629dec8e5559b6d391ee5b7e3ad2b76f"
+                }
+            },
+            "title": "Black Jack ni Yoroshiku"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-1668",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 11974,
+            "url": "https://myanimelist.net/manga/11974/Kyoufu_Jigoku_Shoujo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/4/173045.jpg?s=acbb9eab9084b90bb06ff04adf2dd61c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/4/173045t.jpg?s=acbb9eab9084b90bb06ff04adf2dd61c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/4/173045l.jpg?s=acbb9eab9084b90bb06ff04adf2dd61c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/4/173045.webp?s=acbb9eab9084b90bb06ff04adf2dd61c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/4/173045t.webp?s=acbb9eab9084b90bb06ff04adf2dd61c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/4/173045l.webp?s=acbb9eab9084b90bb06ff04adf2dd61c"
+                }
+            },
+            "title": "Kyoufu Jigoku Shoujo"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-11974",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 756,
+            "url": "https://myanimelist.net/manga/756/Banana_Fish",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/265185.jpg?s=d9f1f5e4ff02acb547e453158b07e648",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/265185t.jpg?s=d9f1f5e4ff02acb547e453158b07e648",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/265185l.jpg?s=d9f1f5e4ff02acb547e453158b07e648"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/265185.webp?s=d9f1f5e4ff02acb547e453158b07e648",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/265185t.webp?s=d9f1f5e4ff02acb547e453158b07e648",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/265185l.webp?s=d9f1f5e4ff02acb547e453158b07e648"
+                }
+            },
+            "title": "Banana Fish"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-756",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 848,
+            "url": "https://myanimelist.net/manga/848/Master_Keaton",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/200911.jpg?s=4de35eb9bba677dc083e113bcf5d8a65",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/200911t.jpg?s=4de35eb9bba677dc083e113bcf5d8a65",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/200911l.jpg?s=4de35eb9bba677dc083e113bcf5d8a65"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/200911.webp?s=4de35eb9bba677dc083e113bcf5d8a65",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/200911t.webp?s=4de35eb9bba677dc083e113bcf5d8a65",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/200911l.webp?s=4de35eb9bba677dc083e113bcf5d8a65"
+                }
+            },
+            "title": "Master Keaton"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-848",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 130755,
+            "url": "https://myanimelist.net/manga/130755/Darwin_Jihen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/236307.jpg?s=88797318b0deb471801211535b17856b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/236307t.jpg?s=88797318b0deb471801211535b17856b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/236307l.jpg?s=88797318b0deb471801211535b17856b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/236307.webp?s=88797318b0deb471801211535b17856b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/236307t.webp?s=88797318b0deb471801211535b17856b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/236307l.webp?s=88797318b0deb471801211535b17856b"
+                }
+            },
+            "title": "Darwin Jihen"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-130755",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 845,
+            "url": "https://myanimelist.net/manga/845/Happy",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/148293.jpg?s=d067209621f3d78bf741b7149f524365",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/148293t.jpg?s=d067209621f3d78bf741b7149f524365",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/148293l.jpg?s=d067209621f3d78bf741b7149f524365"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/148293.webp?s=d067209621f3d78bf741b7149f524365",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/148293t.webp?s=d067209621f3d78bf741b7149f524365",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/148293l.webp?s=d067209621f3d78bf741b7149f524365"
+                }
+            },
+            "title": "Happy!"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-845",
+        "votes": 1
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\Recommendation",
+        "entry": {
+            "@class": "Jikan\\Model\\Common\\CommonMeta",
+            "malId": 98457,
+            "url": "https://myanimelist.net/manga/98457/Life_2__Giver_Taker",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/185222.jpg?s=e9408a8b9148b2909ead0b901ad9e8af",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/185222t.jpg?s=e9408a8b9148b2909ead0b901ad9e8af",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/185222l.jpg?s=e9408a8b9148b2909ead0b901ad9e8af"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/185222.webp?s=e9408a8b9148b2909ead0b901ad9e8af",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/185222t.webp?s=e9408a8b9148b2909ead0b901ad9e8af",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/185222l.webp?s=e9408a8b9148b2909ead0b901ad9e8af"
+                }
+            },
+            "title": "Life 2: Giver Taker"
+        },
+        "url": "https://myanimelist.net/recommendations/manga/1-98457",
+        "votes": 1
+    }
+]

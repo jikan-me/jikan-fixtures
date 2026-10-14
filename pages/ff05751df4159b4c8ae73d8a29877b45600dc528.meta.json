@@ -1,0 +1,8 @@
+{
+    "method": "GET",
+    "url": "https://myanimelist.net/anime.php?q=Fate&show=50&type=0&score=0&status=0&p=0&r=0&sd=0&sm=0&sy=0&ed=0&em=0&ey=0&gx=0&c[]=a&c[]=b&c[]=c&c[]=f&c[]=d&c[]=e&c[]=g",
+    "final_url": "https://myanimelist.net/anime.php?q=Fate&show=50&type=0&score=0&status=0&p=0&r=0&sd=0&sm=0&sy=0&ed=0&em=0&ey=0&gx=0&c[]=a&c[]=b&c[]=c&c[]=f&c[]=d&c[]=e&c[]=g",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "recorded_at": "2026-10-14T02:38:01+00:00"
+}

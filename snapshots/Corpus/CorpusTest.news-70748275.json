@@ -1,0 +1,156 @@
+{
+    "@class": "Jikan\\Model\\News\\ResourceNews",
+    "malId": 70748275,
+    "url": "https://myanimelist.net/news/70748275",
+    "title": "'Re:Zero kara Hajimeru Isekai Seikatsu' Season 3 Reveals New Staff, Cast, First Promo for Fall 2024",
+    "date": "2024-03-23T19:25:00+00:00",
+    "authorUsername": "DatRandomDude",
+    "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+    "forumUrl": "https://myanimelist.net/forum/?topicid=2152032",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1711247040-f0e4443ae58814bfb46845fe448c5850.png"
+        }
+    },
+    "comments": 12,
+    "tags": [
+        {
+            "@class": "Jikan\\Model\\Common\\TagUrl",
+            "malId": "animejapan",
+            "name": "AnimeJapan",
+            "url": "https://myanimelist.net/news/tag/animejapan"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\TagUrl",
+            "malId": "preview",
+            "name": "Preview",
+            "url": "https://myanimelist.net/news/tag/preview"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\TagUrl",
+            "malId": "more_info",
+            "name": "More Info",
+            "url": "https://myanimelist.net/news/tag/more_info"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\TagUrl",
+            "malId": "fall_2024",
+            "name": "Fall 2024",
+            "url": "https://myanimelist.net/news/tag/fall_2024"
+        }
+    ],
+    "content": "<img class=\"userimg img-a-r\" src=\"https://cdn.myanimelist.net/s/common/uploaded_files/1711247040-f0e4443ae58814bfb46845fe448c5850.png\">The <a href=\"https://myanimelist.net/anime/31240/\" rel=\"nofollow\"><i>Re:Zero kara Hajimeru Isekai Seikatsu</i></a> (<i>Re:ZERO -Starting Life in Another World-</i>) special stage at AnimeJapan 2024 revealed new staff, additional cast, and the first promo for the <a href=\"https://myanimelist.net/anime/54857/\" rel=\"nofollow\">third anime season</a> on Sunday. The television anime is scheduled to premiere in October 2024.<br>\n<br>\n<a href=\"https://myanimelist.net/people/50037/\" rel=\"nofollow\">Aya Yamane</a> (<i>Himesama \"Goumon\" no Jikan desu</i>) is joining the cast as Liliana Masquerade.<br>\n<br>\nStaff<br>\nDirector: <a href=\"https://myanimelist.net/people/38963/\" rel=\"nofollow\">Masahiro Shinohara</a> (<i>Gochuumon wa Usagi desu ka? Bloom</i> assistant director)<br>\nCharacter Design, Chief Animation Director: <a href=\"https://myanimelist.net/people/45251/\" rel=\"nofollow\">Haruka Sagawa</a> (<i>Yofukashi no Uta</i>)<br>\nMonster Design: Keitarou Chiba (<i>Mushoku Tensei: Isekai Ittara Honki Dasu</i> sub-character design)<br>\nArt Director: <a href=\"https://myanimelist.net/people/32087/\" rel=\"nofollow\">Ryouka Kinoshita</a> (Bihou) (<i>Honzuki no Gekokujou</i>)<br>\nDirector of Photography: <a href=\"https://myanimelist.net/people/73026/\" rel=\"nofollow\">Miori Miyagi</a> (T2studio)<br>\n3D Director: Kazuhei Tanaka (Felix Film) (<i>Initial D</i> 3DCG)<br>\nAnimation Producer: <a href=\"https://myanimelist.net/people/73027/\" rel=\"nofollow\">Shinichiro Katou</a> (<i>Sengoku Youko</i>)<br>\nStudio: <a href=\"https://myanimelist.net/anime/producer/314/\" rel=\"nofollow\">White Fox</a><br>\n<br>\nReturning staff include series composer <a href=\"https://myanimelist.net/people/19175/\" rel=\"nofollow\">Masahiro Yokotani</a> (<i>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</i>) and music composer <a href=\"https://myanimelist.net/people/39642/\" rel=\"nofollow\">Kenichiro Suehiro</a> (<i>Kage no Jitsuryokusha ni Naritakute!</i>).<br>\n<br>\nThe anime adapts <a href=\"https://myanimelist.net/people/32649/\" rel=\"nofollow\">Tappei Nagatsuki</a>'s <a href=\"https://myanimelist.net/manga/74697/\" rel=\"nofollow\">fantasy drama light novel</a>, which he <a href=\"http://ncode.syosetu.com/n2267be/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">originally began</a> the series on the Shousetsuka ni Narou website in April 2012. Kadokawa began releasing the series featuring illustrations by <a href=\"https://myanimelist.net/people/32651/\" rel=\"nofollow\">Shinichirou Ootsuka</a> through its MF Bunko J imprint in January 2014 and shipped the 36nd volume on December 25 last year. The 37th volume is scheduled to go on sale on March 25.<br>\n<br>\nWhite Fox produced the first anime season in Spring 2016. The <a href=\"https://myanimelist.net/anime/39587/\" rel=\"nofollow\">second season</a> aired in split cours, with the first cour airing in 13 episodes in Summer 2020 and the 12-episode <a href=\"https://myanimelist.net/anime/42203/\" rel=\"nofollow\">second cour</a> in Winter 2021. Cunchyroll simulcast the season as they aired in Japan.<br>\n<br>\nPV 1<br>\n<iframe class=\"movie youtube\" width=\"425\" height=\"355\" frameborder=\"0\" src=\"https://www.youtube-nocookie.com/embed/HS1zsxreqvw?rel=1\" allowfullscreen=\"\"></iframe><br>\n<br>\nSource: Press Release",
+    "relatedEntries": {
+        "Anime": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+                "url": "https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season"
+            }
+        ]
+    },
+    "relatedNews": [
+        {
+            "@class": "Jikan\\Model\\Common\\NewsMeta",
+            "malId": 68882759,
+            "url": "https://myanimelist.net/news/68882759",
+            "title": "'Re:Zero kara Hajimeru Isekai Seikatsu' Gets Third Anime Season",
+            "date": "2023-03-24T22:35:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2083899",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": null,
+                    "smallImageUrl": null,
+                    "largeImageUrl": null
+                }
+            },
+            "comments": 58
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\NewsMeta",
+            "malId": 71185709,
+            "url": "https://myanimelist.net/news/71185709",
+            "title": "'Re:Zero kara Hajimeru Isekai Seikatsu' Season 3 Reveals Additional Cast, Theme Songs, 90-Minute Premiere",
+            "date": "2024-06-06T10:01:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2163451",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": null,
+                    "smallImageUrl": null,
+                    "largeImageUrl": null
+                }
+            },
+            "comments": 13
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\NewsMeta",
+            "malId": 72533219,
+            "url": "https://myanimelist.net/news/72533219",
+            "title": "'Re:Zero kara Hajimeru Isekai Seikatsu' 4th Season Announced",
+            "date": "2025-03-26T15:23:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2207674",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": null,
+                    "smallImageUrl": null,
+                    "largeImageUrl": null
+                }
+            },
+            "comments": 19
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\NewsMeta",
+            "malId": 71715665,
+            "url": "https://myanimelist.net/news/71715665",
+            "title": "Fall 2024 Preview",
+            "date": "2024-09-21T10:01:00+00:00",
+            "authorUsername": "Snow",
+            "authorUrl": "https://myanimelist.net/profile/Snow",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2180277",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": null,
+                    "smallImageUrl": null,
+                    "largeImageUrl": null
+                }
+            },
+            "comments": 12
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\NewsMeta",
+            "malId": 73644654,
+            "url": "https://myanimelist.net/news/73644654",
+            "title": "'Gochuumon wa Usagi desu ka? Movie' Reveals New Staff",
+            "date": "2025-12-25T07:35:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2246453",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": null,
+                    "smallImageUrl": null,
+                    "largeImageUrl": null
+                }
+            },
+            "comments": 7
+        }
+    ]
+}

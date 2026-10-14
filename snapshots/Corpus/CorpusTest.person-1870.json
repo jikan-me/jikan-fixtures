@@ -1,0 +1,2262 @@
+{
+    "@class": "Jikan\\Model\\Person\\Person",
+    "malId": 1870,
+    "url": "https://myanimelist.net/people/1870/Hayao_Miyazaki",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/54606.jpg"
+        }
+    },
+    "websiteUrl": "http://www.ghibli.jp/",
+    "name": "Hayao Miyazaki",
+    "givenName": "駿",
+    "familyName": "宮崎",
+    "alternateNames": [],
+    "birthday": "1941-01-05T00:00:00+00:00",
+    "memberFavorites": 74776,
+    "about": "Miyazaki, the second of four brothers, was born in the town of Akebono-cho, part of Tokyo's Bunkyō-ku. During World War II, Miyazaki's father Katsuji was director of Miyazaki Airplane, owned by his brother (Hayao Miyazaki's uncle), which made rudders for A6M Zero fighter planes. During this time, Miyazaki drew airplanes and developed a lifelong fascination with aviation, a penchant that later manifested as a recurring theme in his films.\n\nMiyazaki's mother was a voracious reader who often questioned socially accepted norms. Miyazaki later said that he inherited his questioning and skeptical mind from her. His mother underwent treatment for spinal tuberculosis from 1947 until 1955, and so the family moved frequently. Miyazaki's film My Neighbor Totoro is set in that time period and features a family whose mother is similarly afflicted.\n\nMiyazaki attended Toyotama High School. In his third year there, he saw the film Hakujaden, which has been described as \"the first-ever Japanese feature length color anime.\" His interest in animation began in this period; however, in order to become an animator, he had to learn to draw the human figure, since his prior work had been limited to airplanes and battleships.\n\nAfter high school, Miyazaki attended Gakushuin University, from which he would graduate in 1963 with degrees in political science and economics. He was a member of the \"Children's Literature research club,\" the \"closest thing to a comics club in those days.\"\n\nIn April 1963, Miyazaki got a job at Toei Animation, working as an in-between artist on the anime Watchdog Bow Wow (Wanwan Chushingura). He was a leader in a labor dispute soon after his arrival, becoming chief secretary of Toei's labor union in 1964.\n\nIn October 1965, he married fellow animator Akemi Ota, who later left work to raise their two sons, Gorō and Keisuke. Gorō is now an animator and filmmaker, and has directed Tales from Earthsea at Studio Ghibli. Keisuke is a wood artist who has created pieces for the Ghibli Museum and who made the wood engraving shown in the Studio Ghibli film Whisper of the Heart.\n\nHayao Miyazaki's dedication to his work has often been reported to have impacted negatively his relationship with his son Gorō. He has expressed that he doesn't wish to create a dynasty of animators and that his son has to create a name for himself.\n\n(Source: Wikipedia)",
+    "voiceActingRoles": [
+        {
+            "@class": "Jikan\\Model\\Person\\VoiceActingRole",
+            "role": "Supporting",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2488,
+                "url": "https://myanimelist.net/anime/2488/Mei_to_Koneko_Bus",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602.jpg?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602t.jpg?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602l.jpg?s=e2005a2a8ca05df5fb6ba93a75cec2b7"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602.webp?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602t.webp?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602l.webp?s=e2005a2a8ca05df5fb6ba93a75cec2b7"
+                    }
+                },
+                "title": "Mei to Koneko Bus"
+            },
+            "character": {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 269,
+                "url": "https://myanimelist.net/character/269/Totoro",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/r/84x124/images/characters/16/81225.jpg?s=4abb60e3cc76fe37985052e242256276"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/r/84x124/images/characters/16/81225.webp?s=4abb60e3cc76fe37985052e242256276",
+                        "smallImageUrl": "https://cdn.myanimelist.net/r/84x124/images/characters/16/81225t.webp?s=4abb60e3cc76fe37985052e242256276"
+                    }
+                },
+                "name": "Totoro"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\VoiceActingRole",
+            "role": "Supporting",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2488,
+                "url": "https://myanimelist.net/anime/2488/Mei_to_Koneko_Bus",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602.jpg?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602t.jpg?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602l.jpg?s=e2005a2a8ca05df5fb6ba93a75cec2b7"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602.webp?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602t.webp?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602l.webp?s=e2005a2a8ca05df5fb6ba93a75cec2b7"
+                    }
+                },
+                "title": "Mei to Koneko Bus"
+            },
+            "character": {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 110037,
+                "url": "https://myanimelist.net/character/110037/Grandmother_Nekobasu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/r/84x124/images/characters/7/270013.jpg?s=c53f7852f83c82f44a8733b7e83c6370"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/r/84x124/images/characters/7/270013.webp?s=c53f7852f83c82f44a8733b7e83c6370",
+                        "smallImageUrl": "https://cdn.myanimelist.net/r/84x124/images/characters/7/270013t.webp?s=c53f7852f83c82f44a8733b7e83c6370"
+                    }
+                },
+                "name": "Grandmother Nekobasu"
+            }
+        }
+    ],
+    "animeStaffPositions": [
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Storyboard",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 11275,
+                "url": "https://myanimelist.net/anime/11275/Akadou_Suzunosuke",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/9/56397.jpg?s=0c08853342449a38aaf6c4e79a1f835c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/56397t.jpg?s=0c08853342449a38aaf6c4e79a1f835c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/56397l.jpg?s=0c08853342449a38aaf6c4e79a1f835c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/9/56397.webp?s=0c08853342449a38aaf6c4e79a1f835c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/56397t.webp?s=0c08853342449a38aaf6c4e79a1f835c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/56397l.webp?s=0c08853342449a38aaf6c4e79a1f835c"
+                    }
+                },
+                "title": "Akadou Suzunosuke"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Setting (eps 1-15), Layout (eps 1-15)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 283,
+                "url": "https://myanimelist.net/anime/283/Akage_no_Anne",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1365/115824.jpg?s=86fea872c183b97fb34727eb6269495a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1365/115824t.jpg?s=86fea872c183b97fb34727eb6269495a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1365/115824l.jpg?s=86fea872c183b97fb34727eb6269495a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1365/115824.webp?s=86fea872c183b97fb34727eb6269495a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1365/115824t.webp?s=86fea872c183b97fb34727eb6269495a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1365/115824l.webp?s=86fea872c183b97fb34727eb6269495a"
+                    }
+                },
+                "title": "Akage no Anne"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 3843,
+                "url": "https://myanimelist.net/anime/3843/Ali_Baba_to_40-hiki_no_Touzoku",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/3/6861.jpg?s=441521177bbfc694b13724a1a201229e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/6861t.jpg?s=441521177bbfc694b13724a1a201229e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/6861l.jpg?s=441521177bbfc694b13724a1a201229e"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/3/6861.webp?s=441521177bbfc694b13724a1a201229e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/6861t.webp?s=441521177bbfc694b13724a1a201229e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/6861l.webp?s=441521177bbfc694b13724a1a201229e"
+                    }
+                },
+                "title": "Ali Baba to 40-hiki no Touzoku"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation (OP), Setting (eps 1-52), Layout (eps 1-52)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2225,
+                "url": "https://myanimelist.net/anime/2225/Alps_no_Shoujo_Heidi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1338/110897.jpg?s=4eff6541573b729738b76a9bb6539d7b",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1338/110897t.jpg?s=4eff6541573b729738b76a9bb6539d7b",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1338/110897l.jpg?s=4eff6541573b729738b76a9bb6539d7b"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1338/110897.webp?s=4eff6541573b729738b76a9bb6539d7b",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1338/110897t.webp?s=4eff6541573b729738b76a9bb6539d7b",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1338/110897l.webp?s=4eff6541573b729738b76a9bb6539d7b"
+                    }
+                },
+                "title": "Alps no Shoujo Heidi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation (eps. 4-6, 10, 12-22, 24-28)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2576,
+                "url": "https://myanimelist.net/anime/2576/Araiguma_Rascal",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/3363.jpg?s=789f67258171162cbed78647ae4c8e67",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/3363t.jpg?s=789f67258171162cbed78647ae4c8e67",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/3363l.jpg?s=789f67258171162cbed78647ae4c8e67"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/3363.webp?s=789f67258171162cbed78647ae4c8e67",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/3363t.webp?s=789f67258171162cbed78647ae4c8e67",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/3363l.webp?s=789f67258171162cbed78647ae4c8e67"
+                    }
+                },
+                "title": "Araiguma Rascal"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Planning",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 42143,
+                "url": "https://myanimelist.net/anime/42143/Aya_to_Majo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170.jpg?s=423fdf67ab504867577415ec46d4b569",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170t.jpg?s=423fdf67ab504867577415ec46d4b569",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170l.jpg?s=423fdf67ab504867577415ec46d4b569"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170.webp?s=423fdf67ab504867577415ec46d4b569",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170t.webp?s=423fdf67ab504867577415ec46d4b569",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1242/110170l.webp?s=423fdf67ab504867577415ec46d4b569"
+                    }
+                },
+                "title": "Aya to Majo"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Script, Planning, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 8632,
+                "url": "https://myanimelist.net/anime/8632/Chuuzumou",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1957/159193.jpg?s=e74abdba3bb911921b5ba8d444922e73",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1957/159193t.jpg?s=e74abdba3bb911921b5ba8d444922e73",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1957/159193l.jpg?s=e74abdba3bb911921b5ba8d444922e73"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1957/159193.webp?s=e74abdba3bb911921b5ba8d444922e73",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1957/159193t.webp?s=e74abdba3bb911921b5ba8d444922e73",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1957/159193l.webp?s=e74abdba3bb911921b5ba8d444922e73"
+                    }
+                },
+                "title": "Chuuzumou"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Planning, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 10029,
+                "url": "https://myanimelist.net/anime/10029/Coquelicot-zaka_kara",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/32547.jpg?s=5788b35e17fdc7f95c37ec9d2894ab82",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/32547t.jpg?s=5788b35e17fdc7f95c37ec9d2894ab82",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/32547l.jpg?s=5788b35e17fdc7f95c37ec9d2894ab82"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/32547.webp?s=5788b35e17fdc7f95c37ec9d2894ab82",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/32547t.webp?s=5788b35e17fdc7f95c37ec9d2894ab82",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/32547l.webp?s=5788b35e17fdc7f95c37ec9d2894ab82"
+                    }
+                },
+                "title": "Coquelicot-zaka kara"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 3842,
+                "url": "https://myanimelist.net/anime/3842/Doubutsu_Takarajima",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1084/100515.jpg?s=e9ed7e31647087125f89a539e9a57b62",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1084/100515t.jpg?s=e9ed7e31647087125f89a539e9a57b62",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1084/100515l.jpg?s=e9ed7e31647087125f89a539e9a57b62"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1084/100515.webp?s=e9ed7e31647087125f89a539e9a57b62",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1084/100515t.webp?s=e9ed7e31647087125f89a539e9a57b62",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1084/100515l.webp?s=e9ed7e31647087125f89a539e9a57b62"
+                    }
+                },
+                "title": "Doubutsu Takarajima"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2553,
+                "url": "https://myanimelist.net/anime/2553/Flanders_no_Inu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/2/17492.jpg?s=d39232feae8aa995b0fcc910c306209c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/17492t.jpg?s=d39232feae8aa995b0fcc910c306209c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/17492l.jpg?s=d39232feae8aa995b0fcc910c306209c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/2/17492.webp?s=d39232feae8aa995b0fcc910c306209c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/17492t.webp?s=d39232feae8aa995b0fcc910c306209c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/17492l.webp?s=d39232feae8aa995b0fcc910c306209c"
+                    }
+                },
+                "title": "Flanders no Inu"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Animation Director, Executive Producer (English/Japanese versions), Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2890,
+                "url": "https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/138727.jpg?s=57cb0f20db35372741bee65e946c8209",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1331/138727t.jpg?s=57cb0f20db35372741bee65e946c8209",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1331/138727l.jpg?s=57cb0f20db35372741bee65e946c8209"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/138727.webp?s=57cb0f20db35372741bee65e946c8209",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1331/138727t.webp?s=57cb0f20db35372741bee65e946c8209",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1331/138727l.webp?s=57cb0f20db35372741bee65e946c8209"
+                    }
+                },
+                "title": "Gake no Ue no Ponyo"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 24975,
+                "url": "https://myanimelist.net/anime/24975/Ghibli_ga_Ippai_Special_Short_Short",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/64003.jpg?s=dafb72cc17b63045159dff90c712814c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/64003t.jpg?s=dafb72cc17b63045159dff90c712814c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/64003l.jpg?s=dafb72cc17b63045159dff90c712814c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/64003.webp?s=dafb72cc17b63045159dff90c712814c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/64003t.webp?s=dafb72cc17b63045159dff90c712814c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/64003l.webp?s=dafb72cc17b63045159dff90c712814c"
+                    }
+                },
+                "title": "Ghibli ga Ippai Special Short Short"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Script (Concept of Final Scene), In-Between Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2833,
+                "url": "https://myanimelist.net/anime/2833/Gulliver_no_Uchuu_Ryokou",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/147982.jpg?s=c0d1a7accc89a87c644c03f9df111593",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1794/147982t.jpg?s=c0d1a7accc89a87c644c03f9df111593",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1794/147982l.jpg?s=c0d1a7accc89a87c644c03f9df111593"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/147982.webp?s=c0d1a7accc89a87c644c03f9df111593",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1794/147982t.webp?s=c0d1a7accc89a87c644c03f9df111593",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1794/147982l.webp?s=c0d1a7accc89a87c644c03f9df111593"
+                    }
+                },
+                "title": "Gulliver no Uchuu Ryokou"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Layout",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1663,
+                "url": "https://myanimelist.net/anime/1663/Haha_wo_Tazunete_Sanzenri",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/9/80523.jpg?s=56c3109b611bbb6e7a797d25c03fe576",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/80523t.jpg?s=56c3109b611bbb6e7a797d25c03fe576",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/80523l.jpg?s=56c3109b611bbb6e7a797d25c03fe576"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/9/80523.webp?s=56c3109b611bbb6e7a797d25c03fe576",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/80523t.webp?s=56c3109b611bbb6e7a797d25c03fe576",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/80523l.webp?s=56c3109b611bbb6e7a797d25c03fe576"
+                    }
+                },
+                "title": "Haha wo Tazunete Sanzenri"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Executive Producer, Planning",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1030,
+                "url": "https://myanimelist.net/anime/1030/Heisei_Tanuki_Gassen_Ponpoko",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/138712.jpg?s=dd50e6f14af8c331ffdb5bd24e493d06",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1962/138712t.jpg?s=dd50e6f14af8c331ffdb5bd24e493d06",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1962/138712l.jpg?s=dd50e6f14af8c331ffdb5bd24e493d06"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/138712.webp?s=dd50e6f14af8c331ffdb5bd24e493d06",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1962/138712t.webp?s=dd50e6f14af8c331ffdb5bd24e493d06",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1962/138712l.webp?s=dd50e6f14af8c331ffdb5bd24e493d06"
+                    }
+                },
+                "title": "Heisei Tanuki Gassen Ponpoko"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation (44, 61)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 3285,
+                "url": "https://myanimelist.net/anime/3285/Himitsu_no_Akko-chan",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/5225.jpg?s=bc83d6da023804b249d7bf92b8fa3cd9",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/5225t.jpg?s=bc83d6da023804b249d7bf92b8fa3cd9",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/5225l.jpg?s=bc83d6da023804b249d7bf92b8fa3cd9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/5225.webp?s=bc83d6da023804b249d7bf92b8fa3cd9",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/5225t.webp?s=bc83d6da023804b249d7bf92b8fa3cd9",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/5225l.webp?s=bc83d6da023804b249d7bf92b8fa3cd9"
+                    }
+                },
+                "title": "Himitsu no Akko-chan"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 6463,
+                "url": "https://myanimelist.net/anime/6463/Hoshi_wo_Katta_Hi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1587/139423.jpg?s=e9469e1321e32ad8ad917d28177e9220",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1587/139423t.jpg?s=e9469e1321e32ad8ad917d28177e9220",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1587/139423l.jpg?s=e9469e1321e32ad8ad917d28177e9220"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1587/139423.webp?s=e9469e1321e32ad8ad917d28177e9220",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1587/139423t.webp?s=e9469e1321e32ad8ad917d28177e9220",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1587/139423l.webp?s=e9469e1321e32ad8ad917d28177e9220"
+                    }
+                },
+                "title": "Hoshi wo Katta Hi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Executive Producer, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 431,
+                "url": "https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723.jpg?s=04513f01d4c40e459664cfa446cabb99",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723t.jpg?s=04513f01d4c40e459664cfa446cabb99",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg?s=04513f01d4c40e459664cfa446cabb99"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723.webp?s=04513f01d4c40e459664cfa446cabb99",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723t.webp?s=04513f01d4c40e459664cfa446cabb99",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723l.webp?s=04513f01d4c40e459664cfa446cabb99"
+                    }
+                },
+                "title": "Howl no Ugoku Shiro"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 19681,
+                "url": "https://myanimelist.net/anime/19681/Hustle_Punch",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/59619.jpg?s=60335801d75842e4e0bb255633c9419a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/59619t.jpg?s=60335801d75842e4e0bb255633c9419a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/59619l.jpg?s=60335801d75842e4e0bb255633c9419a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/59619.webp?s=60335801d75842e4e0bb255633c9419a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/59619t.webp?s=60335801d75842e4e0bb255633c9419a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/59619l.webp?s=60335801d75842e4e0bb255633c9419a"
+                    }
+                },
+                "title": "Hustle Punch"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Original Character Design",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 10889,
+                "url": "https://myanimelist.net/anime/10889/Jungle_Kurobee",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/117028.jpg?s=5c567aed447386d1220dd39d1b944f18",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1181/117028t.jpg?s=5c567aed447386d1220dd39d1b944f18",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1181/117028l.jpg?s=5c567aed447386d1220dd39d1b944f18"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/117028.webp?s=5c567aed447386d1220dd39d1b944f18",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1181/117028t.webp?s=5c567aed447386d1220dd39d1b944f18",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1181/117028l.webp?s=5c567aed447386d1220dd39d1b944f18"
+                    }
+                },
+                "title": "Jungle Kurobee"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Script (Plan & Script), Planning, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 7711,
+                "url": "https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/116417.jpg?s=2bb662952af54c8bbfe07f930905d490",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1974/116417t.jpg?s=2bb662952af54c8bbfe07f930905d490",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/116417l.jpg?s=2bb662952af54c8bbfe07f930905d490"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/116417.webp?s=2bb662952af54c8bbfe07f930905d490",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1974/116417t.webp?s=2bb662952af54c8bbfe07f930905d490",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/116417l.webp?s=2bb662952af54c8bbfe07f930905d490"
+                    }
+                },
+                "title": "Karigurashi no Arrietty"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Original Creator, Character Design, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 572,
+                "url": "https://myanimelist.net/anime/572/Kaze_no_Tani_no_Nausicaä",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75914.jpg?s=dd33003c248d5fddc85eb91df3fa3cf3",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/75914t.jpg?s=dd33003c248d5fddc85eb91df3fa3cf3",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/75914l.jpg?s=dd33003c248d5fddc85eb91df3fa3cf3"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75914.webp?s=dd33003c248d5fddc85eb91df3fa3cf3",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/75914t.webp?s=dd33003c248d5fddc85eb91df3fa3cf3",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/75914l.webp?s=dd33003c248d5fddc85eb91df3fa3cf3"
+                    }
+                },
+                "title": "Kaze no Tani no Nausicaä"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Original Creator, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 16662,
+                "url": "https://myanimelist.net/anime/16662/Kaze_Tachinu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/52353.jpg?s=f7424f98eeacb20988096cc8a57828e3",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/52353t.jpg?s=f7424f98eeacb20988096cc8a57828e3",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/52353l.jpg?s=f7424f98eeacb20988096cc8a57828e3"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/52353.webp?s=f7424f98eeacb20988096cc8a57828e3",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/52353t.webp?s=f7424f98eeacb20988096cc8a57828e3",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/52353l.webp?s=f7424f98eeacb20988096cc8a57828e3"
+                    }
+                },
+                "title": "Kaze Tachinu"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Original Creator",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 32133,
+                "url": "https://myanimelist.net/anime/32133/Kemushi_no_Boro",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1377/90940.jpg?s=9c5ad6b1dbc150c16f8b6a9ebb54f88c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1377/90940t.jpg?s=9c5ad6b1dbc150c16f8b6a9ebb54f88c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1377/90940l.jpg?s=9c5ad6b1dbc150c16f8b6a9ebb54f88c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1377/90940.webp?s=9c5ad6b1dbc150c16f8b6a9ebb54f88c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1377/90940t.webp?s=9c5ad6b1dbc150c16f8b6a9ebb54f88c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1377/90940l.webp?s=9c5ad6b1dbc150c16f8b6a9ebb54f88c"
+                    }
+                },
+                "title": "Kemushi no Boro"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Storyboard, Original Creator, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 36699,
+                "url": "https://myanimelist.net/anime/36699/Kimitachi_wa_Dou_Ikiru_ka",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/139654.jpg?s=430222c3182d5760b8a6262847c18dbe",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1126/139654t.jpg?s=430222c3182d5760b8a6262847c18dbe",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1126/139654l.jpg?s=430222c3182d5760b8a6262847c18dbe"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/139654.webp?s=430222c3182d5760b8a6262847c18dbe",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1126/139654t.webp?s=430222c3182d5760b8a6262847c18dbe",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1126/139654l.webp?s=430222c3182d5760b8a6262847c18dbe"
+                    }
+                },
+                "title": "Kimitachi wa Dou Ikiru ka"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 6975,
+                "url": "https://myanimelist.net/anime/6975/Koro_no_Dai_Sanpo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1624/159181.jpg?s=78e3561122d7a9ab50928eaf157ca291",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159181t.jpg?s=78e3561122d7a9ab50928eaf157ca291",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159181l.jpg?s=78e3561122d7a9ab50928eaf157ca291"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1624/159181.webp?s=78e3561122d7a9ab50928eaf157ca291",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159181t.webp?s=78e3561122d7a9ab50928eaf157ca291",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159181l.webp?s=78e3561122d7a9ab50928eaf157ca291"
+                    }
+                },
+                "title": "Koro no Dai Sanpo"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Storyboard (ep 15, 18 (cleanup)), Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 4597,
+                "url": "https://myanimelist.net/anime/4597/Kouya_no_Shounen_Isamu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1390/157303.jpg?s=0c0dd4c1359f88bb2e46248ba97503d4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1390/157303t.jpg?s=0c0dd4c1359f88bb2e46248ba97503d4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1390/157303l.jpg?s=0c0dd4c1359f88bb2e46248ba97503d4"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1390/157303.webp?s=0c0dd4c1359f88bb2e46248ba97503d4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1390/157303t.webp?s=0c0dd4c1359f88bb2e46248ba97503d4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1390/157303l.webp?s=0c0dd4c1359f88bb2e46248ba97503d4"
+                    }
+                },
+                "title": "Kouya no Shounen Isamu"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Storyboard, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2895,
+                "url": "https://myanimelist.net/anime/2895/Kujiratori",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/4067.jpg?s=c15463d7c8ffd21e782a484c77b52417",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/4067t.jpg?s=c15463d7c8ffd21e782a484c77b52417",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/4067l.jpg?s=c15463d7c8ffd21e782a484c77b52417"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/4067.webp?s=c15463d7c8ffd21e782a484c77b52417",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/4067t.webp?s=c15463d7c8ffd21e782a484c77b52417",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/4067l.webp?s=c15463d7c8ffd21e782a484c77b52417"
+                    }
+                },
+                "title": "Kujiratori"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Storyboard, Original Creator, Editing, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 416,
+                "url": "https://myanimelist.net/anime/416/Kurenai_no_Buta",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1728/138709.jpg?s=0d30ee55687d22ff8f5ab7abc2d14314",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1728/138709t.jpg?s=0d30ee55687d22ff8f5ab7abc2d14314",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1728/138709l.jpg?s=0d30ee55687d22ff8f5ab7abc2d14314"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1728/138709.webp?s=0d30ee55687d22ff8f5ab7abc2d14314",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1728/138709t.webp?s=0d30ee55687d22ff8f5ab7abc2d14314",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1728/138709l.webp?s=0d30ee55687d22ff8f5ab7abc2d14314"
+                    }
+                },
+                "title": "Kurenai no Buta"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Original Creator, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 19401,
+                "url": "https://myanimelist.net/anime/19401/Kuusou_no_Soratobu_Kikai-tachi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/52001.jpg?s=7549a5e5f1ace2346c3e91b532b7b1fc",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/52001t.jpg?s=7549a5e5f1ace2346c3e91b532b7b1fc",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/52001l.jpg?s=7549a5e5f1ace2346c3e91b532b7b1fc"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/52001.webp?s=7549a5e5f1ace2346c3e91b532b7b1fc",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/52001t.webp?s=7549a5e5f1ace2346c3e91b532b7b1fc",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/52001l.webp?s=7549a5e5f1ace2346c3e91b532b7b1fc"
+                    }
+                },
+                "title": "Kuusou no Soratobu Kikai-tachi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Episode Director (eps 9, 14-19, 21, 23), Key Animation (eps 9, 14-19, 21, 23)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1412,
+                "url": "https://myanimelist.net/anime/1412/Lupin_III",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/15625.jpg?s=52e00c479c8335a373ade6b995610b8f",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/15625t.jpg?s=52e00c479c8335a373ade6b995610b8f",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/15625l.jpg?s=52e00c479c8335a373ade6b995610b8f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/15625.webp?s=52e00c479c8335a373ade6b995610b8f",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/15625t.webp?s=52e00c479c8335a373ade6b995610b8f",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/15625l.webp?s=52e00c479c8335a373ade6b995610b8f"
+                    }
+                },
+                "title": "Lupin III"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Storyboard, Character Design",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1430,
+                "url": "https://myanimelist.net/anime/1430/Lupin_III__Cagliostro_no_Shiro",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/26182.jpg?s=244bf685aa521f6f0bf84ceaa62248e1",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/26182t.jpg?s=244bf685aa521f6f0bf84ceaa62248e1",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/26182l.jpg?s=244bf685aa521f6f0bf84ceaa62248e1"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/26182.webp?s=244bf685aa521f6f0bf84ceaa62248e1",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/26182t.webp?s=244bf685aa521f6f0bf84ceaa62248e1",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/26182l.webp?s=244bf685aa521f6f0bf84ceaa62248e1"
+                    }
+                },
+                "title": "Lupin III: Cagliostro no Shiro"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director (145, 155), Storyboard (145,155), Episode Director (Eps 145, 155), Screenplay (145, 155)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1425,
+                "url": "https://myanimelist.net/anime/1425/Lupin_III__Part_II",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/34035.jpg?s=ce7af3392fd868a7114edb611809d369",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/34035t.jpg?s=ce7af3392fd868a7114edb611809d369",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/34035l.jpg?s=ce7af3392fd868a7114edb611809d369"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/34035.webp?s=ce7af3392fd868a7114edb611809d369",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/34035t.webp?s=ce7af3392fd868a7114edb611809d369",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/34035l.webp?s=ce7af3392fd868a7114edb611809d369"
+                    }
+                },
+                "title": "Lupin III: Part II"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation (77, 80)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 3356,
+                "url": "https://myanimelist.net/anime/3356/Mahoutsukai_Sally",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/67001.jpg?s=b5c5a4de2c3771a096ae781c5a7c0346",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/67001t.jpg?s=b5c5a4de2c3771a096ae781c5a7c0346",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/67001l.jpg?s=b5c5a4de2c3771a096ae781c5a7c0346"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/67001.webp?s=b5c5a4de2c3771a096ae781c5a7c0346",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/67001t.webp?s=b5c5a4de2c3771a096ae781c5a7c0346",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/67001l.webp?s=b5c5a4de2c3771a096ae781c5a7c0346"
+                    }
+                },
+                "title": "Mahoutsukai Sally"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Producer",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 512,
+                "url": "https://myanimelist.net/anime/512/Majo_no_Takkyuubin",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1579/140483.jpg?s=ca10fe145421631459e58b7a065b085f",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1579/140483t.jpg?s=ca10fe145421631459e58b7a065b085f",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1579/140483l.jpg?s=ca10fe145421631459e58b7a065b085f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1579/140483.webp?s=ca10fe145421631459e58b7a065b085f",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1579/140483t.webp?s=ca10fe145421631459e58b7a065b085f",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1579/140483l.webp?s=ca10fe145421631459e58b7a065b085f"
+                    }
+                },
+                "title": "Majo no Takkyuubin"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Creator, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2488,
+                "url": "https://myanimelist.net/anime/2488/Mei_to_Koneko_Bus",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602.jpg?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602t.jpg?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602l.jpg?s=e2005a2a8ca05df5fb6ba93a75cec2b7"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602.webp?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602t.webp?s=e2005a2a8ca05df5fb6ba93a75cec2b7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1034/99602l.webp?s=e2005a2a8ca05df5fb6ba93a75cec2b7"
+                    }
+                },
+                "title": "Mei to Koneko Bus"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director (eps 3-5, 9-11), Script (3), Storyboard (3-5, 9-10), Episode Director (3-5, 9-10)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1972,
+                "url": "https://myanimelist.net/anime/1972/Meitantei_Holmes",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/75723.jpg?s=068c5eb9e0789cf1669e7264b82d27f9",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/75723t.jpg?s=068c5eb9e0789cf1669e7264b82d27f9",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/75723l.jpg?s=068c5eb9e0789cf1669e7264b82d27f9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/75723.webp?s=068c5eb9e0789cf1669e7264b82d27f9",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/75723t.webp?s=068c5eb9e0789cf1669e7264b82d27f9",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/75723l.webp?s=068c5eb9e0789cf1669e7264b82d27f9"
+                    }
+                },
+                "title": "Meitantei Holmes"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 15347,
+                "url": "https://myanimelist.net/anime/15347/Meitantei_Holmes__Aoi_Ruby_no_Maki___Kaitei_no_Zaihou_no_Maki",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/42601.jpg?s=4bb6186f938c0e088b929b013fbbd852",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/42601t.jpg?s=4bb6186f938c0e088b929b013fbbd852",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/42601l.jpg?s=4bb6186f938c0e088b929b013fbbd852"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/42601.webp?s=4bb6186f938c0e088b929b013fbbd852",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/42601t.webp?s=4bb6186f938c0e088b929b013fbbd852",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/42601l.webp?s=4bb6186f938c0e088b929b013fbbd852"
+                    }
+                },
+                "title": "Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihou no Maki"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 20441,
+                "url": "https://myanimelist.net/anime/20441/Meitantei_Holmes__Mrs_Hudson_Hitojichi_Jiken_no_Maki___Dover_Kaikyou_no_Daikuuchuusen_no_Maki",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1873/157395.jpg?s=0a3929ffcc442a4f21e9582766b8992d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1873/157395t.jpg?s=0a3929ffcc442a4f21e9582766b8992d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1873/157395l.jpg?s=0a3929ffcc442a4f21e9582766b8992d"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1873/157395.webp?s=0a3929ffcc442a4f21e9582766b8992d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1873/157395t.webp?s=0a3929ffcc442a4f21e9582766b8992d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1873/157395l.webp?s=0a3929ffcc442a4f21e9582766b8992d"
+                    }
+                },
+                "title": "Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Storyboard, Creator, Producer, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 585,
+                "url": "https://myanimelist.net/anime/585/Mimi_wo_Sumaseba",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/138714.jpg?s=21272e1a66231ed3dc73a2291a532c56",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1764/138714t.jpg?s=21272e1a66231ed3dc73a2291a532c56",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1764/138714l.jpg?s=21272e1a66231ed3dc73a2291a532c56"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/138714.webp?s=21272e1a66231ed3dc73a2291a532c56",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1764/138714t.webp?s=21272e1a66231ed3dc73a2291a532c56",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1764/138714l.webp?s=21272e1a66231ed3dc73a2291a532c56"
+                    }
+                },
+                "title": "Mimi wo Sumaseba"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script (3-4, 8, 12, 15, 17), Storyboard (1-4, 8, 15-19, 22-26), Episode Director (eps 1-26), Character Design, Mechanical Design, Key Animation (ED)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 302,
+                "url": "https://myanimelist.net/anime/302/Mirai_Shounen_Conan",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/6/17529.jpg?s=8967c02b8d4d3abdc73c17bcacb7ebd8",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/17529t.jpg?s=8967c02b8d4d3abdc73c17bcacb7ebd8",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/17529l.jpg?s=8967c02b8d4d3abdc73c17bcacb7ebd8"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/6/17529.webp?s=8967c02b8d4d3abdc73c17bcacb7ebd8",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/17529t.webp?s=8967c02b8d4d3abdc73c17bcacb7ebd8",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/17529l.webp?s=8967c02b8d4d3abdc73c17bcacb7ebd8"
+                    }
+                },
+                "title": "Mirai Shounen Conan"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Character Design",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2614,
+                "url": "https://myanimelist.net/anime/2614/Mirai_Shounen_Conan__Kyodaiki_Gigant_no_Fukkatsu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/17369.jpg?s=b64b968040742ab91de494fb48c4c11e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/17369t.jpg?s=b64b968040742ab91de494fb48c4c11e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/17369l.jpg?s=b64b968040742ab91de494fb48c4c11e"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/17369.webp?s=b64b968040742ab91de494fb48c4c11e",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/17369t.webp?s=b64b968040742ab91de494fb48c4c11e",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/17369l.webp?s=b64b968040742ab91de494fb48c4c11e"
+                    }
+                },
+                "title": "Mirai Shounen Conan: Kyodaiki Gigant no Fukkatsu"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 4306,
+                "url": "https://myanimelist.net/anime/4306/Mizugumo_Monmon",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1365/159198.jpg?s=b6009b143fd578b204d860ff1d2e76f4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1365/159198t.jpg?s=b6009b143fd578b204d860ff1d2e76f4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1365/159198l.jpg?s=b6009b143fd578b204d860ff1d2e76f4"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1365/159198.webp?s=b6009b143fd578b204d860ff1d2e76f4",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1365/159198t.webp?s=b6009b143fd578b204d860ff1d2e76f4",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1365/159198l.webp?s=b6009b143fd578b204d860ff1d2e76f4"
+                    }
+                },
+                "title": "Mizugumo Monmon"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Creator, Theme Song Lyrics, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 164,
+                "url": "https://myanimelist.net/anime/164/Mononoke_Hime",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277.jpg?s=2f00a13f855172060ac8f3e6532fc72d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277t.jpg?s=2f00a13f855172060ac8f3e6532fc72d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg?s=2f00a13f855172060ac8f3e6532fc72d"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277.webp?s=2f00a13f855172060ac8f3e6532fc72d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277t.webp?s=2f00a13f855172060ac8f3e6532fc72d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.webp?s=2f00a13f855172060ac8f3e6532fc72d"
+                    }
+                },
+                "title": "Mononoke Hime"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation (24)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 8234,
+                "url": "https://myanimelist.net/anime/8234/Muumin",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1128/155737.jpg?s=2de7c047993a0eee95f876e5d905e9f8",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1128/155737t.jpg?s=2de7c047993a0eee95f876e5d905e9f8",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1128/155737l.jpg?s=2de7c047993a0eee95f876e5d905e9f8"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1128/155737.webp?s=2de7c047993a0eee95f876e5d905e9f8",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1128/155737t.webp?s=2de7c047993a0eee95f876e5d905e9f8",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1128/155737l.webp?s=2de7c047993a0eee95f876e5d905e9f8"
+                    }
+                },
+                "title": "Muumin"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Storyboard, Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2279,
+                "url": "https://myanimelist.net/anime/2279/Nagagutsu_wo_Haita_Neko",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/5415.jpg?s=3348da6f93d9f4a61bac2fbcf187adb8",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/5415t.jpg?s=3348da6f93d9f4a61bac2fbcf187adb8",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/5415l.jpg?s=3348da6f93d9f4a61bac2fbcf187adb8"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/5415.webp?s=3348da6f93d9f4a61bac2fbcf187adb8",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/5415t.webp?s=3348da6f93d9f4a61bac2fbcf187adb8",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/5415l.webp?s=3348da6f93d9f4a61bac2fbcf187adb8"
+                    }
+                },
+                "title": "Nagagutsu wo Haita Neko"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2897,
+                "url": "https://myanimelist.net/anime/2897/Nandarou",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/6/4068.jpg?s=f20ec0bb65bd96679c6271efa426b973",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/4068t.jpg?s=f20ec0bb65bd96679c6271efa426b973",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/4068l.jpg?s=f20ec0bb65bd96679c6271efa426b973"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/6/4068.webp?s=f20ec0bb65bd96679c6271efa426b973",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/4068t.webp?s=f20ec0bb65bd96679c6271efa426b973",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/4068l.webp?s=f20ec0bb65bd96679c6271efa426b973"
+                    }
+                },
+                "title": "Nandarou"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Executive Producer",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 597,
+                "url": "https://myanimelist.net/anime/597/Neko_no_Ongaeshi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1109/138719.jpg?s=868ff8161124e99288fa92dd150c61a6",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1109/138719t.jpg?s=868ff8161124e99288fa92dd150c61a6",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1109/138719l.jpg?s=868ff8161124e99288fa92dd150c61a6"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1109/138719.webp?s=868ff8161124e99288fa92dd150c61a6",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1109/138719t.webp?s=868ff8161124e99288fa92dd150c61a6",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1109/138719l.webp?s=868ff8161124e99288fa92dd150c61a6"
+                    }
+                },
+                "title": "Neko no Ongaeshi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Original Character Design (Logo Design)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 28149,
+                "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/11/71901.jpg?s=8e55c2cd9afe9385cf2d91389f42724a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/71901t.jpg?s=8e55c2cd9afe9385cf2d91389f42724a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/71901l.jpg?s=8e55c2cd9afe9385cf2d91389f42724a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/11/71901.webp?s=8e55c2cd9afe9385cf2d91389f42724a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/71901t.webp?s=8e55c2cd9afe9385cf2d91389f42724a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/71901l.webp?s=8e55c2cd9afe9385cf2d91389f42724a"
+                    }
+                },
+                "title": "Nihon Animator Mihonichi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Executive Producer",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1029,
+                "url": "https://myanimelist.net/anime/1029/Omoide_Poroporo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1289/138708.jpg?s=731632ef802d4c52651443177a2e6be1",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1289/138708t.jpg?s=731632ef802d4c52651443177a2e6be1",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1289/138708l.jpg?s=731632ef802d4c52651443177a2e6be1"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1289/138708.webp?s=731632ef802d4c52651443177a2e6be1",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1289/138708t.webp?s=731632ef802d4c52651443177a2e6be1",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1289/138708l.webp?s=731632ef802d4c52651443177a2e6be1"
+                    }
+                },
+                "title": "Omoide Poroporo"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1047,
+                "url": "https://myanimelist.net/anime/1047/On_Your_Mark",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/81234.jpg?s=b08c59316f63dcd86d75877338e5daa2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/81234t.jpg?s=b08c59316f63dcd86d75877338e5daa2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/81234l.jpg?s=b08c59316f63dcd86d75877338e5daa2"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/10/81234.webp?s=b08c59316f63dcd86d75877338e5daa2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/81234t.webp?s=b08c59316f63dcd86d75877338e5daa2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/81234l.webp?s=b08c59316f63dcd86d75877338e5daa2"
+                    }
+                },
+                "title": "On Your Mark"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add In-Between Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 17521,
+                "url": "https://myanimelist.net/anime/17521/Ookami_Shounen_Ken",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/56389.jpg?s=2deec3a549aeefaadd8d4f14ce1c7571",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/56389t.jpg?s=2deec3a549aeefaadd8d4f14ce1c7571",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/56389l.jpg?s=2deec3a549aeefaadd8d4f14ce1c7571"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/56389.webp?s=2deec3a549aeefaadd8d4f14ce1c7571",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/56389t.webp?s=2deec3a549aeefaadd8d4f14ce1c7571",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/56389l.webp?s=2deec3a549aeefaadd8d4f14ce1c7571"
+                    }
+                },
+                "title": "Ookami Shounen Ken"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Original Character Design, Key Animation, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2611,
+                "url": "https://myanimelist.net/anime/2611/Panda_Kopanda",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1209/90479.jpg?s=ca0fe137a35b260e143d321feef14a65",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1209/90479t.jpg?s=ca0fe137a35b260e143d321feef14a65",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1209/90479l.jpg?s=ca0fe137a35b260e143d321feef14a65"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1209/90479.webp?s=ca0fe137a35b260e143d321feef14a65",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1209/90479t.webp?s=ca0fe137a35b260e143d321feef14a65",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1209/90479l.webp?s=ca0fe137a35b260e143d321feef14a65"
+                    }
+                },
+                "title": "Panda Kopanda"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Storyboard",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 9798,
+                "url": "https://myanimelist.net/anime/9798/Pandane_to_Tamago-hime",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1491/112731.jpg?s=46c656dee1974c77673a297f1069c369",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1491/112731t.jpg?s=46c656dee1974c77673a297f1069c369",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1491/112731l.jpg?s=46c656dee1974c77673a297f1069c369"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1491/112731.webp?s=46c656dee1974c77673a297f1069c369",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1491/112731t.webp?s=46c656dee1974c77673a297f1069c369",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1491/112731l.webp?s=46c656dee1974c77673a297f1069c369"
+                    }
+                },
+                "title": "Pandane to Tamago-hime"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation (34, 38)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 9438,
+                "url": "https://myanimelist.net/anime/9438/Rainbow_Sentai_Robin",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/46831.jpg?s=eb589051f5cdf89e0e9709b09808c8a0",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/46831t.jpg?s=eb589051f5cdf89e0e9709b09808c8a0",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/46831l.jpg?s=eb589051f5cdf89e0e9709b09808c8a0"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/46831.webp?s=eb589051f5cdf89e0e9709b09808c8a0",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/46831t.webp?s=eb589051f5cdf89e0e9709b09808c8a0",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/46831l.webp?s=eb589051f5cdf89e0e9709b09808c8a0"
+                    }
+                },
+                "title": "Rainbow Sentai Robin"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation (1)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 9916,
+                "url": "https://myanimelist.net/anime/9916/Samurai_Giants",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/11/27421.jpg?s=8fa13ec4e81de6e26b925558b5f884d3",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/27421t.jpg?s=8fa13ec4e81de6e26b925558b5f884d3",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/27421l.jpg?s=8fa13ec4e81de6e26b925558b5f884d3"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/11/27421.webp?s=8fa13ec4e81de6e26b925558b5f884d3",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/27421t.webp?s=8fa13ec4e81de6e26b925558b5f884d3",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/27421l.webp?s=8fa13ec4e81de6e26b925558b5f884d3"
+                    }
+                },
+                "title": "Samurai Giants"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 6311,
+                "url": "https://myanimelist.net/anime/6311/Sarutobi_Ecchan",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/59333.jpg?s=34a8b4e15f5b1241fd614be5d7c46a28",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/59333t.jpg?s=34a8b4e15f5b1241fd614be5d7c46a28",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/59333l.jpg?s=34a8b4e15f5b1241fd614be5d7c46a28"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/59333.webp?s=34a8b4e15f5b1241fd614be5d7c46a28",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/59333t.webp?s=34a8b4e15f5b1241fd614be5d7c46a28",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/59333l.webp?s=34a8b4e15f5b1241fd614be5d7c46a28"
+                    }
+                },
+                "title": "Sarutobi Ecchan"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Storyboard, Original Creator",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 199,
+                "url": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/6/79597.jpg?s=089d7fb9c4699509ea79f471e12c0db0",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597t.jpg?s=089d7fb9c4699509ea79f471e12c0db0",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg?s=089d7fb9c4699509ea79f471e12c0db0"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/6/79597.webp?s=089d7fb9c4699509ea79f471e12c0db0",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597t.webp?s=089d7fb9c4699509ea79f471e12c0db0",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.webp?s=089d7fb9c4699509ea79f471e12c0db0"
+                    }
+                },
+                "title": "Sen to Chihiro no Kamikakushi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 13307,
+                "url": "https://myanimelist.net/anime/13307/Shounen_Ninja_Kaze_no_Fujimaru",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/13/56385.jpg?s=5042c79d46d314bd2123d4423acad43f",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/56385t.jpg?s=5042c79d46d314bd2123d4423acad43f",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/56385l.jpg?s=5042c79d46d314bd2123d4423acad43f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/13/56385.webp?s=5042c79d46d314bd2123d4423acad43f",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/56385t.webp?s=5042c79d46d314bd2123d4423acad43f",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/56385l.webp?s=5042c79d46d314bd2123d4423acad43f"
+                    }
+                },
+                "title": "Shounen Ninja Kaze no Fujimaru"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Storyboard",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2616,
+                "url": "https://myanimelist.net/anime/2616/Sora_Iro_no_Tane",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/3/81232.jpg?s=b62b5f5903d141c9b31694404cee9e16",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/81232t.jpg?s=b62b5f5903d141c9b31694404cee9e16",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/81232l.jpg?s=b62b5f5903d141c9b31694404cee9e16"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/3/81232.webp?s=b62b5f5903d141c9b31694404cee9e16",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/81232t.webp?s=b62b5f5903d141c9b31694404cee9e16",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/81232l.webp?s=b62b5f5903d141c9b31694404cee9e16"
+                    }
+                },
+                "title": "Sora Iro no Tane"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2811,
+                "url": "https://myanimelist.net/anime/2811/Soratobu_Yuureisen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1557/112988.jpg?s=3449efef8cfbafff683beed971029b4a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1557/112988t.jpg?s=3449efef8cfbafff683beed971029b4a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1557/112988l.jpg?s=3449efef8cfbafff683beed971029b4a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1557/112988.webp?s=3449efef8cfbafff683beed971029b4a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1557/112988t.webp?s=3449efef8cfbafff683beed971029b4a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1557/112988l.webp?s=3449efef8cfbafff683beed971029b4a"
+                    }
+                },
+                "title": "Soratobu Yuureisen"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Layout",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 11561,
+                "url": "https://myanimelist.net/anime/11561/Sougen_no_Ko_Tenguri",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/32231.jpg?s=0955cb7eff12146f8bf26fcc9919e195",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/32231t.jpg?s=0955cb7eff12146f8bf26fcc9919e195",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/32231l.jpg?s=0955cb7eff12146f8bf26fcc9919e195"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/32231.webp?s=0955cb7eff12146f8bf26fcc9919e195",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/32231t.webp?s=0955cb7eff12146f8bf26fcc9919e195",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/32231l.webp?s=0955cb7eff12146f8bf26fcc9919e195"
+                    }
+                },
+                "title": "Sougen no Ko Tenguri"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 2452,
+                "url": "https://myanimelist.net/anime/2452/Space_Adventure_Cobra",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/13/42525.jpg?s=9a2da6985a32385030041ab9693a97e9",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/42525t.jpg?s=9a2da6985a32385030041ab9693a97e9",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/42525l.jpg?s=9a2da6985a32385030041ab9693a97e9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/13/42525.webp?s=9a2da6985a32385030041ab9693a97e9",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/42525t.webp?s=9a2da6985a32385030041ab9693a97e9",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/42525l.webp?s=9a2da6985a32385030041ab9693a97e9"
+                    }
+                },
+                "title": "Space Adventure Cobra"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation, Setting",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1044,
+                "url": "https://myanimelist.net/anime/1044/Taiyou_no_Ouji__Horus_no_Daibouken",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/147218.jpg?s=c059d13880381870619f169b65eaf3f7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1181/147218t.jpg?s=c059d13880381870619f169b65eaf3f7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1181/147218l.jpg?s=c059d13880381870619f169b65eaf3f7"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1181/147218.webp?s=c059d13880381870619f169b65eaf3f7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1181/147218t.webp?s=c059d13880381870619f169b65eaf3f7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1181/147218l.webp?s=c059d13880381870619f169b65eaf3f7"
+                    }
+                },
+                "title": "Taiyou no Ouji: Horus no Daibouken"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Planning",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 12267,
+                "url": "https://myanimelist.net/anime/12267/Takara-sagashi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/159186.jpg?s=206673a395870f94d6b041b3d1672fc5",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1955/159186t.jpg?s=206673a395870f94d6b041b3d1672fc5",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1955/159186l.jpg?s=206673a395870f94d6b041b3d1672fc5"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1955/159186.webp?s=206673a395870f94d6b041b3d1672fc5",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1955/159186t.webp?s=206673a395870f94d6b041b3d1672fc5",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1955/159186l.webp?s=206673a395870f94d6b041b3d1672fc5"
+                    }
+                },
+                "title": "Takara-sagashi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Character Design, Theme Song Lyrics, Screenplay",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 513,
+                "url": "https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/37799.jpg?s=a264da068a2f3a530f24af334347b648",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/37799t.jpg?s=a264da068a2f3a530f24af334347b648",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/37799l.jpg?s=a264da068a2f3a530f24af334347b648"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/37799.webp?s=a264da068a2f3a530f24af334347b648",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/37799t.webp?s=a264da068a2f3a530f24af334347b648",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/37799l.webp?s=a264da068a2f3a530f24af334347b648"
+                    }
+                },
+                "title": "Tenkuu no Shiro Laputa"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Key Animation (eps 8, 18)",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 4208,
+                "url": "https://myanimelist.net/anime/4208/Tetsujin_28-gou_1980",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/46121.jpg?s=b53747c2216db9a176785a2cbb2a7b10",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/46121t.jpg?s=b53747c2216db9a176785a2cbb2a7b10",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/46121l.jpg?s=b53747c2216db9a176785a2cbb2a7b10"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/46121.webp?s=b53747c2216db9a176785a2cbb2a7b10",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/46121t.webp?s=b53747c2216db9a176785a2cbb2a7b10",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/46121l.webp?s=b53747c2216db9a176785a2cbb2a7b10"
+                    }
+                },
+                "title": "Tetsujin 28-gou (1980)"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Storyboard, Original Creator",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 523,
+                "url": "https://myanimelist.net/anime/523/Tonari_no_Totoro",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1110/147278.jpg?s=9423ffb3309fca0c449ae84c25ff58c8",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1110/147278t.jpg?s=9423ffb3309fca0c449ae84c25ff58c8",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1110/147278l.jpg?s=9423ffb3309fca0c449ae84c25ff58c8"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1110/147278.webp?s=9423ffb3309fca0c449ae84c25ff58c8",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1110/147278t.webp?s=9423ffb3309fca0c449ae84c25ff58c8",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1110/147278l.webp?s=9423ffb3309fca0c449ae84c25ff58c8"
+                    }
+                },
+                "title": "Tonari no Totoro"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add In-Between Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 9228,
+                "url": "https://myanimelist.net/anime/9228/Wanwan_Chuushingura",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1761/112852.jpg?s=e185439e56aaac4e80dc77e6933aeeb9",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1761/112852t.jpg?s=e185439e56aaac4e80dc77e6933aeeb9",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1761/112852l.jpg?s=e185439e56aaac4e80dc77e6933aeeb9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1761/112852.webp?s=e185439e56aaac4e80dc77e6933aeeb9",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1761/112852t.webp?s=e185439e56aaac4e80dc77e6933aeeb9",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1761/112852l.webp?s=e185439e56aaac4e80dc77e6933aeeb9"
+                    }
+                },
+                "title": "Wanwan Chuushingura"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director, Script, Storyboard, Key Animation",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 3570,
+                "url": "https://myanimelist.net/anime/3570/Yadosagashi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/106725.jpg?s=198be52d6463e89173a6c550064ba7af",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1161/106725t.jpg?s=198be52d6463e89173a6c550064ba7af",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1161/106725l.jpg?s=198be52d6463e89173a6c550064ba7af"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1161/106725.webp?s=198be52d6463e89173a6c550064ba7af",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1161/106725t.webp?s=198be52d6463e89173a6c550064ba7af",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1161/106725l.webp?s=198be52d6463e89173a6c550064ba7af"
+                    }
+                },
+                "title": "Yadosagashi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Planning",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 25291,
+                "url": "https://myanimelist.net/anime/25291/Yomiuri_Shimbun",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/64609.jpg?s=b0e964275f1c49d49155139548b8c221",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/64609t.jpg?s=b0e964275f1c49d49155139548b8c221",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/64609l.jpg?s=b0e964275f1c49d49155139548b8c221"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/8/64609.webp?s=b0e964275f1c49d49155139548b8c221",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/64609t.webp?s=b0e964275f1c49d49155139548b8c221",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/64609l.webp?s=b0e964275f1c49d49155139548b8c221"
+                    }
+                },
+                "title": "Yomiuri Shimbun"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
+            "position": "add Director",
+            "anime": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 15021,
+                "url": "https://myanimelist.net/anime/15021/Yuki_no_Taiyou_Pilot",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/76446.jpg?s=45f2a69d84eab772069deda719b2383a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/76446t.jpg?s=45f2a69d84eab772069deda719b2383a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/76446l.jpg?s=45f2a69d84eab772069deda719b2383a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/7/76446.webp?s=45f2a69d84eab772069deda719b2383a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/76446t.webp?s=45f2a69d84eab772069deda719b2383a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/76446l.webp?s=45f2a69d84eab772069deda719b2383a"
+                    }
+                },
+                "title": "Yuki no Taiyou Pilot"
+            }
+        }
+    ],
+    "publishedManga": [
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 24980,
+                "url": "https://myanimelist.net/manga/24980/Chuunen_wa_Kouya_wo_Mezasu_zo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/134619.jpg?s=b184282f74eb6d463ae8cae8bab10d73",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/134619t.jpg?s=b184282f74eb6d463ae8cae8bab10d73",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/134619l.jpg?s=b184282f74eb6d463ae8cae8bab10d73"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/134619.webp?s=b184282f74eb6d463ae8cae8bab10d73",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/134619t.webp?s=b184282f74eb6d463ae8cae8bab10d73",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/134619l.webp?s=b184282f74eb6d463ae8cae8bab10d73"
+                    }
+                },
+                "title": "Chuunen wa Kouya wo Mezasu zo"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 13971,
+                "url": "https://myanimelist.net/manga/13971/Dobutsu_Takarajima",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/19837.jpg?s=2617baa7a9a558f134a44d8673dd82d7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/19837t.jpg?s=2617baa7a9a558f134a44d8673dd82d7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/19837l.jpg?s=2617baa7a9a558f134a44d8673dd82d7"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/19837.webp?s=2617baa7a9a558f134a44d8673dd82d7",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/19837t.webp?s=2617baa7a9a558f134a44d8673dd82d7",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/19837l.webp?s=2617baa7a9a558f134a44d8673dd82d7"
+                    }
+                },
+                "title": "Dobutsu Takarajima"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 14741,
+                "url": "https://myanimelist.net/manga/14741/Doromamire_no_Tora__Miyazaki_Hayao_Mousou_Note",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/115903.jpg?s=751574f4753b33933eaf56e83313d781",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/115903t.jpg?s=751574f4753b33933eaf56e83313d781",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/115903l.jpg?s=751574f4753b33933eaf56e83313d781"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/115903.webp?s=751574f4753b33933eaf56e83313d781",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/115903t.webp?s=751574f4753b33933eaf56e83313d781",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/115903l.webp?s=751574f4753b33933eaf56e83313d781"
+                    }
+                },
+                "title": "Doromamire no Tora: Miyazaki Hayao Mousou Note"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 12595,
+                "url": "https://myanimelist.net/manga/12595/Hansu_no_Kikan",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/17506.jpg?s=77add84aff85fee9850913914156e830",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/17506t.jpg?s=77add84aff85fee9850913914156e830",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/17506l.jpg?s=77add84aff85fee9850913914156e830"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/17506.webp?s=77add84aff85fee9850913914156e830",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/17506t.webp?s=77add84aff85fee9850913914156e830",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/17506l.webp?s=77add84aff85fee9850913914156e830"
+                    }
+                },
+                "title": "Hansu no Kikan"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 24979,
+                "url": "https://myanimelist.net/manga/24979/Hikoutei_Jidai",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/297821.jpg?s=1dc2127492cd49276ef2d64dbaed1167",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/297821t.jpg?s=1dc2127492cd49276ef2d64dbaed1167",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/297821l.jpg?s=1dc2127492cd49276ef2d64dbaed1167"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/297821.webp?s=1dc2127492cd49276ef2d64dbaed1167",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/297821t.webp?s=1dc2127492cd49276ef2d64dbaed1167",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/297821l.webp?s=1dc2127492cd49276ef2d64dbaed1167"
+                    }
+                },
+                "title": "Hikoutei Jidai"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 24978,
+                "url": "https://myanimelist.net/manga/24978/Imouto_e",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/40248.jpg?s=a60e1951e843e5e06f6d14f68296841b",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/40248t.jpg?s=a60e1951e843e5e06f6d14f68296841b",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/40248l.jpg?s=a60e1951e843e5e06f6d14f68296841b"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/40248.webp?s=a60e1951e843e5e06f6d14f68296841b",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/40248t.webp?s=a60e1951e843e5e06f6d14f68296841b",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/40248l.webp?s=a60e1951e843e5e06f6d14f68296841b"
+                    }
+                },
+                "title": "Imouto e"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 651,
+                "url": "https://myanimelist.net/manga/651/Kaze_no_Tani_no_Nausicaä",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/259856.jpg?s=af1751d2200ce475bedff6c7be0c7dcf",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856t.jpg?s=af1751d2200ce475bedff6c7be0c7dcf",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856l.jpg?s=af1751d2200ce475bedff6c7be0c7dcf"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/259856.webp?s=af1751d2200ce475bedff6c7be0c7dcf",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856t.webp?s=af1751d2200ce475bedff6c7be0c7dcf",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/259856l.webp?s=af1751d2200ce475bedff6c7be0c7dcf"
+                    }
+                },
+                "title": "Kaze no Tani no Nausicaä"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 46318,
+                "url": "https://myanimelist.net/manga/46318/Kaze_Tachinu__Miyazaki_Hayao_no_Mousou_Comeback",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/165109.jpg?s=e8db6292952ea08a32aa62188c2c801c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/165109t.jpg?s=e8db6292952ea08a32aa62188c2c801c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/165109l.jpg?s=e8db6292952ea08a32aa62188c2c801c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/165109.webp?s=e8db6292952ea08a32aa62188c2c801c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/165109t.webp?s=e8db6292952ea08a32aa62188c2c801c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/165109l.webp?s=e8db6292952ea08a32aa62188c2c801c"
+                    }
+                },
+                "title": "Kaze Tachinu: Miyazaki Hayao no Mousou Comeback"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 24977,
+                "url": "https://myanimelist.net/manga/24977/Kuuchuu_de_Oshokuji",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/40247.jpg?s=1a13cbd5c43af6b81e1e70a0f4bd251d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/40247t.jpg?s=1a13cbd5c43af6b81e1e70a0f4bd251d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/40247l.jpg?s=1a13cbd5c43af6b81e1e70a0f4bd251d"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/40247.webp?s=1a13cbd5c43af6b81e1e70a0f4bd251d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/40247t.webp?s=1a13cbd5c43af6b81e1e70a0f4bd251d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/40247l.webp?s=1a13cbd5c43af6b81e1e70a0f4bd251d"
+                    }
+                },
+                "title": "Kuuchuu de Oshokuji"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 71215,
+                "url": "https://myanimelist.net/manga/71215/Nagagutsu_wo_Haita_Neko",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/293135.jpg?s=f49ae9f046d31f3d19a80a7be8ca4ba5",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/293135t.jpg?s=f49ae9f046d31f3d19a80a7be8ca4ba5",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/293135l.jpg?s=f49ae9f046d31f3d19a80a7be8ca4ba5"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/293135.webp?s=f49ae9f046d31f3d19a80a7be8ca4ba5",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/293135t.webp?s=f49ae9f046d31f3d19a80a7be8ca4ba5",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/293135l.webp?s=f49ae9f046d31f3d19a80a7be8ca4ba5"
+                    }
+                },
+                "title": "Nagagutsu wo Haita Neko"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 18293,
+                "url": "https://myanimelist.net/manga/18293/Sabaku_no_Tami",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/268463.jpg?s=d5e73057ecb6acf2d341f96e0b54e506",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/268463t.jpg?s=d5e73057ecb6acf2d341f96e0b54e506",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/268463l.jpg?s=d5e73057ecb6acf2d341f96e0b54e506"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/268463.webp?s=d5e73057ecb6acf2d341f96e0b54e506",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/268463t.webp?s=d5e73057ecb6acf2d341f96e0b54e506",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/268463l.webp?s=d5e73057ecb6acf2d341f96e0b54e506"
+                    }
+                },
+                "title": "Sabaku no Tami"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 3274,
+                "url": "https://myanimelist.net/manga/3274/Shuna_no_Tabi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/281604.jpg?s=806219a046e7b6869b84ded07338e47c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/281604t.jpg?s=806219a046e7b6869b84ded07338e47c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/281604l.jpg?s=806219a046e7b6869b84ded07338e47c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/281604.webp?s=806219a046e7b6869b84ded07338e47c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/281604t.webp?s=806219a046e7b6869b84ded07338e47c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/281604l.webp?s=806219a046e7b6869b84ded07338e47c"
+                    }
+                },
+                "title": "Shuna no Tabi"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 76407,
+                "url": "https://myanimelist.net/manga/76407/Tenkuu_no_Shiro_Laputa",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/132763.jpg?s=96ebf00f006314c5a0cec9e26d0c8d54",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/132763t.jpg?s=96ebf00f006314c5a0cec9e26d0c8d54",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/132763l.jpg?s=96ebf00f006314c5a0cec9e26d0c8d54"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/3/132763.webp?s=96ebf00f006314c5a0cec9e26d0c8d54",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/132763t.webp?s=96ebf00f006314c5a0cec9e26d0c8d54",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/132763l.webp?s=96ebf00f006314c5a0cec9e26d0c8d54"
+                    }
+                },
+                "title": "Tenkuu no Shiro Laputa"
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Person\\PublishedManga",
+            "position": "Story & Art",
+            "mangaMeta": {
+                "@class": "Jikan\\Model\\Common\\MangaMeta",
+                "malId": 71163,
+                "url": "https://myanimelist.net/manga/71163/Westall_Gensou__Tynemouth_e_no_Tabi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/151906.jpg?s=5512d7a6127a957421de4840f80d3ae2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/151906t.jpg?s=5512d7a6127a957421de4840f80d3ae2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/151906l.jpg?s=5512d7a6127a957421de4840f80d3ae2"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/151906.webp?s=5512d7a6127a957421de4840f80d3ae2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/151906t.webp?s=5512d7a6127a957421de4840f80d3ae2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/151906l.webp?s=5512d7a6127a957421de4840f80d3ae2"
+                    }
+                },
+                "title": "Westall Gensou: Tynemouth e no Tabi"
+            }
+        }
+    ]
+}

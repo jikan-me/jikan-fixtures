@@ -85,6 +85,159 @@
                 "name": "Naruto (Shinsaku Anime)",
                 "url": "https://myanimelist.net/anime/54688/Naruto_Shinsaku_Anime"
             }
+        ],
+        "Side Story": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto: Takigakure no Shitou Ore ga Hero dattebayo!",
+                "url": "https://myanimelist.net/manga/57095/Naruto__Takigakure_no_Shitou_Ore_ga_Hero_dattebayo"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto: Dai Katsugeki! Yuki Hime Ninpouchou Datteba yo!!",
+                "url": "https://myanimelist.net/manga/96762/Naruto__Dai_Katsugeki_Yuki_Hime_Ninpouchou_Datteba_yo"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Gekijouban Naruto: Dai Gekitotsu! Maboroshi no Chitei Iseki Datteba yo",
+                "url": "https://myanimelist.net/manga/96763/Gekijouban_Naruto__Dai_Gekitotsu_Maboroshi_no_Chitei_Iseki_Datteba_yo"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Gekijouban Naruto: Dai Koufun! Mikazuki-jima no Animal Panic Datteba yo",
+                "url": "https://myanimelist.net/manga/96764/Gekijouban_Naruto__Dai_Koufun_Mikazuki-jima_no_Animal_Panic_Datteba_yo"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Gekijouban Naruto: Shippuuden",
+                "url": "https://myanimelist.net/manga/96765/Gekijouban_Naruto__Shippuuden"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Gekijouban Naruto: Shippuuden - Kizuna",
+                "url": "https://myanimelist.net/manga/96766/Gekijouban_Naruto__Shippuuden_-_Kizuna"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Gekijouban Naruto: Shippuuden - Hi no Ishi wo Tsugu Mono",
+                "url": "https://myanimelist.net/manga/96767/Gekijouban_Naruto__Shippuuden_-_Hi_no_Ishi_wo_Tsugu_Mono"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Gekijouban Naruto: Shippuuden - The Lost Tower",
+                "url": "https://myanimelist.net/manga/96768/Gekijouban_Naruto__Shippuuden_-_The_Lost_Tower"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto Ninden Series",
+                "url": "https://myanimelist.net/manga/40225/Naruto_Ninden_Series"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto: Blood Prison",
+                "url": "https://myanimelist.net/manga/96769/Naruto__Blood_Prison"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Road to Ninja: Naruto the Movie",
+                "url": "https://myanimelist.net/manga/40549/Road_to_Ninja__Naruto_the_Movie"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Road to Ninja: Naruto the Movie",
+                "url": "https://myanimelist.net/manga/96770/Road_to_Ninja__Naruto_the_Movie"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto Jinraiden: Okami no Naku Hi",
+                "url": "https://myanimelist.net/manga/87714/Naruto_Jinraiden__Okami_no_Naku_Hi"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "The Last: Naruto the Movie",
+                "url": "https://myanimelist.net/manga/83257/The_Last__Naruto_the_Movie"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto Hiden Series",
+                "url": "https://myanimelist.net/manga/86129/Naruto_Hiden_Series"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto: Fuu no Sho - Sugao no Shinjitsu...!!",
+                "url": "https://myanimelist.net/manga/96200/Naruto__Fuu_no_Sho_-_Sugao_no_Shinjitsu"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto: Rai no Sho - Ai wo Utareta Kemono!!",
+                "url": "https://myanimelist.net/manga/115792/Naruto__Rai_no_Sho_-_Ai_wo_Utareta_Kemono"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+                "url": "https://myanimelist.net/manga/87866/Naruto_Gaiden__Nanadaime_Hokage_to_Akairo_no_Hanatsuzuki"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Boruto: Naruto the Movie Tokubetsu Bangai-hen - Naruto ga Hokage ni Natta Hi",
+                "url": "https://myanimelist.net/manga/92286/Boruto__Naruto_the_Movie_Tokubetsu_Bangai-hen_-_Naruto_ga_Hokage_ni_Natta_Hi"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto Shinden Series",
+                "url": "https://myanimelist.net/manga/90531/Naruto_Shinden_Series"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto Gaiden: Michita Tsuki ga Terasu Michi",
+                "url": "https://myanimelist.net/manga/97372/Naruto_Gaiden__Michita_Tsuki_ga_Terasu_Michi"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto Shinden Series",
+                "url": "https://myanimelist.net/manga/98462/Naruto_Shinden_Series"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto Retsuden Series",
+                "url": "https://myanimelist.net/manga/119908/Naruto_Retsuden_Series"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto Gaiden: Uzu no Naka no Tsumujikaze",
+                "url": "https://myanimelist.net/manga/160710/Naruto_Gaiden__Uzu_no_Naka_no_Tsumujikaze"
+            }
+        ],
+        "Spin-Off": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Rock Lee no Seishun Full-Power Ninden",
+                "url": "https://myanimelist.net/manga/23208/Rock_Lee_no_Seishun_Full-Power_Ninden"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Uchiha Sasuke no Sharingan Den",
+                "url": "https://myanimelist.net/manga/77273/Uchiha_Sasuke_no_Sharingan_Den"
+            }
+        ],
+        "Alternative Version": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto",
+                "url": "https://myanimelist.net/manga/6444/Naruto"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Naruto: Shiro no Douji, Keppu no Kijin",
+                "url": "https://myanimelist.net/manga/6028/Naruto__Shiro_no_Douji_Keppu_no_Kijin"
+            }
+        ],
+        "Character": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Jump Super Stars",
+                "url": "https://myanimelist.net/manga/11926/Jump_Super_Stars"
+            }
         ]
     },
     "genres": [

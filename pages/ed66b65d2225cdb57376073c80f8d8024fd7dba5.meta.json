@@ -1,0 +1,8 @@
+{
+    "method": "GET",
+    "url": "https://myanimelist.net/mangalist/Xinil/load.json?offset=0&status=7",
+    "final_url": "https://myanimelist.net/mangalist/Xinil/load.json?offset=0&status=7",
+    "status": 200,
+    "content_type": "application/json; charset=UTF-8",
+    "recorded_at": "2026-10-14T02:41:57+00:00"
+}

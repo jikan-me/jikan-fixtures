@@ -1,0 +1,1507 @@
+{
+    "@class": "Jikan\\Model\\Search\\MangaSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 9,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 1,
+            "url": "https://myanimelist.net/manga/1/Monster",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258224.jpg?s=f65b4f0f7c01818fedf3987591ab7ce2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258224t.jpg?s=f65b4f0f7c01818fedf3987591ab7ce2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258224l.jpg?s=f65b4f0f7c01818fedf3987591ab7ce2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/258224.webp?s=f65b4f0f7c01818fedf3987591ab7ce2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/258224t.webp?s=f65b4f0f7c01818fedf3987591ab7ce2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/258224l.webp?s=f65b4f0f7c01818fedf3987591ab7ce2"
+                }
+            },
+            "title": "Monster",
+            "publishing": false,
+            "synopsis": "Kenzou Tenma, a renowned Japanese neurosurgeon working in post-war Germany, faces a difficult choice: to operate on Johan Liebert, an orphan boy on the verge of death, or on the mayor of Düsseldorf. I...",
+            "type": "Manga",
+            "chapters": 162,
+            "volumes": 18,
+            "score": 9.16,
+            "startDate": "1994-12-05T00:00:00+00:00",
+            "endDate": "2001-12-20T00:00:00+00:00",
+            "members": 296159
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 73271,
+            "url": "https://myanimelist.net/manga/73271/Re_Monster",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/251922.jpg?s=3df460d3f914940ccaa2844995e1e9ef",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/251922t.jpg?s=3df460d3f914940ccaa2844995e1e9ef",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/251922l.jpg?s=3df460d3f914940ccaa2844995e1e9ef"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/251922.webp?s=3df460d3f914940ccaa2844995e1e9ef",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/251922t.webp?s=3df460d3f914940ccaa2844995e1e9ef",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/251922l.webp?s=3df460d3f914940ccaa2844995e1e9ef"
+                }
+            },
+            "title": "Re:Monster",
+            "publishing": true,
+            "synopsis": "Tomokui Kanata has suffered an untimely death, but his adventures are far from over. He is reborn into a fantastical world of monsters and magic—as a lowly goblin! But Kanata, or Gob-Rou as he is now...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.26,
+            "startDate": "2014-03-27T00:00:00+00:00",
+            "endDate": null,
+            "members": 61047
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 36213,
+            "url": "https://myanimelist.net/manga/36213/Monster_Musume_no_Iru_Nichijou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161910.jpg?s=089fd190c5897c367a23835d3bd5098d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161910t.jpg?s=089fd190c5897c367a23835d3bd5098d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161910l.jpg?s=089fd190c5897c367a23835d3bd5098d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161910.webp?s=089fd190c5897c367a23835d3bd5098d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161910t.webp?s=089fd190c5897c367a23835d3bd5098d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161910l.webp?s=089fd190c5897c367a23835d3bd5098d"
+                }
+            },
+            "title": "Monster Musume no Iru Nichijou",
+            "publishing": true,
+            "synopsis": "Monsters—they're real, and they want to date us! Three years ago, the world learned that harpies, centaurs, catgirls, and all manners of fabulous creatures are not merely fiction; they are flesh and b...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.61,
+            "startDate": "2012-03-19T00:00:00+00:00",
+            "endDate": null,
+            "members": 81684
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 13702,
+            "url": "https://myanimelist.net/manga/13702/Tonari_no_Kaibutsu-kun",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/59207.jpg?s=6c8c99efacc4ac85c23305d9d956511d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/59207t.jpg?s=6c8c99efacc4ac85c23305d9d956511d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/59207l.jpg?s=6c8c99efacc4ac85c23305d9d956511d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/59207.webp?s=6c8c99efacc4ac85c23305d9d956511d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/59207t.webp?s=6c8c99efacc4ac85c23305d9d956511d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/59207l.webp?s=6c8c99efacc4ac85c23305d9d956511d"
+                }
+            },
+            "title": "Tonari no Kaibutsu-kun",
+            "publishing": false,
+            "synopsis": "Shizuku Mizutani is a so-called \"study bug\" who cares little about her classmates and instead strives to become a successful working person like her mother. However, her world changes when she is brib...",
+            "type": "Manga",
+            "chapters": 55,
+            "volumes": 13,
+            "score": 8.09,
+            "startDate": "2008-08-23T00:00:00+00:00",
+            "endDate": "2013-11-22T00:00:00+00:00",
+            "members": 117796
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 127907,
+            "url": "https://myanimelist.net/manga/127907/Kaijuu_8-gou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/252929.jpg?s=d3c875f0e7af9751a793abcb75fe867a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/252929t.jpg?s=d3c875f0e7af9751a793abcb75fe867a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/252929l.jpg?s=d3c875f0e7af9751a793abcb75fe867a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/252929.webp?s=d3c875f0e7af9751a793abcb75fe867a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/252929t.webp?s=d3c875f0e7af9751a793abcb75fe867a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/252929l.webp?s=d3c875f0e7af9751a793abcb75fe867a"
+                }
+            },
+            "title": "Kaijuu 8-gou",
+            "publishing": false,
+            "synopsis": "Grotesque, Godzilla-like monsters called \"kaijuu\" have been appearing around Japan for many years. To combat these beasts, an elite military unit known as the Defense Corps risks their lives daily to...",
+            "type": "Manga",
+            "chapters": 129,
+            "volumes": 16,
+            "score": 7.6,
+            "startDate": "2020-07-03T00:00:00+00:00",
+            "endDate": "2025-07-18T00:00:00+00:00",
+            "members": 197097
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 4358,
+            "url": "https://myanimelist.net/manga/4358/Monster_Soul",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/23366.jpg?s=37799063705e5c3e196f0e29c3c24dd0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/23366t.jpg?s=37799063705e5c3e196f0e29c3c24dd0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/23366l.jpg?s=37799063705e5c3e196f0e29c3c24dd0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/23366.webp?s=37799063705e5c3e196f0e29c3c24dd0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/23366t.webp?s=37799063705e5c3e196f0e29c3c24dd0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/23366l.webp?s=37799063705e5c3e196f0e29c3c24dd0"
+                }
+            },
+            "title": "Monster Soul",
+            "publishing": false,
+            "synopsis": "The tale of Monster Soul takes place in the land of Elfenland where humans and monsters inhabit. The main characters is a group of monsters called the Black Airs. The Black Airs is recorded as the str...",
+            "type": "Manga",
+            "chapters": 7,
+            "volumes": 2,
+            "score": 6.83,
+            "startDate": "2005-12-15T00:00:00+00:00",
+            "endDate": "2007-08-11T00:00:00+00:00",
+            "members": 10371
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 928,
+            "url": "https://myanimelist.net/manga/928/Pocket_Monsters_Special",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/265951.jpg?s=dfa7638d5de2b57d4b2a22a022bc8d73",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/265951t.jpg?s=dfa7638d5de2b57d4b2a22a022bc8d73",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/265951l.jpg?s=dfa7638d5de2b57d4b2a22a022bc8d73"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/265951.webp?s=dfa7638d5de2b57d4b2a22a022bc8d73",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/265951t.webp?s=dfa7638d5de2b57d4b2a22a022bc8d73",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/265951l.webp?s=dfa7638d5de2b57d4b2a22a022bc8d73"
+                }
+            },
+            "title": "Pocket Monsters Special",
+            "publishing": true,
+            "synopsis": "Red is just a normal kid living in the rural Pallet Town, when he decides to go out on his own adventure, along with his rival, Green. In this world of Pokémon, he makes many friends, humans and Pokém...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 8.1,
+            "startDate": "1997-04-01T00:00:00+00:00",
+            "endDate": null,
+            "members": 56355
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 71709,
+            "url": "https://myanimelist.net/manga/71709/Monster_x_Monster",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/141973.jpg?s=3985b6fdf31d1e53212be5a472c7fcfd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/141973t.jpg?s=3985b6fdf31d1e53212be5a472c7fcfd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/141973l.jpg?s=3985b6fdf31d1e53212be5a472c7fcfd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/141973.webp?s=3985b6fdf31d1e53212be5a472c7fcfd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/141973t.webp?s=3985b6fdf31d1e53212be5a472c7fcfd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/141973l.webp?s=3985b6fdf31d1e53212be5a472c7fcfd"
+                }
+            },
+            "title": "Monster x Monster",
+            "publishing": false,
+            "synopsis": "The story centers around a 29-year-old young man whose dream is to become the worlds greatest \"bringer\"—a professional government-regulated monster hunter.",
+            "type": "Manga",
+            "chapters": 16,
+            "volumes": 3,
+            "score": 6.62,
+            "startDate": "2014-04-16T00:00:00+00:00",
+            "endDate": "2015-07-25T00:00:00+00:00",
+            "members": 3656
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 178717,
+            "url": "https://myanimelist.net/manga/178717/Monster_Tribe",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/319027.jpg?s=4d31074dd16af7e9265809b333e98025",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/319027t.jpg?s=4d31074dd16af7e9265809b333e98025",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/319027l.jpg?s=4d31074dd16af7e9265809b333e98025"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/319027.webp?s=4d31074dd16af7e9265809b333e98025",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/319027t.webp?s=4d31074dd16af7e9265809b333e98025",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/319027l.webp?s=4d31074dd16af7e9265809b333e98025"
+                }
+            },
+            "title": "Monster Tribe",
+            "publishing": false,
+            "synopsis": "Ten is a high school boy who wants nothing more than an average, peaceful life...which is tough for a half-human from a family full of monsters. After a portal is torn open between the monster world a...",
+            "type": "Manga",
+            "chapters": 13,
+            "volumes": 2,
+            "score": 0.0,
+            "startDate": "2023-05-30T00:00:00+00:00",
+            "endDate": "2024-06-02T00:00:00+00:00",
+            "members": 129
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 57015,
+            "url": "https://myanimelist.net/manga/57015/Jitsu_wa_Watashi_wa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/191399.jpg?s=55caa26310588f3d73d53b438385d268",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/191399t.jpg?s=55caa26310588f3d73d53b438385d268",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/191399l.jpg?s=55caa26310588f3d73d53b438385d268"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/191399.webp?s=55caa26310588f3d73d53b438385d268",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/191399t.webp?s=55caa26310588f3d73d53b438385d268",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/191399l.webp?s=55caa26310588f3d73d53b438385d268"
+                }
+            },
+            "title": "Jitsu wa Watashi wa",
+            "publishing": false,
+            "synopsis": "Meet Kuromine Asahi, \"the man who can't lie.\" On the way home, he learns an important secret. His crush, Shiragami Youko, is actually a vampire! Can Asahi actually keep her secret? It's a fun, clumsy,...",
+            "type": "Manga",
+            "chapters": 196,
+            "volumes": 22,
+            "score": 7.98,
+            "startDate": "2013-01-31T00:00:00+00:00",
+            "endDate": "2017-02-16T00:00:00+00:00",
+            "members": 54398
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 196449,
+            "url": "https://myanimelist.net/manga/196449/How_to_Love_a_Monster",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/349999.jpg?s=fe2b0c8bc464192cf815e097ad686276",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/349999t.jpg?s=fe2b0c8bc464192cf815e097ad686276",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/349999l.jpg?s=fe2b0c8bc464192cf815e097ad686276"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/349999.webp?s=fe2b0c8bc464192cf815e097ad686276",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/349999t.webp?s=fe2b0c8bc464192cf815e097ad686276",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/349999l.webp?s=fe2b0c8bc464192cf815e097ad686276"
+                }
+            },
+            "title": "How to Love a Monster",
+            "publishing": false,
+            "synopsis": "Left completely alone in the world after losing his parents, Doyeon moves in with Junwu—his sole guardian and ultimate anchor. Plagued by crippling anxiety, Doyeon cannot function without him. Junwu h...",
+            "type": "Manhwa",
+            "chapters": 7,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2026-05-28T00:00:00+00:00",
+            "endDate": "2026-05-28T00:00:00+00:00",
+            "members": 26
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 115728,
+            "url": "https://myanimelist.net/manga/115728/Monster_to_Parent",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/213646.jpg?s=47d4c446541a318a63f92b659a7aa822",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/213646t.jpg?s=47d4c446541a318a63f92b659a7aa822",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/213646l.jpg?s=47d4c446541a318a63f92b659a7aa822"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/213646.webp?s=47d4c446541a318a63f92b659a7aa822",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/213646t.webp?s=47d4c446541a318a63f92b659a7aa822",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/213646l.webp?s=47d4c446541a318a63f92b659a7aa822"
+                }
+            },
+            "title": "Monster to Parent",
+            "publishing": false,
+            "synopsis": "Saika Kannagi is a run-of-the-mill high school girl whose world is turned upside down after her mother passes away. As if the shock of being adopted by her mother's distant relative and having three h...",
+            "type": "Manga",
+            "chapters": 21,
+            "volumes": 4,
+            "score": 6.54,
+            "startDate": "2018-03-24T00:00:00+00:00",
+            "endDate": "2019-12-24T00:00:00+00:00",
+            "members": 450
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 14893,
+            "url": "https://myanimelist.net/manga/14893/Monogatari_Series__First_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/279887.jpg?s=b366e7f3a20f73ac39e240a649ad6ccc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/279887t.jpg?s=b366e7f3a20f73ac39e240a649ad6ccc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/279887l.jpg?s=b366e7f3a20f73ac39e240a649ad6ccc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/279887.webp?s=b366e7f3a20f73ac39e240a649ad6ccc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/279887t.webp?s=b366e7f3a20f73ac39e240a649ad6ccc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/279887l.webp?s=b366e7f3a20f73ac39e240a649ad6ccc"
+                }
+            },
+            "title": "Monogatari Series: First Season",
+            "publishing": false,
+            "synopsis": "This is a story, a \"ghostory\" of sorts, about scars that bond, monsters that haunt, and fakes that deceive. The story of Koyomi Araragi begins through a fateful encounter with the all-powerful, blonde...",
+            "type": "Light Novel",
+            "chapters": 107,
+            "volumes": 6,
+            "score": 8.92,
+            "startDate": "2006-11-01T00:00:00+00:00",
+            "endDate": "2010-07-28T00:00:00+00:00",
+            "members": 68040
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 150665,
+            "url": "https://myanimelist.net/manga/150665/Monster_Musume_no_Oishasan_0",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/292739.jpg?s=fa1f97b05a20595f7379e33e57440ad7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/292739t.jpg?s=fa1f97b05a20595f7379e33e57440ad7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/292739l.jpg?s=fa1f97b05a20595f7379e33e57440ad7"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/292739.webp?s=fa1f97b05a20595f7379e33e57440ad7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/292739t.webp?s=fa1f97b05a20595f7379e33e57440ad7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/292739l.webp?s=fa1f97b05a20595f7379e33e57440ad7"
+                }
+            },
+            "title": "Monster Musume no Oishasan 0",
+            "publishing": false,
+            "synopsis": "Before Glenn Litbeit opened his own clinic, he was just a med student—in an academy full of monsters! Take a trip back through time in this prequel volume about young Glenn's trainee days at the lab r...",
+            "type": "Light Novel",
+            "chapters": 6,
+            "volumes": 1,
+            "score": 0.0,
+            "startDate": "2020-03-25T00:00:00+00:00",
+            "endDate": "2020-03-25T00:00:00+00:00",
+            "members": 194
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 113010,
+            "url": "https://myanimelist.net/manga/113010/Bakemonogatari",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/210355.jpg?s=5ca3b002c73888846b5d5fa9e106b318",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/210355t.jpg?s=5ca3b002c73888846b5d5fa9e106b318",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/210355l.jpg?s=5ca3b002c73888846b5d5fa9e106b318"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/210355.webp?s=5ca3b002c73888846b5d5fa9e106b318",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/210355t.webp?s=5ca3b002c73888846b5d5fa9e106b318",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/210355l.webp?s=5ca3b002c73888846b5d5fa9e106b318"
+                }
+            },
+            "title": "Bakemonogatari",
+            "publishing": false,
+            "synopsis": "Koyomi Araragi is no stranger to the abnormal. During the spring break of his third year in high school, a fateful encounter with vampire Kiss-Shot Acerola-Orion Heart-Under-Blade turns him into a vam...",
+            "type": "Manga",
+            "chapters": 193,
+            "volumes": 22,
+            "score": 8.49,
+            "startDate": "2018-03-14T00:00:00+00:00",
+            "endDate": "2023-03-15T00:00:00+00:00",
+            "members": 46345
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 195213,
+            "url": "https://myanimelist.net/manga/195213/Batter_Up_Monsters",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/348323.jpg?s=1228c93476081c2e8dc69ceea70900e5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/348323t.jpg?s=1228c93476081c2e8dc69ceea70900e5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/348323l.jpg?s=1228c93476081c2e8dc69ceea70900e5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/348323.webp?s=1228c93476081c2e8dc69ceea70900e5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/348323t.webp?s=1228c93476081c2e8dc69ceea70900e5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/348323l.webp?s=1228c93476081c2e8dc69ceea70900e5"
+                }
+            },
+            "title": "Batter Up, Monsters!",
+            "publishing": true,
+            "synopsis": "Kim Dan, a rising baseball prospect on the verge of going pro, is suddenly thrown into a world overrun by monsters, armed only with his bat and the mysterious creature lurking inside it. Before long,...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2026-03-03T00:00:00+00:00",
+            "endDate": null,
+            "members": 87
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 73569,
+            "url": "https://myanimelist.net/manga/73569/Re_Monster",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/207585.jpg?s=ca280380a0f3bfe84cd460c480010ffb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/207585t.jpg?s=ca280380a0f3bfe84cd460c480010ffb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/207585l.jpg?s=ca280380a0f3bfe84cd460c480010ffb"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/207585.webp?s=ca280380a0f3bfe84cd460c480010ffb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/207585t.webp?s=ca280380a0f3bfe84cd460c480010ffb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/207585l.webp?s=ca280380a0f3bfe84cd460c480010ffb"
+                }
+            },
+            "title": "Re:Monster",
+            "publishing": false,
+            "synopsis": "Tomokui Kanata has been re-incarnated in the weakest goblin, named Goburou, after having undergone an unfortunate death. However Goburou has retained his previous life's memories, an unusual evolution...",
+            "type": "Light Novel",
+            "chapters": 0,
+            "volumes": 10,
+            "score": 7.42,
+            "startDate": "2012-07-24T00:00:00+00:00",
+            "endDate": "2017-07-24T00:00:00+00:00",
+            "members": 7352
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 6097,
+            "url": "https://myanimelist.net/manga/6097/Monster_Hunter_Orage",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/193452.jpg?s=130ef87b1d2aa5d84b101ca3cf85e3b9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/193452t.jpg?s=130ef87b1d2aa5d84b101ca3cf85e3b9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/193452l.jpg?s=130ef87b1d2aa5d84b101ca3cf85e3b9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/193452.webp?s=130ef87b1d2aa5d84b101ca3cf85e3b9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/193452t.webp?s=130ef87b1d2aa5d84b101ca3cf85e3b9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/193452l.webp?s=130ef87b1d2aa5d84b101ca3cf85e3b9"
+                }
+            },
+            "title": "Monster Hunter Orage",
+            "publishing": false,
+            "synopsis": "Shiki Ryuuhou is a Monster Hunter in a world full of fantastic creatures. Before his master, Gurelli Jescar, met an untimely death, he taught Shiki the most important skill of being a Monster Hunter:...",
+            "type": "Manga",
+            "chapters": 14,
+            "volumes": 4,
+            "score": 7.03,
+            "startDate": "2008-04-04T00:00:00+00:00",
+            "endDate": "2009-05-02T00:00:00+00:00",
+            "members": 16539
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 70775,
+            "url": "https://myanimelist.net/manga/70775/Monster_Girl",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/135045.jpg?s=cff3f89e9c46d7d21c865246efb9f986",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/135045t.jpg?s=cff3f89e9c46d7d21c865246efb9f986",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/135045l.jpg?s=cff3f89e9c46d7d21c865246efb9f986"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/135045.webp?s=cff3f89e9c46d7d21c865246efb9f986",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/135045t.webp?s=cff3f89e9c46d7d21c865246efb9f986",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/135045l.webp?s=cff3f89e9c46d7d21c865246efb9f986"
+                }
+            },
+            "title": "Monster Girl",
+            "publishing": false,
+            "synopsis": "Yatsuki Nishizuru, a part-time worker in Akihabara, has the unique ability to see and interact with spirits— youkai—who inhabit the area. Despite this, Yatsuki tries to ignore them, living a normal li...",
+            "type": "Manga",
+            "chapters": 146,
+            "volumes": 14,
+            "score": 7.19,
+            "startDate": "2014-03-06T00:00:00+00:00",
+            "endDate": "2017-06-22T00:00:00+00:00",
+            "members": 21032
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 194786,
+            "url": "https://myanimelist.net/manga/194786/Ore_no_Tantou_wa_Kaibutsu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/347452.jpg?s=610bf010f1f2ac8e1cb8ed7b656a277d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/347452t.jpg?s=610bf010f1f2ac8e1cb8ed7b656a277d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/347452l.jpg?s=610bf010f1f2ac8e1cb8ed7b656a277d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/347452.webp?s=610bf010f1f2ac8e1cb8ed7b656a277d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/347452t.webp?s=610bf010f1f2ac8e1cb8ed7b656a277d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/347452l.webp?s=610bf010f1f2ac8e1cb8ed7b656a277d"
+                }
+            },
+            "title": "Ore no Tantou wa Kaibutsu",
+            "publishing": true,
+            "synopsis": "Hananosuke Yamase, a struggling manga editor with no hits to his name, was fed up with Megumi Kojika, the talented author he had been keeping an eye on. Her problem? She was too close! Every time they...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2026-03-09T00:00:00+00:00",
+            "endDate": null,
+            "members": 378
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 196268,
+            "url": "https://myanimelist.net/manga/196268/Trapped_in_a_Dungeon_with_Monsters",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/349848.jpg?s=883f62f7140920ef38052d87f21c0279",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/349848t.jpg?s=883f62f7140920ef38052d87f21c0279",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/349848l.jpg?s=883f62f7140920ef38052d87f21c0279"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/349848.webp?s=883f62f7140920ef38052d87f21c0279",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/349848t.webp?s=883f62f7140920ef38052d87f21c0279",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/349848l.webp?s=883f62f7140920ef38052d87f21c0279"
+                }
+            },
+            "title": "Trapped in a Dungeon with Monsters",
+            "publishing": true,
+            "synopsis": "",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2026-08-26T00:00:00+00:00",
+            "endDate": null,
+            "members": 37
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 190296,
+            "url": "https://myanimelist.net/manga/190296/Fated_to_Become_the_Monster_Dukes_Wife",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/340086.jpg?s=69b51a9821519d40d23670b09c78c8aa",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/340086t.jpg?s=69b51a9821519d40d23670b09c78c8aa",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/340086l.jpg?s=69b51a9821519d40d23670b09c78c8aa"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/340086.webp?s=69b51a9821519d40d23670b09c78c8aa",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/340086t.webp?s=69b51a9821519d40d23670b09c78c8aa",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/340086l.webp?s=69b51a9821519d40d23670b09c78c8aa"
+                }
+            },
+            "title": "Fated to Become the Monster Duke's Wife",
+            "publishing": true,
+            "synopsis": "Duke Aden de Biffleten is feared across the empire—a terrifying monster whose gaze is said to have killed people. Any woman would dread becoming his bride, yet Elyn de Arlen steps forward, compelled b...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2026-01-08T00:00:00+00:00",
+            "endDate": null,
+            "members": 125
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 112398,
+            "url": "https://myanimelist.net/manga/112398/1-nen_A-gumi_no_Monster",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/210493.jpg?s=54eebbb92d6795cb458258c56f3f58a4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/210493t.jpg?s=54eebbb92d6795cb458258c56f3f58a4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/210493l.jpg?s=54eebbb92d6795cb458258c56f3f58a4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/210493.webp?s=54eebbb92d6795cb458258c56f3f58a4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/210493t.webp?s=54eebbb92d6795cb458258c56f3f58a4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/210493l.webp?s=54eebbb92d6795cb458258c56f3f58a4"
+                }
+            },
+            "title": "1-nen A-gumi no Monster",
+            "publishing": false,
+            "synopsis": "When Tarou Jimi is assigned as the homeroom teacher of class 1-A at an all girls' high school, the rest of the staff feel sorry for him. On the surface, class 1-A is full of pretty and talented girls...",
+            "type": "Manga",
+            "chapters": 110,
+            "volumes": 16,
+            "score": 6.39,
+            "startDate": "2018-01-27T00:00:00+00:00",
+            "endDate": "2026-03-27T00:00:00+00:00",
+            "members": 21915
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 76393,
+            "url": "https://myanimelist.net/manga/76393/Monster_Age_02",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/132317.jpg?s=04332e86b9f4df648755845cd5233190",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/132317t.jpg?s=04332e86b9f4df648755845cd5233190",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/132317l.jpg?s=04332e86b9f4df648755845cd5233190"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/132317.webp?s=04332e86b9f4df648755845cd5233190",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/132317t.webp?s=04332e86b9f4df648755845cd5233190",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/132317l.webp?s=04332e86b9f4df648755845cd5233190"
+                }
+            },
+            "title": "Monster Age 02",
+            "publishing": false,
+            "synopsis": "1. Emiru no Bouken 2. Family",
+            "type": "Doujinshi",
+            "chapters": 2,
+            "volumes": 1,
+            "score": 0.0,
+            "startDate": "2008-08-28T00:00:00+00:00",
+            "endDate": "2008-08-28T00:00:00+00:00",
+            "members": 101
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 177138,
+            "url": "https://myanimelist.net/manga/177138/Mamonogurai_no_Boukensha",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/316332.jpg?s=502c3b6f75650265ddb72817c8f44e70",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/316332t.jpg?s=502c3b6f75650265ddb72817c8f44e70",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/316332l.jpg?s=502c3b6f75650265ddb72817c8f44e70"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/316332.webp?s=502c3b6f75650265ddb72817c8f44e70",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/316332t.webp?s=502c3b6f75650265ddb72817c8f44e70",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/316332l.webp?s=502c3b6f75650265ddb72817c8f44e70"
+                }
+            },
+            "title": "Mamonogurai no Boukensha",
+            "publishing": true,
+            "synopsis": "Nobody wants \"Grubby Forager\" Rudd on their adventuring team. His nickname—and his stench—come from his constant treks into the Noxious Labyrinth to gather medicinal herbs, a job he survives only than...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.36,
+            "startDate": "2024-08-21T00:00:00+00:00",
+            "endDate": null,
+            "members": 1200
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 95333,
+            "url": "https://myanimelist.net/manga/95333/Monster_Musume_no_Iru_Nichijou_4-koma_Anthology",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/170085.jpg?s=fd2e3c9d7a2d1ea85f2f7601e887975a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/170085t.jpg?s=fd2e3c9d7a2d1ea85f2f7601e887975a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/170085l.jpg?s=fd2e3c9d7a2d1ea85f2f7601e887975a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/170085.webp?s=fd2e3c9d7a2d1ea85f2f7601e887975a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/170085t.webp?s=fd2e3c9d7a2d1ea85f2f7601e887975a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/170085l.webp?s=fd2e3c9d7a2d1ea85f2f7601e887975a"
+                }
+            },
+            "title": "Monster Musume no Iru Nichijou 4-koma Anthology",
+            "publishing": false,
+            "synopsis": "4-koma anthology comic of Monster Musume no Iru Nichijou by various mangaka.",
+            "type": "Manga",
+            "chapters": 83,
+            "volumes": 6,
+            "score": 7.39,
+            "startDate": "2015-08-12T00:00:00+00:00",
+            "endDate": "2020-03-01T00:00:00+00:00",
+            "members": 3520
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 159548,
+            "url": "https://myanimelist.net/manga/159548/Monster_no_Amai_Kiba",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/286005.jpg?s=2393fc34947e6b4a01d73b7ed07e5112",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/286005t.jpg?s=2393fc34947e6b4a01d73b7ed07e5112",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/286005l.jpg?s=2393fc34947e6b4a01d73b7ed07e5112"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/286005.webp?s=2393fc34947e6b4a01d73b7ed07e5112",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/286005t.webp?s=2393fc34947e6b4a01d73b7ed07e5112",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/286005l.webp?s=2393fc34947e6b4a01d73b7ed07e5112"
+                }
+            },
+            "title": "Monster no Amai Kiba",
+            "publishing": false,
+            "synopsis": "Noa Kiritani, secretary to the president of a major corporation, finds every day working under her gentle and kind boss fulfilling. One day, however, the company president collapses from a sudden but...",
+            "type": "Manga",
+            "chapters": 45,
+            "volumes": 8,
+            "score": 0.0,
+            "startDate": "2020-06-06T00:00:00+00:00",
+            "endDate": "2024-02-24T00:00:00+00:00",
+            "members": 54
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 185211,
+            "url": "https://myanimelist.net/manga/185211/Monster_in_the_Greenhouse",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/331524.jpg?s=55e12b55de77911e21c233886656cd6d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/331524t.jpg?s=55e12b55de77911e21c233886656cd6d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/331524l.jpg?s=55e12b55de77911e21c233886656cd6d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/331524.webp?s=55e12b55de77911e21c233886656cd6d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/331524t.webp?s=55e12b55de77911e21c233886656cd6d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/331524l.webp?s=55e12b55de77911e21c233886656cd6d"
+                }
+            },
+            "title": "Monster in the Greenhouse",
+            "publishing": false,
+            "synopsis": "For her lover of 10 years, belle of the ball Julia Rapiere played the part of a sheltered flower in a greenhouse. That is, until he betrayed her by having an affair with her trusted maid. Bent on reve...",
+            "type": "Manhwa",
+            "chapters": 60,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2024-09-07T00:00:00+00:00",
+            "endDate": "2025-06-14T00:00:00+00:00",
+            "members": 134
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 98532,
+            "url": "https://myanimelist.net/manga/98532/Monster_Musume_no_Oishasan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/195035.jpg?s=165b19ff182892a23a85d79d26228e06",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/195035t.jpg?s=165b19ff182892a23a85d79d26228e06",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/195035l.jpg?s=165b19ff182892a23a85d79d26228e06"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/195035.webp?s=165b19ff182892a23a85d79d26228e06",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/195035t.webp?s=165b19ff182892a23a85d79d26228e06",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/195035l.webp?s=165b19ff182892a23a85d79d26228e06"
+                }
+            },
+            "title": "Monster Musume no Oishasan",
+            "publishing": false,
+            "synopsis": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a ce...",
+            "type": "Light Novel",
+            "chapters": 67,
+            "volumes": 10,
+            "score": 7.19,
+            "startDate": "2016-06-24T00:00:00+00:00",
+            "endDate": "2022-03-25T00:00:00+00:00",
+            "members": 3389
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 129656,
+            "url": "https://myanimelist.net/manga/129656/Watashi_wo_Tabetai_Hitodenashi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/242456.jpg?s=3faec0b2ead6074170d8553bdb32efb7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/242456t.jpg?s=3faec0b2ead6074170d8553bdb32efb7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/242456l.jpg?s=3faec0b2ead6074170d8553bdb32efb7"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/242456.webp?s=3faec0b2ead6074170d8553bdb32efb7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/242456t.webp?s=3faec0b2ead6074170d8553bdb32efb7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/242456l.webp?s=3faec0b2ead6074170d8553bdb32efb7"
+                }
+            },
+            "title": "Watashi wo Tabetai, Hitodenashi",
+            "publishing": true,
+            "synopsis": "\"I've come to eat you,\" so softly utters the mermaid Shiori as she emerges from the sea and takes high school girl Hinako by the hand. Hinako lives alone in a town by the sea and possesses an unusuall...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 8.04,
+            "startDate": "2020-08-27T00:00:00+00:00",
+            "endDate": null,
+            "members": 18524
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 192446,
+            "url": "https://myanimelist.net/manga/192446/Jingai_Karte__Youkoso_Gensou_Byouin_e",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/348678.jpg?s=256e85a77016f2ce15a859559f73b5f9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/348678t.jpg?s=256e85a77016f2ce15a859559f73b5f9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/348678l.jpg?s=256e85a77016f2ce15a859559f73b5f9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/348678.webp?s=256e85a77016f2ce15a859559f73b5f9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/348678t.webp?s=256e85a77016f2ce15a859559f73b5f9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/348678l.webp?s=256e85a77016f2ce15a859559f73b5f9"
+                }
+            },
+            "title": "Jingai Karte: Youkoso Gensou Byouin e",
+            "publishing": true,
+            "synopsis": "This is a rather unusual hospital where those who are not human come to visit. From insects and plants to unidentified life forms that usually remain hidden, patients burdened with strange abnormaliti...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2026-04-08T00:00:00+00:00",
+            "endDate": null,
+            "members": 47
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 133337,
+            "url": "https://myanimelist.net/manga/133337/Monster_Musume_no_Iru_Nichijou__Monster_Girls_Hello_Work",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/287128.jpg?s=fad5fb1178178d91742d5aa53682bbfd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/287128t.jpg?s=fad5fb1178178d91742d5aa53682bbfd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/287128l.jpg?s=fad5fb1178178d91742d5aa53682bbfd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/287128.webp?s=fad5fb1178178d91742d5aa53682bbfd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/287128t.webp?s=fad5fb1178178d91742d5aa53682bbfd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/287128l.webp?s=fad5fb1178178d91742d5aa53682bbfd"
+                }
+            },
+            "title": "Monster Musume no Iru Nichijou: Monster Girls Hello Work",
+            "publishing": false,
+            "synopsis": "Ordinary twentysomething Kurusu Kimihito thought living with a bunch of monster girls was complicated enough, but now there's a new directive sent down from the government: get a job! Now lamia Miia,...",
+            "type": "Light Novel",
+            "chapters": 7,
+            "volumes": 1,
+            "score": 0.0,
+            "startDate": "2020-08-28T00:00:00+00:00",
+            "endDate": "2020-08-28T00:00:00+00:00",
+            "members": 234
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 82745,
+            "url": "https://myanimelist.net/manga/82745/Demi-chan_wa_Kataritai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/188778.jpg?s=7253f655b1189c7ccbf4cab15d6a7a91",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/188778t.jpg?s=7253f655b1189c7ccbf4cab15d6a7a91",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/188778l.jpg?s=7253f655b1189c7ccbf4cab15d6a7a91"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/188778.webp?s=7253f655b1189c7ccbf4cab15d6a7a91",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/188778t.webp?s=7253f655b1189c7ccbf4cab15d6a7a91",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/188778l.webp?s=7253f655b1189c7ccbf4cab15d6a7a91"
+                }
+            },
+            "title": "Demi-chan wa Kataritai",
+            "publishing": false,
+            "synopsis": "Call them \"demis\"! Vampires, dullahans, succubi, snow women. These are just a few of those beings once known as \"demi-humans,\" and high school Biology teacher Testsuo Takahashi has always wanted to me...",
+            "type": "Manga",
+            "chapters": 78,
+            "volumes": 11,
+            "score": 7.81,
+            "startDate": "2014-09-05T00:00:00+00:00",
+            "endDate": "2022-12-19T00:00:00+00:00",
+            "members": 30017
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 148611,
+            "url": "https://myanimelist.net/manga/148611/Monster_Dukes_Daughter",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/263680.jpg?s=7fcb2e04761968659aec71ce5c5a517d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/263680t.jpg?s=7fcb2e04761968659aec71ce5c5a517d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/263680l.jpg?s=7fcb2e04761968659aec71ce5c5a517d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/263680.webp?s=7fcb2e04761968659aec71ce5c5a517d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/263680t.webp?s=7fcb2e04761968659aec71ce5c5a517d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/263680l.webp?s=7fcb2e04761968659aec71ce5c5a517d"
+                }
+            },
+            "title": "Monster Duke's Daughter",
+            "publishing": false,
+            "synopsis": "When her mom goes missing, three-year-old Lotilucia stumbles on a magic crest that transports her to the estate of House Frodium, one of the empire's most powerful noble families. Little Lottie immedi...",
+            "type": "Manhwa",
+            "chapters": 190,
+            "volumes": 0,
+            "score": 6.78,
+            "startDate": "2021-07-13T00:00:00+00:00",
+            "endDate": "2025-02-25T00:00:00+00:00",
+            "members": 4113
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 103135,
+            "url": "https://myanimelist.net/manga/103135/Monster_no_Goshujinsama",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/205759.jpg?s=73ffe3c7498ccb9748e87586a9382981",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/205759t.jpg?s=73ffe3c7498ccb9748e87586a9382981",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/205759l.jpg?s=73ffe3c7498ccb9748e87586a9382981"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/205759.webp?s=73ffe3c7498ccb9748e87586a9382981",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/205759t.webp?s=73ffe3c7498ccb9748e87586a9382981",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/205759l.webp?s=73ffe3c7498ccb9748e87586a9382981"
+                }
+            },
+            "title": "Monster no Goshujinsama",
+            "publishing": true,
+            "synopsis": "One thousand Japanese high school students are suddenly thrust into an unfamiliar world rife with dangerous monsters. Their survival becomes dependent on those who awaken to unexplainable powers. Maji...",
+            "type": "Light Novel",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.75,
+            "startDate": "2014-08-30T00:00:00+00:00",
+            "endDate": null,
+            "members": 1004
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 160276,
+            "url": "https://myanimelist.net/manga/160276/Monster_and_Ghost",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/284443.jpg?s=eccaccebd6e687d8dd01e5160b966301",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/284443t.jpg?s=eccaccebd6e687d8dd01e5160b966301",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/284443l.jpg?s=eccaccebd6e687d8dd01e5160b966301"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/284443.webp?s=eccaccebd6e687d8dd01e5160b966301",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/284443t.webp?s=eccaccebd6e687d8dd01e5160b966301",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/284443l.webp?s=eccaccebd6e687d8dd01e5160b966301"
+                }
+            },
+            "title": "Monster and Ghost",
+            "publishing": true,
+            "synopsis": "Tsubaki Koton is a monster—a violent delinquent with a chilling past and a terrifying image to match. No other student dares to approach him, not even after transferring to a new high school. His anti...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.47,
+            "startDate": "2022-12-20T00:00:00+00:00",
+            "endDate": null,
+            "members": 1289
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 94575,
+            "url": "https://myanimelist.net/manga/94575/Monster_Idols",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/185443.jpg?s=b299ee4b9b7970a84ad04f6b0fdec945",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/185443t.jpg?s=b299ee4b9b7970a84ad04f6b0fdec945",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/185443l.jpg?s=b299ee4b9b7970a84ad04f6b0fdec945"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/185443.webp?s=b299ee4b9b7970a84ad04f6b0fdec945",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/185443t.webp?s=b299ee4b9b7970a84ad04f6b0fdec945",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/185443l.webp?s=b299ee4b9b7970a84ad04f6b0fdec945"
+                }
+            },
+            "title": "Monster Idols",
+            "publishing": false,
+            "synopsis": "Choi Hong suddenly becomes the stylist of a popular boy band, Real Monsters, after discovering they are actually supernatural beings who desperately want to be human. It becomes her task to transform...",
+            "type": "Manhwa",
+            "chapters": 91,
+            "volumes": 4,
+            "score": 0.0,
+            "startDate": "2012-11-17T00:00:00+00:00",
+            "endDate": "2015-01-17T00:00:00+00:00",
+            "members": 181
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 112116,
+            "url": "https://myanimelist.net/manga/112116/Monster_no_Goshujinsama",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/207163.jpg?s=6571b814cc30a15a811c3cda4b7c719a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/207163t.jpg?s=6571b814cc30a15a811c3cda4b7c719a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/207163l.jpg?s=6571b814cc30a15a811c3cda4b7c719a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/207163.webp?s=6571b814cc30a15a811c3cda4b7c719a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/207163t.webp?s=6571b814cc30a15a811c3cda4b7c719a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/207163l.webp?s=6571b814cc30a15a811c3cda4b7c719a"
+                }
+            },
+            "title": "Monster no Goshujinsama",
+            "publishing": true,
+            "synopsis": "Everyone in a certain high school is suddenly transported to another world. As they are attacked by monsters they find that some of the students now have superpowers. They organize themselves into two...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.08,
+            "startDate": "2017-10-27T00:00:00+00:00",
+            "endDate": null,
+            "members": 7948
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 195502,
+            "url": "https://myanimelist.net/manga/195502/Kaibutsubyou_Shinryoujo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/348659.jpg?s=1843c4a034210680915abf8199423f40",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/348659t.jpg?s=1843c4a034210680915abf8199423f40",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/348659l.jpg?s=1843c4a034210680915abf8199423f40"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/348659.webp?s=1843c4a034210680915abf8199423f40",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/348659t.webp?s=1843c4a034210680915abf8199423f40",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/348659l.webp?s=1843c4a034210680915abf8199423f40"
+                }
+            },
+            "title": "Kaibutsubyou Shinryoujo",
+            "publishing": false,
+            "synopsis": "",
+            "type": "One-shot",
+            "chapters": 1,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2022-07-25T00:00:00+00:00",
+            "endDate": "2022-07-25T00:00:00+00:00",
+            "members": 25
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 1698,
+            "url": "https://myanimelist.net/manga/1698/Monster_Collection__Majuu_Tsukai_no_Shoujo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/151862.jpg?s=a246645b2551f15b973c25dffd79148d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/151862t.jpg?s=a246645b2551f15b973c25dffd79148d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/151862l.jpg?s=a246645b2551f15b973c25dffd79148d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/151862.webp?s=a246645b2551f15b973c25dffd79148d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/151862t.webp?s=a246645b2551f15b973c25dffd79148d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/151862l.webp?s=a246645b2551f15b973c25dffd79148d"
+                }
+            },
+            "title": "Monster Collection: Majuu Tsukai no Shoujo",
+            "publishing": false,
+            "synopsis": "Kasche may have a talent for controlling beasts, but she's got a lot to learn about self-control before she can become a full-fledged summoner. When disaster strikes, her principal chooses her to aver...",
+            "type": "Manga",
+            "chapters": 33,
+            "volumes": 6,
+            "score": 7.41,
+            "startDate": "1997-01-01T00:00:00+00:00",
+            "endDate": "2001-01-01T00:00:00+00:00",
+            "members": 2951
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 1504,
+            "url": "https://myanimelist.net/manga/1504/Gogo_Monster",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/152364.jpg?s=209a53ed56dba16e33868173ee70d98a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/152364t.jpg?s=209a53ed56dba16e33868173ee70d98a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/152364l.jpg?s=209a53ed56dba16e33868173ee70d98a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/152364.webp?s=209a53ed56dba16e33868173ee70d98a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/152364t.webp?s=209a53ed56dba16e33868173ee70d98a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/152364l.webp?s=209a53ed56dba16e33868173ee70d98a"
+                }
+            },
+            "title": "Gogo Monster",
+            "publishing": false,
+            "synopsis": "Yuki Tachibana, a withdrawn first grader, is convinced that the fourth floor of his school is home to supernatural creatures that few kids (and no adults) can see and he's worried about a recent influ...",
+            "type": "Manga",
+            "chapters": 5,
+            "volumes": 1,
+            "score": 7.53,
+            "startDate": "2000-10-23T00:00:00+00:00",
+            "endDate": "2000-10-23T00:00:00+00:00",
+            "members": 9769
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 152507,
+            "url": "https://myanimelist.net/manga/152507/Monster_Streamer_for_Gods",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/270005.jpg?s=d26d11f008f316bd1aac46e978ef87c9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/270005t.jpg?s=d26d11f008f316bd1aac46e978ef87c9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/270005l.jpg?s=d26d11f008f316bd1aac46e978ef87c9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/270005.webp?s=d26d11f008f316bd1aac46e978ef87c9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/270005t.webp?s=d26d11f008f316bd1aac46e978ef87c9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/270005l.webp?s=d26d11f008f316bd1aac46e978ef87c9"
+                }
+            },
+            "title": "Monster Streamer for Gods",
+            "publishing": false,
+            "synopsis": "In Gangshik Choi's world, monster attacks are a common occurrence. Humanity is protected by hunters with superpowers who stream their fights online, and it is Gangshik's job to get it all on camera as...",
+            "type": "Manhwa",
+            "chapters": 67,
+            "volumes": 0,
+            "score": 6.32,
+            "startDate": "2022-04-20T00:00:00+00:00",
+            "endDate": "2023-04-01T00:00:00+00:00",
+            "members": 2395
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 178535,
+            "url": "https://myanimelist.net/manga/178535/Mamono_no_Kuni",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/323970.jpg?s=9712880c357f4a1c5df7bf0df3a12209",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/323970t.jpg?s=9712880c357f4a1c5df7bf0df3a12209",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/323970l.jpg?s=9712880c357f4a1c5df7bf0df3a12209"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/323970.webp?s=9712880c357f4a1c5df7bf0df3a12209",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/323970t.webp?s=9712880c357f4a1c5df7bf0df3a12209",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/323970l.webp?s=9712880c357f4a1c5df7bf0df3a12209"
+                }
+            },
+            "title": "Mamono no Kuni",
+            "publishing": false,
+            "synopsis": "In a land where humans and monsters destroy each other, a young boy searches for the key to peace. (Source: VIZ Media)",
+            "type": "Manga",
+            "chapters": 36,
+            "volumes": 4,
+            "score": 6.69,
+            "startDate": "2025-02-05T00:00:00+00:00",
+            "endDate": "2025-10-22T00:00:00+00:00",
+            "members": 1154
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 184109,
+            "url": "https://myanimelist.net/manga/184109/The_S-Class_Hunters_Peaceful_Life_with_Monsters",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/329793.jpg?s=0e4b4c9aa3252a87f94f7cba64f7289a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/329793t.jpg?s=0e4b4c9aa3252a87f94f7cba64f7289a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/329793l.jpg?s=0e4b4c9aa3252a87f94f7cba64f7289a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/329793.webp?s=0e4b4c9aa3252a87f94f7cba64f7289a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/329793t.webp?s=0e4b4c9aa3252a87f94f7cba64f7289a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/329793l.webp?s=0e4b4c9aa3252a87f94f7cba64f7289a"
+                }
+            },
+            "title": "The S-Class Hunter's Peaceful Life with Monsters",
+            "publishing": true,
+            "synopsis": "Chimera hunter Number 17 has spent decades hunting monsters. On his latest mission, he's ordered to ensure the human hunters' escape and never return to base. In other words, he's meant to die. As his...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.11,
+            "startDate": "2025-07-20T00:00:00+00:00",
+            "endDate": null,
+            "members": 2192
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 137050,
+            "url": "https://myanimelist.net/manga/137050/Monster_no_Konkatsuya-san",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/252152.jpg?s=43247e217147a40425537414042a1e3b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/252152t.jpg?s=43247e217147a40425537414042a1e3b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/252152l.jpg?s=43247e217147a40425537414042a1e3b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/252152.webp?s=43247e217147a40425537414042a1e3b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/252152t.webp?s=43247e217147a40425537414042a1e3b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/252152l.webp?s=43247e217147a40425537414042a1e3b"
+                }
+            },
+            "title": "Monster no Konkatsuya-san",
+            "publishing": false,
+            "synopsis": "Professional matchmaker Yuuto Nakao has helped scores of people find their perfect match. But as a hopeless mama's boy, he's never had a relationship of his own. Everything changes the night he stumbl...",
+            "type": "Manga",
+            "chapters": 20,
+            "volumes": 4,
+            "score": 6.25,
+            "startDate": "2021-05-25T00:00:00+00:00",
+            "endDate": "2023-03-25T00:00:00+00:00",
+            "members": 1753
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 39961,
+            "url": "https://myanimelist.net/manga/39961/Monster_Hunter__Senkou_no_Kariudo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/149654.jpg?s=8cdcf9385d1942f7f8facdec2b79a9ab",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/149654t.jpg?s=8cdcf9385d1942f7f8facdec2b79a9ab",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/149654l.jpg?s=8cdcf9385d1942f7f8facdec2b79a9ab"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/149654.webp?s=8cdcf9385d1942f7f8facdec2b79a9ab",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/149654t.webp?s=8cdcf9385d1942f7f8facdec2b79a9ab",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/149654l.webp?s=8cdcf9385d1942f7f8facdec2b79a9ab"
+                }
+            },
+            "title": "Monster Hunter: Senkou no Kariudo",
+            "publishing": false,
+            "synopsis": "In a world where gigantic, ferocious monsters and humans live together, monster hunters exist to protect humanity from becoming extinct. Raiga is a hot headed but passionate warrior that relies on his...",
+            "type": "Manga",
+            "chapters": 90,
+            "volumes": 10,
+            "score": 7.19,
+            "startDate": "2011-05-06T00:00:00+00:00",
+            "endDate": "2014-12-12T00:00:00+00:00",
+            "members": 3071
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 168953,
+            "url": "https://myanimelist.net/manga/168953/Monster_Princess_of_the_Snowy_Mountain",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/300039.jpg?s=ba9e49cdee256aef70f08ad2b620f0b1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/300039t.jpg?s=ba9e49cdee256aef70f08ad2b620f0b1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/300039l.jpg?s=ba9e49cdee256aef70f08ad2b620f0b1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/300039.webp?s=ba9e49cdee256aef70f08ad2b620f0b1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/300039t.webp?s=ba9e49cdee256aef70f08ad2b620f0b1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/300039l.webp?s=ba9e49cdee256aef70f08ad2b620f0b1"
+                }
+            },
+            "title": "Monster Princess of the Snowy Mountain",
+            "publishing": true,
+            "synopsis": "Valerie Beloff, a princess in exile, decides to take her own life on her 19th birthday. Abused by her own mother and exiled for her mother's crimes, she had to live in the freezing Makleroad palace by...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.78,
+            "startDate": "2024-02-25T00:00:00+00:00",
+            "endDate": null,
+            "members": 1279
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 163185,
+            "url": "https://myanimelist.net/manga/163185/Neko_Monster",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/289469.jpg?s=3f37c4773d862f9becdf6a785fc20b93",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/289469t.jpg?s=3f37c4773d862f9becdf6a785fc20b93",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/289469l.jpg?s=3f37c4773d862f9becdf6a785fc20b93"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/289469.webp?s=3f37c4773d862f9becdf6a785fc20b93",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/289469t.webp?s=3f37c4773d862f9becdf6a785fc20b93",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/289469l.webp?s=3f37c4773d862f9becdf6a785fc20b93"
+                }
+            },
+            "title": "Neko Monster",
+            "publishing": true,
+            "synopsis": "Is it a banshee, a yeti, a gorgon, or...a cat? Monster Cats are a purrfect new breed of familiar furry friends crossed with freaky fun! If you think life with regular cats can get complicated, wait ti...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2021-04-27T00:00:00+00:00",
+            "endDate": null,
+            "members": 142
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 171365,
+            "url": "https://myanimelist.net/manga/171365/Monster_Therapy_Karada_no_Nayami_Kono_Ko-tachi_ni_Omakase_Kudasai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/304676.jpg?s=f110658975b98c45fa4b9c5ec59cbea4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/304676t.jpg?s=f110658975b98c45fa4b9c5ec59cbea4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/304676l.jpg?s=f110658975b98c45fa4b9c5ec59cbea4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/304676.webp?s=f110658975b98c45fa4b9c5ec59cbea4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/304676t.webp?s=f110658975b98c45fa4b9c5ec59cbea4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/304676l.webp?s=f110658975b98c45fa4b9c5ec59cbea4"
+                }
+            },
+            "title": "Monster Therapy! Karada no Nayami, Kono Ko-tachi ni Omakase Kudasai",
+            "publishing": true,
+            "synopsis": "Ares, a lackluster tamer, has started doing \"monster therapy,\" a folk remedy that utilizes the special characteristics of monsters. He straightaway tries using a slime for treatment, but for some reas...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2021-09-24T00:00:00+00:00",
+            "endDate": null,
+            "members": 168
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 181132,
+            "url": "https://myanimelist.net/manga/181132/Not_Your_Monster-in-Law",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/323311.jpg?s=c716415a3f280139bdc38cf73c538aa5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/323311t.jpg?s=c716415a3f280139bdc38cf73c538aa5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/323311l.jpg?s=c716415a3f280139bdc38cf73c538aa5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/323311.webp?s=c716415a3f280139bdc38cf73c538aa5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/323311t.webp?s=c716415a3f280139bdc38cf73c538aa5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/323311l.webp?s=c716415a3f280139bdc38cf73c538aa5"
+                }
+            },
+            "title": "Not Your Monster-in-Law",
+            "publishing": true,
+            "synopsis": "Kim Hana is reincarnated as Wilhelmina, a fallen noblewoman whose fate takes a turn when she's married off to the wealthy House Layton. But there's a catch—her husband is already dead, leaving her to...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.96,
+            "startDate": "2025-03-10T00:00:00+00:00",
+            "endDate": null,
+            "members": 952
+        }
+    ]
+}

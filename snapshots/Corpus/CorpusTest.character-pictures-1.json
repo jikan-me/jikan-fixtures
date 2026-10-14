@@ -1,0 +1,142 @@
+[
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/10/34138.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/11/34139.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/5/34140.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/9/78620.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/8/310895.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/13/310897.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/7/311332.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/16/312092.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/13/324139.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/4/324220.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/12/324293.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/10/325264.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/3/328601.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/10/331008.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/4/503124.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/11/516853.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/14/573712.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/7/573713.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/3/573714.jpg"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/9/573715.jpg"
+        }
+    }
+]

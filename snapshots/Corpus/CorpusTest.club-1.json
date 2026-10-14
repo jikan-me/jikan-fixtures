@@ -1,0 +1,170 @@
+{
+    "@class": "Jikan\\Model\\Club\\Club",
+    "malId": 1,
+    "url": "https://myanimelist.net/clubs.php?cid=1",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\ClubImageResource\\ClubImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\ClubImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/clubs/16/222057.jpg"
+        }
+    },
+    "name": "Cowboy Bebop",
+    "members": 1400,
+    "category": "anime",
+    "created": "2007-03-29T00:00:00+00:00",
+    "access": "public",
+    "staff": [
+        {
+            "@class": "Jikan\\Model\\Common\\UserMetaBasic",
+            "url": "https://myanimelist.net/profile/Xinil",
+            "username": "Xinil"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\UserMetaBasic",
+            "url": "https://myanimelist.net/profile/daya",
+            "username": "daya"
+        }
+    ],
+    "anime": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Cowboy Bebop",
+            "url": "https://myanimelist.net/anime/1"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Cowboy Bebop: Tengoku no Tobira",
+            "url": "https://myanimelist.net/anime/5"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Cowboy Bebop: Yose Atsume Blues",
+            "url": "https://myanimelist.net/anime/4037"
+        }
+    ],
+    "manga": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Cowboy Bebop",
+            "url": "https://myanimelist.net/manga/173"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Shooting Star Bebop: Cowboy Bebop",
+            "url": "https://myanimelist.net/manga/174"
+        }
+    ],
+    "characters": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Wen",
+            "url": "https://myanimelist.net/character/19119"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Laughing Bull",
+            "url": "https://myanimelist.net/character/19118"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Bob",
+            "url": "https://myanimelist.net/character/19117"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Dr. Londes",
+            "url": "https://myanimelist.net/character/18441"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Coffee",
+            "url": "https://myanimelist.net/character/15713"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Judy",
+            "url": "https://myanimelist.net/character/6694"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Punch",
+            "url": "https://myanimelist.net/character/6693"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Julia",
+            "url": "https://myanimelist.net/character/2735"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Vicious",
+            "url": "https://myanimelist.net/character/2734"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Ein",
+            "url": "https://myanimelist.net/character/4"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Black, Jet",
+            "url": "https://myanimelist.net/character/3"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Bonnaro, Rocco",
+            "url": "https://myanimelist.net/character/23686"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Celonias, Rhint",
+            "url": "https://myanimelist.net/character/23687"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Eckener, Grencia Mars Elijah Guo",
+            "url": "https://myanimelist.net/character/2736"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Hesap Lütfen, Afedersiniz",
+            "url": "https://myanimelist.net/character/13249"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Ovilo, Electra",
+            "url": "https://myanimelist.net/character/8435"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Spiegel, Spike",
+            "url": "https://myanimelist.net/character/1"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Taxim, Udai",
+            "url": "https://myanimelist.net/character/23611"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Valentine, Faye",
+            "url": "https://myanimelist.net/character/2"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Volaju, Vincent",
+            "url": "https://myanimelist.net/character/4035"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Von de Oniyate, Andy",
+            "url": "https://myanimelist.net/character/23740"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Wong Hau Pepelu Tivrusky IV, Edward",
+            "url": "https://myanimelist.net/character/16"
+        }
+    ]
+}

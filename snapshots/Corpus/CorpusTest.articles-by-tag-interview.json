@@ -1,0 +1,741 @@
+{
+    "@class": "Jikan\\Model\\Article\\ArticleList",
+    "hasNextPage": true,
+    "lastVisiblePage": 2,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1956,
+            "url": "https://myanimelist.net/featured/1956/Interview_With_Vic_Mignogna_Voice_Actor_of_Edward_Elric___Broly",
+            "title": "Interview With Vic Mignogna, Voice Actor of Edward Elric & Broly",
+            "authorUsername": "Jankenpopp",
+            "authorUrl": "https://myanimelist.net/profile/Jankenpopp",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1476869204-81bd716e087a287a3f4eb1a9b7d5d359.jpeg"
+                }
+            },
+            "views": 58212,
+            "excerpt": "Edward Elric. Zero Kiryuu. Broly. Vic Mignogna has an impressive voice acting resume, and it's only getting longer. I sat down with him at Anime Weekend Atlanta to talk theater, anime, fandom, and faith. Was there alchemy? Read on!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1743,
+            "url": "https://myanimelist.net/featured/1743/MomoCon_2016__The_Cast_of_Kill_la_Kill_Speaks",
+            "title": "MomoCon 2016: The Cast of Kill la Kill Speaks!",
+            "authorUsername": "Jankenpopp",
+            "authorUrl": "https://myanimelist.net/profile/Jankenpopp",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1467008334-c111c52431a7d2105fbdfe2c29800cb9.jpeg"
+                }
+            },
+            "views": 49525,
+            "excerpt": "On day 3 of MomoCon, five of the Kill la Kill English dub's cast sat down for an informal panel about the show. As expected of Kill la Kill, things got goofy quick. These are excerpts from that hilarious hour with Erica Mendez, Laura Post, Ben Diskin, Matthew Mercer, and David Vincent!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1732,
+            "url": "https://myanimelist.net/featured/1732/Dont_Lose_Your_Way__A_Talk_with_Erica_Mendez",
+            "title": "Don't Lose Your Way!: A Talk with Erica Mendez",
+            "authorUsername": "Jankenpopp",
+            "authorUrl": "https://myanimelist.net/profile/Jankenpopp",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1465374384-68d758a922b77d5ec0284e31cd22732c.jpeg"
+                }
+            },
+            "views": 34838,
+            "excerpt": "In just six years of voice work, Chicago-born Erica Mendez has taken the anime world by storm. She's lent her powerful pipes to Ryuko Matoi, Sailor Uranus, and most recently Gon Freecss! We talked voice acting, video games, and the weird world of fame on day 3 of MomoCon.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1611,
+            "url": "https://myanimelist.net/featured/1611/An_Interview_With_Madman_Entertainment",
+            "title": "An Interview With Madman Entertainment",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1460948797-9f4f4622f57bd826780587a871015bb5.jpeg"
+                }
+            },
+            "views": 25804,
+            "excerpt": "Have you ever wondered what it was like to work in the anime industry? Is it your dream to work to spread anime to the rest of the world? You might get some insight into the business side of anime here in this interview!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "analysis",
+                    "name": "Analysis",
+                    "url": "https://myanimelist.net/featured/tag/analysis"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "background_analysis",
+                    "name": "Background Analysis",
+                    "url": "https://myanimelist.net/featured/tag/background_analysis"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1490,
+            "url": "https://myanimelist.net/featured/1490/How_to_Cosplay__Great_Advice_from_12_Cosplayers",
+            "title": "How to Cosplay: Great Advice from 12 Cosplayers",
+            "authorUsername": "kami_nomi",
+            "authorUrl": "https://myanimelist.net/profile/kami_nomi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1458607276-2b106cbf677f0dfd19da114dce747830.jpeg"
+                }
+            },
+            "views": 80416,
+            "excerpt": "What is the most important factor in creating the perfect cosplay? Here's a collection of advice on that very topic, straight from the cosplayers themselves. Come jump into the wonderful world of cosplay -- from anime to movies to games and so on!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "cosplay",
+                    "name": "Cosplay",
+                    "url": "https://myanimelist.net/featured/tag/cosplay"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1463,
+            "url": "https://myanimelist.net/featured/1463/Manga_Creator_Spotlight__Hiroya_Oku_on_Inuyashiki",
+            "title": "Manga Creator Spotlight: Hiroya Oku on Inuyashiki",
+            "authorUsername": "KodanshaComics",
+            "authorUrl": "https://myanimelist.net/profile/KodanshaComics",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1457400093-1015ae83474a631ac87d0ebaf2310c8f.jpeg"
+                }
+            },
+            "views": 33488,
+            "excerpt": "Hiroya Oku is an alchemist of storytelling. He closely studies theories behind storytelling in every popular media, imbibes them, and somehow transforms them into a truly original story that no one has ever seen before.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "mangaka",
+                    "name": "Mangaka",
+                    "url": "https://myanimelist.net/featured/tag/mangaka"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1466,
+            "url": "https://myanimelist.net/featured/1466/Aniblogging__So_is_That_Really_a_Thing",
+            "title": "Aniblogging: So is That Really a Thing?",
+            "authorUsername": "GuardianEnzo",
+            "authorUrl": "https://myanimelist.net/profile/GuardianEnzo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1456994370-e3681ff7dc9116cf3cb4867965fb8241.jpeg"
+                }
+            },
+            "views": 19034,
+            "excerpt": "Anime blogs are an integral part of the fan experience in the West. But what makes someone decide to become an anime blogger– and what does the future hold for aniblogging?",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "editorial",
+                    "name": "Editorial",
+                    "url": "https://myanimelist.net/featured/tag/editorial"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1447,
+            "url": "https://myanimelist.net/featured/1447/Manga_Creator_Spotlight__Hiro_Mashima_on_Fairy_Tail",
+            "title": "Manga Creator Spotlight: Hiro Mashima on Fairy Tail",
+            "authorUsername": "KodanshaComics",
+            "authorUrl": "https://myanimelist.net/profile/KodanshaComics",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1456279111-6fea83bc32e8e749652df3c4aee44e75.jpeg"
+                }
+            },
+            "views": 18853,
+            "excerpt": "This interview is for old and new fans of Fairy Tail who want to know a little more about the personal side of Hiro Mashima-sensei!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "mangaka",
+                    "name": "Mangaka",
+                    "url": "https://myanimelist.net/featured/tag/mangaka"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fairy_tail",
+                    "name": "Fairy Tail",
+                    "url": "https://myanimelist.net/featured/tag/fairy_tail"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1406,
+            "url": "https://myanimelist.net/featured/1406/5_Reasons_Why_People_Love_Anime__Interview_with_Industry_Professionals",
+            "title": "5 Reasons Why People Love Anime: Interview with Industry Professionals",
+            "authorUsername": "kami_nomi",
+            "authorUrl": "https://myanimelist.net/profile/kami_nomi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1455446827-90c864190b401727f04acb0b2fab13f7.jpeg"
+                }
+            },
+            "views": 118067,
+            "excerpt": "Anime is one of the most popular forms of animation in the world. But why do the tons of anime fans worldwide like anime so much? Here are 5 reasons - from the perspectives of several people from the anime industry - that could explain this neverending conundrum.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "editorial",
+                    "name": "Editorial",
+                    "url": "https://myanimelist.net/featured/tag/editorial"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1372,
+            "url": "https://myanimelist.net/featured/1372/Interview_With_Right_Stuf_President_Shawne_Kleckner",
+            "title": "Interview With Right Stuf President Shawne Kleckner",
+            "authorUsername": "kami_nomi",
+            "authorUrl": "https://myanimelist.net/profile/kami_nomi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1454960998-21c5fedce518643cce6e8603b6353615.jpeg"
+                }
+            },
+            "views": 8635,
+            "excerpt": "Did you know before Right Stuf began with anime, they sold telescopes? Find out how they transitioned into selling anime, what has helped them evolve, and a view of the anime industry from Right Stuf President Shawne Kleckner.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1294,
+            "url": "https://myanimelist.net/featured/1294/Interview_with_Victoria_SailorBee_Holden_Crunchyroll_Soc_Media_MGR",
+            "title": "Interview with Victoria \"SailorBee\" Holden, Crunchyroll Soc. Media MGR",
+            "authorUsername": "kami_nomi",
+            "authorUrl": "https://myanimelist.net/profile/kami_nomi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1453258152-3f5df10b2fab9c2ba0388e828382e960.jpeg"
+                }
+            },
+            "views": 25406,
+            "excerpt": "What does it take to actually make it in the anime industry? Crunchyroll's Victoria Holden gives some advice, while also reflecting on her first impression of Crunchyroll to her thoughts on the company today.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 582,
+            "url": "https://myanimelist.net/featured/582/One-Two_Punch_An_Interview_With_One_Punch_Mans_Superhero_Duo",
+            "title": "One-Two Punch! An Interview With One Punch Man's Superhero Duo",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1444977709-924444324640b0b25d6c3d6fc28f91e4.jpeg"
+                }
+            },
+            "views": 28745,
+            "excerpt": "A series overview of the comedy that's taking Japan by storm, plus an interview with voice actors Furukawa Makoto and Ishikawa Kaito!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "funny",
+                    "name": "Funny",
+                    "url": "https://myanimelist.net/featured/tag/funny"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "seiyuu",
+                    "name": "Seiyuu",
+                    "url": "https://myanimelist.net/featured/tag/seiyuu"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "one_punch_man",
+                    "name": "One Punch Man",
+                    "url": "https://myanimelist.net/featured/tag/one_punch_man"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 335,
+            "url": "https://myanimelist.net/featured/335/Interview_with_Tatsuya_Yoshihara_Director_of_Monster_Musume",
+            "title": "Interview with Tatsuya Yoshihara, Director of Monster Musume",
+            "authorUsername": "redriver47",
+            "authorUrl": "https://myanimelist.net/profile/redriver47",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1442527840-79a3883876dbf85f0f7aa56db789b0c3.jpeg"
+                }
+            },
+            "views": 21110,
+            "excerpt": "Monster Musume no Iru Nichijo (Life with Monster Girls) is a delightful series about monsters in our world. Kimihito finds himself taking in several attractive monsters. But can he resist them? Find out in this interview with director Tatsuya Yoshihara.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "cute_girls",
+                    "name": "Cute Girls",
+                    "url": "https://myanimelist.net/featured/tag/cute_girls"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "director",
+                    "name": "Director",
+                    "url": "https://myanimelist.net/featured/tag/director"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "love",
+                    "name": "Love",
+                    "url": "https://myanimelist.net/featured/tag/love"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "moe",
+                    "name": "Moe",
+                    "url": "https://myanimelist.net/featured/tag/moe"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "monsters",
+                    "name": "Monsters",
+                    "url": "https://myanimelist.net/featured/tag/monsters"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "hot",
+                    "name": "Hot",
+                    "url": "https://myanimelist.net/featured/tag/hot"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 290,
+            "url": "https://myanimelist.net/featured/290/Interview_with_Takahiro_Sakurai_--_VA_for_Junjou_Romantica_3",
+            "title": "Interview with Takahiro Sakurai -- VA for Junjou Romantica 3!",
+            "authorUsername": "futarochan89",
+            "authorUrl": "https://myanimelist.net/profile/futarochan89",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1442309384-25e423523de08b9975fd5766a88221e8.jpeg"
+                }
+            },
+            "views": 21196,
+            "excerpt": "Ready for some MORE romance? The Junjou Romantica series that took the world by storm oh so many years ago is BACK for its 3rd season! Join us in our interview with the voice actor for the bashful cutie, Misaki -- Takahiro Sakurai!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "cute_guys",
+                    "name": "Cute Guys",
+                    "url": "https://myanimelist.net/featured/tag/cute_guys"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "love",
+                    "name": "Love",
+                    "url": "https://myanimelist.net/featured/tag/love"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 266,
+            "url": "https://myanimelist.net/featured/266/Interview_with_Hinata___Kageyamas_Voice_Actors_from_Haikyuu_Season2",
+            "title": "Interview with Hinata & Kageyama's Voice Actors from Haikyuu!! Season2",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1441962720-e6d90f50a6864c3c12b81edfffa6edf5.jpeg"
+                }
+            },
+            "views": 66752,
+            "excerpt": "Haikyuu!! fans rejoice! The second season starts airing in October. Let's hear what the voice actors for Hinata Shouyou and Kageyama Tobio have to say!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "seiyuu",
+                    "name": "Seiyuu",
+                    "url": "https://myanimelist.net/featured/tag/seiyuu"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "school_life",
+                    "name": "School Life",
+                    "url": "https://myanimelist.net/featured/tag/school_life"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "sports",
+                    "name": "Sports",
+                    "url": "https://myanimelist.net/featured/tag/sports"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 250,
+            "url": "https://myanimelist.net/featured/250/Double_Interview_of_Voice_Actors_from_Yowamushi_Pedal",
+            "title": "Double Interview of Voice Actors from Yowamushi Pedal",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1441875651-59f54e48c78f9ede81516e438b84955e.jpeg"
+                }
+            },
+            "views": 12975,
+            "excerpt": "The rookie VA for the main character Onoda, Yamashita Daiki, and the majorly popular veteran Miyano Mamoru are interviewed about their roles in the new movie adaptation of popular cycling anime Yowamushi Pedal!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "friendship",
+                    "name": "Friendship",
+                    "url": "https://myanimelist.net/featured/tag/friendship"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "funny",
+                    "name": "Funny",
+                    "url": "https://myanimelist.net/featured/tag/funny"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "seiyuu",
+                    "name": "Seiyuu",
+                    "url": "https://myanimelist.net/featured/tag/seiyuu"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "sports",
+                    "name": "Sports",
+                    "url": "https://myanimelist.net/featured/tag/sports"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 227,
+            "url": "https://myanimelist.net/featured/227/From_Game_to_Anime__Interview_with_the_Producer_of_God_Eater",
+            "title": "From Game to Anime: Interview with the Producer of God Eater",
+            "authorUsername": "futarochan89",
+            "authorUrl": "https://myanimelist.net/profile/futarochan89",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1441709102-00105fd1ed6edd198cf9651fd30b54ae.jpeg"
+                }
+            },
+            "views": 20221,
+            "excerpt": "God Eater is an extremely popular video game, known world-wide. Its fans are dedicated to the core and thrilled about the new God Eater anime series, airing now. Join the producer of the show Yusuke Tomizawa as he talks about the journey from game to anime!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "director",
+                    "name": "Director",
+                    "url": "https://myanimelist.net/featured/tag/director"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "game_adaptation",
+                    "name": "Game Adaptation",
+                    "url": "https://myanimelist.net/featured/tag/game_adaptation"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 203,
+            "url": "https://myanimelist.net/featured/203/Q_A__Shimoneta_to_Iu_Gainen_ga_Sonzai_Shinai_Taikutsu_na_Sekai",
+            "title": "Q&A: Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1441343962-fe6a30ec95fc42f7722237419c518221.jpeg"
+                }
+            },
+            "views": 20678,
+            "excerpt": "Learn more about the world of Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai! (Wow, that title's a mouthful. Heh) Here's an interview with the original creator of ShimoSeka, author Hirotaka Akagi.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "funny",
+                    "name": "Funny",
+                    "url": "https://myanimelist.net/featured/tag/funny"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "hot",
+                    "name": "Hot",
+                    "url": "https://myanimelist.net/featured/tag/hot"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 195,
+            "url": "https://myanimelist.net/featured/195/Noragami_Aragoto__Interview_Background_Lore",
+            "title": "Noragami Aragoto: Interview/Background Lore",
+            "authorUsername": "RilakkuLina",
+            "authorUrl": "https://myanimelist.net/profile/RilakkuLina",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1441267166-adad8d823fa36bf78aff023a46097aa8.jpeg"
+                }
+            },
+            "views": 57591,
+            "excerpt": "This article contains both a short interview from the director of Noragami: Aragoto as well as information regarding the Shinto backgrounds of many of the key characters in the Noragami universe! (Spoilers for Season 1 only)",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "background_analysis",
+                    "name": "Background Analysis",
+                    "url": "https://myanimelist.net/featured/tag/background_analysis"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "character_analysis",
+                    "name": "Character Analysis",
+                    "url": "https://myanimelist.net/featured/tag/character_analysis"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "history_and_culture",
+                    "name": "History and Culture",
+                    "url": "https://myanimelist.net/featured/tag/history_and_culture"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 185,
+            "url": "https://myanimelist.net/featured/185/Interview_with_the_voice_actors_for_Boruto__Naruto_the_Movie",
+            "title": "Interview with the voice actors for Boruto: Naruto the Movie",
+            "authorUsername": "futarochan89",
+            "authorUrl": "https://myanimelist.net/profile/futarochan89",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1441097491-c062037e1be85c90cd18e6abb34c31ed.jpeg"
+                }
+            },
+            "views": 20154,
+            "excerpt": "After an epic battle in the last movie, Naruto Uzumaki is back and all grown up in Boruto: Naruto the Movie! Finally at peace, the Hidden Leaf Village is bustling with new businesses and new faces - some of which include the super-strong offspring of Naruto's most beloved characters.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "interview",
+                    "name": "Interview",
+                    "url": "https://myanimelist.net/featured/tag/interview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "action",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/featured/tag/action"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "friendship",
+                    "name": "Friendship",
+                    "url": "https://myanimelist.net/featured/tag/friendship"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "honor",
+                    "name": "Honor",
+                    "url": "https://myanimelist.net/featured/tag/honor"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "family",
+                    "name": "Family",
+                    "url": "https://myanimelist.net/featured/tag/family"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "naruto",
+                    "name": "Naruto",
+                    "url": "https://myanimelist.net/featured/tag/naruto"
+                }
+            ]
+        }
+    ]
+}

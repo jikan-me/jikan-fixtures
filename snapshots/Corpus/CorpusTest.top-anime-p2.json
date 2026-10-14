@@ -1,0 +1,1407 @@
+{
+    "@class": "Jikan\\Model\\Top\\TopAnime",
+    "hasNextPage": true,
+    "lastVisiblePage": 3,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 1,
+            "rank": 51,
+            "title": "Cowboy Bebop",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=bb1e96eb0a0224a57aa45443eab92575",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644t.jpg?s=bb1e96eb0a0224a57aa45443eab92575",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg?s=bb1e96eb0a0224a57aa45443eab92575"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/19644.webp?s=bb1e96eb0a0224a57aa45443eab92575",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644t.webp?s=bb1e96eb0a0224a57aa45443eab92575",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644l.webp?s=bb1e96eb0a0224a57aa45443eab92575"
+                }
+            },
+            "type": "TV",
+            "episodes": 26,
+            "startDate": "Apr 1998",
+            "endDate": "Apr 1999",
+            "members": 2091774,
+            "score": 8.75
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 60489,
+            "rank": 52,
+            "title": "Takopii no Genzai",
+            "url": "https://myanimelist.net/anime/60489/Takopii_no_Genzai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879.jpg?s=cac1e53a20d4c76a6ab5c0a54c79ea30",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879t.jpg?s=cac1e53a20d4c76a6ab5c0a54c79ea30",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg?s=cac1e53a20d4c76a6ab5c0a54c79ea30"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879.webp?s=cac1e53a20d4c76a6ab5c0a54c79ea30",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879t.webp?s=cac1e53a20d4c76a6ab5c0a54c79ea30",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879l.webp?s=cac1e53a20d4c76a6ab5c0a54c79ea30"
+                }
+            },
+            "type": "ONA",
+            "episodes": 6,
+            "startDate": "Jun 2025",
+            "endDate": "Aug 2025",
+            "members": 359459,
+            "score": 8.74
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 48569,
+            "rank": 53,
+            "title": "86 Part 2",
+            "url": "https://myanimelist.net/anime/48569/86_Part_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1321/117508.jpg?s=c65bc9967a249eb362a1e037e13ebd73",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1321/117508t.jpg?s=c65bc9967a249eb362a1e037e13ebd73",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1321/117508l.jpg?s=c65bc9967a249eb362a1e037e13ebd73"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1321/117508.webp?s=c65bc9967a249eb362a1e037e13ebd73",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1321/117508t.webp?s=c65bc9967a249eb362a1e037e13ebd73",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1321/117508l.webp?s=c65bc9967a249eb362a1e037e13ebd73"
+                }
+            },
+            "type": "TV",
+            "episodes": 12,
+            "startDate": "Oct 2021",
+            "endDate": "Mar 2022",
+            "members": 668879,
+            "score": 8.73
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 39894,
+            "rank": 54,
+            "title": "Hibike! Euphonium 3",
+            "url": "https://myanimelist.net/anime/39894/Hibike_Euphonium_3",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086.jpg?s=26c534e78f02d1ccab1c382949b8ebcb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086t.jpg?s=26c534e78f02d1ccab1c382949b8ebcb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg?s=26c534e78f02d1ccab1c382949b8ebcb"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086.webp?s=26c534e78f02d1ccab1c382949b8ebcb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086t.webp?s=26c534e78f02d1ccab1c382949b8ebcb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086l.webp?s=26c534e78f02d1ccab1c382949b8ebcb"
+                }
+            },
+            "type": "TV",
+            "episodes": 13,
+            "startDate": "Apr 2024",
+            "endDate": "Jun 2024",
+            "members": 102585,
+            "score": 8.73
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 47917,
+            "rank": 55,
+            "title": "Bocchi the Rock!",
+            "url": "https://myanimelist.net/anime/47917/Bocchi_the_Rock",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg?s=81e0f14a54c27c6d8046fced1a046f28",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1448/127956t.jpg?s=81e0f14a54c27c6d8046fced1a046f28",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1448/127956l.jpg?s=81e0f14a54c27c6d8046fced1a046f28"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/127956.webp?s=81e0f14a54c27c6d8046fced1a046f28",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1448/127956t.webp?s=81e0f14a54c27c6d8046fced1a046f28",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1448/127956l.webp?s=81e0f14a54c27c6d8046fced1a046f28"
+                }
+            },
+            "type": "TV",
+            "episodes": 12,
+            "startDate": "Oct 2022",
+            "endDate": "Dec 2022",
+            "members": 830050,
+            "score": 8.72
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 52215,
+            "rank": 56,
+            "title": "Chi. Chikyuu no Undou ni Tsuite",
+            "url": "https://myanimelist.net/anime/52215/Chi_Chikyuu_no_Undou_ni_Tsuite",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg?s=e803c3237ace8ea7c4057783e8795042",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1749/145922t.jpg?s=e803c3237ace8ea7c4057783e8795042",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1749/145922l.jpg?s=e803c3237ace8ea7c4057783e8795042"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1749/145922.webp?s=e803c3237ace8ea7c4057783e8795042",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1749/145922t.webp?s=e803c3237ace8ea7c4057783e8795042",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1749/145922l.webp?s=e803c3237ace8ea7c4057783e8795042"
+                }
+            },
+            "type": "TV",
+            "episodes": 25,
+            "startDate": "Oct 2024",
+            "endDate": "Mar 2025",
+            "members": 323619,
+            "score": 8.72
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 60568,
+            "rank": 57,
+            "title": "Jiyi Guanli Ju (2026)",
+            "url": "https://myanimelist.net/anime/60568/Jiyi_Guanli_Ju_2026",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047.jpg?s=02a15d662da556d89c015459f839452e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047t.jpg?s=02a15d662da556d89c015459f839452e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg?s=02a15d662da556d89c015459f839452e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047.webp?s=02a15d662da556d89c015459f839452e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047t.webp?s=02a15d662da556d89c015459f839452e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp?s=02a15d662da556d89c015459f839452e"
+                }
+            },
+            "type": "ONA",
+            "episodes": 7,
+            "startDate": "Aug 2026",
+            "endDate": "Aug 2026",
+            "members": 31211,
+            "score": 8.72
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 50160,
+            "rank": 58,
+            "title": "Kingdom 4th Season",
+            "url": "https://myanimelist.net/anime/50160/Kingdom_4th_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794.jpg?s=1dd290c4b0bc3df1083c456064109e2f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794t.jpg?s=1dd290c4b0bc3df1083c456064109e2f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.jpg?s=1dd290c4b0bc3df1083c456064109e2f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794.webp?s=1dd290c4b0bc3df1083c456064109e2f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794t.webp?s=1dd290c4b0bc3df1083c456064109e2f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp?s=1dd290c4b0bc3df1083c456064109e2f"
+                }
+            },
+            "type": "TV",
+            "episodes": 26,
+            "startDate": "Apr 2022",
+            "endDate": "Oct 2022",
+            "members": 94464,
+            "score": 8.72
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 53223,
+            "rank": 59,
+            "title": "Kingdom 5th Season",
+            "url": "https://myanimelist.net/anime/53223/Kingdom_5th_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641.jpg?s=edc6b0cc29e6591c871151e086956ffe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641t.jpg?s=edc6b0cc29e6591c871151e086956ffe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg?s=edc6b0cc29e6591c871151e086956ffe"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641.webp?s=edc6b0cc29e6591c871151e086956ffe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641t.webp?s=edc6b0cc29e6591c871151e086956ffe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.webp?s=edc6b0cc29e6591c871151e086956ffe"
+                }
+            },
+            "type": "TV",
+            "episodes": 13,
+            "startDate": "Jan 2024",
+            "endDate": "Mar 2024",
+            "members": 66605,
+            "score": 8.72
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 50172,
+            "rank": 60,
+            "title": "Mob Psycho 100 III",
+            "url": "https://myanimelist.net/anime/50172/Mob_Psycho_100_III",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011.jpg?s=33cd9099a0ad56c9d80989ca0e1cc2ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011t.jpg?s=33cd9099a0ad56c9d80989ca0e1cc2ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg?s=33cd9099a0ad56c9d80989ca0e1cc2ec"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011.webp?s=33cd9099a0ad56c9d80989ca0e1cc2ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011t.webp?s=33cd9099a0ad56c9d80989ca0e1cc2ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp?s=33cd9099a0ad56c9d80989ca0e1cc2ec"
+                }
+            },
+            "type": "TV",
+            "episodes": 12,
+            "startDate": "Oct 2022",
+            "endDate": "Dec 2022",
+            "members": 893172,
+            "score": 8.72
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 24701,
+            "rank": 61,
+            "title": "Mushishi Zoku Shou 2nd Season",
+            "url": "https://myanimelist.net/anime/24701/Mushishi_Zoku_Shou_2nd_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/68095.jpg?s=6025adedafce15a9d2c9363e225241ba",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/68095t.jpg?s=6025adedafce15a9d2c9363e225241ba",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/68095l.jpg?s=6025adedafce15a9d2c9363e225241ba"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/68095.webp?s=6025adedafce15a9d2c9363e225241ba",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/68095t.webp?s=6025adedafce15a9d2c9363e225241ba",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/68095l.webp?s=6025adedafce15a9d2c9363e225241ba"
+                }
+            },
+            "type": "TV",
+            "episodes": 10,
+            "startDate": "Oct 2014",
+            "endDate": "Dec 2014",
+            "members": 296958,
+            "score": 8.72
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 21,
+            "rank": 62,
+            "title": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg?s=3a515a0e3bc695b2ea62db2fa26c53b3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851t.jpg?s=3a515a0e3bc695b2ea62db2fa26c53b3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg?s=3a515a0e3bc695b2ea62db2fa26c53b3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851.webp?s=3a515a0e3bc695b2ea62db2fa26c53b3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851t.webp?s=3a515a0e3bc695b2ea62db2fa26c53b3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.webp?s=3a515a0e3bc695b2ea62db2fa26c53b3"
+                }
+            },
+            "type": "TV",
+            "episodes": null,
+            "startDate": "Oct 1999",
+            "endDate": null,
+            "members": 2736328,
+            "score": 8.72
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 60098,
+            "rank": 63,
+            "title": "Boku no Hero Academia: Final Season",
+            "url": "https://myanimelist.net/anime/60098/Boku_no_Hero_Academia__Final_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg?s=26ec5018c9c92887250742f247480e1e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055t.jpg?s=26ec5018c9c92887250742f247480e1e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg?s=26ec5018c9c92887250742f247480e1e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055.webp?s=26ec5018c9c92887250742f247480e1e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055t.webp?s=26ec5018c9c92887250742f247480e1e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055l.webp?s=26ec5018c9c92887250742f247480e1e"
+                }
+            },
+            "type": "TV",
+            "episodes": 11,
+            "startDate": "Oct 2025",
+            "endDate": "Dec 2025",
+            "members": 352899,
+            "score": 8.71
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 1575,
+            "rank": 64,
+            "title": "Code Geass: Hangyaku no Lelouch",
+            "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg?s=b67496ea440a61c0d7ac14173e0bd6e0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088t.jpg?s=b67496ea440a61c0d7ac14173e0bd6e0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg?s=b67496ea440a61c0d7ac14173e0bd6e0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088.webp?s=b67496ea440a61c0d7ac14173e0bd6e0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088t.webp?s=b67496ea440a61c0d7ac14173e0bd6e0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp?s=b67496ea440a61c0d7ac14173e0bd6e0"
+                }
+            },
+            "type": "TV",
+            "episodes": 25,
+            "startDate": "Oct 2006",
+            "endDate": "Jul 2007",
+            "members": 2517427,
+            "score": 8.71
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 58788,
+            "rank": 65,
+            "title": "Ikoku Nikki",
+            "url": "https://myanimelist.net/anime/58788/Ikoku_Nikki",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233.jpg?s=e889bd3ed1a85c8a0b293dc8567842ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233t.jpg?s=e889bd3ed1a85c8a0b293dc8567842ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg?s=e889bd3ed1a85c8a0b293dc8567842ec"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233.webp?s=e889bd3ed1a85c8a0b293dc8567842ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233t.webp?s=e889bd3ed1a85c8a0b293dc8567842ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp?s=e889bd3ed1a85c8a0b293dc8567842ec"
+                }
+            },
+            "type": "TV",
+            "episodes": 13,
+            "startDate": "Jan 2026",
+            "endDate": "Mar 2026",
+            "members": 130665,
+            "score": 8.71
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 53998,
+            "rank": 66,
+            "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+            "url": "https://myanimelist.net/anime/53998/Bleach__Sennen_Kessen-hen_-_Ketsubetsu-tan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058.jpg?s=101a025f33ee0575a6a5a5e500e3d3c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058t.jpg?s=101a025f33ee0575a6a5a5e500e3d3c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg?s=101a025f33ee0575a6a5a5e500e3d3c6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058.webp?s=101a025f33ee0575a6a5a5e500e3d3c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058t.webp?s=101a025f33ee0575a6a5a5e500e3d3c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp?s=101a025f33ee0575a6a5a5e500e3d3c6"
+                }
+            },
+            "type": "TV",
+            "episodes": 13,
+            "startDate": "Jul 2023",
+            "endDate": "Sep 2023",
+            "members": 441893,
+            "score": 8.7
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 62276,
+            "rank": 67,
+            "title": "Guimi Zhi Zhu Specials",
+            "url": "https://myanimelist.net/anime/62276/Guimi_Zhi_Zhu_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1211/157100.jpg?s=6a58e554f8948ec17beb69659f74cafe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1211/157100t.jpg?s=6a58e554f8948ec17beb69659f74cafe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1211/157100l.jpg?s=6a58e554f8948ec17beb69659f74cafe"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1211/157100.webp?s=6a58e554f8948ec17beb69659f74cafe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1211/157100t.webp?s=6a58e554f8948ec17beb69659f74cafe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1211/157100l.webp?s=6a58e554f8948ec17beb69659f74cafe"
+                }
+            },
+            "type": "ONA",
+            "episodes": 3,
+            "startDate": "Jun 2026",
+            "endDate": "Jun 2026",
+            "members": 22726,
+            "score": 8.7
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 52198,
+            "rank": 68,
+            "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "url": "https://myanimelist.net/anime/52198/Kaguya-sama_wa_Kokurasetai__First_Kiss_wa_Owaranai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060.jpg?s=d6b458f3a59a4c5ae4a2ee526feb690f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060t.jpg?s=d6b458f3a59a4c5ae4a2ee526feb690f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060l.jpg?s=d6b458f3a59a4c5ae4a2ee526feb690f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060.webp?s=d6b458f3a59a4c5ae4a2ee526feb690f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060t.webp?s=d6b458f3a59a4c5ae4a2ee526feb690f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp?s=d6b458f3a59a4c5ae4a2ee526feb690f"
+                }
+            },
+            "type": "Movie",
+            "episodes": 1,
+            "startDate": "Dec 2022",
+            "endDate": "Dec 2022",
+            "members": 400496,
+            "score": 8.7
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 45649,
+            "rank": 69,
+            "title": "The First Slam Dunk",
+            "url": "https://myanimelist.net/anime/45649/The_First_Slam_Dunk",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284.jpg?s=0a4aa56dd7a19b280e4cdd09aaad81a6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284t.jpg?s=0a4aa56dd7a19b280e4cdd09aaad81a6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg?s=0a4aa56dd7a19b280e4cdd09aaad81a6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284.webp?s=0a4aa56dd7a19b280e4cdd09aaad81a6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284t.webp?s=0a4aa56dd7a19b280e4cdd09aaad81a6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284l.webp?s=0a4aa56dd7a19b280e4cdd09aaad81a6"
+                }
+            },
+            "type": "Movie",
+            "episodes": 1,
+            "startDate": "Dec 2022",
+            "endDate": "Dec 2022",
+            "members": 81106,
+            "score": 8.7
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 51009,
+            "rank": 70,
+            "title": "Jujutsu Kaisen 2nd Season",
+            "url": "https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg?s=1f89c1e9b9bf47ab767f075edf5d313f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022t.jpg?s=1f89c1e9b9bf47ab767f075edf5d313f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg?s=1f89c1e9b9bf47ab767f075edf5d313f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022.webp?s=1f89c1e9b9bf47ab767f075edf5d313f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022t.webp?s=1f89c1e9b9bf47ab767f075edf5d313f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022l.webp?s=1f89c1e9b9bf47ab767f075edf5d313f"
+                }
+            },
+            "type": "TV",
+            "episodes": 23,
+            "startDate": "Jul 2023",
+            "endDate": "Dec 2023",
+            "members": 1471117,
+            "score": 8.69
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 44,
+            "rank": 71,
+            "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+            "url": "https://myanimelist.net/anime/44/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Tsuioku-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg?s=95e513e30f17490549e9608f8f7672e3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618t.jpg?s=95e513e30f17490549e9608f8f7672e3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg?s=95e513e30f17490549e9608f8f7672e3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618.webp?s=95e513e30f17490549e9608f8f7672e3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618t.webp?s=95e513e30f17490549e9608f8f7672e3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp?s=95e513e30f17490549e9608f8f7672e3"
+                }
+            },
+            "type": "OVA",
+            "episodes": 4,
+            "startDate": "Feb 1999",
+            "endDate": "Sep 1999",
+            "members": 294773,
+            "score": 8.69
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 44074,
+            "rank": 72,
+            "title": "Shiguang Dailiren",
+            "url": "https://myanimelist.net/anime/44074/Shiguang_Dailiren",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg?s=048f06f7edb150d017394574a108c72c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867t.jpg?s=048f06f7edb150d017394574a108c72c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg?s=048f06f7edb150d017394574a108c72c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867.webp?s=048f06f7edb150d017394574a108c72c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867t.webp?s=048f06f7edb150d017394574a108c72c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp?s=048f06f7edb150d017394574a108c72c"
+                }
+            },
+            "type": "ONA",
+            "episodes": 11,
+            "startDate": "Apr 2021",
+            "endDate": "Jul 2021",
+            "members": 499855,
+            "score": 8.69
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 33095,
+            "rank": 73,
+            "title": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+            "url": "https://myanimelist.net/anime/33095/Shouwa_Genroku_Rakugo_Shinjuu__Sukeroku_Futatabi-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/124765.jpg?s=5c92c94e226dfebfaa8031696c27754f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1493/124765t.jpg?s=5c92c94e226dfebfaa8031696c27754f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1493/124765l.jpg?s=5c92c94e226dfebfaa8031696c27754f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/124765.webp?s=5c92c94e226dfebfaa8031696c27754f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1493/124765t.webp?s=5c92c94e226dfebfaa8031696c27754f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1493/124765l.webp?s=5c92c94e226dfebfaa8031696c27754f"
+                }
+            },
+            "type": "TV",
+            "episodes": 12,
+            "startDate": "Jan 2017",
+            "endDate": "Mar 2017",
+            "members": 204261,
+            "score": 8.69
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 33352,
+            "rank": 74,
+            "title": "Violet Evergarden",
+            "url": "https://myanimelist.net/anime/33352/Violet_Evergarden",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg?s=9e24a139603a4e0ea8ea055a230b54d5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1795/95088t.jpg?s=9e24a139603a4e0ea8ea055a230b54d5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg?s=9e24a139603a4e0ea8ea055a230b54d5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1795/95088.webp?s=9e24a139603a4e0ea8ea055a230b54d5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1795/95088t.webp?s=9e24a139603a4e0ea8ea055a230b54d5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp?s=9e24a139603a4e0ea8ea055a230b54d5"
+                }
+            },
+            "type": "TV",
+            "episodes": 13,
+            "startDate": "Jan 2018",
+            "endDate": "Apr 2018",
+            "members": 2036675,
+            "score": 8.69
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 245,
+            "rank": 75,
+            "title": "Great Teacher Onizuka",
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/11460.jpg?s=7e890b7e93b7b57c2de4aa90211931bd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/11460t.jpg?s=7e890b7e93b7b57c2de4aa90211931bd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/11460l.jpg?s=7e890b7e93b7b57c2de4aa90211931bd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/11460.webp?s=7e890b7e93b7b57c2de4aa90211931bd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/11460t.webp?s=7e890b7e93b7b57c2de4aa90211931bd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/11460l.webp?s=7e890b7e93b7b57c2de4aa90211931bd"
+                }
+            },
+            "type": "TV",
+            "episodes": 43,
+            "startDate": "Jun 1999",
+            "endDate": "Sep 2000",
+            "members": 937587,
+            "score": 8.68
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 47778,
+            "rank": 76,
+            "title": "Kimetsu no Yaiba: Yuukaku-hen",
+            "url": "https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036.jpg?s=34065463bac342e6efe8bfdbed5d24de",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036t.jpg?s=34065463bac342e6efe8bfdbed5d24de",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg?s=34065463bac342e6efe8bfdbed5d24de"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036.webp?s=34065463bac342e6efe8bfdbed5d24de",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036t.webp?s=34065463bac342e6efe8bfdbed5d24de",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1908/120036l.webp?s=34065463bac342e6efe8bfdbed5d24de"
+                }
+            },
+            "type": "TV",
+            "episodes": 11,
+            "startDate": "Dec 2021",
+            "endDate": "Feb 2022",
+            "members": 1788505,
+            "score": 8.68
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 21939,
+            "rank": 77,
+            "title": "Mushishi Zoku Shou",
+            "url": "https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/58533.jpg?s=ff40f900ea0877725ccde517b126c531",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/58533t.jpg?s=ff40f900ea0877725ccde517b126c531",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/58533l.jpg?s=ff40f900ea0877725ccde517b126c531"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/58533.webp?s=ff40f900ea0877725ccde517b126c531",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/58533t.webp?s=ff40f900ea0877725ccde517b126c531",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/58533l.webp?s=ff40f900ea0877725ccde517b126c531"
+                }
+            },
+            "type": "TV",
+            "episodes": 10,
+            "startDate": "Apr 2014",
+            "endDate": "Jun 2014",
+            "members": 331157,
+            "score": 8.68
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 56784,
+            "rank": 78,
+            "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+            "url": "https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1595/144074.jpg?s=dfe8b494baf8f7c65cab600950b20d0d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1595/144074t.jpg?s=dfe8b494baf8f7c65cab600950b20d0d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1595/144074l.jpg?s=dfe8b494baf8f7c65cab600950b20d0d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1595/144074.webp?s=dfe8b494baf8f7c65cab600950b20d0d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1595/144074t.webp?s=dfe8b494baf8f7c65cab600950b20d0d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1595/144074l.webp?s=dfe8b494baf8f7c65cab600950b20d0d"
+                }
+            },
+            "type": "TV",
+            "episodes": 14,
+            "startDate": "Oct 2024",
+            "endDate": "Dec 2024",
+            "members": 327111,
+            "score": 8.67
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 55690,
+            "rank": 79,
+            "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "url": "https://myanimelist.net/anime/55690/Boku_no_Kokoro_no_Yabai_Yatsu_2nd_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1643/138581.jpg?s=44e3cfbc795b7cb68144fecf98b6cff0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1643/138581t.jpg?s=44e3cfbc795b7cb68144fecf98b6cff0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1643/138581l.jpg?s=44e3cfbc795b7cb68144fecf98b6cff0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1643/138581.webp?s=44e3cfbc795b7cb68144fecf98b6cff0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1643/138581t.webp?s=44e3cfbc795b7cb68144fecf98b6cff0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1643/138581l.webp?s=44e3cfbc795b7cb68144fecf98b6cff0"
+                }
+            },
+            "type": "TV",
+            "episodes": 13,
+            "startDate": "Jan 2024",
+            "endDate": "Mar 2024",
+            "members": 327767,
+            "score": 8.67
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 5258,
+            "rank": 80,
+            "title": "Hajime no Ippo: New Challenger",
+            "url": "https://myanimelist.net/anime/5258/Hajime_no_Ippo__New_Challenger",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/56617.jpg?s=4c8a3a8180c114c3771eb183e5318a0e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/56617t.jpg?s=4c8a3a8180c114c3771eb183e5318a0e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/56617l.jpg?s=4c8a3a8180c114c3771eb183e5318a0e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/56617.webp?s=4c8a3a8180c114c3771eb183e5318a0e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/56617t.webp?s=4c8a3a8180c114c3771eb183e5318a0e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/56617l.webp?s=4c8a3a8180c114c3771eb183e5318a0e"
+                }
+            },
+            "type": "TV",
+            "episodes": 26,
+            "startDate": "Jan 2009",
+            "endDate": "Jul 2009",
+            "members": 333362,
+            "score": 8.67
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 431,
+            "rank": 81,
+            "title": "Howl no Ugoku Shiro",
+            "url": "https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723.jpg?s=d13efbbaed502aeb220700a4015f287a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723t.jpg?s=d13efbbaed502aeb220700a4015f287a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg?s=d13efbbaed502aeb220700a4015f287a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723.webp?s=d13efbbaed502aeb220700a4015f287a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723t.webp?s=d13efbbaed502aeb220700a4015f287a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723l.webp?s=d13efbbaed502aeb220700a4015f287a"
+                }
+            },
+            "type": "Movie",
+            "episodes": 1,
+            "startDate": "Nov 2004",
+            "endDate": "Nov 2004",
+            "members": 1516452,
+            "score": 8.67
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 164,
+            "rank": 82,
+            "title": "Mononoke Hime",
+            "url": "https://myanimelist.net/anime/164/Mononoke_Hime",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277.jpg?s=3aa0f003bbf26027744c9c0f3c0ad532",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277t.jpg?s=3aa0f003bbf26027744c9c0f3c0ad532",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg?s=3aa0f003bbf26027744c9c0f3c0ad532"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277.webp?s=3aa0f003bbf26027744c9c0f3c0ad532",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277t.webp?s=3aa0f003bbf26027744c9c0f3c0ad532",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.webp?s=3aa0f003bbf26027744c9c0f3c0ad532"
+                }
+            },
+            "type": "Movie",
+            "episodes": 1,
+            "startDate": "Jul 1997",
+            "endDate": "Jul 1997",
+            "members": 1402940,
+            "score": 8.67
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 59193,
+            "rank": 83,
+            "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "url": "https://myanimelist.net/anime/59193/Mushoku_Tensei_III__Isekai_Ittara_Honki_Dasu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1527/158340.jpg?s=c44653381d5b9c994d932dec094d8e37",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1527/158340t.jpg?s=c44653381d5b9c994d932dec094d8e37",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg?s=c44653381d5b9c994d932dec094d8e37"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1527/158340.webp?s=c44653381d5b9c994d932dec094d8e37",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1527/158340t.webp?s=c44653381d5b9c994d932dec094d8e37",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1527/158340l.webp?s=c44653381d5b9c994d932dec094d8e37"
+                }
+            },
+            "type": "TV",
+            "episodes": 14,
+            "startDate": "Jul 2026",
+            "endDate": "Sep 2026",
+            "members": 366095,
+            "score": 8.67
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 61930,
+            "rank": 84,
+            "title": "Uma Musume: Cinderella Gray Part 2",
+            "url": "https://myanimelist.net/anime/61930/Uma_Musume__Cinderella_Gray_Part_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1120/152280.jpg?s=aaedd4b1df30af2d81717e3e96a2b2c8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1120/152280t.jpg?s=aaedd4b1df30af2d81717e3e96a2b2c8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1120/152280l.jpg?s=aaedd4b1df30af2d81717e3e96a2b2c8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1120/152280.webp?s=aaedd4b1df30af2d81717e3e96a2b2c8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1120/152280t.webp?s=aaedd4b1df30af2d81717e3e96a2b2c8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1120/152280l.webp?s=aaedd4b1df30af2d81717e3e96a2b2c8"
+                }
+            },
+            "type": "TV",
+            "episodes": 10,
+            "startDate": "Oct 2025",
+            "endDate": "Dec 2025",
+            "members": 76695,
+            "score": 8.67
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 60058,
+            "rank": 85,
+            "title": "[Oshi no Ko] 3rd Season",
+            "url": "https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg?s=d35fa7ac52b84e0c4b7961ac78e1d07f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1979/153329t.jpg?s=d35fa7ac52b84e0c4b7961ac78e1d07f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg?s=d35fa7ac52b84e0c4b7961ac78e1d07f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1979/153329.webp?s=d35fa7ac52b84e0c4b7961ac78e1d07f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1979/153329t.webp?s=d35fa7ac52b84e0c4b7961ac78e1d07f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1979/153329l.webp?s=d35fa7ac52b84e0c4b7961ac78e1d07f"
+                }
+            },
+            "type": "TV",
+            "episodes": 11,
+            "startDate": "Jan 2026",
+            "endDate": "Mar 2026",
+            "members": 302644,
+            "score": 8.67
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 61517,
+            "rank": 86,
+            "title": "Kingdom 6th Season",
+            "url": "https://myanimelist.net/anime/61517/Kingdom_6th_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1282/151476.jpg?s=9edc1b669ac8f5f7b44ab5350246c86e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1282/151476t.jpg?s=9edc1b669ac8f5f7b44ab5350246c86e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1282/151476l.jpg?s=9edc1b669ac8f5f7b44ab5350246c86e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1282/151476.webp?s=9edc1b669ac8f5f7b44ab5350246c86e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1282/151476t.webp?s=9edc1b669ac8f5f7b44ab5350246c86e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1282/151476l.webp?s=9edc1b669ac8f5f7b44ab5350246c86e"
+                }
+            },
+            "type": "TV",
+            "episodes": 13,
+            "startDate": "Oct 2025",
+            "endDate": "Dec 2025",
+            "members": 43486,
+            "score": 8.66
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 61987,
+            "rank": 87,
+            "title": "Kusuriya no Hitorigoto 3rd Season",
+            "url": "https://myanimelist.net/anime/61987/Kusuriya_no_Hitorigoto_3rd_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277.jpg?s=aaac69a8f43064ec3da9c167c46bf597",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277t.jpg?s=aaac69a8f43064ec3da9c167c46bf597",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg?s=aaac69a8f43064ec3da9c167c46bf597"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277.webp?s=aaac69a8f43064ec3da9c167c46bf597",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277t.webp?s=aaac69a8f43064ec3da9c167c46bf597",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277l.webp?s=aaac69a8f43064ec3da9c167c46bf597"
+                }
+            },
+            "type": "TV",
+            "episodes": 12,
+            "startDate": "Oct 2026",
+            "endDate": null,
+            "members": 198779,
+            "score": 8.66
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 61952,
+            "rank": 88,
+            "title": "Luo Xiaohei Zhanji 2",
+            "url": "https://myanimelist.net/anime/61952/Luo_Xiaohei_Zhanji_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853.jpg?s=b76b1a6e3d1ae3ea7d9cac459a5068ce",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853t.jpg?s=b76b1a6e3d1ae3ea7d9cac459a5068ce",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg?s=b76b1a6e3d1ae3ea7d9cac459a5068ce"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853.webp?s=b76b1a6e3d1ae3ea7d9cac459a5068ce",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853t.webp?s=b76b1a6e3d1ae3ea7d9cac459a5068ce",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp?s=b76b1a6e3d1ae3ea7d9cac459a5068ce"
+                }
+            },
+            "type": "Movie",
+            "episodes": 1,
+            "startDate": "Jul 2025",
+            "endDate": "Jul 2025",
+            "members": 15305,
+            "score": 8.66
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 53447,
+            "rank": 89,
+            "title": "Tu Bian Yingxiong X",
+            "url": "https://myanimelist.net/anime/53447/Tu_Bian_Yingxiong_X",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628.jpg?s=400d6c887b16b292344d135aa1aa5509",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628t.jpg?s=400d6c887b16b292344d135aa1aa5509",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628l.jpg?s=400d6c887b16b292344d135aa1aa5509"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628.webp?s=400d6c887b16b292344d135aa1aa5509",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628t.webp?s=400d6c887b16b292344d135aa1aa5509",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp?s=400d6c887b16b292344d135aa1aa5509"
+                }
+            },
+            "type": "ONA",
+            "episodes": 24,
+            "startDate": "Apr 2025",
+            "endDate": "Sep 2025",
+            "members": 271403,
+            "score": 8.66
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 457,
+            "rank": 90,
+            "title": "Mushishi",
+            "url": "https://myanimelist.net/anime/457/Mushishi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/73862.jpg?s=d976f75f480430a0c9fde4455696131d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/73862t.jpg?s=d976f75f480430a0c9fde4455696131d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg?s=d976f75f480430a0c9fde4455696131d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/73862.webp?s=d976f75f480430a0c9fde4455696131d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/73862t.webp?s=d976f75f480430a0c9fde4455696131d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/73862l.webp?s=d976f75f480430a0c9fde4455696131d"
+                }
+            },
+            "type": "TV",
+            "episodes": 26,
+            "startDate": "Oct 2005",
+            "endDate": "Jun 2006",
+            "members": 920567,
+            "score": 8.65
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 35760,
+            "rank": 91,
+            "title": "Shingeki no Kyojin Season 3",
+            "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg?s=410d006fea0608544e9861a6f261c692",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1173/92110t.jpg?s=410d006fea0608544e9861a6f261c692",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1173/92110l.jpg?s=410d006fea0608544e9861a6f261c692"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1173/92110.webp?s=410d006fea0608544e9861a6f261c692",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1173/92110t.webp?s=410d006fea0608544e9861a6f261c692",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1173/92110l.webp?s=410d006fea0608544e9861a6f261c692"
+                }
+            },
+            "type": "TV",
+            "episodes": 12,
+            "startDate": "Jul 2018",
+            "endDate": "Oct 2018",
+            "members": 2720624,
+            "score": 8.65
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 2001,
+            "rank": 92,
+            "title": "Tengen Toppa Gurren Lagann",
+            "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/5123.jpg?s=15bb64e0c8b13acfa5d0761308b66f59",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/5123t.jpg?s=15bb64e0c8b13acfa5d0761308b66f59",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg?s=15bb64e0c8b13acfa5d0761308b66f59"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/5123.webp?s=15bb64e0c8b13acfa5d0761308b66f59",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/5123t.webp?s=15bb64e0c8b13acfa5d0761308b66f59",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/5123l.webp?s=15bb64e0c8b13acfa5d0761308b66f59"
+                }
+            },
+            "type": "TV",
+            "episodes": 27,
+            "startDate": "Apr 2007",
+            "endDate": "Sep 2007",
+            "members": 1798691,
+            "score": 8.65
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 59192,
+            "rank": 93,
+            "title": "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
+            "url": "https://myanimelist.net/anime/59192/Kimetsu_no_Yaiba_Movie_1__Mugenjou-hen_-_Akaza_Sairai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216.jpg?s=47543b1bf08c567c18a98c72e8b144ee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216t.jpg?s=47543b1bf08c567c18a98c72e8b144ee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg?s=47543b1bf08c567c18a98c72e8b144ee"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216.webp?s=47543b1bf08c567c18a98c72e8b144ee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216t.webp?s=47543b1bf08c567c18a98c72e8b144ee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216l.webp?s=47543b1bf08c567c18a98c72e8b144ee"
+                }
+            },
+            "type": "Movie",
+            "episodes": 1,
+            "startDate": "Jul 2025",
+            "endDate": "Jul 2025",
+            "members": 435647,
+            "score": 8.64
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 40434,
+            "rank": 94,
+            "title": "Mo Dao Zu Shi: Wanjie Pian",
+            "url": "https://myanimelist.net/anime/40434/Mo_Dao_Zu_Shi__Wanjie_Pian",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782.jpg?s=f3e813705fd0d84678835c9f3d36f3dd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782t.jpg?s=f3e813705fd0d84678835c9f3d36f3dd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg?s=f3e813705fd0d84678835c9f3d36f3dd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782.webp?s=f3e813705fd0d84678835c9f3d36f3dd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782t.webp?s=f3e813705fd0d84678835c9f3d36f3dd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782l.webp?s=f3e813705fd0d84678835c9f3d36f3dd"
+                }
+            },
+            "type": "ONA",
+            "episodes": 12,
+            "startDate": "Aug 2021",
+            "endDate": "Oct 2021",
+            "members": 98683,
+            "score": 8.64
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 23273,
+            "rank": 95,
+            "title": "Shigatsu wa Kimi no Uso",
+            "url": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg?s=d41b122af560902ea8409b2854b6196b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284t.jpg?s=d41b122af560902ea8409b2854b6196b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg?s=d41b122af560902ea8409b2854b6196b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284.webp?s=d41b122af560902ea8409b2854b6196b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284t.webp?s=d41b122af560902ea8409b2854b6196b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284l.webp?s=d41b122af560902ea8409b2854b6196b"
+                }
+            },
+            "type": "TV",
+            "episodes": 22,
+            "startDate": "Oct 2014",
+            "endDate": "Mar 2015",
+            "members": 2465758,
+            "score": 8.64
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 50399,
+            "rank": 96,
+            "title": "Tian Guan Cifu Er",
+            "url": "https://myanimelist.net/anime/50399/Tian_Guan_Cifu_Er",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210.jpg?s=a4afe2fd566288b7e257b693a6f5a1bf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210t.jpg?s=a4afe2fd566288b7e257b693a6f5a1bf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg?s=a4afe2fd566288b7e257b693a6f5a1bf"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210.webp?s=a4afe2fd566288b7e257b693a6f5a1bf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210t.webp?s=a4afe2fd566288b7e257b693a6f5a1bf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210l.webp?s=a4afe2fd566288b7e257b693a6f5a1bf"
+                }
+            },
+            "type": "ONA",
+            "episodes": 12,
+            "startDate": "Oct 2023",
+            "endDate": "Jan 2024",
+            "members": 67896,
+            "score": 8.64
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 50250,
+            "rank": 97,
+            "title": "Chiikawa",
+            "url": "https://myanimelist.net/anime/50250/Chiikawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg?s=7ddd3d18133e7db620841072203ec09d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1783/121944t.jpg?s=7ddd3d18133e7db620841072203ec09d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1783/121944l.jpg?s=7ddd3d18133e7db620841072203ec09d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1783/121944.webp?s=7ddd3d18133e7db620841072203ec09d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1783/121944t.webp?s=7ddd3d18133e7db620841072203ec09d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1783/121944l.webp?s=7ddd3d18133e7db620841072203ec09d"
+                }
+            },
+            "type": "TV",
+            "episodes": null,
+            "startDate": "Apr 2022",
+            "endDate": null,
+            "members": 27210,
+            "score": 8.63
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 33050,
+            "rank": 98,
+            "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
+            "url": "https://myanimelist.net/anime/33050/Fate_stay_night_Movie__Heavens_Feel_-_III_Spring_Song",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957.jpg?s=f0984cb6fcb8188ce26035b0b56de828",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957t.jpg?s=f0984cb6fcb8188ce26035b0b56de828",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg?s=f0984cb6fcb8188ce26035b0b56de828"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957.webp?s=f0984cb6fcb8188ce26035b0b56de828",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957t.webp?s=f0984cb6fcb8188ce26035b0b56de828",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957l.webp?s=f0984cb6fcb8188ce26035b0b56de828"
+                }
+            },
+            "type": "Movie",
+            "episodes": 1,
+            "startDate": "Aug 2020",
+            "endDate": "Aug 2020",
+            "members": 417900,
+            "score": 8.63
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 57864,
+            "rank": 99,
+            "title": "Monogatari Series: Off & Monster Season",
+            "url": "https://myanimelist.net/anime/57864/Monogatari_Series__Off___Monster_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776.jpg?s=bec07fa967d3e9cf473c1f5532057e9a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776t.jpg?s=bec07fa967d3e9cf473c1f5532057e9a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg?s=bec07fa967d3e9cf473c1f5532057e9a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776.webp?s=bec07fa967d3e9cf473c1f5532057e9a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776t.webp?s=bec07fa967d3e9cf473c1f5532057e9a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776l.webp?s=bec07fa967d3e9cf473c1f5532057e9a"
+                }
+            },
+            "type": "ONA",
+            "episodes": 14,
+            "startDate": "Jul 2024",
+            "endDate": "Oct 2024",
+            "members": 108867,
+            "score": 8.63
+        },
+        {
+            "@class": "Jikan\\Model\\Top\\TopAnimeListItem",
+            "malId": 11665,
+            "rank": 100,
+            "title": "Natsume Yuujinchou Shi",
+            "url": "https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/37449.jpg?s=2bb045b3120e6a3a23257bb39689ae30",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/37449t.jpg?s=2bb045b3120e6a3a23257bb39689ae30",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/37449l.jpg?s=2bb045b3120e6a3a23257bb39689ae30"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/37449.webp?s=2bb045b3120e6a3a23257bb39689ae30",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/37449t.webp?s=2bb045b3120e6a3a23257bb39689ae30",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/37449l.webp?s=2bb045b3120e6a3a23257bb39689ae30"
+                }
+            },
+            "type": "TV",
+            "episodes": 13,
+            "startDate": "Jan 2012",
+            "endDate": "Mar 2012",
+            "members": 268862,
+            "score": 8.63
+        }
+    ]
+}
