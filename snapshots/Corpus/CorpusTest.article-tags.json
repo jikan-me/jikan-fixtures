@@ -1,0 +1,492 @@
+[
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Interview",
+        "url": "https://myanimelist.net/featured/tag/interview"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Interview",
+        "url": "https://myanimelist.net/featured/tag/interview"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Live Action",
+        "url": "https://myanimelist.net/featured/tag/live_action"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Recap",
+        "url": "https://myanimelist.net/featured/tag/recap"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Recommendation",
+        "url": "https://myanimelist.net/featured/tag/recommendation"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Collection",
+        "url": "https://myanimelist.net/featured/tag/collection"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Collection",
+        "url": "https://myanimelist.net/featured/tag/collection"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Analysis",
+        "url": "https://myanimelist.net/featured/tag/analysis"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Location",
+        "url": "https://myanimelist.net/featured/tag/location"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Japanese Life",
+        "url": "https://myanimelist.net/featured/tag/japanese_life"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Anime Terms",
+        "url": "https://myanimelist.net/featured/tag/anime_terms"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Anime Terms",
+        "url": "https://myanimelist.net/featured/tag/anime_terms"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Quotes",
+        "url": "https://myanimelist.net/featured/tag/quotes"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Anime Archetypes",
+        "url": "https://myanimelist.net/featured/tag/anime_archetypes"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Studios",
+        "url": "https://myanimelist.net/featured/tag/studios"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Action",
+        "url": "https://myanimelist.net/featured/tag/action"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Action",
+        "url": "https://myanimelist.net/featured/tag/action"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Animals",
+        "url": "https://myanimelist.net/featured/tag/animals"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Arch Enemies",
+        "url": "https://myanimelist.net/featured/tag/arch_enemies"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Background Analysis",
+        "url": "https://myanimelist.net/featured/tag/background_analysis"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Brother complex",
+        "url": "https://myanimelist.net/featured/tag/brother_complex"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Brother complex",
+        "url": "https://myanimelist.net/featured/tag/brother_complex"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Character Analysis",
+        "url": "https://myanimelist.net/featured/tag/character_analysis"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Cold hearted",
+        "url": "https://myanimelist.net/featured/tag/cold_hearted"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Cute Girls",
+        "url": "https://myanimelist.net/featured/tag/cute_girls"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Cute Guys",
+        "url": "https://myanimelist.net/featured/tag/cute_guys"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Cute Guys",
+        "url": "https://myanimelist.net/featured/tag/cute_guys"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Despair",
+        "url": "https://myanimelist.net/featured/tag/despair"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Director",
+        "url": "https://myanimelist.net/featured/tag/director"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Fan Made",
+        "url": "https://myanimelist.net/featured/tag/fan_made"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Fashion",
+        "url": "https://myanimelist.net/featured/tag/fashion"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Fashion",
+        "url": "https://myanimelist.net/featured/tag/fashion"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Figures",
+        "url": "https://myanimelist.net/featured/tag/figures"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "First Impression",
+        "url": "https://myanimelist.net/featured/tag/first_impression"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Friendship",
+        "url": "https://myanimelist.net/featured/tag/friendship"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Funny",
+        "url": "https://myanimelist.net/featured/tag/funny"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Funny",
+        "url": "https://myanimelist.net/featured/tag/funny"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Games",
+        "url": "https://myanimelist.net/featured/tag/games"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Heart-warming",
+        "url": "https://myanimelist.net/featured/tag/heart-warming"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "History and Culture",
+        "url": "https://myanimelist.net/featured/tag/history_and_culture"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Honor",
+        "url": "https://myanimelist.net/featured/tag/honor"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Honor",
+        "url": "https://myanimelist.net/featured/tag/honor"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Horror",
+        "url": "https://myanimelist.net/featured/tag/horror"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Kawaii",
+        "url": "https://myanimelist.net/featured/tag/kawaii"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Love",
+        "url": "https://myanimelist.net/featured/tag/love"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Magical",
+        "url": "https://myanimelist.net/featured/tag/magical"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Magical",
+        "url": "https://myanimelist.net/featured/tag/magical"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Mangaka",
+        "url": "https://myanimelist.net/featured/tag/mangaka"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Moe",
+        "url": "https://myanimelist.net/featured/tag/moe"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Monsters",
+        "url": "https://myanimelist.net/featured/tag/monsters"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Music",
+        "url": "https://myanimelist.net/featured/tag/music"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Music",
+        "url": "https://myanimelist.net/featured/tag/music"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Plot twist",
+        "url": "https://myanimelist.net/featured/tag/plot_twist"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Review",
+        "url": "https://myanimelist.net/featured/tag/review"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Seiyuu",
+        "url": "https://myanimelist.net/featured/tag/seiyuu"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Sister Complex",
+        "url": "https://myanimelist.net/featured/tag/sister_complex"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Sister Complex",
+        "url": "https://myanimelist.net/featured/tag/sister_complex"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "School Life",
+        "url": "https://myanimelist.net/featured/tag/school_life"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Attack on Titan",
+        "url": "https://myanimelist.net/featured/tag/attack_on_titan"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Weapons",
+        "url": "https://myanimelist.net/featured/tag/weapons"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Sports",
+        "url": "https://myanimelist.net/featured/tag/sports"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Sports",
+        "url": "https://myanimelist.net/featured/tag/sports"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Hot",
+        "url": "https://myanimelist.net/featured/tag/hot"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Food",
+        "url": "https://myanimelist.net/featured/tag/food"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Family",
+        "url": "https://myanimelist.net/featured/tag/family"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/featured/tag/supernatural"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/featured/tag/supernatural"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Superhuman",
+        "url": "https://myanimelist.net/featured/tag/superhuman"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Game Adaptation",
+        "url": "https://myanimelist.net/featured/tag/game_adaptation"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Sci-fi",
+        "url": "https://myanimelist.net/featured/tag/sci-fi"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "GIF",
+        "url": "https://myanimelist.net/featured/tag/gif"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "GIF",
+        "url": "https://myanimelist.net/featured/tag/gif"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Art",
+        "url": "https://myanimelist.net/featured/tag/art"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "One Piece",
+        "url": "https://myanimelist.net/featured/tag/one_piece"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Naruto",
+        "url": "https://myanimelist.net/featured/tag/naruto"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Dragon Ball",
+        "url": "https://myanimelist.net/featured/tag/dragon_ball"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Dragon Ball",
+        "url": "https://myanimelist.net/featured/tag/dragon_ball"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Bleach",
+        "url": "https://myanimelist.net/featured/tag/bleach"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Fairy Tail",
+        "url": "https://myanimelist.net/featured/tag/fairy_tail"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Ghibli",
+        "url": "https://myanimelist.net/featured/tag/ghibli"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "SAO",
+        "url": "https://myanimelist.net/featured/tag/sao"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "SAO",
+        "url": "https://myanimelist.net/featured/tag/sao"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Sailor Moon",
+        "url": "https://myanimelist.net/featured/tag/sailor_moon"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Tokyo Ghoul",
+        "url": "https://myanimelist.net/featured/tag/tokyo_ghoul"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Hunter x Hunter",
+        "url": "https://myanimelist.net/featured/tag/hunter_x_hunter"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Death Note",
+        "url": "https://myanimelist.net/featured/tag/death_note"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Death Note",
+        "url": "https://myanimelist.net/featured/tag/death_note"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Video",
+        "url": "https://myanimelist.net/featured/tag/video"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Trivia",
+        "url": "https://myanimelist.net/featured/tag/trivia"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "One Punch Man",
+        "url": "https://myanimelist.net/featured/tag/one_punch_man"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Meme",
+        "url": "https://myanimelist.net/featured/tag/meme"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Meme",
+        "url": "https://myanimelist.net/featured/tag/meme"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Events",
+        "url": "https://myanimelist.net/featured/tag/events"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Technology",
+        "url": "https://myanimelist.net/featured/tag/technology"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Editorial",
+        "url": "https://myanimelist.net/featured/tag/editorial"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Cosplay",
+        "url": "https://myanimelist.net/featured/tag/cosplay"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Cosplay",
+        "url": "https://myanimelist.net/featured/tag/cosplay"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\MalUrl",
+        "name": "Crowdfunding",
+        "url": "https://myanimelist.net/featured/tag/crowdfunding"
+    }
+]

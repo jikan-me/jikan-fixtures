@@ -1,0 +1,479 @@
+{
+    "@class": "Jikan\\Model\\Search\\PersonSearch",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 185,
+            "url": "https://myanimelist.net/people/185/Kana_Hanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/69318.jpg?s=5c874d3e577e5ecae08801515b226e09"
+                }
+            },
+            "name": "Hanazawa, Kana",
+            "alternativeNames": [
+                "HanaKana",
+                "KanaHana"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 75753,
+            "url": "https://myanimelist.net/people/75753/Yuri_Hanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Hanazawa, Yuri",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 2895,
+            "url": "https://myanimelist.net/people/2895/Kengo_Hanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/20221.jpg?s=7594d05006829ced236b1158a14d03a6"
+                }
+            },
+            "name": "Hanazawa, Kengo",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 70791,
+            "url": "https://myanimelist.net/people/70791/Sakura_Hanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/78609.jpg?s=311cfb655565a6ee4de763e95cdfaea4"
+                }
+            },
+            "name": "Hanazawa, Sakura",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 21787,
+            "url": "https://myanimelist.net/people/21787/Chika_Hanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Hanazawa, Chika",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 75429,
+            "url": "https://myanimelist.net/people/75429/Natsumi_Hanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Hanazawa, Natsumi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 48353,
+            "url": "https://myanimelist.net/people/48353/Mei_Hanakawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/53661.jpg?s=6cfbc4d4beedb555f6115773d31ee8ee"
+                }
+            },
+            "name": "Hanakawa, Mei",
+            "alternativeNames": [
+                "Yui Asakura",
+                "浅倉唯",
+                "Hikari Kabashima",
+                "椛島光"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 55555,
+            "url": "https://myanimelist.net/people/55555/Namio_Hanasawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/76722.jpg?s=5705e0d7ed920e8a8788a067d024d4d3"
+                }
+            },
+            "name": "Hanasawa, Namio",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 76751,
+            "url": "https://myanimelist.net/people/76751/Eiko_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/81395.jpg?s=45eba1016ce2bb4b9ff3a5c0790f5630"
+                }
+            },
+            "name": "Kanazawa, Eiko",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 75343,
+            "url": "https://myanimelist.net/people/75343/Yuki_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kanazawa, Yuki",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 46965,
+            "url": "https://myanimelist.net/people/46965/Hisakazu_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/50855.jpg?s=6c3d0ce264b91f87b5bf2cb43eb42818"
+                }
+            },
+            "name": "Kanazawa, Hisakazu",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 24623,
+            "url": "https://myanimelist.net/people/24623/Tokue_Hanasawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/27249.jpg?s=32a70231674af6eedb671c278c6cb74b"
+                }
+            },
+            "name": "Hanasawa, Tokue",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 46729,
+            "url": "https://myanimelist.net/people/46729/Hidemi_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kanazawa, Hidemi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 9031,
+            "url": "https://myanimelist.net/people/9031/Ariko_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kanazawa, Ariko",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 94861,
+            "url": "https://myanimelist.net/people/94861/Kanji_Hanasawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Hanasawa, Kanji",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 49636,
+            "url": "https://myanimelist.net/people/49636/Chito_Hanakawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Hanakawa, Chito",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 64163,
+            "url": "https://myanimelist.net/people/64163/Kouji_Hatazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Hatazawa, Kouji",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 86717,
+            "url": "https://myanimelist.net/people/86717/Hiroshi_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kanazawa, Hiroshi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 39986,
+            "url": "https://myanimelist.net/people/39986/Mai_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/43072.jpg?s=1c493f0472ef5901a8320f4d24a13e3f"
+                }
+            },
+            "name": "Kanazawa, Mai",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 13945,
+            "url": "https://myanimelist.net/people/13945/Nobuaki_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kanazawa, Nobuaki",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 10435,
+            "url": "https://myanimelist.net/people/10435/Hiromitsu_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/35005.jpg?s=55b2aa15233420b4e145098b4e3b4815"
+                }
+            },
+            "name": "Kanazawa, Hiromitsu",
+            "alternativeNames": [
+                "キムヒロミチ",
+                "Hiromichi Kim"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 94717,
+            "url": "https://myanimelist.net/people/94717/Rin_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kanazawa, Rin",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 8151,
+            "url": "https://myanimelist.net/people/8151/Naoki_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kanazawa, Naoki",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 42766,
+            "url": "https://myanimelist.net/people/42766/Shinnosuke_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kanazawa, Shinnosuke",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 98595,
+            "url": "https://myanimelist.net/people/98595/Jun_Hanzawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Hanzawa, Jun",
+            "alternativeNames": [
+                "半沢淳",
+                "Atsushi Hanzawa"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 54212,
+            "url": "https://myanimelist.net/people/54212/Hironori_Anazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/63740.jpg?s=48a56097e5d6220333fb3f9cda65ed37"
+                }
+            },
+            "name": "Anazawa, Hironori",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 45224,
+            "url": "https://myanimelist.net/people/45224/Katsuma_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/71773.jpg?s=beff79a2a0e88ff75f8db2493e66ec13"
+                }
+            },
+            "name": "Kanazawa, Katsuma",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 48950,
+            "url": "https://myanimelist.net/people/48950/Ariko_Kanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kanazawa, Ariko",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 76366,
+            "url": "https://myanimelist.net/people/76366/Takashi_Tanazawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Tanazawa, Takashi",
+            "alternativeNames": [
+                "棚澤隆"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 9616,
+            "url": "https://myanimelist.net/people/9616/Kaori_Hanzawa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Hanzawa, Kaori",
+            "alternativeNames": [
+                "はんざわ かおり"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 79213,
+            "url": "https://myanimelist.net/people/79213/Taeg-yong_Kim",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kim, Taeg-yong",
+            "alternativeNames": [
+                "Taek-yong Kim",
+                "Ryuu Kanazawa"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 88892,
+            "url": "https://myanimelist.net/people/88892/SUZUKA",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/86691.jpg?s=e78f8179133328a4e7cd7ed928007572"
+                }
+            },
+            "name": "SUZUKA",
+            "alternativeNames": [
+                "金沢涼花",
+                "Suzuka Kanazawa"
+            ]
+        }
+    ]
+}

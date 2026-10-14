@@ -1,0 +1,8 @@
+{
+    "method": "GET",
+    "url": "https://myanimelist.net/reviews.php?p=1&t=anime&spoiler=on&preliminary=on&sort=mostvoted",
+    "final_url": "https://myanimelist.net/reviews.php?p=1&t=anime&spoiler=on&preliminary=on&sort=mostvoted",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "recorded_at": "2026-10-14T02:41:10+00:00"
+}

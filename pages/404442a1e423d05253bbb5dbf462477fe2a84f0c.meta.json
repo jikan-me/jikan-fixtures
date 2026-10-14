@@ -1,0 +1,8 @@
+{
+    "method": "GET",
+    "url": "https://myanimelist.net/topanime.php?limit=50",
+    "final_url": "https://myanimelist.net/topanime.php?limit=50",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "recorded_at": "2026-10-14T02:41:32+00:00"
+}

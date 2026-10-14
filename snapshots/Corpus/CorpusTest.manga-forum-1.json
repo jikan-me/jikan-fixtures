@@ -1,0 +1,257 @@
+[
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 57668,
+        "url": "https://myanimelist.net/forum/?topicid=57668",
+        "title": "Monster Chapter 162 Discussion",
+        "date": "2008-12-16T00:00:00+00:00",
+        "authorUsername": "Darkreaper70",
+        "authorUrl": "https://myanimelist.net/profile/Darkreaper70",
+        "comments": 87,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=57668&goto=lastpost",
+            "authorUsername": "ENDOrains",
+            "authorUrl": "https://myanimelist.net/profile/ENDOrains",
+            "date": "2026-09-20T08:27:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 396253,
+        "url": "https://myanimelist.net/forum/?topicid=396253",
+        "title": "Monster Chapter 99 Discussion",
+        "date": "2012-01-30T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 10,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=396253&goto=lastpost",
+            "authorUsername": "JackAnime2",
+            "authorUrl": "https://myanimelist.net/profile/JackAnime2",
+            "date": "2026-08-07T07:01:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 396311,
+        "url": "https://myanimelist.net/forum/?topicid=396311",
+        "title": "Monster Chapter 120 Discussion",
+        "date": "2012-01-30T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 7,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=396311&goto=lastpost",
+            "authorUsername": "jijisenpai",
+            "authorUrl": "https://myanimelist.net/profile/jijisenpai",
+            "date": "2026-05-12T14:02:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 395635,
+        "url": "https://myanimelist.net/forum/?topicid=395635",
+        "title": "Monster Chapter 13 Discussion",
+        "date": "2012-01-29T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 10,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=395635&goto=lastpost",
+            "authorUsername": "adagioCantabile",
+            "authorUrl": "https://myanimelist.net/profile/adagioCantabile",
+            "date": "2026-04-22T15:58:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 395671,
+        "url": "https://myanimelist.net/forum/?topicid=395671",
+        "title": "Monster Chapter 24 Discussion",
+        "date": "2012-01-29T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 8,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=395671&goto=lastpost",
+            "authorUsername": "jijisenpai",
+            "authorUrl": "https://myanimelist.net/profile/jijisenpai",
+            "date": "2026-04-09T10:08:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 155394,
+        "url": "https://myanimelist.net/forum/?topicid=155394",
+        "title": "Monster Chapter 16 Discussion",
+        "date": "2010-01-31T00:00:00+00:00",
+        "authorUsername": "cantius",
+        "authorUrl": "https://myanimelist.net/profile/cantius",
+        "comments": 17,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=155394&goto=lastpost",
+            "authorUsername": "OULTIMOBERSERKER",
+            "authorUrl": "https://myanimelist.net/profile/OULTIMOBERSERKER",
+            "date": "2026-02-19T17:49:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 395695,
+        "url": "https://myanimelist.net/forum/?topicid=395695",
+        "title": "Monster Chapter 35 Discussion",
+        "date": "2012-01-29T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 8,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=395695&goto=lastpost",
+            "authorUsername": "eliasvictor",
+            "authorUrl": "https://myanimelist.net/profile/eliasvictor",
+            "date": "2025-12-31T12:06:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 395611,
+        "url": "https://myanimelist.net/forum/?topicid=395611",
+        "title": "Monster Chapter 4 Discussion",
+        "date": "2012-01-29T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 11,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=395611&goto=lastpost",
+            "authorUsername": "eliasvictor",
+            "authorUrl": "https://myanimelist.net/profile/eliasvictor",
+            "date": "2025-12-17T04:46:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 396243,
+        "url": "https://myanimelist.net/forum/?topicid=396243",
+        "title": "Monster Chapter 93 Discussion",
+        "date": "2012-01-30T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 6,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=396243&goto=lastpost",
+            "authorUsername": "foxtail9",
+            "authorUrl": "https://myanimelist.net/profile/foxtail9",
+            "date": "2025-10-06T19:23:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 79831,
+        "url": "https://myanimelist.net/forum/?topicid=79831",
+        "title": "Monster Chapter 70 Discussion",
+        "date": "2009-04-17T00:00:00+00:00",
+        "authorUsername": "removed-user",
+        "authorUrl": "https://myanimelist.net/profile/removed-user",
+        "comments": 10,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=79831&goto=lastpost",
+            "authorUsername": "gilipollascabron",
+            "authorUrl": "https://myanimelist.net/profile/gilipollascabron",
+            "date": "2025-09-29T13:44:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 396141,
+        "url": "https://myanimelist.net/forum/?topicid=396141",
+        "title": "Monster Chapter 56 Discussion",
+        "date": "2012-01-29T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 14,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=396141&goto=lastpost",
+            "authorUsername": "gilipollascabron",
+            "authorUrl": "https://myanimelist.net/profile/gilipollascabron",
+            "date": "2025-09-28T08:48:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 395689,
+        "url": "https://myanimelist.net/forum/?topicid=395689",
+        "title": "Monster Chapter 31 Discussion",
+        "date": "2012-01-29T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 10,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=395689&goto=lastpost",
+            "authorUsername": "gilipollascabron",
+            "authorUrl": "https://myanimelist.net/profile/gilipollascabron",
+            "date": "2025-09-14T08:06:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 395659,
+        "url": "https://myanimelist.net/forum/?topicid=395659",
+        "title": "Monster Chapter 21 Discussion",
+        "date": "2012-01-29T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 8,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=395659&goto=lastpost",
+            "authorUsername": "gilipollascabron",
+            "authorUrl": "https://myanimelist.net/profile/gilipollascabron",
+            "date": "2025-09-14T06:48:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 395657,
+        "url": "https://myanimelist.net/forum/?topicid=395657",
+        "title": "Monster Chapter 20 Discussion",
+        "date": "2012-01-29T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 4,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=395657&goto=lastpost",
+            "authorUsername": "gilipollascabron",
+            "authorUrl": "https://myanimelist.net/profile/gilipollascabron",
+            "date": "2025-09-13T07:33:00+00:00"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 395633,
+        "url": "https://myanimelist.net/forum/?topicid=395633",
+        "title": "Monster Chapter 12 Discussion",
+        "date": "2012-01-29T00:00:00+00:00",
+        "authorUsername": "AlexSadist-sama",
+        "authorUrl": "https://myanimelist.net/profile/AlexSadist-sama",
+        "comments": 7,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=395633&goto=lastpost",
+            "authorUsername": "gilipollascabron",
+            "authorUrl": "https://myanimelist.net/profile/gilipollascabron",
+            "date": "2025-09-11T11:31:00+00:00"
+        }
+    }
+]

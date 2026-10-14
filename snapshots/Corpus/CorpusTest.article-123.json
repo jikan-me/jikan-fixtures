@@ -1,0 +1,146 @@
+{
+    "@class": "Jikan\\Model\\Article\\ResourceArticle",
+    "malId": 123,
+    "url": "https://myanimelist.net/featured/123/Durararax2_Ten_-_Episode_7_Recap",
+    "title": "Durarara!!x2 Ten - Episode 7 Recap",
+    "excerpt": "Everything is popping off in Durarara!!x2 Ten now. Gangs are being reformed, dangerous rich eccentrics are getting involved, and Izaya finally convinces people to have a hot pot party with him.",
+    "date": "2015-08-19T00:26:00+00:00",
+    "authorUsername": "5camp",
+    "authorUrl": "https://myanimelist.net/profile/5camp",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1439836827-487d123d57d8ba2a38462afae922ef44.png"
+        }
+    },
+    "views": 9901,
+    "tags": [
+        {
+            "@class": "Jikan\\Model\\Common\\TagUrl",
+            "malId": "recap",
+            "name": "Recap",
+            "url": "https://myanimelist.net/featured/tag/recap"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\TagUrl",
+            "malId": "supernatural",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/featured/tag/supernatural"
+        }
+    ],
+    "content": "<p><img src=\"https://cdn.myanimelist.net/s/common/uploaded_files/1439836840-9a28e81881eedec0437a1b7108f7f7b6.png\" alt=\"Durarara!!x2 Ten Celty phone\" class=\"userimg\"></p>\n<p>Before we get into the meat of the episode, can we please mention how silly it is for Mikado to call Celty's phone? What was he expecting her to respond with when he asks her \"where are you\"? Turn her Dullahan black smoke powers into some sort of trumpet and respond using Morse code? And while we're on the subject of questionable things Mikado did this episode, the scene where he started squirting the lighter fluid on the stalker's back looked an awful lot like he was peeing on him. That may just be because I've been watching too much Prison School and Shimoneta this season so when I see a questionable scene like that, my mind automatically jumps to the dirtiest thing possible. </p>\n<p><img src=\"https://cdn.myanimelist.net/s/common/uploaded_files/1439836855-d183e246ead40afc97bab36be5ce3c91.png\" alt=\"Durarara!!x2 Ten Mikado blood face\" class=\"userimg\"></p>\n<p>Back on topic, boy this episode was fantastic! I know Durarara takes a while to get going with each arc, but once it does it really makes for enthralling viewing. Possibly the best part of the episode was the scene where Kida realises it's Mikado under the hood, wearing a pained smile underneath the double black eyes and blood soaked forehead. Neither of them have ever been the most interesting part of Durarara (when you've got headless Irish biker fairies, super-powered, super-angry bartenders and black, Russian, ex-assassin sushi chefs, somehow the travails of teen gangs don't seem as interesting anymore), but this episode they really sold me on their relationship and why we should care. </p>\n<p><img src=\"https://cdn.myanimelist.net/s/common/uploaded_files/1439836810-7b9d9d900cedddabeb5a232ae345519a.png\" alt=\"Durarara!!x2 Ten Kida is NTR'd\" class=\"userimg\"></p>\n<p>The basic gist of it is Kida wanted his friends to remain pure and innocent. Their cute faces remain unsullied. Their kind smiles remain unhindered by the realities of life. Kida is the scary conservative father attempting to scare any boys making advances on his daughter. The scene where Kida takes the mask off Mikado and nearly falls back on his backside in shock is like when the daughter comes home one day, announces she's pregnant and plans to move to the country with Billy Bob Thorkin from up the road. Billy Bob Thorkin in this analogy is Aoba, which means that Aoba got Mikado pregnant except since Mikado has always had this dangerous side to him it means Mikado has actually been having sex a lot without Kida knowing and somewhere along the line this analogy broke down and got weird. I blame Prison School and Shimoneta again.</p>\n<p>The ironic part in all of this is that both Mikado and Kida are treating Anri like this. They both expect Anri to remain completely oblivious to the gangland warfare actions of the two of them. Which is pretty sexist of the two of them really, like they think Anri's boobs might get in the way of her fighting and she might start having emotions and getting periods and other things girls do. It's ironic considering Anri is way deeper into the crazier parts of Durarara than either of them are. Mikado and Kida are just dumb kids involved in gang warfare. Anri meanwhile is the holder of an ancient demonic sword which possesses her body. Also, she has yakuza backing her. Also, apparently a rich man with a monocle is chasing her.</p>\n<p><img src=\"https://cdn.myanimelist.net/s/common/uploaded_files/1439836827-487d123d57d8ba2a38462afae922ef44.png\" alt=\"Durarara!!x2 Ten Izaya with head\" class=\"userimg\"></p>\n<p>As if that wasn't enough, Izaya is back in the game. He's now got a full crew of maniacs working for him, all camped out in his fancy apartment. Lord knows what his goal is now, beyond that he wants to have a hot pot party. See you guys, if you had just invited Izaya to your party last season then none of this would have happened! Now what did everyone bring to show and tell? I see Izaya has brought the head of an ancient Irish fairy to the party. What an interesting artifact Izaya! I won't ask any questions about where you found that or where you've been keeping it. What did you bring, creepy stalker guy? Oh, another poorly Photoshopped picture of Ruri where you put her head onto the body of a dragon? That's nice dear, maybe bring something else in next time.</p>",
+    "relatedEntries": [],
+    "relatedArticles": [
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2412,
+            "url": "https://myanimelist.net/featured/2412/Cast_your_vote_in_the_Twilight_Frontiers_Writing_Contest_%F0%9F%90%9D",
+            "title": "Cast your vote in the \"Twilight Frontiers\" Writing Contest! 🐝",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1773906534-b3565dc5b6049017ac31a441e675ac9b.jpeg"
+                }
+            },
+            "views": 28721,
+            "excerpt": "The \"MAL × Honeyfeed Writing Contest 2026 – Twilight Frontiers\", presented by Frontier Works, has reached its final stage, and the top 10 stories have been selected. Your vote helps decide which 3 authors win $3,000. Vote now!",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2399,
+            "url": "https://myanimelist.net/featured/2399/Which_Futuristic_High-Tech_World_Should_Be_Adapted_by_WIT_Studio",
+            "title": "Which Futuristic High-Tech World Should Be Adapted by WIT Studio?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1739950224-c64b1718b61db3f85f18c17f9c934dd7.jpeg"
+                }
+            },
+            "views": 41319,
+            "excerpt": "Here are the 10 finalists from the MAL x Honeyfeed Writing Contest 2024! Try them out and let us know which web novels you want to see brought to life as published light novel or manga.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2390,
+            "url": "https://myanimelist.net/featured/2390/Which_Wholesome_Romance_Novel_Should_Be_Adapted_to_Manga",
+            "title": "Which Wholesome Romance Novel Should Be Adapted to Manga?",
+            "authorUsername": "MAL_editing_team",
+            "authorUrl": "https://myanimelist.net/profile/MAL_editing_team",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1698261010-92810df812d377c00c4989e2efdd1221.jpeg"
+                }
+            },
+            "views": 111074,
+            "excerpt": "Here are the 10 finalists from the MAL x Honeyfeed Writing Contest 2023! Try them out and let us know which web novels you want to see brought to life as published light novel or manga.",
+            "tags": []
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 2404,
+            "url": "https://myanimelist.net/featured/2404/Mobile_Suit_Gundam_GQuuuuuuX_Takes_Center_Stage_at_Anime_Expo",
+            "title": "Mobile Suit Gundam GQuuuuuuX Takes Center Stage at Anime Expo!",
+            "authorUsername": "Timcampy",
+            "authorUrl": "https://myanimelist.net/profile/Timcampy",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1752198651-05c15fec70c9190c99a870e06284205e.jpeg"
+                }
+            },
+            "views": 30260,
+            "excerpt": "Mobile Suit Gundam GQuuuuuuX ignited the stage at Anime Expo 2025 with an electrifying showcase that drew thousands of passionate fans to the Peacock Theater.",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "events",
+                    "name": "Events",
+                    "url": "https://myanimelist.net/featured/tag/events"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Article\\ArticleListItem",
+            "malId": 1787,
+            "url": "https://myanimelist.net/featured/1787/Top_15_Gang_Anime",
+            "title": "Top 15 Gang Anime",
+            "authorUsername": "melodius",
+            "authorUrl": "https://myanimelist.net/profile/melodius",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1468217536-df27914056082f22b78124db6ccc1722.jpeg"
+                }
+            },
+            "views": 584480,
+            "excerpt": "When there's a fight to be had, you definitely want some buddies guarding your back. Here you'll find fifteen anime where gangs are part of everyday life!",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "collection",
+                    "name": "Collection",
+                    "url": "https://myanimelist.net/featured/tag/collection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "action",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/featured/tag/action"
+                }
+            ]
+        }
+    ]
+}

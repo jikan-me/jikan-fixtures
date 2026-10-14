@@ -1,0 +1,826 @@
+{
+    "@class": "Jikan\\Model\\User\\Friends",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "purplepinapples",
+                "url": "https://myanimelist.net/profile/purplepinapples",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/808fdd2f-851d-4f8b-8bb9-68abb8c2947b_225w?s=5d184da0a6670fe6f9ac5159134a2e40"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/808fdd2f-851d-4f8b-8bb9-68abb8c2947b_225w?s=5d184da0a6670fe6f9ac5159134a2e40"
+                    }
+                }
+            },
+            "lastOnline": "2026-10-14T02:41:52+00:00",
+            "friendsSince": "2020-05-15T19:53:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "iBzOtaku",
+                "url": "https://myanimelist.net/profile/iBzOtaku",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "lastOnline": "2026-10-14T07:06:00+00:00",
+            "friendsSince": "2019-06-07T05:11:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "AZaman",
+                "url": "https://myanimelist.net/profile/AZaman",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/1018f301-0a34-4c39-82a6-e905c178f471_225w?s=63479b3e59509d313af4f1490169165a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/1018f301-0a34-4c39-82a6-e905c178f471_225w?s=63479b3e59509d313af4f1490169165a"
+                    }
+                }
+            },
+            "lastOnline": "2026-10-14T05:27:00+00:00",
+            "friendsSince": "2024-01-01T10:12:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Claeux",
+                "url": "https://myanimelist.net/profile/Claeux",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a00b80cb-66ba-4c23-ad86-217eaec3a7f5_225w?s=714a6f87d42196611e2dc4df0194c5a8"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a00b80cb-66ba-4c23-ad86-217eaec3a7f5_225w?s=714a6f87d42196611e2dc4df0194c5a8"
+                    }
+                }
+            },
+            "lastOnline": "2026-10-13T17:34:00+00:00",
+            "friendsSince": null
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "sandshark",
+                "url": "https://myanimelist.net/profile/sandshark",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7168664d-c9f3-4e6c-9936-bf7b3cb25e6b_225w?s=6a5507ec62b4f11918233a31f37a0490"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7168664d-c9f3-4e6c-9936-bf7b3cb25e6b_225w?s=6a5507ec62b4f11918233a31f37a0490"
+                    }
+                }
+            },
+            "lastOnline": "2026-10-11T08:12:00+00:00",
+            "friendsSince": "2018-07-26T08:45:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "syntack",
+                "url": "https://myanimelist.net/profile/syntack",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a42df97a-9b56-4164-b9e4-bf45a6e3e4fd_225w?s=1117b0a257ed943c8616986fab4e9dfe"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a42df97a-9b56-4164-b9e4-bf45a6e3e4fd_225w?s=1117b0a257ed943c8616986fab4e9dfe"
+                    }
+                }
+            },
+            "lastOnline": "2026-10-10T13:08:00+00:00",
+            "friendsSince": "2021-02-10T15:11:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "animeno",
+                "url": "https://myanimelist.net/profile/animeno",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/76bb541e-e9bb-447d-a521-851550fcdf9c_225w?s=89411cb2997d9a777fe4238e344c8b27"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/76bb541e-e9bb-447d-a521-851550fcdf9c_225w?s=89411cb2997d9a777fe4238e344c8b27"
+                    }
+                }
+            },
+            "lastOnline": "2026-10-06T16:46:00+00:00",
+            "friendsSince": "2019-02-15T15:33:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Ibrahim_Hasany",
+                "url": "https://myanimelist.net/profile/Ibrahim_Hasany",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "lastOnline": "2026-10-04T04:19:00+00:00",
+            "friendsSince": "2023-04-25T05:00:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "kunalmanik95",
+                "url": "https://myanimelist.net/profile/kunalmanik95",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/15537042-ce12-4771-8314-af7d35f26773_225w?s=beabbf7b53e7ba35e0148e9b5848ceb8"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/15537042-ce12-4771-8314-af7d35f26773_225w?s=beabbf7b53e7ba35e0148e9b5848ceb8"
+                    }
+                }
+            },
+            "lastOnline": "2026-10-01T11:14:00+00:00",
+            "friendsSince": "2019-03-29T14:15:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Genjutsuhh",
+                "url": "https://myanimelist.net/profile/Genjutsuhh",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/cc725841-8a7f-4a7a-a828-02839870cb3e_225w?s=da6f69a2d0e6bcc8c63d6009b55d7ec9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/cc725841-8a7f-4a7a-a828-02839870cb3e_225w?s=da6f69a2d0e6bcc8c63d6009b55d7ec9"
+                    }
+                }
+            },
+            "lastOnline": "2026-10-01T08:58:00+00:00",
+            "friendsSince": "2016-11-03T00:10:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "MizoPro",
+                "url": "https://myanimelist.net/profile/MizoPro",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/93d79ee9-ff7d-4dc5-8691-b24419de9947_225w?s=8674a6ebbc17372d749c37e6b0d6b0e9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/93d79ee9-ff7d-4dc5-8691-b24419de9947_225w?s=8674a6ebbc17372d749c37e6b0d6b0e9"
+                    }
+                }
+            },
+            "lastOnline": "2026-09-04T03:23:00+00:00",
+            "friendsSince": "2018-03-08T22:46:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Rainoth",
+                "url": "https://myanimelist.net/profile/Rainoth",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/54d62b6d-ddc1-45f9-b109-648fb5dde367_225w?s=3b65c62f40d137f93add3bff31391809"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/54d62b6d-ddc1-45f9-b109-648fb5dde367_225w?s=3b65c62f40d137f93add3bff31391809"
+                    }
+                }
+            },
+            "lastOnline": "2026-08-25T09:16:00+00:00",
+            "friendsSince": "2015-12-18T02:40:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "45b16",
+                "url": "https://myanimelist.net/profile/45b16",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/6135f46a-0731-4570-ad24-c19c66e6fab7_225w?s=5014eff16a2a0ea898fd293712cf16cb"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/6135f46a-0731-4570-ad24-c19c66e6fab7_225w?s=5014eff16a2a0ea898fd293712cf16cb"
+                    }
+                }
+            },
+            "lastOnline": "2026-08-20T12:30:00+00:00",
+            "friendsSince": "2018-09-05T20:46:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Captione",
+                "url": "https://myanimelist.net/profile/Captione",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/84d9e395-c26a-4395-a7c5-d15f55712003_225w?s=0cb928040dfaf6a9c465016535d5d85a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/84d9e395-c26a-4395-a7c5-d15f55712003_225w?s=0cb928040dfaf6a9c465016535d5d85a"
+                    }
+                }
+            },
+            "lastOnline": "2026-08-05T18:35:00+00:00",
+            "friendsSince": null
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Ervelan",
+                "url": "https://myanimelist.net/profile/Ervelan",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d88785dc-4e49-45a3-ab86-d17ba7919afe_225w?s=ec01003d28f58d907b84c7ef5f193822"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d88785dc-4e49-45a3-ab86-d17ba7919afe_225w?s=ec01003d28f58d907b84c7ef5f193822"
+                    }
+                }
+            },
+            "lastOnline": "2026-07-24T08:55:00+00:00",
+            "friendsSince": "2018-05-18T10:13:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "aberuwu",
+                "url": "https://myanimelist.net/profile/aberuwu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/55ef405b-8acb-4e54-9c26-5d617ec40193_225w?s=4dea00d04585e8e9190f61e510de6b9f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/55ef405b-8acb-4e54-9c26-5d617ec40193_225w?s=4dea00d04585e8e9190f61e510de6b9f"
+                    }
+                }
+            },
+            "lastOnline": "2026-06-06T13:49:00+00:00",
+            "friendsSince": "2019-08-19T02:49:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "xXc0iLXx",
+                "url": "https://myanimelist.net/profile/xXc0iLXx",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/89ba3fd3-dd22-4dc3-a8d5-eaa101353d8e_225w?s=7968ddd9da3cdf0258bc4a1f22289285"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/89ba3fd3-dd22-4dc3-a8d5-eaa101353d8e_225w?s=7968ddd9da3cdf0258bc4a1f22289285"
+                    }
+                }
+            },
+            "lastOnline": "2026-05-29T04:11:00+00:00",
+            "friendsSince": "2016-09-16T02:29:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "te",
+                "url": "https://myanimelist.net/profile/te",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/49e7513c-3ae6-4fcf-99bf-404d083ea549_225w?s=8f63100b2ba85714e77091d1f7c00bf3"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/49e7513c-3ae6-4fcf-99bf-404d083ea549_225w?s=8f63100b2ba85714e77091d1f7c00bf3"
+                    }
+                }
+            },
+            "lastOnline": "2025-11-24T14:15:00+00:00",
+            "friendsSince": "2017-10-08T08:42:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Darkness_lord32",
+                "url": "https://myanimelist.net/profile/Darkness_lord32",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/017ecce3-f978-477f-bd45-add6a33b6c00_225w?s=2bff440843aa06406bee0dd48636cdc0"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/017ecce3-f978-477f-bd45-add6a33b6c00_225w?s=2bff440843aa06406bee0dd48636cdc0"
+                    }
+                }
+            },
+            "lastOnline": "2025-09-12T14:37:00+00:00",
+            "friendsSince": "2019-08-14T17:15:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "mewey",
+                "url": "https://myanimelist.net/profile/mewey",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/edb74691-fd6f-47b5-9e8e-52541b91fcf7_225w?s=40731ac68d35e3d4dc3086e6004f58e1"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/edb74691-fd6f-47b5-9e8e-52541b91fcf7_225w?s=40731ac68d35e3d4dc3086e6004f58e1"
+                    }
+                }
+            },
+            "lastOnline": "2025-03-27T03:17:00+00:00",
+            "friendsSince": "2015-11-22T21:03:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "xsiN2k",
+                "url": "https://myanimelist.net/profile/xsiN2k",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/227704a5-ccf6-4bf3-8983-ad83c47b48aa_225w?s=b69918a0b736b58a063dc1e7f8da5c20"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/227704a5-ccf6-4bf3-8983-ad83c47b48aa_225w?s=b69918a0b736b58a063dc1e7f8da5c20"
+                    }
+                }
+            },
+            "lastOnline": "2024-08-22T18:47:00+00:00",
+            "friendsSince": "2018-04-26T02:46:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "MaybeAPeson",
+                "url": "https://myanimelist.net/profile/MaybeAPeson",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7d90c82c-5967-4e1c-bbb5-d31e87ad46bb_225w?s=4c0fe32acc5b0d3efed46f3804aa404c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7d90c82c-5967-4e1c-bbb5-d31e87ad46bb_225w?s=4c0fe32acc5b0d3efed46f3804aa404c"
+                    }
+                }
+            },
+            "lastOnline": "2024-07-06T11:09:00+00:00",
+            "friendsSince": "2020-09-15T01:16:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Pelramos",
+                "url": "https://myanimelist.net/profile/Pelramos",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/fb8f1f7c-7cd8-4ec2-9ce6-58a8d66a765d_225w?s=c27058b11f50d80718a080ea552608d9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/fb8f1f7c-7cd8-4ec2-9ce6-58a8d66a765d_225w?s=c27058b11f50d80718a080ea552608d9"
+                    }
+                }
+            },
+            "lastOnline": "2023-02-24T11:31:00+00:00",
+            "friendsSince": "2018-04-24T08:55:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Ayato-Hiragi",
+                "url": "https://myanimelist.net/profile/Ayato-Hiragi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/8bb3b125-12a5-4c3a-a7e2-38a5215db03e_225w?s=a251c3261b86f280a3dc1937c9e828a8"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/8bb3b125-12a5-4c3a-a7e2-38a5215db03e_225w?s=a251c3261b86f280a3dc1937c9e828a8"
+                    }
+                }
+            },
+            "lastOnline": "2022-11-17T03:15:00+00:00",
+            "friendsSince": "2018-04-01T23:31:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "gondoltam",
+                "url": "https://myanimelist.net/profile/gondoltam",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/9f1b15dc-c1c5-4a86-8a7d-5d17b3660bd0_225w?s=8df3812b7863d6e6cd85f6857421df2f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/9f1b15dc-c1c5-4a86-8a7d-5d17b3660bd0_225w?s=8df3812b7863d6e6cd85f6857421df2f"
+                    }
+                }
+            },
+            "lastOnline": "2022-11-14T09:09:00+00:00",
+            "friendsSince": "2019-01-26T13:06:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ArtoriasMoreder",
+                "url": "https://myanimelist.net/profile/ArtoriasMoreder",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/9884c9d8-e7af-4ff4-b043-88fedda21f63_225w?s=b576400fd14855fc8b3339c106cbb6ad"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/9884c9d8-e7af-4ff4-b043-88fedda21f63_225w?s=b576400fd14855fc8b3339c106cbb6ad"
+                    }
+                }
+            },
+            "lastOnline": "2022-11-02T21:01:00+00:00",
+            "friendsSince": "2017-05-30T10:41:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Tamayata",
+                "url": "https://myanimelist.net/profile/Tamayata",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d4ee114e-d43c-488e-947b-98fa87d1798c_225w?s=aba7980a8bb2711d29fe4c635b06d009"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d4ee114e-d43c-488e-947b-98fa87d1798c_225w?s=aba7980a8bb2711d29fe4c635b06d009"
+                    }
+                }
+            },
+            "lastOnline": "2022-07-27T10:42:00+00:00",
+            "friendsSince": "2018-05-25T03:08:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Brynnwell",
+                "url": "https://myanimelist.net/profile/Brynnwell",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/72369daf-7d4a-4bae-929d-e6b429860e37_225w?s=4ea9db8f7cce8518b2b7f01d445587a9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/72369daf-7d4a-4bae-929d-e6b429860e37_225w?s=4ea9db8f7cce8518b2b7f01d445587a9"
+                    }
+                }
+            },
+            "lastOnline": "2022-01-20T04:38:00+00:00",
+            "friendsSince": "2017-10-04T22:54:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "mohafiz",
+                "url": "https://myanimelist.net/profile/mohafiz",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f1cddfd1-54a7-4a0c-b846-3c297950e720_225w?s=3b500f3d6e7d1c31881711316b720b4a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f1cddfd1-54a7-4a0c-b846-3c297950e720_225w?s=3b500f3d6e7d1c31881711316b720b4a"
+                    }
+                }
+            },
+            "lastOnline": "2021-07-24T02:22:00+00:00",
+            "friendsSince": "2019-08-02T09:09:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "miraris",
+                "url": "https://myanimelist.net/profile/miraris",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d14f644c-e016-4a14-b2cd-c5ace50dfafc_225w?s=c4d7d48022cd610d61d5f98c3c59112e"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d14f644c-e016-4a14-b2cd-c5ace50dfafc_225w?s=c4d7d48022cd610d61d5f98c3c59112e"
+                    }
+                }
+            },
+            "lastOnline": "2021-03-05T05:30:00+00:00",
+            "friendsSince": "2018-10-08T12:12:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Demonic_Emperor",
+                "url": "https://myanimelist.net/profile/Demonic_Emperor",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/be315d3b-6699-4f38-adbd-4597b75af76f_225w?s=0c66f15c7350ca4a449f8f7db70f588f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/be315d3b-6699-4f38-adbd-4597b75af76f_225w?s=0c66f15c7350ca4a449f8f7db70f588f"
+                    }
+                }
+            },
+            "lastOnline": "2020-07-30T16:29:00+00:00",
+            "friendsSince": "2020-01-22T05:41:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "chewieeeeee",
+                "url": "https://myanimelist.net/profile/chewieeeeee",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/8498aa66-7368-4b27-9ede-f763405af8c6_225w?s=b39103cbfc1e60b96f270d3c7d78f667"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/8498aa66-7368-4b27-9ede-f763405af8c6_225w?s=b39103cbfc1e60b96f270d3c7d78f667"
+                    }
+                }
+            },
+            "lastOnline": "2020-06-09T02:38:00+00:00",
+            "friendsSince": "2018-09-04T07:03:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "AstolfoPlushh",
+                "url": "https://myanimelist.net/profile/AstolfoPlushh",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/93b3ee64-4d28-4936-ab3c-2b0c0c5e8189_225w?s=e117f64e985172f16ba4b071fd53428d"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/93b3ee64-4d28-4936-ab3c-2b0c0c5e8189_225w?s=e117f64e985172f16ba4b071fd53428d"
+                    }
+                }
+            },
+            "lastOnline": "2020-03-22T13:34:00+00:00",
+            "friendsSince": "2020-03-21T09:06:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Aky",
+                "url": "https://myanimelist.net/profile/Aky",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/31e782a2-cfab-462a-98ec-58cf733d886d_225w?s=2c6d55d39888fa40f43870046ff2bd4b"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/31e782a2-cfab-462a-98ec-58cf733d886d_225w?s=2c6d55d39888fa40f43870046ff2bd4b"
+                    }
+                }
+            },
+            "lastOnline": "2019-08-30T08:10:00+00:00",
+            "friendsSince": "2017-07-07T14:21:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "blackcrossover",
+                "url": "https://myanimelist.net/profile/blackcrossover",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a94f49f5-ce09-495d-aac4-b04f2777b75b_225w?s=8d5ecd09aab7d9ca427c64b00bab0bab"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a94f49f5-ce09-495d-aac4-b04f2777b75b_225w?s=8d5ecd09aab7d9ca427c64b00bab0bab"
+                    }
+                }
+            },
+            "lastOnline": "2018-08-27T19:41:00+00:00",
+            "friendsSince": "2018-04-11T13:26:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "mridul1809",
+                "url": "https://myanimelist.net/profile/mridul1809",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "lastOnline": "2018-05-17T13:31:00+00:00",
+            "friendsSince": "2018-05-18T10:13:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "xain1969",
+                "url": "https://myanimelist.net/profile/xain1969",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "lastOnline": "2018-05-10T11:38:00+00:00",
+            "friendsSince": "2018-05-10T14:35:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Kingakis",
+                "url": "https://myanimelist.net/profile/Kingakis",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "lastOnline": "2017-06-05T17:53:00+00:00",
+            "friendsSince": "2016-07-12T14:23:00+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Friend",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "loser21z",
+                "url": "https://myanimelist.net/profile/loser21z",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "lastOnline": "2016-04-24T07:35:00+00:00",
+            "friendsSince": "2016-04-24T13:34:00+00:00"
+        }
+    ]
+}

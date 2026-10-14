@@ -1,0 +1,1297 @@
+{
+    "@class": "Jikan\\Model\\Search\\AnimeSearch",
+    "hasNextPage": false,
+    "lastVisiblePage": 2,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36914,
+            "url": "https://myanimelist.net/anime/36914/Fate_Grand_Order__Himuro_no_Tenchi_-_7-nin_no_Saikyou_Ijin-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1644/121789.jpg?s=ec48376ab8d5bdf1d047053d1a145812",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1644/121789t.jpg?s=ec48376ab8d5bdf1d047053d1a145812",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1644/121789l.jpg?s=ec48376ab8d5bdf1d047053d1a145812"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1644/121789.webp?s=ec48376ab8d5bdf1d047053d1a145812",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1644/121789t.webp?s=ec48376ab8d5bdf1d047053d1a145812",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1644/121789l.webp?s=ec48376ab8d5bdf1d047053d1a145812"
+                }
+            },
+            "title": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen",
+            "airing": false,
+            "synopsis": "The source material follows three girls — Kaede Makidera, Kane Himuro, and Yukika Saegusa — at Homurahara Academy, but has nothing to do with the efforts to restore the Human Order. (Source: ANN, edit...",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 6.33,
+            "startDate": "2017-12-31T00:00:00+00:00",
+            "endDate": "2017-12-31T00:00:00+00:00",
+            "members": 22047,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 63806,
+            "url": "https://myanimelist.net/anime/63806/Fate_Grand_Order__Fujimaru_Ritsuka_wa_Wakaranai_Season_3_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/156297.jpg?s=5e05322ba2d94c6c4fc8d578e631e25b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1945/156297t.jpg?s=5e05322ba2d94c6c4fc8d578e631e25b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1945/156297l.jpg?s=5e05322ba2d94c6c4fc8d578e631e25b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/156297.webp?s=5e05322ba2d94c6c4fc8d578e631e25b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1945/156297t.webp?s=5e05322ba2d94c6c4fc8d578e631e25b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1945/156297l.webp?s=5e05322ba2d94c6c4fc8d578e631e25b"
+                }
+            },
+            "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3 Specials",
+            "airing": false,
+            "synopsis": "Specials included in the BD/DVD release of Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3.",
+            "type": "Special",
+            "episodes": 2,
+            "score": 6.05,
+            "startDate": "2026-03-25T00:00:00+00:00",
+            "endDate": "2026-03-25T00:00:00+00:00",
+            "members": 1132,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36729,
+            "url": "https://myanimelist.net/anime/36729/Fate_Apocrypha_Recaps",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468.jpg?s=c16067f5879657164105345118aeb68e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468t.jpg?s=c16067f5879657164105345118aeb68e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468l.jpg?s=c16067f5879657164105345118aeb68e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468.webp?s=c16067f5879657164105345118aeb68e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468t.webp?s=c16067f5879657164105345118aeb68e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468l.webp?s=c16067f5879657164105345118aeb68e"
+                }
+            },
+            "title": "Fate/Apocrypha Recaps",
+            "airing": false,
+            "synopsis": "Recap episodes of first 12 and 19 episodes of Fate/Apocrypha with narration by Astolfo and Shakespeare. Episode 12.5: Fate/Apocrypha: Seihai Taisen Douran-hen Episode 19.5: Fate/Apocrypha: Seihai Tais...",
+            "type": "TV Special",
+            "episodes": 2,
+            "score": 6.47,
+            "startDate": "2017-09-24T00:00:00+00:00",
+            "endDate": "2017-11-18T00:00:00+00:00",
+            "members": 19298,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 49703,
+            "url": "https://myanimelist.net/anime/49703/Fate_kaleid_liner_Prisma☆Illya__Finale",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1245/159065.jpg?s=d078efbe6cecbfb59abaef1c8ef17462",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1245/159065t.jpg?s=d078efbe6cecbfb59abaef1c8ef17462",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1245/159065l.jpg?s=d078efbe6cecbfb59abaef1c8ef17462"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1245/159065.webp?s=d078efbe6cecbfb59abaef1c8ef17462",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1245/159065t.webp?s=d078efbe6cecbfb59abaef1c8ef17462",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1245/159065l.webp?s=d078efbe6cecbfb59abaef1c8ef17462"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya: Finale",
+            "airing": true,
+            "synopsis": "Sequel to Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo.",
+            "type": "TV",
+            "episodes": 0,
+            "score": 0.0,
+            "startDate": "2027-01-01T00:00:00+00:00",
+            "endDate": null,
+            "members": 15735,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 12565,
+            "url": "https://myanimelist.net/anime/12565/Fate_Prototype",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/51045.jpg?s=60c220409ef9769257e78130313bead6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/51045t.jpg?s=60c220409ef9769257e78130313bead6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/51045l.jpg?s=60c220409ef9769257e78130313bead6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/51045.webp?s=60c220409ef9769257e78130313bead6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/51045t.webp?s=60c220409ef9769257e78130313bead6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/51045l.webp?s=60c220409ef9769257e78130313bead6"
+                }
+            },
+            "title": "Fate/Prototype",
+            "airing": false,
+            "synopsis": "Coming from a renowned magus family, Ayaka Sajou is much expected to partake in the Holy Grail War. But ever since her father and sister's demise in the previous battle, she has grown gloomy and unwil...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 6.62,
+            "startDate": "2011-12-31T00:00:00+00:00",
+            "endDate": "2011-12-31T00:00:00+00:00",
+            "members": 120204,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38085,
+            "url": "https://myanimelist.net/anime/38085/Fate_Grand_Order__Shinsei_Entaku_Ryouiki_Camelot_1_-_Wandering__Agateram",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385.jpg?s=053c3e710c29ce88b013fc7b12d7b067",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385t.jpg?s=053c3e710c29ce88b013fc7b12d7b067",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385l.jpg?s=053c3e710c29ce88b013fc7b12d7b067"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385.webp?s=053c3e710c29ce88b013fc7b12d7b067",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385t.webp?s=053c3e710c29ce88b013fc7b12d7b067",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385l.webp?s=053c3e710c29ce88b013fc7b12d7b067"
+                }
+            },
+            "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+            "airing": false,
+            "synopsis": "The wandering knight, Bedivere, reaches the end of his journey. The year is A.D. 1273 in Jerusalem. The Holy Land has been transformed into a massive desert, the people have been forced out of their h...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.92,
+            "startDate": "2020-12-05T00:00:00+00:00",
+            "endDate": "2020-12-05T00:00:00+00:00",
+            "members": 106947,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38086,
+            "url": "https://myanimelist.net/anime/38086/Fate_Grand_Order__Shinsei_Entaku_Ryouiki_Camelot_2_-_Paladin__Agateram",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615.jpg?s=c400e12849bee5ecbafdf506efec9da6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615t.jpg?s=c400e12849bee5ecbafdf506efec9da6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615l.jpg?s=c400e12849bee5ecbafdf506efec9da6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615.webp?s=c400e12849bee5ecbafdf506efec9da6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615t.webp?s=c400e12849bee5ecbafdf506efec9da6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615l.webp?s=c400e12849bee5ecbafdf506efec9da6"
+                }
+            },
+            "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram",
+            "airing": false,
+            "synopsis": "\"This time for sure, I will kill my king with my own hands...\" Jerusalem, 1273 A.D. Here, both the wandering knight, Bedivere, and Chaldea’s own expedition find the Sixth Singularity. The residents of...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.63,
+            "startDate": "2021-05-15T00:00:00+00:00",
+            "endDate": "2021-05-15T00:00:00+00:00",
+            "members": 90611,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 20543,
+            "url": "https://myanimelist.net/anime/20543/Bayonetta__Bloody_Fate",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390.jpg?s=860693ff365efbb8ed9e4768681c6785",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390t.jpg?s=860693ff365efbb8ed9e4768681c6785",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390l.jpg?s=860693ff365efbb8ed9e4768681c6785"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390.webp?s=860693ff365efbb8ed9e4768681c6785",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390t.webp?s=860693ff365efbb8ed9e4768681c6785",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390l.webp?s=860693ff365efbb8ed9e4768681c6785"
+                }
+            },
+            "title": "Bayonetta: Bloody Fate",
+            "airing": false,
+            "synopsis": "Driven to recover her memories after waking in a coffin at the bottom of a lake 20 years ago, Bayonetta hunts down the forces of Heaven day and night in search of clues to her forgotten past, and to u...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.66,
+            "startDate": "2013-11-23T00:00:00+00:00",
+            "endDate": "2013-11-23T00:00:00+00:00",
+            "members": 59916,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36915,
+            "url": "https://myanimelist.net/anime/36915/Fate_Grand_Order__Moonlight_Lostroom",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1517/127324.jpg?s=337e0d50d4848d2b7052dda649b404ca",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1517/127324t.jpg?s=337e0d50d4848d2b7052dda649b404ca",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1517/127324l.jpg?s=337e0d50d4848d2b7052dda649b404ca"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1517/127324.webp?s=337e0d50d4848d2b7052dda649b404ca",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1517/127324t.webp?s=337e0d50d4848d2b7052dda649b404ca",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1517/127324l.webp?s=337e0d50d4848d2b7052dda649b404ca"
+                }
+            },
+            "title": "Fate/Grand Order: Moonlight/Lostroom",
+            "airing": false,
+            "synopsis": "Short centering on a \"Lost Room\" where you can find what was lost—or those who lost. This room, which belongs to no one, lies forgotten in a corner of Chaldea. (Source: ANN)",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 6.33,
+            "startDate": "2017-12-31T00:00:00+00:00",
+            "endDate": "2017-12-31T00:00:00+00:00",
+            "members": 66482,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 13183,
+            "url": "https://myanimelist.net/anime/13183/Fate_Zero_Remix",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105.jpg?s=ad10c955dd22f39470d46075af736d26",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105t.jpg?s=ad10c955dd22f39470d46075af736d26",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105l.jpg?s=ad10c955dd22f39470d46075af736d26"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105.webp?s=ad10c955dd22f39470d46075af736d26",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105t.webp?s=ad10c955dd22f39470d46075af736d26",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105l.webp?s=ad10c955dd22f39470d46075af736d26"
+                }
+            },
+            "title": "Fate/Zero Remix",
+            "airing": false,
+            "synopsis": "Two recap specials titled \"Fate/Zero Remix I\" and \"Fate/Zero Remix II\" serve to summarize the first 13 episodes of Fate/Zero.",
+            "type": "TV Special",
+            "episodes": 2,
+            "score": 7.0,
+            "startDate": "2012-03-25T00:00:00+00:00",
+            "endDate": "2012-04-01T00:00:00+00:00",
+            "members": 27339,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 61167,
+            "url": "https://myanimelist.net/anime/61167/Fate_Grand_Order__Fujimaru_Ritsuka_wa_Wakaranai_Season_2_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1544/148383.jpg?s=ed3122326589e163408439bab321343d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1544/148383t.jpg?s=ed3122326589e163408439bab321343d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1544/148383l.jpg?s=ed3122326589e163408439bab321343d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1544/148383.webp?s=ed3122326589e163408439bab321343d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1544/148383t.webp?s=ed3122326589e163408439bab321343d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1544/148383l.webp?s=ed3122326589e163408439bab321343d"
+                }
+            },
+            "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 Specials",
+            "airing": false,
+            "synopsis": "Specials included in the BD/DVD release of Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2.",
+            "type": "Special",
+            "episodes": 2,
+            "score": 6.1,
+            "startDate": "2025-03-19T00:00:00+00:00",
+            "endDate": "2025-03-19T00:00:00+00:00",
+            "members": 1168,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 63938,
+            "url": "https://myanimelist.net/anime/63938/Cardfight_Vanguard__Divinez_Unmei_Seisen-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150.jpg?s=af5cc810943e00aed8ae1ecd1304eae5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150t.jpg?s=af5cc810943e00aed8ae1ecd1304eae5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg?s=af5cc810943e00aed8ae1ecd1304eae5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150.webp?s=af5cc810943e00aed8ae1ecd1304eae5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150t.webp?s=af5cc810943e00aed8ae1ecd1304eae5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150l.webp?s=af5cc810943e00aed8ae1ecd1304eae5"
+                }
+            },
+            "title": "Cardfight!! Vanguard: Divinez Unmei Seisen-hen",
+            "airing": false,
+            "synopsis": "Final Arc of Cardfight!! Vanguard: D Series.",
+            "type": "TV",
+            "episodes": 3,
+            "score": 0.0,
+            "startDate": "2026-11-07T00:00:00+00:00",
+            "endDate": "2026-11-21T00:00:00+00:00",
+            "members": 989,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 49633,
+            "url": "https://myanimelist.net/anime/49633/Fate_kaleid_liner_Prisma☆Illya_Movie__Licht_-_Namae_no_Nai_Shoujo_Mini_Anime",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1647/117279.jpg?s=790b64d7da44d736456b5323ed5f464d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1647/117279t.jpg?s=790b64d7da44d736456b5323ed5f464d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1647/117279l.jpg?s=790b64d7da44d736456b5323ed5f464d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1647/117279.webp?s=790b64d7da44d736456b5323ed5f464d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1647/117279t.webp?s=790b64d7da44d736456b5323ed5f464d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1647/117279l.webp?s=790b64d7da44d736456b5323ed5f464d"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo Mini Anime",
+            "airing": false,
+            "synopsis": "Special mini anime in commemoration of the movie Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo.",
+            "type": "ONA",
+            "episodes": 3,
+            "score": 5.44,
+            "startDate": "2021-08-20T00:00:00+00:00",
+            "endDate": "2021-08-20T00:00:00+00:00",
+            "members": 3518,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 51410,
+            "url": "https://myanimelist.net/anime/51410/Fate_Grand_Order__Shuukyoku_Tokuiten_-_Kani_Jikan_Shinden_Solomon_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1042/152648.jpg?s=caebe5295b72209fec721f83160efcad",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1042/152648t.jpg?s=caebe5295b72209fec721f83160efcad",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1042/152648l.jpg?s=caebe5295b72209fec721f83160efcad"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1042/152648.webp?s=caebe5295b72209fec721f83160efcad",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1042/152648t.webp?s=caebe5295b72209fec721f83160efcad",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1042/152648l.webp?s=caebe5295b72209fec721f83160efcad"
+                }
+            },
+            "title": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon Specials",
+            "airing": false,
+            "synopsis": "Summarizes the events of Fate/Grand Order: Zettai Majuu Sensen Babylonia.",
+            "type": "TV Special",
+            "episodes": 2,
+            "score": 6.54,
+            "startDate": "2021-07-18T00:00:00+00:00",
+            "endDate": "2021-07-25T00:00:00+00:00",
+            "members": 534,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 62708,
+            "url": "https://myanimelist.net/anime/62708/Shanhai_Jing_Mima",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1623/154639.jpg?s=84b02e3df8a50e4f04b33a806279dfa3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1623/154639t.jpg?s=84b02e3df8a50e4f04b33a806279dfa3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1623/154639l.jpg?s=84b02e3df8a50e4f04b33a806279dfa3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1623/154639.webp?s=84b02e3df8a50e4f04b33a806279dfa3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1623/154639t.webp?s=84b02e3df8a50e4f04b33a806279dfa3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1623/154639l.webp?s=84b02e3df8a50e4f04b33a806279dfa3"
+                }
+            },
+            "title": "Shanhai Jing Mima",
+            "airing": false,
+            "synopsis": "Shang prince Youshen Bupo rescued Jiang Li, disciple of Taiyi Sect, and the two of them traveled together, adventuring across the vast wilderness. They joined a merchant caravan, encountered heavenly...",
+            "type": "ONA",
+            "episodes": 13,
+            "score": 7.14,
+            "startDate": "2025-12-27T00:00:00+00:00",
+            "endDate": "2026-03-14T00:00:00+00:00",
+            "members": 875,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 57353,
+            "url": "https://myanimelist.net/anime/57353/Mofa_Gongzhu_de_Xiao_Fannao",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/152271.jpg?s=ccd114e4ba72f5db422f754aff0f2243",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1537/152271t.jpg?s=ccd114e4ba72f5db422f754aff0f2243",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1537/152271l.jpg?s=ccd114e4ba72f5db422f754aff0f2243"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/152271.webp?s=ccd114e4ba72f5db422f754aff0f2243",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1537/152271t.webp?s=ccd114e4ba72f5db422f754aff0f2243",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1537/152271l.webp?s=ccd114e4ba72f5db422f754aff0f2243"
+                }
+            },
+            "title": "Mofa Gongzhu de Xiao Fannao",
+            "airing": false,
+            "synopsis": "Athanasia de Alger Obelia, the only legitimate princess of the Obelian Empire, awakens memories of a previous life; from these, she sees a future where she dies at the hands of her father, Emperor Cla...",
+            "type": "ONA",
+            "episodes": 16,
+            "score": 7.75,
+            "startDate": "2025-09-28T00:00:00+00:00",
+            "endDate": "2025-12-28T00:00:00+00:00",
+            "members": 54297,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 394,
+            "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/71425.jpg?s=2a346650ada7b05f8695b9b11c5fef5f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/71425t.jpg?s=2a346650ada7b05f8695b9b11c5fef5f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/71425l.jpg?s=2a346650ada7b05f8695b9b11c5fef5f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/71425.webp?s=2a346650ada7b05f8695b9b11c5fef5f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/71425t.webp?s=2a346650ada7b05f8695b9b11c5fef5f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/71425l.webp?s=2a346650ada7b05f8695b9b11c5fef5f"
+                }
+            },
+            "title": "Ai Yori Aoshi: Enishi",
+            "airing": false,
+            "synopsis": "Two years after meeting Aoi, Kaoru and gang are still up to their normal habits. Kaoru now in grad school and the tenants being as rowdy as ever what will become of Aoi and Kaoru's love. Two years has...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.12,
+            "startDate": "2003-10-13T00:00:00+00:00",
+            "endDate": "2003-12-29T00:00:00+00:00",
+            "members": 62652,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 52760,
+            "url": "https://myanimelist.net/anime/52760/Unmei_no_Saikoro",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1498/127032.jpg?s=d6d97a8009f726ce88adbe9efbbceff3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1498/127032t.jpg?s=d6d97a8009f726ce88adbe9efbbceff3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1498/127032l.jpg?s=d6d97a8009f726ce88adbe9efbbceff3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1498/127032.webp?s=d6d97a8009f726ce88adbe9efbbceff3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1498/127032t.webp?s=d6d97a8009f726ce88adbe9efbbceff3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1498/127032l.webp?s=d6d97a8009f726ce88adbe9efbbceff3"
+                }
+            },
+            "title": "Unmei no Saikoro",
+            "airing": false,
+            "synopsis": "Music video for the song Unmei no Saikoro by Takuya Saotome.",
+            "type": "Music",
+            "episodes": 1,
+            "score": 5.19,
+            "startDate": "2017-06-22T00:00:00+00:00",
+            "endDate": "2017-06-22T00:00:00+00:00",
+            "members": 505,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 55663,
+            "url": "https://myanimelist.net/anime/55663/Inochi_no_Yukue",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1259/136484.jpg?s=d4b3d9d6fb6b8aa0963c2e2d6ce1dd70",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1259/136484t.jpg?s=d4b3d9d6fb6b8aa0963c2e2d6ce1dd70",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1259/136484l.jpg?s=d4b3d9d6fb6b8aa0963c2e2d6ce1dd70"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1259/136484.webp?s=d4b3d9d6fb6b8aa0963c2e2d6ce1dd70",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1259/136484t.webp?s=d4b3d9d6fb6b8aa0963c2e2d6ce1dd70",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1259/136484l.webp?s=d4b3d9d6fb6b8aa0963c2e2d6ce1dd70"
+                }
+            },
+            "title": "Inochi no Yukue",
+            "airing": false,
+            "synopsis": "Music video for the song Inochi no Yukue by DUSTCELL.",
+            "type": "Music",
+            "episodes": 1,
+            "score": 6.39,
+            "startDate": "2021-04-21T00:00:00+00:00",
+            "endDate": "2021-04-21T00:00:00+00:00",
+            "members": 250,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 62024,
+            "url": "https://myanimelist.net/anime/62024/Unmei_no_Makimodoshi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1585/158853.jpg?s=ac2e11364ba6b7ab63780b44b722d11f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1585/158853t.jpg?s=ac2e11364ba6b7ab63780b44b722d11f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1585/158853l.jpg?s=ac2e11364ba6b7ab63780b44b722d11f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1585/158853.webp?s=ac2e11364ba6b7ab63780b44b722d11f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1585/158853t.webp?s=ac2e11364ba6b7ab63780b44b722d11f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1585/158853l.webp?s=ac2e11364ba6b7ab63780b44b722d11f"
+                }
+            },
+            "title": "Unmei no Makimodoshi",
+            "airing": true,
+            "synopsis": "A secret organization known as the Spacetime Police Special Task Force, nicknamed the \"Rewinders,\" exists to save those who have died tragic, untimely death. Their weapon, the \"Retry Eye,\" is a time m...",
+            "type": "TV",
+            "episodes": 0,
+            "score": 0.0,
+            "startDate": "2027-04-01T00:00:00+00:00",
+            "endDate": null,
+            "members": 2892,
+            "rated": null
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38413,
+            "url": "https://myanimelist.net/anime/38413/Arad__Suming_Zhi_Men",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976.jpg?s=32b2e181b5caeefbeaaeca20b2c76314",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976t.jpg?s=32b2e181b5caeefbeaaeca20b2c76314",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976l.jpg?s=32b2e181b5caeefbeaaeca20b2c76314"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976.webp?s=32b2e181b5caeefbeaaeca20b2c76314",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976t.webp?s=32b2e181b5caeefbeaaeca20b2c76314",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976l.webp?s=32b2e181b5caeefbeaaeca20b2c76314"
+                }
+            },
+            "title": "Arad: Suming Zhi Men",
+            "airing": false,
+            "synopsis": "",
+            "type": "ONA",
+            "episodes": 20,
+            "score": 6.03,
+            "startDate": "2017-04-28T00:00:00+00:00",
+            "endDate": "2017-09-01T00:00:00+00:00",
+            "members": 2804,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 40469,
+            "url": "https://myanimelist.net/anime/40469/Toshiwasure_Guda_Guda_Order_2016",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1343/109067.jpg?s=bd850e21f0b025b7d516390e5a566bc2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1343/109067t.jpg?s=bd850e21f0b025b7d516390e5a566bc2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1343/109067l.jpg?s=bd850e21f0b025b7d516390e5a566bc2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1343/109067.webp?s=bd850e21f0b025b7d516390e5a566bc2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1343/109067t.webp?s=bd850e21f0b025b7d516390e5a566bc2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1343/109067l.webp?s=bd850e21f0b025b7d516390e5a566bc2"
+                }
+            },
+            "title": "Toshiwasure Guda Guda Order 2016",
+            "airing": false,
+            "synopsis": "Oda Nobunaga will join the fight for \"GUDAGUDA Honnouji\" that suddenly appears at Chaldea! This event features an original story written by none other than the one with a super confusing pen name, Kei...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 5.98,
+            "startDate": "2016-12-31T00:00:00+00:00",
+            "endDate": "2016-12-31T00:00:00+00:00",
+            "members": 2903,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 62784,
+            "url": "https://myanimelist.net/anime/62784/Tianmu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1104/153751.jpg?s=c9668c75fa491d65ed646d0b9ea03e11",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1104/153751t.jpg?s=c9668c75fa491d65ed646d0b9ea03e11",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1104/153751l.jpg?s=c9668c75fa491d65ed646d0b9ea03e11"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1104/153751.webp?s=c9668c75fa491d65ed646d0b9ea03e11",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1104/153751t.webp?s=c9668c75fa491d65ed646d0b9ea03e11",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1104/153751l.webp?s=c9668c75fa491d65ed646d0b9ea03e11"
+                }
+            },
+            "title": "Tianmu",
+            "airing": false,
+            "synopsis": "The young Han Jin bore a future Dao embryo, wielded mystical powers, defeated nine dark realms, and overcame inner demons, forging a path to save humanity and defy fate. (Source: Youku)",
+            "type": "ONA",
+            "episodes": 0,
+            "score": 0.0,
+            "startDate": null,
+            "endDate": null,
+            "members": 115,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 57945,
+            "url": "https://myanimelist.net/anime/57945/Tasuuketsu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1482/143629.jpg?s=8c4c0ab7e78c3e1ed4ec8b206990865d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1482/143629t.jpg?s=8c4c0ab7e78c3e1ed4ec8b206990865d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1482/143629l.jpg?s=8c4c0ab7e78c3e1ed4ec8b206990865d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1482/143629.webp?s=8c4c0ab7e78c3e1ed4ec8b206990865d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1482/143629t.webp?s=8c4c0ab7e78c3e1ed4ec8b206990865d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1482/143629l.webp?s=8c4c0ab7e78c3e1ed4ec8b206990865d"
+                }
+            },
+            "title": "Tasuuketsu",
+            "airing": false,
+            "synopsis": "During his school computer class, Saneatsu Narita is presented with a strange screen posing a yes-or-no question that quickly disappears. The next day, Saneatsu wakes up to a world where everyone, sa...",
+            "type": "TV",
+            "episodes": 24,
+            "score": 5.54,
+            "startDate": "2024-07-03T00:00:00+00:00",
+            "endDate": "2024-12-25T00:00:00+00:00",
+            "members": 27239,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 1474,
+            "url": "https://myanimelist.net/anime/1474/City_Hunter__Ai_to_Shukumei_no_Magnum",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1978/94391.jpg?s=706b1980a1bc41b2f779b1dbccab7fcd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1978/94391t.jpg?s=706b1980a1bc41b2f779b1dbccab7fcd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1978/94391l.jpg?s=706b1980a1bc41b2f779b1dbccab7fcd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1978/94391.webp?s=706b1980a1bc41b2f779b1dbccab7fcd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1978/94391t.webp?s=706b1980a1bc41b2f779b1dbccab7fcd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1978/94391l.webp?s=706b1980a1bc41b2f779b1dbccab7fcd"
+                }
+            },
+            "title": "City Hunter: Ai to Shukumei no Magnum",
+            "airing": false,
+            "synopsis": "A beautiful pianist comes to Tokyo for a charity concert, and City Hunter is there. But music isn`t his forte; he wants lessons in the language of love. Desperation becomes the word of the day as the...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.4,
+            "startDate": "1989-06-17T00:00:00+00:00",
+            "endDate": "1989-06-17T00:00:00+00:00",
+            "members": 10446,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 61361,
+            "url": "https://myanimelist.net/anime/61361/7Fates__Chakho",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985.jpg?s=24cb0655603df82c89210f23087ceaaf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985t.jpg?s=24cb0655603df82c89210f23087ceaaf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985l.jpg?s=24cb0655603df82c89210f23087ceaaf"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985.webp?s=24cb0655603df82c89210f23087ceaaf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985t.webp?s=24cb0655603df82c89210f23087ceaaf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985l.webp?s=24cb0655603df82c89210f23087ceaaf"
+                }
+            },
+            "title": "7Fates: Chakho",
+            "airing": false,
+            "synopsis": "",
+            "type": "ONA",
+            "episodes": 1,
+            "score": 6.61,
+            "startDate": "2025-04-03T00:00:00+00:00",
+            "endDate": "2025-04-03T00:00:00+00:00",
+            "members": 5691,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 54029,
+            "url": "https://myanimelist.net/anime/54029/Wu_Liuqi__Anying_Suming",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/153863.jpg?s=35965cb6b92829318aae57e119687ddc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1016/153863t.jpg?s=35965cb6b92829318aae57e119687ddc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1016/153863l.jpg?s=35965cb6b92829318aae57e119687ddc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1016/153863.webp?s=35965cb6b92829318aae57e119687ddc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1016/153863t.webp?s=35965cb6b92829318aae57e119687ddc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1016/153863l.webp?s=35965cb6b92829318aae57e119687ddc"
+                }
+            },
+            "title": "Wu Liuqi: Anying Suming",
+            "airing": false,
+            "synopsis": "The protagonist Wu Liuqi originally lived a carefree life on Xiaoji Island, but his identity became a mystery due to amnesia. As outsiders landed on the island and recognized Wu Liuqi, various conspir...",
+            "type": "ONA",
+            "episodes": 10,
+            "score": 8.25,
+            "startDate": "2023-01-18T00:00:00+00:00",
+            "endDate": "2023-03-15T00:00:00+00:00",
+            "members": 43000,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 57371,
+            "url": "https://myanimelist.net/anime/57371/Mingyun_Quan_Tai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/140580.jpg?s=ed6105a1b331705b60e64a56eb1ba7d4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1773/140580t.jpg?s=ed6105a1b331705b60e64a56eb1ba7d4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1773/140580l.jpg?s=ed6105a1b331705b60e64a56eb1ba7d4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/140580.webp?s=ed6105a1b331705b60e64a56eb1ba7d4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1773/140580t.webp?s=ed6105a1b331705b60e64a56eb1ba7d4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1773/140580l.webp?s=ed6105a1b331705b60e64a56eb1ba7d4"
+                }
+            },
+            "title": "Mingyun Quan Tai",
+            "airing": false,
+            "synopsis": "This is a young girl's story. She is naive and enquisitive about the world. However, a tragic accident altered her life. Her loved ones abandoned her, leaving her alone and despondent. She adopted box...",
+            "type": "ONA",
+            "episodes": 12,
+            "score": 7.3,
+            "startDate": "2023-12-22T00:00:00+00:00",
+            "endDate": "2024-02-16T00:00:00+00:00",
+            "members": 2065,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 19337,
+            "url": "https://myanimelist.net/anime/19337/Momoya_x_Peeping_Life__Go_en_desu_yo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/52087.jpg?s=da86d27f19a51c118d093e21d739c4ac",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/52087t.jpg?s=da86d27f19a51c118d093e21d739c4ac",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/52087l.jpg?s=da86d27f19a51c118d093e21d739c4ac"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/52087.webp?s=da86d27f19a51c118d093e21d739c4ac",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/52087t.webp?s=da86d27f19a51c118d093e21d739c4ac",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/52087l.webp?s=da86d27f19a51c118d093e21d739c4ac"
+                }
+            },
+            "title": "Momoya x Peeping Life: Go en desu yo!",
+            "airing": false,
+            "synopsis": "This is a sketch drama consisting of four episodes on dating in collaboration with the leading food company Momoya.",
+            "type": "CM",
+            "episodes": 4,
+            "score": 5.34,
+            "startDate": "2013-04-25T00:00:00+00:00",
+            "endDate": "2013-05-16T00:00:00+00:00",
+            "members": 780,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 49942,
+            "url": "https://myanimelist.net/anime/49942/Tales_of_Luminaria__The_Fateful_Crossroad",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624.jpg?s=4e4a624095702141ea1b1a04d71a68b2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624t.jpg?s=4e4a624095702141ea1b1a04d71a68b2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624l.jpg?s=4e4a624095702141ea1b1a04d71a68b2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624.webp?s=4e4a624095702141ea1b1a04d71a68b2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624t.webp?s=4e4a624095702141ea1b1a04d71a68b2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624l.webp?s=4e4a624095702141ea1b1a04d71a68b2"
+                }
+            },
+            "title": "Tales of Luminaria: The Fateful Crossroad",
+            "airing": false,
+            "synopsis": "Long ago, this land was home to beasts the size of mountains that have now become petrified. Mana overflowed from their remains, drawing people who sought its power, and civilizations sprang up. Peopl...",
+            "type": "ONA",
+            "episodes": 2,
+            "score": 6.16,
+            "startDate": "2022-01-21T00:00:00+00:00",
+            "endDate": "2022-01-21T00:00:00+00:00",
+            "members": 6694,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 56558,
+            "url": "https://myanimelist.net/anime/56558/Eldraine_no_Mori__Twin_Fates",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/138286.jpg?s=1dce1560fc008564bbc09110ce8cf13e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/138286t.jpg?s=1dce1560fc008564bbc09110ce8cf13e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/138286l.jpg?s=1dce1560fc008564bbc09110ce8cf13e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/138286.webp?s=1dce1560fc008564bbc09110ce8cf13e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/138286t.webp?s=1dce1560fc008564bbc09110ce8cf13e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/138286l.webp?s=1dce1560fc008564bbc09110ce8cf13e"
+                }
+            },
+            "title": "Eldraine no Mori: Twin Fates",
+            "airing": false,
+            "synopsis": "Animated promotion for new expansion set of Magic: The Gathering trading card game. A Wicked Slumber creeps through the land of Eldraine, home plane of Will and Rowan, turning Magic’s beloved fairy ta...",
+            "type": "ONA",
+            "episodes": 1,
+            "score": 6.16,
+            "startDate": "2023-09-06T00:00:00+00:00",
+            "endDate": "2023-09-06T00:00:00+00:00",
+            "members": 1056,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38958,
+            "url": "https://myanimelist.net/anime/38958/Manga_de_Wakaru_Fate_Grand_Order",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102.jpg?s=2194702599fdeff1ea361edfc4b3afcd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102t.jpg?s=2194702599fdeff1ea361edfc4b3afcd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102l.jpg?s=2194702599fdeff1ea361edfc4b3afcd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102.webp?s=2194702599fdeff1ea361edfc4b3afcd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102t.webp?s=2194702599fdeff1ea361edfc4b3afcd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102l.webp?s=2194702599fdeff1ea361edfc4b3afcd"
+                }
+            },
+            "title": "Manga de Wakaru! Fate/Grand Order",
+            "airing": false,
+            "synopsis": "A short anime based on Manga de Wakaru! Fate/Grand Order by Riyo. Aired during Fate Project Year End 2018, and is also available on YouTube.",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 7.56,
+            "startDate": "2018-12-31T00:00:00+00:00",
+            "endDate": "2018-12-31T00:00:00+00:00",
+            "members": 20002,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 22671,
+            "url": "https://myanimelist.net/anime/22671/Momoya_x_Peeping_Life__Go_en_desu_yo_II",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/59025.jpg?s=d3d1e13f5c3d3a5328b7867391a30aa5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/59025t.jpg?s=d3d1e13f5c3d3a5328b7867391a30aa5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/59025l.jpg?s=d3d1e13f5c3d3a5328b7867391a30aa5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/59025.webp?s=d3d1e13f5c3d3a5328b7867391a30aa5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/59025t.webp?s=d3d1e13f5c3d3a5328b7867391a30aa5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/59025l.webp?s=d3d1e13f5c3d3a5328b7867391a30aa5"
+                }
+            },
+            "title": "Momoya x Peeping Life: Go en desu yo! II",
+            "airing": false,
+            "synopsis": "A continuation of last season as Shiromeshi-kun continues his attempts at dating and finding refuge in Momoya food toppings.",
+            "type": "CM",
+            "episodes": 5,
+            "score": 5.34,
+            "startDate": "2013-12-19T00:00:00+00:00",
+            "endDate": "2014-01-16T00:00:00+00:00",
+            "members": 725,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36561,
+            "url": "https://myanimelist.net/anime/36561/Doupo_Cangqiong_Special_1",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1868/156204.jpg?s=cacbf7769c680e8170f58b9d6b7956e3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1868/156204t.jpg?s=cacbf7769c680e8170f58b9d6b7956e3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1868/156204l.jpg?s=cacbf7769c680e8170f58b9d6b7956e3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1868/156204.webp?s=cacbf7769c680e8170f58b9d6b7956e3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1868/156204t.webp?s=cacbf7769c680e8170f58b9d6b7956e3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1868/156204l.webp?s=cacbf7769c680e8170f58b9d6b7956e3"
+                }
+            },
+            "title": "Doupo Cangqiong Special 1",
+            "airing": false,
+            "synopsis": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years...",
+            "type": "ONA",
+            "episodes": 2,
+            "score": 7.65,
+            "startDate": "2017-09-30T00:00:00+00:00",
+            "endDate": "2017-10-07T00:00:00+00:00",
+            "members": 6871,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38784,
+            "url": "https://myanimelist.net/anime/38784/Ken_to_Mahou_no_Logres__Inishie_no_Megami_x_Fate_Extella",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1926/97011.jpg?s=3ddb8a37fb74ed71ad6e78e9ca1cd6cc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1926/97011t.jpg?s=3ddb8a37fb74ed71ad6e78e9ca1cd6cc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1926/97011l.jpg?s=3ddb8a37fb74ed71ad6e78e9ca1cd6cc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1926/97011.webp?s=3ddb8a37fb74ed71ad6e78e9ca1cd6cc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1926/97011t.webp?s=3ddb8a37fb74ed71ad6e78e9ca1cd6cc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1926/97011l.webp?s=3ddb8a37fb74ed71ad6e78e9ca1cd6cc"
+                }
+            },
+            "title": "Ken to Mahou no Logres: Inishie no Megami x Fate/Extella",
+            "airing": false,
+            "synopsis": "A collaboration between the mobile game Ken to Mahou no Logless Inishie no Megami and the video game Fate/Extella (which takes place in the Fate/Extra and Fate/Extra CCC world). Advertising that Nero...",
+            "type": "CM",
+            "episodes": 1,
+            "score": 5.52,
+            "startDate": "2016-12-07T00:00:00+00:00",
+            "endDate": "2016-12-07T00:00:00+00:00",
+            "members": 6266,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 58972,
+            "url": "https://myanimelist.net/anime/58972/Manga_de_Wakaru_Fate_Grand_Order_Tankoubon_CMs",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/143387.jpg?s=513f0a9c206778aa26f21cd46b72f725",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1771/143387t.jpg?s=513f0a9c206778aa26f21cd46b72f725",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1771/143387l.jpg?s=513f0a9c206778aa26f21cd46b72f725"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1771/143387.webp?s=513f0a9c206778aa26f21cd46b72f725",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1771/143387t.webp?s=513f0a9c206778aa26f21cd46b72f725",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1771/143387l.webp?s=513f0a9c206778aa26f21cd46b72f725"
+                }
+            },
+            "title": "Manga de Wakaru! Fate/Grand Order Tankoubon CMs",
+            "airing": false,
+            "synopsis": "Short commercials released on FGOs official YouTube channel that will tell you everything about FGO.",
+            "type": "CM",
+            "episodes": 3,
+            "score": 5.5,
+            "startDate": "2017-07-29T00:00:00+00:00",
+            "endDate": "2022-04-27T00:00:00+00:00",
+            "members": 770,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 37938,
+            "url": "https://myanimelist.net/anime/37938/Hua_Jianghu__Huan_Shi_Men_Sheng",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1960/108022.jpg?s=f3537b219d9fd17321bb5e6bd950cbda",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1960/108022t.jpg?s=f3537b219d9fd17321bb5e6bd950cbda",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1960/108022l.jpg?s=f3537b219d9fd17321bb5e6bd950cbda"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1960/108022.webp?s=f3537b219d9fd17321bb5e6bd950cbda",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1960/108022t.webp?s=f3537b219d9fd17321bb5e6bd950cbda",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1960/108022l.webp?s=f3537b219d9fd17321bb5e6bd950cbda"
+                }
+            },
+            "title": "Hua Jianghu: Huan Shi Men Sheng",
+            "airing": false,
+            "synopsis": "Nian Yangxiao, came from a parallel world to save his true love who was killed in another dimension. He must find the killer who has a mark on her thigh before it was too late. If his love is killed i...",
+            "type": "ONA",
+            "episodes": 20,
+            "score": 6.47,
+            "startDate": "2017-09-14T00:00:00+00:00",
+            "endDate": "2018-01-25T00:00:00+00:00",
+            "members": 1798,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 56132,
+            "url": "https://myanimelist.net/anime/56132/Balala_Xiao_Mo_Xian__Mofa_Xing_Yuan_Bao",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1928/137447.jpg?s=5210be35d455625c34b0b3ddc2506e3b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1928/137447t.jpg?s=5210be35d455625c34b0b3ddc2506e3b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1928/137447l.jpg?s=5210be35d455625c34b0b3ddc2506e3b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1928/137447.webp?s=5210be35d455625c34b0b3ddc2506e3b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1928/137447t.webp?s=5210be35d455625c34b0b3ddc2506e3b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1928/137447l.webp?s=5210be35d455625c34b0b3ddc2506e3b"
+                }
+            },
+            "title": "Balala Xiao Mo Xian: Mofa Xing Yuan Bao",
+            "airing": false,
+            "synopsis": "Normal Girls who live a normal life until they discover a Magical Fairy Kingdom, magical elves grant them magical powers from Magic Star Fate Castle, to save the Magic Star Fate castle they will need...",
+            "type": "TV",
+            "episodes": 26,
+            "score": 0.0,
+            "startDate": "2022-04-21T00:00:00+00:00",
+            "endDate": "2022-05-16T00:00:00+00:00",
+            "members": 353,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 57960,
+            "url": "https://myanimelist.net/anime/57960/Balala_Xiao_Mo_Xian__Xing_Yuan_Die_Qi_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1075/141252.jpg?s=8d2e1e03c76aa926d344b8ce9b2440df",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1075/141252t.jpg?s=8d2e1e03c76aa926d344b8ce9b2440df",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1075/141252l.jpg?s=8d2e1e03c76aa926d344b8ce9b2440df"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1075/141252.webp?s=8d2e1e03c76aa926d344b8ce9b2440df",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1075/141252t.webp?s=8d2e1e03c76aa926d344b8ce9b2440df",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1075/141252l.webp?s=8d2e1e03c76aa926d344b8ce9b2440df"
+                }
+            },
+            "title": "Balala Xiao Mo Xian: Xing Yuan Die Qi 2",
+            "airing": false,
+            "synopsis": "",
+            "type": "TV",
+            "episodes": 26,
+            "score": 0.0,
+            "startDate": "2023-12-28T00:00:00+00:00",
+            "endDate": "2024-01-09T00:00:00+00:00",
+            "members": 345,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 56674,
+            "url": "https://myanimelist.net/anime/56674/Balala_Xiao_Mo_Xian__Xing_Yuan_Die_Qi_1",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1950/138554.jpg?s=68ac1c90fd7963d6571932fda9b524ef",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1950/138554t.jpg?s=68ac1c90fd7963d6571932fda9b524ef",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1950/138554l.jpg?s=68ac1c90fd7963d6571932fda9b524ef"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1950/138554.webp?s=68ac1c90fd7963d6571932fda9b524ef",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1950/138554t.webp?s=68ac1c90fd7963d6571932fda9b524ef",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1950/138554l.webp?s=68ac1c90fd7963d6571932fda9b524ef"
+                }
+            },
+            "title": "Balala Xiao Mo Xian: Xing Yuan Die Qi 1",
+            "airing": false,
+            "synopsis": "The Fairies Xia Letong, Yan Keke and Bai Yinyue, along with their Transfer Elf partners Buding, Milu and Lubi awaken the Garden of Spirit Spring, Island of Fantastical Summer and Park of Warm Autumn w...",
+            "type": "TV",
+            "episodes": 26,
+            "score": 0.0,
+            "startDate": "2023-08-11T00:00:00+00:00",
+            "endDate": "2023-08-23T00:00:00+00:00",
+            "members": 437,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38416,
+            "url": "https://myanimelist.net/anime/38416/Dixia_Cheng_Yu_Yongshi__Nizhuan_Zhi_Lun",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/108106.jpg?s=89aaab66a62610b2e5b659c2b63499b7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1117/108106t.jpg?s=89aaab66a62610b2e5b659c2b63499b7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1117/108106l.jpg?s=89aaab66a62610b2e5b659c2b63499b7"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1117/108106.webp?s=89aaab66a62610b2e5b659c2b63499b7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1117/108106t.webp?s=89aaab66a62610b2e5b659c2b63499b7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1117/108106l.webp?s=89aaab66a62610b2e5b659c2b63499b7"
+                }
+            },
+            "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+            "airing": false,
+            "synopsis": "Sequel to Arad: Suming Zhi Men.",
+            "type": "ONA",
+            "episodes": 12,
+            "score": 5.99,
+            "startDate": "2020-04-23T00:00:00+00:00",
+            "endDate": "2020-07-23T00:00:00+00:00",
+            "members": 2831,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34779,
+            "url": "https://myanimelist.net/anime/34779/Ar_pieL_-_6-seosgae-ui_Unmyeong",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/83910.jpg?s=4ef72c65d29e6e2b64f2ed32f31bf9c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/83910t.jpg?s=4ef72c65d29e6e2b64f2ed32f31bf9c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/83910l.jpg?s=4ef72c65d29e6e2b64f2ed32f31bf9c6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/83910.webp?s=4ef72c65d29e6e2b64f2ed32f31bf9c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/83910t.webp?s=4ef72c65d29e6e2b64f2ed32f31bf9c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/83910l.webp?s=4ef72c65d29e6e2b64f2ed32f31bf9c6"
+                }
+            },
+            "title": "Ar:pieL - 6-seosgae-ui Unmyeong",
+            "airing": false,
+            "synopsis": "Entry for the canceled anime of the Nexon Animation Project. Like the first two, it was supposed to be an adaptation of an action fantasy PC game. Contains the PV and the 2 released Openings.",
+            "type": "ONA",
+            "episodes": 3,
+            "score": 0.0,
+            "startDate": "2014-11-20T00:00:00+00:00",
+            "endDate": "2016-07-21T00:00:00+00:00",
+            "members": 1195,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 56405,
+            "url": "https://myanimelist.net/anime/56405/7Fates__Chakho_with_BTS_Official_Trailer",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1868/137984.jpg?s=b1786d35318857138ed46e8677814955",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1868/137984t.jpg?s=b1786d35318857138ed46e8677814955",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1868/137984l.jpg?s=b1786d35318857138ed46e8677814955"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1868/137984.webp?s=b1786d35318857138ed46e8677814955",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1868/137984t.webp?s=b1786d35318857138ed46e8677814955",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1868/137984l.webp?s=b1786d35318857138ed46e8677814955"
+                }
+            },
+            "title": "7Fates: Chakho with BTS Official Trailer",
+            "airing": false,
+            "synopsis": "Official trailer for 7Fates: Chakho manhwa with the song Stay Alive by Jung Kook of BTS (Produced by SUGA of BTS).",
+            "type": "PV",
+            "episodes": 1,
+            "score": 5.68,
+            "startDate": "2022-09-02T00:00:00+00:00",
+            "endDate": "2022-09-02T00:00:00+00:00",
+            "members": 501,
+            "rated": "PG-13"
+        }
+    ]
+}

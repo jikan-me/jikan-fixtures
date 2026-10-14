@@ -1,0 +1,198 @@
+{
+    "@class": "Jikan\\Model\\Manga\\Manga",
+    "malId": 2,
+    "url": "https://myanimelist.net/manga/2/Berserk",
+    "title": "Berserk",
+    "titleEnglish": "Berserk",
+    "titleSynonyms": [
+        "Berserk: The Prototype"
+    ],
+    "approved": true,
+    "titleJapanese": "ベルセルク",
+    "titles": [
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Default",
+            "title": "Berserk"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Synonym",
+            "title": "Berserk: The Prototype"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Japanese",
+            "title": "ベルセルク"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "English",
+            "title": "Berserk"
+        }
+    ],
+    "status": "Publishing",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/1/157897.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/1/157897.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/157897l.webp"
+        }
+    },
+    "type": "Manga",
+    "volumes": null,
+    "chapters": null,
+    "publishing": true,
+    "published": {
+        "@class": "Jikan\\Model\\Common\\DateRange",
+        "date": "Aug 25, 1989 to ?"
+    },
+    "rank": 1,
+    "score": 9.46,
+    "scoredBy": 406167,
+    "popularity": 1,
+    "members": 811903,
+    "favorites": 139725,
+    "synopsis": "Guts, a former mercenary now known as the Black Swordsman, is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fall apart when this person takes away everything important to Guts for the purpose of fulfilling his own desires. Now marked for death, Guts becomes condemned to a fate in which he is relentlessly pursued by demonic beings.\n\nSetting out on a dreadful quest riddled with misfortune, Guts, armed with a massive sword and monstrous strength, will let nothing stop him, not even death itself, until he is finally able to take the head of the one who stripped him—and his loved one—of their humanity.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 14: Berserk: The Prototype",
+    "background": "Berserk won the Excellence Award at the sixth Tezuka Osamu Cultural Prize in 2002. As of August 2025, over 70 million copies of the manga are in circulation. The series has been published in English by Dark Horse Comics since November 4, 2003. It has also been released in Argentina, Brazil, Czech Republic, France, Germany, Greece, Hong Kong, Italy, México, Poland, South Korea, Spain, Taiwan, Thailand, and Turkey. In May 2021, the author Kentaro Miura suddenly died at the age of 54. Chapter 364 of Berserk was published posthumously on September 10, 2021. Miura would often share details about the series' story with his childhood friend and fellow mangaka Kouji Mori. The series resumed on June 24, 2022, with Studio Gaga handling the art and Kouji Mori's supervision.",
+    "related": {
+        "Adaptation": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Kenpuu Denki Berserk",
+                "url": "https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
+                "url": "https://myanimelist.net/anime/10218/Berserk__Ougon_Jidai-hen_I_-_Haou_no_Tamago"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
+                "url": "https://myanimelist.net/anime/12113/Berserk__Ougon_Jidai-hen_II_-_Doldrey_Kouryaku"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Berserk: Ougon Jidai-hen III - Kourin",
+                "url": "https://myanimelist.net/anime/12115/Berserk__Ougon_Jidai-hen_III_-_Kourin"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Berserk",
+                "url": "https://myanimelist.net/anime/32379/Berserk"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Berserk 2nd Season",
+                "url": "https://myanimelist.net/anime/34055/Berserk_2nd_Season"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Berserk: Ougon Jidai-hen - Memorial Edition",
+                "url": "https://myanimelist.net/anime/52976/Berserk__Ougon_Jidai-hen_-_Memorial_Edition"
+            }
+        ]
+    },
+    "genres": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Action",
+            "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Award Winning",
+            "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Drama",
+            "url": "https://myanimelist.net/manga/genre/8/Drama"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Horror",
+            "url": "https://myanimelist.net/manga/genre/14/Horror"
+        }
+    ],
+    "explicitGenres": [],
+    "demographics": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Seinen",
+            "url": "https://myanimelist.net/manga/genre/41/Seinen"
+        }
+    ],
+    "themes": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Gore",
+            "url": "https://myanimelist.net/manga/genre/58/Gore"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Military",
+            "url": "https://myanimelist.net/manga/genre/38/Military"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Psychological",
+            "url": "https://myanimelist.net/manga/genre/40/Psychological"
+        }
+    ],
+    "authors": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Miura, Kentarou",
+            "url": "https://myanimelist.net/people/1868/Kentarou_Miura"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Studio Gaga",
+            "url": "https://myanimelist.net/people/49592/Studio_Gaga"
+        }
+    ],
+    "serializations": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Young Animal",
+            "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+        }
+    ],
+    "externalLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Official Site",
+            "url": "https://magazine.younganimal.com/title/?id=32"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "http://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF_%28%E6%BC%AB%E7%94%BB%29"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Berserk_(manga)"
+        }
+    ]
+}

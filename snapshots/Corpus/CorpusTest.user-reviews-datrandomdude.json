@@ -1,0 +1,243 @@
+{
+    "@class": "Jikan\\Model\\User\\Reviews\\UserReviews",
+    "hasNextPage": true,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\User\\Reviews\\UserAnimeReview",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 33487,
+                "url": "https://myanimelist.net/anime/33487/Masamune-kun_no_Revenge",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/83709.jpg?s=963b039db8853a23a10b38b8a4f6136c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/83709t.jpg?s=963b039db8853a23a10b38b8a4f6136c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/83709l.jpg?s=963b039db8853a23a10b38b8a4f6136c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/12/83709.webp?s=963b039db8853a23a10b38b8a4f6136c",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/83709t.webp?s=963b039db8853a23a10b38b8a4f6136c",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/83709l.webp?s=963b039db8853a23a10b38b8a4f6136c"
+                    }
+                },
+                "title": "Masamune-kun no Revenge"
+            },
+            "episodesWatched": 4,
+            "malId": 239341,
+            "url": "https://myanimelist.net/reviews.php?id=239341",
+            "type": "anime",
+            "reactions": {
+                "@class": "Jikan\\Model\\Reviews\\Reactions",
+                "overall": 24,
+                "nice": 24,
+                "loveIt": 0,
+                "funny": 0,
+                "confusing": 0,
+                "informative": 0,
+                "wellWritten": 0,
+                "creative": 0
+            },
+            "date": "2017-01-28T14:14:00+00:00",
+            "review": "Yeaaah ... It's not that good... but it's not completely bad. Just really average. The story of Masamune-kun is pretty much your generic RomCom harem anime but a little twist in it. Masamune is trying to hook up with the ''Cruel Princess'' to dump her later and getting his revenge on her. Why ? Just read the synopsis, it's not really worth to write about it again here. Fair enough, this could be potentially good but you can pretty much see miles away what's going to happen next and its filled with cliché. Also the comedy in it is really hit or miss. However, episode 4 gaveme good hopes that maybe it's going the right way with the story ... but something at the end of the episode pretty much ruined the development between Masamune and Aki and at this point, looks like its going to be a good old love triangle/harem thing with some drama in it. Definitly was not a good time to introduce it and its more annoying than anything else.\n\nAlso, Yoshino, Aki's maid, is pretty interesting. Can't really say too much though because.. spoilers. But she's definitly one of the 2 reason that i keep watching it.\nOh yeah, we have a trap and Masamune's mom is a loli. Of course.\n\nThe art and animation are pretty decent, nothing to write home about but Silver Link. does a good enough job. They definitly has done better though. Most of the girls designs are nice, specially Yoshino. Masamune's design is pretty disappointing since he looks like a protagonist from a generic light novel.\n\nThe music in the anime is pretty average. The OST does it's job but nothing really standout so far. The Opening is your usual RomCom opening. The ending song by Choucho is pretty nice thought.\n\nSooo, is it enjoyable ? For me not really. But i'm still going to watch it since i'm still interested enough to see where this goes right now. Wouldn't be surprised if they do the predictable route of Masamune not getting his revenge and actually end up with Aki though. I also want to know more about Yoshino and see what's going to happen with her since its pretty much the only character that i still enjoy to watch.\n\nSo yeah, right now i'm at episode 4 and it's pretty much average.\n\n5/10.",
+            "score": 5,
+            "tags": [
+                "Mixed Feelings",
+                "Preliminary"
+            ],
+            "isSpoiler": false,
+            "isPreliminary": true
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Reviews\\UserAnimeReview",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 28619,
+                "url": "https://myanimelist.net/anime/28619/Ranpo_Kitan__Game_of_Laplace",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/79565.jpg?s=1e7ac0111d69e7b64f4f6e076e6952da",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/79565t.jpg?s=1e7ac0111d69e7b64f4f6e076e6952da",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/79565l.jpg?s=1e7ac0111d69e7b64f4f6e076e6952da"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/5/79565.webp?s=1e7ac0111d69e7b64f4f6e076e6952da",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/79565t.webp?s=1e7ac0111d69e7b64f4f6e076e6952da",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/79565l.webp?s=1e7ac0111d69e7b64f4f6e076e6952da"
+                    }
+                },
+                "title": "Ranpo Kitan: Game of Laplace"
+            },
+            "episodesWatched": null,
+            "malId": 198792,
+            "url": "https://myanimelist.net/reviews.php?id=198792",
+            "type": "anime",
+            "reactions": {
+                "@class": "Jikan\\Model\\Reviews\\Reactions",
+                "overall": 49,
+                "nice": 47,
+                "loveIt": 0,
+                "funny": 1,
+                "confusing": 0,
+                "informative": 1,
+                "wellWritten": 0,
+                "creative": 0
+            },
+            "date": "2015-09-17T20:33:00+00:00",
+            "review": "A damn shame, i didn't had a lot of hype about it but i was hoping that it would end up good. It failed. Ranpo Kitan is an anime to commemorate the 50th anniversary of the death of Edogawa Ranpo. He's pretty much of the godfather of mystery series. If he was alive, i'm not sure if he would be happy about this adaptation of his works with the modern twist of these days. For the story, i'll not talk about it you can just read the synopsis. However, what i can say is that the mysteries around the cases aren't really good. They are casesthat could have been interesting but it goes so fast and they don't even show you a clue, they just throw the answer like that. \n\n''Hey, we never showed you that girl or these clue but it doesnt matter, that's what happened deal with it.''\n\nWhere's the fun in this ? Dammit Makoto Uezu and Seiji Kishi stop touching mysteries and stuff. Stay with comedies. Please.\n\nThe art is good. It's not ugly but it's not ''holy sh- it's beautiful'' too ! However, we can see that they try to be original with the presentation and some of them are really appreciated like the people who only were silhouettes representing people that Kobayashi doesn't care at all and only the people that he finds interesting is seen normally. Just background characters for him. Sometimes, they try too hard with the symbolisms that it just gets boring. \n\nThe sound is ok. The OP and ED were some of the best in this season. ( I listen to them a lot in my car, no joke.) The OST is also nice, but there one song in particular that plays almost every episodes. Is the song bad ? No. But it gets annoying, a little bit like the song ''Don't loose your way'' in kill la kill.\n\nThe characters are ... most of the time forgetable. With the exception of one : Kobayashi. A boy who got us all confused, thinking that it was a girl. Kobayashi is bizarre and wants some action in his life... thats pretty much it. The protagonist pretty much gets in trouble, help sometimes Akechi and gets our ding confused. The other characters aren't worth mentioning with Hashiba who might be gay for Kobayashi (we will never know), the detective super-duper intelligent and anti-social Akechi and Minami the medical examiner aka one of the worst character this season. Popping out randomly, trying to be funny. The Shadow-man was good tho. Weird and sometimes creepy but he was definitly the most interesting one.\n\nOverall, i was hoping that it gets better. The first episode people were sceptical and i was thinking: ''Oh c'mon people it's just the first episode. Give it some times.'' The more it was going, the more i was thinking that ... yeah, that's not good at all.\n\n4/10, don't waste your time with it.\nWell, there's only 11 episodes so you can try if you want but don't get your hopes up.",
+            "score": 4,
+            "tags": [
+                "Not Recommended"
+            ],
+            "isSpoiler": false,
+            "isPreliminary": false
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Reviews\\UserAnimeReview",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 28617,
+                "url": "https://myanimelist.net/anime/28617/Punch_Line",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/74641.jpg?s=e8b57c266dd53b237e6abb7a2182f665",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/74641t.jpg?s=e8b57c266dd53b237e6abb7a2182f665",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/74641l.jpg?s=e8b57c266dd53b237e6abb7a2182f665"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/74641.webp?s=e8b57c266dd53b237e6abb7a2182f665",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/74641t.webp?s=e8b57c266dd53b237e6abb7a2182f665",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/74641l.webp?s=e8b57c266dd53b237e6abb7a2182f665"
+                    }
+                },
+                "title": "Punch Line"
+            },
+            "episodesWatched": null,
+            "malId": 191266,
+            "url": "https://myanimelist.net/reviews.php?id=191266",
+            "type": "anime",
+            "reactions": {
+                "@class": "Jikan\\Model\\Reviews\\Reactions",
+                "overall": 14,
+                "nice": 14,
+                "loveIt": 0,
+                "funny": 0,
+                "confusing": 0,
+                "informative": 0,
+                "wellWritten": 0,
+                "creative": 0
+            },
+            "date": "2015-06-25T17:53:00+00:00",
+            "review": "Thank you based MAPPA. Thank you Ushikoshi, i've never played your games so i didn't exactly know what to expect from you even with what i've heard. Punchline was waaay better than what i expected and this is pretty much the hidden gem of this season. This review is pretty much what i thought exactly after watching the ending so ... sorry if there's a weird sentence or somethign like that. I can't talk too much about the story but what i can say is this : After an incident happened in a bus, the soul of our MC Yuuta separates from his body but surpriseand now his spirit wanders around his apartment. However he has a mission : Save the Earth from an asteroid hitting the planet and destroy it. Oh, and if he gets too excited while seeing panties the earth is doomed. So yeah ... thats pretty much the only things i can say. Which is pretty much what you can read on the page of the anime. That was pointless. \n\nAnyway, the art is really good, the animation it reminds me of Kill la kill and other stuff done by Trigger and Gainax and its done very well most of time. Anyway, in my case i like that style so .. that's a plus. The action is really good too, thats something you'll really enjoy it !\n\nThe soundtrack is really good and varied. The OST of Punchline is a least less forgetable than a good chunk of anime these days and goes well with what happens in the scene and can get you pumped or sad. \n\nThe characters are good, but thats pretty much it. I have to say that they are pretty much are forgetable beside Meika and the cat, Chiranosuke. Still they have their moments. Again, i'm not gonna talk about it too much because ... yeah. Let's just say that they are pretty stereotypical at the beginning and after a while stuff happens. \n\nSo yeah, you've read that i didn't say a lot and there's a reason. Punchline starts off with a pretty strong first episode but after that, you might get turned off by it. However, don't drop it. Ooooh don't do it because a little bit before the first half this is where the fun really start with a lot of plot-twist and a really good ending. You know like Madoka magica that starts off like a cute magica girl anime and starts being dark after a couple of episodes ? Yeah, it's pretty much the case here. It starts like an Ecchi/Comedy. It just takes more time to really start. It's totally worth it. Don't look at the rating, it's pretty low because a lot of people dropped it and gave it a bad rating before the good part.\n\nOne last thing : The comedy sucked most of the time.\n\nTL;DR : The anime is really good. Some episodes in the first half are crap imo. The rest is reeaaaally good.\n\nOverall, 8/10.",
+            "score": 8,
+            "tags": [
+                "Recommended"
+            ],
+            "isSpoiler": false,
+            "isPreliminary": false
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Reviews\\UserAnimeReview",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 10711,
+                "url": "https://myanimelist.net/anime/10711/Plastic_Neesan",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/13/76583.jpg?s=6c4bcca0c7dde3174fb05c388f0d1098",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/76583t.jpg?s=6c4bcca0c7dde3174fb05c388f0d1098",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/76583l.jpg?s=6c4bcca0c7dde3174fb05c388f0d1098"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/13/76583.webp?s=6c4bcca0c7dde3174fb05c388f0d1098",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/76583t.webp?s=6c4bcca0c7dde3174fb05c388f0d1098",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/76583l.webp?s=6c4bcca0c7dde3174fb05c388f0d1098"
+                    }
+                },
+                "title": "Plastic Neesan"
+            },
+            "episodesWatched": null,
+            "malId": 186274,
+            "url": "https://myanimelist.net/reviews.php?id=186274",
+            "type": "anime",
+            "reactions": {
+                "@class": "Jikan\\Model\\Reviews\\Reactions",
+                "overall": 92,
+                "nice": 91,
+                "loveIt": 0,
+                "funny": 1,
+                "confusing": 0,
+                "informative": 0,
+                "wellWritten": 0,
+                "creative": 0
+            },
+            "date": "2015-04-22T22:41:00+00:00",
+            "review": "Hey you! Yes, YOU !! Do you have a little 30 min. to spare ? Yes ? Nice. Do you want to laugh ? Yes ? Excellent ! I have exactly what you need : Plastic Nee-san ! I'm pretty sure you're thinking ''wtf is that??'' ... No ? Eh ... ok. Anyway, let's review this. I'm not gonna take too long for this one ! Story : 4 Story ? There's no story. The only thing you need to know is that our 3 main characters are members of a club about plastic models and ... stuff happens.Thats pretty much it ! \n\nArt : 7\n\nNothing outstanding. For a 2 min. / episodes serie i wasn't expecting much and it did the job really well ! I liked the plastic models on the girls head. c: \n\nSound : 7 \n\nThe seiyuus has done a really good job in Plastic Nee-san. The opening and ending are nice and the music used is good enough !\n\nCharacter : 9\n\nHooo god. In 12 episodes of 2 minutes, pretty much everyone are special and memorable ! It goes to the ''Beautiful person'' to the guy who enjoy to wear women's underwear. Of course, our main characters are also really special. Nee-san is vulgar and don't give a f-, Okappa is violent and Makimaki is pretty much that girl who has to endure these two girls. \n\nEnjoyment : 9 \n\nIt's a damn shame it's only for a total of 30 minutes. I would easily take a entire season of this, i really liked it ! Of course, it's a comedy so that type of comedy isn't for everyone but even so ... try it. The worst that could happen is that you wasted 30 minutes of your life.\n\nOverall : 8\n\nIf i had to take the story for the final note it would have been a 7 but for this kind of show, let's just forget about the story, ok ? \n\nThanks for reading, and see you next time ... if i decide to review something else one day.",
+            "score": 8,
+            "tags": [
+                "Recommended"
+            ],
+            "isSpoiler": false,
+            "isPreliminary": false
+        },
+        {
+            "@class": "Jikan\\Model\\User\\Reviews\\UserAnimeReview",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 28155,
+                "url": "https://myanimelist.net/anime/28155/Yoru_no_Yatterman",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/11/71773.jpg?s=42b43896a2fd0226d737450aa26b8fed",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/71773t.jpg?s=42b43896a2fd0226d737450aa26b8fed",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/71773l.jpg?s=42b43896a2fd0226d737450aa26b8fed"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/11/71773.webp?s=42b43896a2fd0226d737450aa26b8fed",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/71773t.webp?s=42b43896a2fd0226d737450aa26b8fed",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/71773l.webp?s=42b43896a2fd0226d737450aa26b8fed"
+                    }
+                },
+                "title": "Yoru no Yatterman"
+            },
+            "episodesWatched": null,
+            "malId": 183958,
+            "url": "https://myanimelist.net/reviews.php?id=183958",
+            "type": "anime",
+            "reactions": {
+                "@class": "Jikan\\Model\\Reviews\\Reactions",
+                "overall": 19,
+                "nice": 18,
+                "loveIt": 0,
+                "funny": 1,
+                "confusing": 0,
+                "informative": 0,
+                "wellWritten": 0,
+                "creative": 0
+            },
+            "date": "2015-03-29T13:22:00+00:00",
+            "review": "Alright, second try at reviewing. If i failed at something like repeating something well ... sorry. ._. --------------------------------------------------------------------------------------- Yoru No Yatterman was a fun ride. Sadly, it went under the radar of a lot of people. It wasn't the best of this winter season but it wasn't bad like a lot of people says. Is it worth your time ? Let's look at it. Story : 6 Leopard, Elephantus and Voltkatze are descendant of the Doronbow gang, who were the antagonist of the Yatterman series. They live with Lepoard's mother somewhere outside the Yatterman Kingdom walls because their ancestor got kicked out of the kingdom.So one day, Leopard's mother die and discovers that the Yatterman are actually bad people... and thus begin the comeback or the Dorombow gang to avenge her death and give the Yatterman a good forehead flicking !\n\nSee? pretty simple !\n\nArt : 7 \n\nThe art was very good imo. It wasn't mindblowing but it didn't suck at all. The background and the characters were really nice. However sometimes the quality dropped and sometimes... it wasn't pretty. \n\nSound : 7 \n\nThe opening was one of the best this season and the ending was nice. The OST was compsed by the same guy who did the OST of Mirai Nikki, Free!, Seikon no Qwaser and more. Just this is actually pretty good. However nothing didn't catch my attention. I guess it's better than catching my attention because the music would be bad. \nSo yeah, i guess the OST did it's job right ! \n\nCharacter : 6\n\nFor some people the problem might be the main protagonist, Leopard who's a 9 years old girl that might just be ... pretty annoying. Personally i had no problem with her but i can see why some people have. Boyacky and Tonzra are funny. The problem with them is sometimes their jokes gets old, like Tonzra who says that he can be Leopard's mom for an entire episode. \nLater we have Gatchan and Alouette. Gatchan at first i didn't liked him. Always scared and uncertain, throwing a dice to know what to do. Luckily he had a really good character developement ! Alouette well ... i liked her. (no not because she has boobs ... jeez.) She was funny and also at the end i liked her even more! I'm not gonna say more about it. c:\nFor the others, you might just don't care about them.\n\nEnjoyment : 7 \n\nIf you are the kind of people who needs explication for why this happened or why they didn't do this ... just don't watch it. You're gonna be mad and just put a 1 to this. This show is just full of surprise and ''asspull'' but for this kind of show, i didn't care at all ! The comedy is hit or miss though. Like i said before, sometimes the jokes gets old or it's just ... doesn't work at all. \n\nDo we need to watch the Yatterman series before watching it ? Not really. I haven't watched them and it's pretty simple to understand without them. However, some reference or jokes just gonna fly over your head and you might just think ... ''k'' (like me)\n\nOverall : 7\n\nIt was a good adventure that will be forgotten pretty soon. \nTry it, maybe you'll like it like me !",
+            "score": 7,
+            "tags": [
+                "Recommended"
+            ],
+            "isSpoiler": false,
+            "isPreliminary": false
+        }
+    ]
+}

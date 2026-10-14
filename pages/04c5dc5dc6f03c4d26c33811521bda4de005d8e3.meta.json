@@ -1,0 +1,8 @@
+{
+    "method": "GET",
+    "url": "https://myanimelist.net/users.php",
+    "final_url": "https://myanimelist.net/users.php",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "recorded_at": "2026-10-14T02:41:00+00:00"
+}

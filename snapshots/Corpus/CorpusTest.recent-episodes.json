@@ -1,0 +1,246 @@
+{
+    "@class": "Jikan\\Model\\Watch\\Episodes",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 50855,
+                "url": "https://myanimelist.net/anime/50855/Yamato_yo_Towa_ni__Rebel_3199",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Yamato yo, Towa ni: Rebel 3199"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 22,
+                    "url": "https://myanimelist.net/anime/50855/Yamato_yo_Towa_ni__Rebel_3199/episode/22",
+                    "title": "Episode 22",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 21,
+                    "url": "https://myanimelist.net/anime/50855/Yamato_yo_Towa_ni__Rebel_3199/episode/21",
+                    "title": "Episode 21",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 53924,
+                "url": "https://myanimelist.net/anime/53924/Jibaku_Shounen_Hanako-kun_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1878/146291.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1878/146291t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1878/146291l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1878/146291.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1878/146291t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1878/146291l.webp"
+                    }
+                },
+                "title": "Jibaku Shounen Hanako-kun 2"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 3,
+                    "url": "https://myanimelist.net/anime/53924/Jibaku_Shounen_Hanako-kun_2/episode/3",
+                    "title": "Episode 3",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 2,
+                    "url": "https://myanimelist.net/anime/53924/Jibaku_Shounen_Hanako-kun_2/episode/2",
+                    "title": "Episode 2",
+                    "premium": true
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 63087,
+                "url": "https://myanimelist.net/anime/63087/Yami_Shibai_16",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "Yami Shibai 16"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 13,
+                    "url": "https://myanimelist.net/anime/63087/Yami_Shibai_16/episode/13",
+                    "title": "Episode 13",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 12,
+                    "url": "https://myanimelist.net/anime/63087/Yami_Shibai_16/episode/12",
+                    "title": "Episode 12",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 59978,
+                "url": "https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1921/154528t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1921/154528l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1921/154528.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1921/154528t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1921/154528l.webp"
+                    }
+                },
+                "title": "Sousou no Frieren 2nd Season"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 1,
+                    "url": "https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season/episode/1",
+                    "title": "Episode 1",
+                    "premium": true
+                }
+            ],
+            "regionLocked": false
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 6811,
+                "url": "https://myanimelist.net/anime/6811/InuYasha__Kanketsu-hen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "InuYasha: Kanketsu-hen"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 26,
+                    "url": "https://myanimelist.net/anime/6811/InuYasha__Kanketsu-hen/episode/26",
+                    "title": "Episode 26",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 25,
+                    "url": "https://myanimelist.net/anime/6811/InuYasha__Kanketsu-hen/episode/25",
+                    "title": "Episode 25",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\EpisodeListItem",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 249,
+                "url": "https://myanimelist.net/anime/249/InuYasha",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/icon-banned-youtube-rect.png"
+                    }
+                },
+                "title": "InuYasha"
+            },
+            "episodes": [
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 167,
+                    "url": "https://myanimelist.net/anime/249/InuYasha/episode/167",
+                    "title": "Episode 167",
+                    "premium": true
+                },
+                {
+                    "@class": "Jikan\\Model\\Watch\\RecentEpisodeListItem",
+                    "malId": 166,
+                    "url": "https://myanimelist.net/anime/249/InuYasha/episode/166",
+                    "title": "Episode 166",
+                    "premium": true
+                }
+            ],
+            "regionLocked": true
+        }
+    ]
+}

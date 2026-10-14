@@ -1,0 +1,567 @@
+{
+    "@class": "Jikan\\Model\\Anime\\AnimeVideosEpisodes",
+    "hasNextPage": true,
+    "lastVisiblePage": 28,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1123,
+            "title": "The World Shakes! The Straw Hats' Hostage Situation",
+            "episode": "Episode 1123",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1123",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/78569b822f4ea02100211ecffc9d8ede1743865591_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1122,
+            "title": "The Last Lesson! Impact Inherited",
+            "episode": "Episode 1122",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1122",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/fcb6a443c4570ab39d725dddd69d1c951728782760_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1121,
+            "title": "Garp and Kuzan - A Master and a Pupil's Beliefs Clash",
+            "episode": "Episode 1121",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1121",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/24d4290bd2efb812c7dbd42279e0b9831728177959_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1120,
+            "title": "The World Is Shaken! The Ruler's Judgment and the Five Elders’ Actions!",
+            "episode": "Episode 1120",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1120",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/5ae3ffd2bc0e5def8b1d49cb5b94ee2d1726969720_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1119,
+            "title": "The Entrusted Message! King Cobra’s Resolve",
+            "episode": "Episode 1119",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1119",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/010dccb69a88cf4798f53b78123b21e31726364114_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1118,
+            "title": "The Holy Land in Tumult! Sai and Leo's Full-Power Blow!",
+            "episode": "Episode 1118",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1118",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/05aaebc842afb0e86a00e6abb980d1071725758901_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1117,
+            "title": "Sabo Returns - The Shocking Truth to Be Told!",
+            "episode": "Episode 1117",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1117",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/db924948c8053a40ed044cec081202901725154737_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1116,
+            "title": "Let's Go Get It! Buggy's Big Declaration",
+            "episode": "Episode 1116",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1116",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/52b335813e4f150826ff49582a524d7c1723944994_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1115,
+            "title": "The Navy Surprised! The Navy Headquarters' Former Admiral, Kuzan",
+            "episode": "Episode 1115",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1115",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/4857ffe17fcb5225bd9c52b24695b54a1723339764_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1114,
+            "title": "For the Beloved Pupil - The Fist of Vice Admiral Garp!",
+            "episode": "Episode 1114",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1114",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/67288c63a0e6c5b42e1954e0c5263c3d1722735665_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1113,
+            "title": "Run, Koby! A Desperate Escape Strategy!",
+            "episode": "Episode 1113",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1113",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9c4604bfcfcb6e70f438dc67647ac92c1722129976_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1112,
+            "title": "Clash! Shanks vs. Eustass Kid",
+            "episode": "Episode 1112",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1112",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/27c699aa3dd8dfe6a8c9e8f04bfa1db61720920283_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1111,
+            "title": "The Second Ohara! The Mastermind's Ambition!",
+            "episode": "Episode 1111",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1111",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/da62c29ead92aac2cd8b16b60f8e5ccb1720316256_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1110,
+            "title": "Survive! Deadly Combat with the Strongest Form of Humanity!",
+            "episode": "Episode 1110",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1110",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c02a3d8d31e6f680a38d2dd9a4dafa011719712501_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1109,
+            "title": "A Tough Decision! An Unusual United Front!",
+            "episode": "Episode 1109",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1109",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ca29d7261c8193079b07e98c1ffcbddd1719105573_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1108,
+            "title": "Incomprehensible! The Seraphim's Rebellion!",
+            "episode": "Episode 1108",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1108",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/8d8e41ab3fb22261f5f7c55a5fb334c11717896918_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1107,
+            "title": "A Shudder! The Evil Hand Creeping Up on the Laboratory",
+            "episode": "Episode 1107",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1107",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/60d531550d6070dfabd27b2652badef01717292052_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1106,
+            "title": "Trouble Occurs! Seek Dr. Vegapunk!",
+            "episode": "Episode 1106",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1106",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/99aa8775b22c2abe820a0e9087360cfb1716686796_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1105,
+            "title": "A Beautiful Act of Treason! The Spy, Stussy!",
+            "episode": "Episode 1105",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1105",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/e0c00a67d300dfcac0c0da5a729d4dce1716081891_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1104,
+            "title": "A Desperate Situation! The Seraphim's All-out Attack!",
+            "episode": "Episode 1104",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1104",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/1fddb16b91d2350ba55de70616c5b9951715477342_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1103,
+            "title": "Turn Back My Father! Bonney's Futile Wish!",
+            "episode": "Episode 1103",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1103",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9260ecb753478c62b6ded4e6fa400e261714873222_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1102,
+            "title": "Sinister Schemes! The Operation to Escape Egghead",
+            "episode": "Episode 1102",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1102",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/72e7366b8d67cd994f6b1f5e63c774b51714267657_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1101,
+            "title": "The Strongest Form of Humanity! The Seraphim's Powers!",
+            "episode": "Episode 1101",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1101",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/74918cf30763722b61be4b182fde23cf1713663084_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1100,
+            "title": "Powers on a Different Level! Luffy vs. Lucci!",
+            "episode": "Episode 1100",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1100",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/043e3fbdcb4ce3d229e4af0a7467248a1712454468_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1099,
+            "title": "Preparations for Interception! Rob Lucci Strikes!",
+            "episode": "Episode 1099",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1099",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c84d29ab25605b8554be9512518cfc261711849218_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1098,
+            "title": "The Eccentric Dream of a Genius!",
+            "episode": "Episode 1098",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1098",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/ff5a591c9135bc92f01f2bba2eeaa8f81711245037_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1097,
+            "title": "The Will of Ohara! The Inherited Research",
+            "episode": "Episode 1097",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1097",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/1750dc14e095f7e86ea231e1f3ec0f9a1710639072_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1096,
+            "title": "A Forbidden Piece of History! A Theory Concerning a Kingdom",
+            "episode": "Episode 1096",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1096",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/7eb9e75dde340aa18934c942d575b2371709429083_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1095,
+            "title": "The Brain of a Genius - Six Vegapunks!",
+            "episode": "Episode 1095",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1095",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9002a7ced0f3a4ae1a4e568e796c1bdb1708824543_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1094,
+            "title": "The Mystery Deepens! Egghead Labophase",
+            "episode": "Episode 1094",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1094",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/2bbd2da85a0fa06dff062925209040901708220108_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1093,
+            "title": "The Winner Takes All! Law vs. Blackbeard!",
+            "episode": "Episode 1093",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1093",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/7c407377b1ae2f231be9e6815227cb0f1707616297_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1092,
+            "title": "Bonney's Lamentation! Darkness Lurking on the Future Island",
+            "episode": "Episode 1092",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1092",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/1179795b6e7af4a8865b995fdc1166961706405151_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1091,
+            "title": "Brimming with the Future! An Adventure on the Island of Science!",
+            "episode": "Episode 1091",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1091",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/9dde09cc7ce8f52901d4779b707edd461705801434_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1090,
+            "title": "A New Island! Future Island Egghead",
+            "episode": "Episode 1090",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1090",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/180d118637dcd333e296a93d3072639c1705195452_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1089,
+            "title": "Entering a New Chapter! Luffy and Sabo's Paths!",
+            "episode": "Episode 1089",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1089",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1-tmb/fb29127bc79c7497a7758ad1be904b0d1704590585_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1071,
+            "title": "Luffy’s Peak – Attained! Gear Five",
+            "episode": "Episode 1071",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1071",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/3239e7f7e22693ee708f033078b4f9c91691285968_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1070,
+            "title": "Luffy Is Defeated?! The Determination of Those Left Behind",
+            "episode": "Episode 1070",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1070",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4-tmb/80c54c8993fe4f58a01c2467ca0b5db31690680032_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1069,
+            "title": "There is Only One Winner - Luffy vs. Kaido",
+            "episode": "Episode 1069",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1069",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/3002820edae73b1585cbead7595e9efe1689471231_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1068,
+            "title": "Moon Princess Echoes! The Final Phase of the Land of Wano!",
+            "episode": "Episode 1068",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1068",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3-tmb/43b53f90a0d4ece6af51018d29f56a021688866002_large.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\StreamEpisodeListItem",
+            "malId": 1067,
+            "title": "To the New Era! Settled! The Determination of the Brats",
+            "episode": "Episode 1067",
+            "url": "https://myanimelist.net/anime/21/One_Piece/episode/1067",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2-tmb/7d8bb4847edbc978da068098496a4e571688262627_large.jpg"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "@class": "Jikan\\Model\\Anime\\Anime",
+    "malId": 5114,
+    "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1208/94745t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/94745.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1208/94745t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp"
+        }
+    },
+    "trailer": {
+        "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+        "youtubeId": "1ac3_YdSSy0",
+        "url": "https://www.youtube.com/watch?v=1ac3_YdSSy0",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/1ac3_YdSSy0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+            "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+            "imageUrl": "https://img.youtube.com/vi/1ac3_YdSSy0/default.jpg",
+            "smallImageUrl": "https://img.youtube.com/vi/1ac3_YdSSy0/sddefault.jpg",
+            "mediumImageUrl": "https://img.youtube.com/vi/1ac3_YdSSy0/mqdefault.jpg",
+            "largeImageUrl": "https://img.youtube.com/vi/1ac3_YdSSy0/hqdefault.jpg",
+            "maximumImageUrl": "https://img.youtube.com/vi/1ac3_YdSSy0/maxresdefault.jpg"
+        }
+    },
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "titleEnglish": "Fullmetal Alchemist: Brotherhood",
+    "titleJapanese": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "titleSynonyms": [
+        "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+        "Fullmetal Alchemist (2009)",
+        "FMA",
+        "FMAB"
+    ],
+    "titles": [
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Default",
+            "title": "Fullmetal Alchemist: Brotherhood"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Synonym",
+            "title": "Hagane no Renkinjutsushi: Fullmetal Alchemist"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Synonym",
+            "title": "Fullmetal Alchemist (2009)"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Synonym",
+            "title": "FMA"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Synonym",
+            "title": "FMAB"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "Japanese",
+            "title": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "English",
+            "title": "Fullmetal Alchemist: Brotherhood"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Title",
+            "type": "French",
+            "title": "Fullmetal Alchemist Brotherhood"
+        }
+    ],
+    "approved": true,
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 64,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+        "@class": "Jikan\\Model\\Common\\DateRange",
+        "date": "Apr 5, 2009 to Jul 4, 2010"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 9.11,
+    "scoredBy": 2347630,
+    "rank": 2,
+    "popularity": 3,
+    "members": 3745413,
+    "favorites": 246386,
+    "synopsis": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.\n\nThe brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing \"automail,\" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.\n\nAs Edward becomes an infamous alchemist and gains the nickname \"Fullmetal,\" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "premiered": "Spring 2009",
+    "broadcast": "Sundays at 17:00 (JST)",
+    "related": {
+        "Adaptation": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Fullmetal Alchemist",
+                "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist"
+            }
+        ],
+        "Side Story": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Fullmetal Alchemist: Brotherhood Specials",
+                "url": "https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos",
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos"
+            }
+        ],
+        "Spin-Off": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Fullmetal Alchemist: Brotherhood - 4-koma Gekijou",
+                "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-koma_Gekijou"
+            }
+        ],
+        "Alternative Version": [
+            {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Fullmetal Alchemist",
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist"
+            }
+        ]
+    },
+    "producers": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Square Enix",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Mainichi Broadcasting System",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Techno Sound",
+            "url": "https://myanimelist.net/anime/producer/1499/Techno_Sound"
+        }
+    ],
+    "licensors": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Funimation",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Aniplex of America",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "studios": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "genres": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Fantasy",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "explicitGenres": [],
+    "demographics": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "themes": [
+        {
+            "@class": "Jikan\\Model\\Common\\MalUrl",
+            "name": "Military",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+    ],
+    "openingThemes": [
+        "1: \"again\" by YUI (eps 1-14)",
+        "2: \"Hologram (ホログラム)\" by NICO Touches the Walls (eps 15-26)",
+        "3: \"Golden Time Lover (ゴールデンタイムラバー)\" by Sukima Switch (eps 27-38)",
+        "4: \"Period\" by Chemistry (eps 39-50)",
+        "5: \"Rain (レイン)\" by SID (eps 51-62)"
+    ],
+    "endingThemes": [
+        "1: \"Uso (嘘)\" by SID (eps 1-14)",
+        "2: \"LET IT OUT\" by Miho Fukuhara (eps 15-26)",
+        "3: \"Tsunaida Te (つないだ手)\" by Lil'B (eps 27-38)",
+        "4: \"Shunkan Sentimental (瞬間センチメンタル)\" by SCANDAL (eps 39-50)",
+        "5: \"RAY OF LIGHT\" by Nakagawa Shouko (eps 51-62)",
+        "6: \"Rain (レイン)\" by SID (eps 63)",
+        "7: \"Hologram (ホログラム)\" by NICO Touches the Walls (eps 64)"
+    ],
+    "externalLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Official Site",
+            "url": "http://www.hagaren.jp/fa/"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "@hagaren_anime",
+            "url": "https://twitter.com/hagaren_anime"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "AniDB",
+            "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6107"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "ANN",
+            "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Wikipedia",
+            "url": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB_FULLMETAL_ALCHEMIST"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Syoboi",
+            "url": "https://cal.syoboi.jp/tid/1575"
+        }
+    ],
+    "streamingLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Crunchyroll",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJDcnVuY2h5cm9sbCIsIm1vbmV0aXphdGlvblR5cGUiOiJmbGF0cmF0ZSIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiQVJTIiwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjoyODMsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MjE0ODIsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMjE0ODIiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3MyNTkyMSJ9fV19&r=https%3A%2F%2Fwww.crunchyroll.com%2Fwatch%2FGE00007426HIIN&uct_country=ar"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Netflix",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJYQ0QiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjgsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MjE0ODIsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMjE0ODIiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3MyNTkyMSJ9fV19&r=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F70204981&uct_country=ag"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Amazon Prime Video",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJtb25ldGl6YXRpb25UeXBlIjoiZnJlZSIsInByZXNlbnRhdGlvblR5cGUiOiJzZCIsImN1cnJlbmN5IjoiSlBZIiwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjo5LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjIxNDgyLCJvYmplY3RUeXBlIjoic2hvdyIsImp3RW50aXR5SWQiOiJ0czIxNDgyIiwic2Vhc29uTnVtYmVyIjoxLCJqd1Jhd0VudGl0eUlkIjoidHNzMjU5MjEifX1dfQ&r=https%3A%2F%2Fwatch.amazon.co.jp%2Fdetail%3Fgti%3Damzn1.dv.gti.fefbd8eb-f66f-4fc4-b69f-d5a21a1e9038&uct_country=jp"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "U-NEXT",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJVLU5FWFQiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkpQWSIsInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6ODQsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MjE0ODIsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMjE0ODIiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3MyNTkyMSJ9fV19&r=https%3A%2F%2Fvideo.unext.jp%2Fepisode%2FSID0042368%2FED00244449&uct_country=jp"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Apple TV Store",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJBcHBsZSBUViBTdG9yZSIsIm1vbmV0aXphdGlvblR5cGUiOiJidXkiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkFVRCIsInByaWNlIjoyOS45OSwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjoyLCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjIxNDgyLCJvYmplY3RUeXBlIjoic2hvdyIsImp3RW50aXR5SWQiOiJ0czIxNDgyIiwic2Vhc29uTnVtYmVyIjoxLCJqd1Jhd0VudGl0eUlkIjoidHNzMjU5MjEifX1dfQ&r=https%3A%2F%2Ftv.apple.com%2Fau%2Fshow%2Ffullmetal-alchemist-brotherhood%2Fumc.cmc.310y4hb2lmauoi9ry4cqne0uh%3Fat%3D1000l3V2%26ct%3Dapp_tv%26itscg%3D30200%26itsct%3Djustwatch_tv&uct_country=au"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Hulu",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJIdWx1IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJKUFkiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjE1LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjIxNDgyLCJvYmplY3RUeXBlIjoic2hvdyIsImp3RW50aXR5SWQiOiJ0czIxNDgyIiwic2Vhc29uTnVtYmVyIjoxLCJqd1Jhd0VudGl0eUlkIjoidHNzMjU5MjEifX1dfQ&r=https%3A%2F%2Fwww.hulu.jp%2Fwatch%2F100035181&uct_country=jp"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Watcha",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJXYXRjaGEiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IktSVyIsInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6OTcsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MjE0ODIsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMjE0ODIiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3MyNTkyMSJ9fV19&r=https%3A%2F%2Fwatcha.com%2Fcontents%2FtRaNXqP&uct_country=kr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Catchplay",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJDYXRjaHBsYXkiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IlNHRCIsInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MTU5LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjIxNDgyLCJvYmplY3RUeXBlIjoic2hvdyIsImp3RW50aXR5SWQiOiJ0czIxNDgyIiwic2Vhc29uTnVtYmVyIjoxLCJqd1Jhd0VudGl0eUlkIjoidHNzMjU5MjEifX1dfQ&r=https%3A%2F%2Fcatchplay.com%2Fsg%2Fvideo%2F078b3eac-e53f-4ef1-8d7b-858179e5f5d0&uct_country=sg"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Animation Digital Network",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJBbmltYXRpb24gRGlnaXRhbCBOZXR3b3JrIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJFVVIiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjQxNSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjoyMTQ4Miwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMyMTQ4MiIsInNlYXNvbk51bWJlciI6MSwiandSYXdFbnRpdHlJZCI6InRzczI1OTIxIn19XX0&r=https%3A%2F%2Fanimationdigitalnetwork.com%2Fvideo%2F1103-fullmetal-alchemist-brotherhood%2F23694-episode-2&uct_country=fr"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Sony Liv",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJTb255IExpdiIsIm1vbmV0aXphdGlvblR5cGUiOiJmbGF0cmF0ZSIsInByZXNlbnRhdGlvblR5cGUiOiJoZCIsImN1cnJlbmN5IjoiSU5SIiwicGFydG5lcklkIjoyNDkwLCJwcm92aWRlcklkIjoyMzcsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MjE0ODIsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMjE0ODIiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3MyNTkyMSJ9fV19&r=https%3A%2F%2Fwww.sonyliv.com%2Fshows%2Ffullmetal-alchemist-brotherhood-1790007216%2Ffullmetal-alchemist-1090520884&uct_country=in"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Shahid VIP",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJTaGFoaWQgVklQIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6InNkIiwiY3VycmVuY3kiOiJBRUQiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjE3MTUsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MjE0ODIsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMjE0ODIiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3MyNTkyMSJ9fV19&r=https%3A%2F%2Fshahid.mbc.net%2Fen%2Fplayer%2Fepisodes%2FFullmetal-Alchemist-season-1-episode-6%2Fid-1009599&uct_country=ae"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "RTL+",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJSVEwrIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJFVVIiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjI3NTAsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsidGl0bGVJZCI6MjE0ODIsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMjE0ODIiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3MyNTkyMSJ9fV19&r=https%3A%2F%2Fplus.rtl.de%2Fvideo-tv%2Fserien%2Ffullmetal-alchemist-brotherhood-740421&uct_country=at"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Amasian TV",
+            "url": "https://amasian.tv/video/series/fullmetal-alchemist-brotherhood-eng-dub"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "3Cat",
+            "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiIzQ2F0IiwibW9uZXRpemF0aW9uVHlwZSI6ImZyZWUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MjIzNywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjoyMTQ4Miwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMyMTQ4MiIsInNlYXNvbk51bWJlciI6MSwiandSYXdFbnRpdHlJZCI6InRzczI1OTIxIn19XX0&r=https%3A%2F%2Fwww.3cat.cat%2F3cat%2Ft1xc15---l-emissari-d-orient%2Fvideo%2F6397891%2F&uct_country=es"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "",
+            "url": "https://www.justwatch.com"
+        }
+    ]
+}

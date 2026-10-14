@@ -1,0 +1,1027 @@
+{
+    "@class": "Jikan\\Model\\Search\\AnimeSearch",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 20,
+            "url": "https://myanimelist.net/anime/20/Naruto",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg?s=72e1fc2ba0d30e1607ab15de24dfc5f4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503t.jpg?s=72e1fc2ba0d30e1607ab15de24dfc5f4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg?s=72e1fc2ba0d30e1607ab15de24dfc5f4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503.webp?s=72e1fc2ba0d30e1607ab15de24dfc5f4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503t.webp?s=72e1fc2ba0d30e1607ab15de24dfc5f4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1141/142503l.webp?s=72e1fc2ba0d30e1607ab15de24dfc5f4"
+                }
+            },
+            "title": "Naruto",
+            "airing": false,
+            "synopsis": "Twelve years ago, a colossal demon fox terrorized the world. During the monster's attack on the Hidden Leaf Village, the Hokage—the village's leader and most powerful ninja—sacrifices himself to seal...",
+            "type": "TV",
+            "episodes": 220,
+            "score": 8.03,
+            "startDate": "2002-10-03T00:00:00+00:00",
+            "endDate": "2007-02-08T00:00:00+00:00",
+            "members": 3168977,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 1735,
+            "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg?s=a92272fe7a37f1c114011b406d5390c8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305t.jpg?s=a92272fe7a37f1c114011b406d5390c8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg?s=a92272fe7a37f1c114011b406d5390c8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305.webp?s=a92272fe7a37f1c114011b406d5390c8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305t.webp?s=a92272fe7a37f1c114011b406d5390c8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1565/111305l.webp?s=a92272fe7a37f1c114011b406d5390c8"
+                }
+            },
+            "title": "Naruto: Shippuuden",
+            "airing": false,
+            "synopsis": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the myster...",
+            "type": "TV",
+            "episodes": 500,
+            "score": 8.29,
+            "startDate": "2007-02-15T00:00:00+00:00",
+            "endDate": "2017-03-23T00:00:00+00:00",
+            "members": 2796138,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 13667,
+            "url": "https://myanimelist.net/anime/13667/Naruto__Shippuuden_Movie_6_-_Road_to_Ninja",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg?s=12e72e32bba541ac795227b2278f8c72",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1620/94336t.jpg?s=12e72e32bba541ac795227b2278f8c72",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1620/94336l.jpg?s=12e72e32bba541ac795227b2278f8c72"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1620/94336.webp?s=12e72e32bba541ac795227b2278f8c72",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1620/94336t.webp?s=12e72e32bba541ac795227b2278f8c72",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1620/94336l.webp?s=12e72e32bba541ac795227b2278f8c72"
+                }
+            },
+            "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+            "airing": false,
+            "synopsis": "Returning home to Konohagakure, the young ninja celebrate defeating a group of supposed Akatsuki members. Naruto Uzumaki and Sakura Haruno, however, feel differently. Naruto is jealous of his comrades...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.69,
+            "startDate": "2012-07-28T00:00:00+00:00",
+            "endDate": "2012-07-28T00:00:00+00:00",
+            "members": 386225,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 16870,
+            "url": "https://myanimelist.net/anime/16870/The_Last__Naruto_the_Movie",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1491/134498.jpg?s=5901e3c64e9aa59250cd36194ada2e31",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1491/134498t.jpg?s=5901e3c64e9aa59250cd36194ada2e31",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1491/134498l.jpg?s=5901e3c64e9aa59250cd36194ada2e31"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1491/134498.webp?s=5901e3c64e9aa59250cd36194ada2e31",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1491/134498t.webp?s=5901e3c64e9aa59250cd36194ada2e31",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1491/134498l.webp?s=5901e3c64e9aa59250cd36194ada2e31"
+                }
+            },
+            "title": "The Last: Naruto the Movie",
+            "airing": false,
+            "synopsis": "Two years have passed since the end of the Fourth Great Ninja War. Konohagakure has remained in a state of peace and harmony—until Sixth Hokage Kakashi Hatake notices the moon is dangerously approachi...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.8,
+            "startDate": "2014-12-06T00:00:00+00:00",
+            "endDate": "2014-12-06T00:00:00+00:00",
+            "members": 680025,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 2472,
+            "url": "https://myanimelist.net/anime/2472/Naruto__Shippuuden_Movie_1",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1703/134493.jpg?s=3e207fda988fe1d2cd933b8bf5f23e34",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1703/134493t.jpg?s=3e207fda988fe1d2cd933b8bf5f23e34",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1703/134493l.jpg?s=3e207fda988fe1d2cd933b8bf5f23e34"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1703/134493.webp?s=3e207fda988fe1d2cd933b8bf5f23e34",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1703/134493t.webp?s=3e207fda988fe1d2cd933b8bf5f23e34",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1703/134493l.webp?s=3e207fda988fe1d2cd933b8bf5f23e34"
+                }
+            },
+            "title": "Naruto: Shippuuden Movie 1",
+            "airing": false,
+            "synopsis": "A group of ninja is planning to revive a powerful demon, and once its spirit is reunited with its body, the world will be destroyed. The only way to prevent this from happening is for Shion, a shrine...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.3,
+            "startDate": "2007-08-04T00:00:00+00:00",
+            "endDate": "2007-08-04T00:00:00+00:00",
+            "members": 322554,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 442,
+            "url": "https://myanimelist.net/anime/442/Naruto_Movie_1__Dai_Katsugeki_Yuki_Hime_Ninpouchou_Dattebayo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1231/134484.jpg?s=b9f738194de8d2cfb664b3499f6d9ac7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1231/134484t.jpg?s=b9f738194de8d2cfb664b3499f6d9ac7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1231/134484l.jpg?s=b9f738194de8d2cfb664b3499f6d9ac7"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1231/134484.webp?s=b9f738194de8d2cfb664b3499f6d9ac7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1231/134484t.webp?s=b9f738194de8d2cfb664b3499f6d9ac7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1231/134484l.webp?s=b9f738194de8d2cfb664b3499f6d9ac7"
+                }
+            },
+            "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo!",
+            "airing": false,
+            "synopsis": "Naruto Uzumaki and his squadmates, Sasuke Uchiha and Sakura Haruno, are sent on a mission to escort a movie crew on its way to film in the Land of Snow. They soon find out that they are accompanying a...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.13,
+            "startDate": "2004-08-21T00:00:00+00:00",
+            "endDate": "2004-08-21T00:00:00+00:00",
+            "members": 323965,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 4437,
+            "url": "https://myanimelist.net/anime/4437/Naruto__Shippuuden_Movie_2_-_Kizuna",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/134494.jpg?s=fd9bca84df829e980e0200445210d425",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1484/134494t.jpg?s=fd9bca84df829e980e0200445210d425",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1484/134494l.jpg?s=fd9bca84df829e980e0200445210d425"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/134494.webp?s=fd9bca84df829e980e0200445210d425",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1484/134494t.webp?s=fd9bca84df829e980e0200445210d425",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1484/134494l.webp?s=fd9bca84df829e980e0200445210d425"
+                }
+            },
+            "title": "Naruto: Shippuuden Movie 2 - Kizuna",
+            "airing": false,
+            "synopsis": "Unleashing a devastating surprise attack, flying ninjas from the Land of Sky are seeking revenge against their old enemy Konohagakure. Despite his eagerness to join the fight, Naruto Uzumaki is held u...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.29,
+            "startDate": "2008-08-02T00:00:00+00:00",
+            "endDate": "2008-08-02T00:00:00+00:00",
+            "members": 292412,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 28755,
+            "url": "https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/78280.jpg?s=9d8b257b29ff99f0f136562547d0d465",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/78280t.jpg?s=9d8b257b29ff99f0f136562547d0d465",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/78280l.jpg?s=9d8b257b29ff99f0f136562547d0d465"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/78280.webp?s=9d8b257b29ff99f0f136562547d0d465",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/78280t.webp?s=9d8b257b29ff99f0f136562547d0d465",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/78280l.webp?s=9d8b257b29ff99f0f136562547d0d465"
+                }
+            },
+            "title": "Boruto: Naruto the Movie",
+            "airing": false,
+            "synopsis": "The spirited Boruto Uzumaki, son of Seventh Hokage Naruto, is a skilled ninja who possesses the same brashness and passion his father once had. However, the constant absence of his father, who is busy...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.37,
+            "startDate": "2015-08-07T00:00:00+00:00",
+            "endDate": "2015-08-07T00:00:00+00:00",
+            "members": 503742,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10589,
+            "url": "https://myanimelist.net/anime/10589/Naruto__Shippuuden_Movie_5_-_Blood_Prison",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496.jpg?s=169e7a2c20e9f51bf7fb9da5475252c0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496t.jpg?s=169e7a2c20e9f51bf7fb9da5475252c0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496l.jpg?s=169e7a2c20e9f51bf7fb9da5475252c0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496.webp?s=169e7a2c20e9f51bf7fb9da5475252c0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496t.webp?s=169e7a2c20e9f51bf7fb9da5475252c0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496l.webp?s=169e7a2c20e9f51bf7fb9da5475252c0"
+                }
+            },
+            "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
+            "airing": false,
+            "synopsis": "During their discussion of a sensitive investigation A, the Fourth Raikage, and his subordinates are ambushed by a cloaked intruder. As the Kumogakure leader repels the assault, he is shocked to disco...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.47,
+            "startDate": "2011-07-30T00:00:00+00:00",
+            "endDate": "2011-07-30T00:00:00+00:00",
+            "members": 280005,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 8246,
+            "url": "https://myanimelist.net/anime/8246/Naruto__Shippuuden_Movie_4_-_The_Lost_Tower",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1479/116734.jpg?s=b548d20a8e17963f03657b92f37df886",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1479/116734t.jpg?s=b548d20a8e17963f03657b92f37df886",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1479/116734l.jpg?s=b548d20a8e17963f03657b92f37df886"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1479/116734.webp?s=b548d20a8e17963f03657b92f37df886",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1479/116734t.webp?s=b548d20a8e17963f03657b92f37df886",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1479/116734l.webp?s=b548d20a8e17963f03657b92f37df886"
+                }
+            },
+            "title": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+            "airing": false,
+            "synopsis": "Led by Yamato, Naruto Uzumaki, Sakura Haruno, and Sai are assigned to capture Mukade, a rogue ninja who is pursuing the ancient chakra Ryuumyaku located underneath the Rouran ruins. While the Ryuumyak...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.43,
+            "startDate": "2010-07-31T00:00:00+00:00",
+            "endDate": "2010-07-31T00:00:00+00:00",
+            "members": 282956,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 936,
+            "url": "https://myanimelist.net/anime/936/Naruto_Movie_2__Dai_Gekitotsu_Maboroshi_no_Chiteiiseki_Dattebayo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1114/134485.jpg?s=10c15c4bdee9d3e39460b9ab2c9f8b33",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1114/134485t.jpg?s=10c15c4bdee9d3e39460b9ab2c9f8b33",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1114/134485l.jpg?s=10c15c4bdee9d3e39460b9ab2c9f8b33"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1114/134485.webp?s=10c15c4bdee9d3e39460b9ab2c9f8b33",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1114/134485t.webp?s=10c15c4bdee9d3e39460b9ab2c9f8b33",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1114/134485l.webp?s=10c15c4bdee9d3e39460b9ab2c9f8b33"
+                }
+            },
+            "title": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+            "airing": false,
+            "synopsis": "In a tumultuous effort, the Sunagakure ninjas attempt to repel an unforeseen invasion of mysterious armored warriors on the Land of Wind. Shortly afterwards, the same armored troops led by Temujin—a s...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.88,
+            "startDate": "2005-08-06T00:00:00+00:00",
+            "endDate": "2005-08-06T00:00:00+00:00",
+            "members": 257346,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 2144,
+            "url": "https://myanimelist.net/anime/2144/Naruto_Movie_3__Dai_Koufun_Mikazuki-jima_no_Animal_Panic_Dattebayo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/134487.jpg?s=8add27de3f861e2def694410e7a44f7b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1918/134487t.jpg?s=8add27de3f861e2def694410e7a44f7b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1918/134487l.jpg?s=8add27de3f861e2def694410e7a44f7b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/134487.webp?s=8add27de3f861e2def694410e7a44f7b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1918/134487t.webp?s=8add27de3f861e2def694410e7a44f7b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1918/134487l.webp?s=8add27de3f861e2def694410e7a44f7b"
+                }
+            },
+            "title": "Naruto Movie 3: Dai Koufun! Mikazuki-jima no Animal Panic Dattebayo!",
+            "airing": false,
+            "synopsis": "Led by Kakashi Hatake, Naruto Uzumaki, Sakura Haruno, and Rock Lee are tasked to escort the extravagant Prince Michiru Tsuki and his spoiled son Hikaru to the prosperous Land of Moon when the two retu...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.93,
+            "startDate": "2006-08-05T00:00:00+00:00",
+            "endDate": "2006-08-05T00:00:00+00:00",
+            "members": 229083,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 6325,
+            "url": "https://myanimelist.net/anime/6325/Naruto__Shippuuden_Movie_3_-_Hi_no_Ishi_wo_Tsugu_Mono",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/116732.jpg?s=e4ad4f9c01d532b7068ac7bed5604d73",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1493/116732t.jpg?s=e4ad4f9c01d532b7068ac7bed5604d73",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1493/116732l.jpg?s=e4ad4f9c01d532b7068ac7bed5604d73"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/116732.webp?s=e4ad4f9c01d532b7068ac7bed5604d73",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1493/116732t.webp?s=e4ad4f9c01d532b7068ac7bed5604d73",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1493/116732l.webp?s=e4ad4f9c01d532b7068ac7bed5604d73"
+                }
+            },
+            "title": "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono",
+            "airing": false,
+            "synopsis": "After being sent to investigate the alarming disappearance of four bloodline limit-wielding ninjas from different countries, Kakashi Hatake, Naruto Uzumaki, Sakura Haruno, and Sai successfully discove...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.34,
+            "startDate": "2009-08-01T00:00:00+00:00",
+            "endDate": "2009-08-01T00:00:00+00:00",
+            "members": 226744,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 32365,
+            "url": "https://myanimelist.net/anime/32365/Boruto__Naruto_the_Movie_-_Naruto_ga_Hokage_ni_Natta_Hi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/77678.jpg?s=fc407cec1b4439623be598ad1eb31867",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/77678t.jpg?s=fc407cec1b4439623be598ad1eb31867",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/77678l.jpg?s=fc407cec1b4439623be598ad1eb31867"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/77678.webp?s=fc407cec1b4439623be598ad1eb31867",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/77678t.webp?s=fc407cec1b4439623be598ad1eb31867",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/77678l.webp?s=fc407cec1b4439623be598ad1eb31867"
+                }
+            },
+            "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+            "airing": false,
+            "synopsis": "Bundled with the limited edition of Blu-ray/DVD of Boruto: Naruto the Movie.",
+            "type": "Special",
+            "episodes": 1,
+            "score": 7.31,
+            "startDate": "2016-07-06T00:00:00+00:00",
+            "endDate": "2016-07-06T00:00:00+00:00",
+            "members": 126917,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 12979,
+            "url": "https://myanimelist.net/anime/12979/Naruto_SD__Rock_Lee_no_Seishun_Full-Power_Ninden",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/36475.jpg?s=afbabba381a6eebe252dc3c6ed09067a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/36475t.jpg?s=afbabba381a6eebe252dc3c6ed09067a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/36475l.jpg?s=afbabba381a6eebe252dc3c6ed09067a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/36475.webp?s=afbabba381a6eebe252dc3c6ed09067a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/36475t.webp?s=afbabba381a6eebe252dc3c6ed09067a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/36475l.webp?s=afbabba381a6eebe252dc3c6ed09067a"
+                }
+            },
+            "title": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+            "airing": false,
+            "synopsis": "The competitive shinobi world has proven to be challenging for Rock Lee, who lacks the typically required abilities. To compensate for this handicap, the young ninja tenaciously endures severe trainin...",
+            "type": "TV",
+            "episodes": 51,
+            "score": 7.18,
+            "startDate": "2012-04-03T00:00:00+00:00",
+            "endDate": "2013-03-26T00:00:00+00:00",
+            "members": 108957,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 1074,
+            "url": "https://myanimelist.net/anime/1074/Naruto_Narutimate_Hero_3__Tsuini_Gekitotsu_Jounin_vs_Genin_Musabetsu_Dairansen_Taikai_Kaisai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/11244.jpg?s=04a45f30a2d3fa666388fcb5dab37750",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/11244t.jpg?s=04a45f30a2d3fa666388fcb5dab37750",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/11244l.jpg?s=04a45f30a2d3fa666388fcb5dab37750"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/11244.webp?s=04a45f30a2d3fa666388fcb5dab37750",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/11244t.webp?s=04a45f30a2d3fa666388fcb5dab37750",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/11244l.webp?s=04a45f30a2d3fa666388fcb5dab37750"
+                }
+            },
+            "title": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+            "airing": false,
+            "synopsis": "Konohagakure hosts a special tournament for ninjas of all ranks, stirring up fervor among the rookies who are eager to prove themselves in a competition against their superiors. Additionally, the winn...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 6.77,
+            "startDate": "2005-12-22T00:00:00+00:00",
+            "endDate": "2005-12-22T00:00:00+00:00",
+            "members": 86586,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 4134,
+            "url": "https://myanimelist.net/anime/4134/Naruto__Shippuuden_-_Shippuu_Konoha_Gakuen_Den",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/51895.jpg?s=50657ee2b01cf3e31680314e7fe65981",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/51895t.jpg?s=50657ee2b01cf3e31680314e7fe65981",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/51895l.jpg?s=50657ee2b01cf3e31680314e7fe65981"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/51895.webp?s=50657ee2b01cf3e31680314e7fe65981",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/51895t.webp?s=50657ee2b01cf3e31680314e7fe65981",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/51895l.webp?s=50657ee2b01cf3e31680314e7fe65981"
+                }
+            },
+            "title": "Naruto: Shippuuden - Shippuu! \"Konoha Gakuen\" Den",
+            "airing": false,
+            "synopsis": "The renowned Konoha Academy is very strict about proper behavior. However, the arrival of transfer student Naruto Uzumaki—who declares that he wants to become the Yakuza boss of all Japan—drastically...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 7.13,
+            "startDate": "2008-02-06T00:00:00+00:00",
+            "endDate": "2008-02-06T00:00:00+00:00",
+            "members": 69543,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34566,
+            "url": "https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1091/99847.jpg?s=6142c549040a025e3a1101167ce0fe0b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1091/99847t.jpg?s=6142c549040a025e3a1101167ce0fe0b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1091/99847l.jpg?s=6142c549040a025e3a1101167ce0fe0b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1091/99847.webp?s=6142c549040a025e3a1101167ce0fe0b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1091/99847t.webp?s=6142c549040a025e3a1101167ce0fe0b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1091/99847l.webp?s=6142c549040a025e3a1101167ce0fe0b"
+                }
+            },
+            "title": "Boruto: Naruto Next Generations",
+            "airing": false,
+            "synopsis": "Following the successful end of the Fourth Shinobi World War, Konohagakure has been enjoying a period of peace, prosperity, and extraordinary technological advancement. This is all due to the efforts...",
+            "type": "TV",
+            "episodes": 293,
+            "score": 5.97,
+            "startDate": "2017-04-05T00:00:00+00:00",
+            "endDate": "2023-03-26T00:00:00+00:00",
+            "members": 942479,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 19511,
+            "url": "https://myanimelist.net/anime/19511/Naruto__Shippuuden_-_Sunny_Side_Battle",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1047/91638.jpg?s=0fc6795322dd479caca2103d775de05b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1047/91638t.jpg?s=0fc6795322dd479caca2103d775de05b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1047/91638l.jpg?s=0fc6795322dd479caca2103d775de05b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1047/91638.webp?s=0fc6795322dd479caca2103d775de05b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1047/91638t.webp?s=0fc6795322dd479caca2103d775de05b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1047/91638l.webp?s=0fc6795322dd479caca2103d775de05b"
+                }
+            },
+            "title": "Naruto: Shippuuden - Sunny Side Battle",
+            "airing": false,
+            "synopsis": "Back at their childhood home, siblings Itachi and Sasuke Uchiha experience an unusual morning together when Itachi becomes obsessed with cooking the perfect fried egg for Sasuke. Despite being complet...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 7.59,
+            "startDate": "2013-10-06T00:00:00+00:00",
+            "endDate": "2013-10-06T00:00:00+00:00",
+            "members": 81543,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 761,
+            "url": "https://myanimelist.net/anime/761/Naruto__Akaki_Yotsuba_no_Clover_wo_Sagase",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/11240.jpg?s=9c3e8b5fbbc6163c4c25c67d54692406",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/11240t.jpg?s=9c3e8b5fbbc6163c4c25c67d54692406",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/11240l.jpg?s=9c3e8b5fbbc6163c4c25c67d54692406"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/11240.webp?s=9c3e8b5fbbc6163c4c25c67d54692406",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/11240t.webp?s=9c3e8b5fbbc6163c4c25c67d54692406",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/11240l.webp?s=9c3e8b5fbbc6163c4c25c67d54692406"
+                }
+            },
+            "title": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+            "airing": false,
+            "synopsis": "When Konohamaru Sarutobi asks Naruto Uzumaki for help, the latter readily accepts to join his young friend on a special mission—the retrieval of the legendary crimson four-leaf clover, rumored to have...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 6.58,
+            "startDate": "2003-05-24T00:00:00+00:00",
+            "endDate": "2003-05-24T00:00:00+00:00",
+            "members": 93292,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 53236,
+            "url": "https://myanimelist.net/anime/53236/Road_of_Naruto",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1731/128787.jpg?s=bf5ba8e6be8d41201104efca93441fa0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1731/128787t.jpg?s=bf5ba8e6be8d41201104efca93441fa0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1731/128787l.jpg?s=bf5ba8e6be8d41201104efca93441fa0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1731/128787.webp?s=bf5ba8e6be8d41201104efca93441fa0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1731/128787t.webp?s=bf5ba8e6be8d41201104efca93441fa0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1731/128787l.webp?s=bf5ba8e6be8d41201104efca93441fa0"
+                }
+            },
+            "title": "Road of Naruto",
+            "airing": false,
+            "synopsis": "In celebration of 20 years of Naruto, Studio Pierrot posted an anniversary PV on their YouTube channel. The PV is a compilation of newly reworked scenes from Naruto containing new animation.",
+            "type": "PV",
+            "episodes": 1,
+            "score": 8.38,
+            "startDate": "2022-10-03T00:00:00+00:00",
+            "endDate": "2022-10-03T00:00:00+00:00",
+            "members": 39888,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 594,
+            "url": "https://myanimelist.net/anime/594/Naruto__Takigakure_no_Shitou_-_Ore_ga_Eiyuu_Dattebayo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1932/152971.jpg?s=9d324b3b0e4fe8ee803f3cacc056b600",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1932/152971t.jpg?s=9d324b3b0e4fe8ee803f3cacc056b600",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1932/152971l.jpg?s=9d324b3b0e4fe8ee803f3cacc056b600"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1932/152971.webp?s=9d324b3b0e4fe8ee803f3cacc056b600",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1932/152971t.webp?s=9d324b3b0e4fe8ee803f3cacc056b600",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1932/152971l.webp?s=9d324b3b0e4fe8ee803f3cacc056b600"
+                }
+            },
+            "title": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+            "airing": false,
+            "synopsis": "After safely escorting the cowardly Takigakure leader Shibuki to his homeland, Naruto Uzumaki, Sasuke Uchiha, and Sakura Haruno are taken aback by the village's sudden invasion of rogue ninjas. As the...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 6.76,
+            "startDate": "2003-12-20T00:00:00+00:00",
+            "endDate": "2003-12-20T00:00:00+00:00",
+            "members": 96669,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 64614,
+            "url": "https://myanimelist.net/anime/64614/PUBG_Mobile_x_Naruto__Shippuuden_Collab",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1237/159001.jpg?s=73976e4a1acd3077d8b4ec10e33f1c20",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1237/159001t.jpg?s=73976e4a1acd3077d8b4ec10e33f1c20",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1237/159001l.jpg?s=73976e4a1acd3077d8b4ec10e33f1c20"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1237/159001.webp?s=73976e4a1acd3077d8b4ec10e33f1c20",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1237/159001t.webp?s=73976e4a1acd3077d8b4ec10e33f1c20",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1237/159001l.webp?s=73976e4a1acd3077d8b4ec10e33f1c20"
+                }
+            },
+            "title": "PUBG Mobile x Naruto: Shippuuden Collab",
+            "airing": false,
+            "synopsis": "Promotional video for an in-game collaboration between PUBG Mobile and Naruto: Shippuuden.",
+            "type": "PV",
+            "episodes": 1,
+            "score": 6.25,
+            "startDate": "2026-07-08T00:00:00+00:00",
+            "endDate": "2026-07-08T00:00:00+00:00",
+            "members": 372,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10686,
+            "url": "https://myanimelist.net/anime/10686/Naruto__Honoo_no_Chuunin_Shiken_Naruto_vs_Konohamaru",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/30813.jpg?s=55399a5c0c95cad6a6fb83e09dba727c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/30813t.jpg?s=55399a5c0c95cad6a6fb83e09dba727c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/30813l.jpg?s=55399a5c0c95cad6a6fb83e09dba727c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/30813.webp?s=55399a5c0c95cad6a6fb83e09dba727c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/30813t.webp?s=55399a5c0c95cad6a6fb83e09dba727c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/30813l.webp?s=55399a5c0c95cad6a6fb83e09dba727c"
+                }
+            },
+            "title": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!",
+            "airing": false,
+            "synopsis": "As the Fourth Great Ninja War quickly approaches, Sunagakure hosts a special Chunin exam to strengthen the troops of the Allied Shinobi Forces. Among the participants are Konohamaru Sarutobi, an ambit...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.18,
+            "startDate": "2011-07-30T00:00:00+00:00",
+            "endDate": "2011-07-30T00:00:00+00:00",
+            "members": 87942,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10075,
+            "url": "https://myanimelist.net/anime/10075/Naruto_x_UT",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/30485.jpg?s=0e585f452876ec490cd1f922d26fad36",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/30485t.jpg?s=0e585f452876ec490cd1f922d26fad36",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/30485l.jpg?s=0e585f452876ec490cd1f922d26fad36"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/30485.webp?s=0e585f452876ec490cd1f922d26fad36",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/30485t.webp?s=0e585f452876ec490cd1f922d26fad36",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/30485l.webp?s=0e585f452876ec490cd1f922d26fad36"
+                }
+            },
+            "title": "Naruto x UT",
+            "airing": false,
+            "synopsis": "All-new animation offered throughout UNIQLO clothing stores in Japan on January 1, 2011. The DVD contains an exclusive version of Mayonaka Orchestra, by the Japanese rock band Aqua Timez. A limited nu...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 7.35,
+            "startDate": "2011-01-01T00:00:00+00:00",
+            "endDate": "2011-01-01T00:00:00+00:00",
+            "members": 56471,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10659,
+            "url": "https://myanimelist.net/anime/10659/Naruto_Soyokazeden_Movie__Naruto_to_Mashin_to_Mitsu_no_Onegai_Dattebayo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/31573.jpg?s=6a58b632acb146691169f14b2d9f5860",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/31573t.jpg?s=6a58b632acb146691169f14b2d9f5860",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/31573l.jpg?s=6a58b632acb146691169f14b2d9f5860"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/31573.webp?s=6a58b632acb146691169f14b2d9f5860",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/31573t.webp?s=6a58b632acb146691169f14b2d9f5860",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/31573l.webp?s=6a58b632acb146691169f14b2d9f5860"
+                }
+            },
+            "title": "Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!",
+            "airing": false,
+            "synopsis": "While enjoying a barbecue alongside team members and peers, Naruto Uzumaki stumbles upon a strange old bottle that houses a genie! The mythical being is willing to grant three wishes, but in a flurry...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.95,
+            "startDate": "2010-07-31T00:00:00+00:00",
+            "endDate": "2010-07-31T00:00:00+00:00",
+            "members": 59751,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 2248,
+            "url": "https://myanimelist.net/anime/2248/Naruto__Dai_Katsugeki_Yuki_Hime_Ninpouchou_Dattebayo_-_Konoha_no_Sato_no_Dai_Undoukai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1/2473.jpg?s=540fd3ee478ab403e24fb781cae1e4ed",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1/2473t.jpg?s=540fd3ee478ab403e24fb781cae1e4ed",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1/2473l.jpg?s=540fd3ee478ab403e24fb781cae1e4ed"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1/2473.webp?s=540fd3ee478ab403e24fb781cae1e4ed",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1/2473t.webp?s=540fd3ee478ab403e24fb781cae1e4ed",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1/2473l.webp?s=540fd3ee478ab403e24fb781cae1e4ed"
+                }
+            },
+            "title": "Naruto: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo! - Konoha no Sato no Dai Undoukai",
+            "airing": false,
+            "synopsis": "The Konohagakure Grand Sports Festival has begun with all ninja squads vying for the ultimate prize—a whole week of paid leave! Despite his enthusiasm to achieve victory alongside Sasuke Uchiha and Sa...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 6.86,
+            "startDate": "2004-08-21T00:00:00+00:00",
+            "endDate": "2004-08-21T00:00:00+00:00",
+            "members": 82625,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 7367,
+            "url": "https://myanimelist.net/anime/7367/Naruto__The_Cross_Roads",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/27050.jpg?s=5dd6d0b9017576c7b5c94d2dab8fdf7d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/27050t.jpg?s=5dd6d0b9017576c7b5c94d2dab8fdf7d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/27050l.jpg?s=5dd6d0b9017576c7b5c94d2dab8fdf7d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/27050.webp?s=5dd6d0b9017576c7b5c94d2dab8fdf7d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/27050t.webp?s=5dd6d0b9017576c7b5c94d2dab8fdf7d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/27050l.webp?s=5dd6d0b9017576c7b5c94d2dab8fdf7d"
+                }
+            },
+            "title": "Naruto: The Cross Roads",
+            "airing": false,
+            "synopsis": "The operation to find a missing person goes awry when Kakashi Hatake falls victim to a suspicious trap and gets separated from his students Naruto Uzumaki, Sasuke Uchiha, and Sakura Haruno. To make ma...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 6.78,
+            "startDate": "2009-10-12T00:00:00+00:00",
+            "endDate": "2009-10-12T00:00:00+00:00",
+            "members": 58245,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 54688,
+            "url": "https://myanimelist.net/anime/54688/Naruto_x_Ninkuu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510.jpg?s=570677aaf819e3f77419fd217a0f6899",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510t.jpg?s=570677aaf819e3f77419fd217a0f6899",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg?s=570677aaf819e3f77419fd217a0f6899"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510.webp?s=570677aaf819e3f77419fd217a0f6899",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510t.webp?s=570677aaf819e3f77419fd217a0f6899",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510l.webp?s=570677aaf819e3f77419fd217a0f6899"
+                }
+            },
+            "title": "Naruto x Ninkuu",
+            "airing": false,
+            "synopsis": "A new anime project in celebration of Naruto's 20th anniversary.",
+            "type": "TV",
+            "episodes": 4,
+            "score": 0.0,
+            "startDate": null,
+            "endDate": null,
+            "members": 43368,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36564,
+            "url": "https://myanimelist.net/anime/36564/Kamiusagi_Rope_x_Boruto__Naruto_Next_Generations",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/88377.jpg?s=79fc85f6fc2e86282ec74b6fc1c1e204",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/88377t.jpg?s=79fc85f6fc2e86282ec74b6fc1c1e204",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/88377l.jpg?s=79fc85f6fc2e86282ec74b6fc1c1e204"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/88377.webp?s=79fc85f6fc2e86282ec74b6fc1c1e204",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/88377t.webp?s=79fc85f6fc2e86282ec74b6fc1c1e204",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/88377l.webp?s=79fc85f6fc2e86282ec74b6fc1c1e204"
+                }
+            },
+            "title": "Kamiusagi Rope x Boruto: Naruto Next Generations",
+            "airing": false,
+            "synopsis": "A 3-way collaboration between Kamiusagi Rope, Boruto: Naruto Next Generations, and TOHO Cinemas. The purpose is to promote a new TOHO theater opening up in Ueno on November 4, 2017. The collaboration...",
+            "type": "CM",
+            "episodes": 1,
+            "score": 5.49,
+            "startDate": "2017-10-12T00:00:00+00:00",
+            "endDate": "2017-10-12T00:00:00+00:00",
+            "members": 9132,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 54687,
+            "url": "https://myanimelist.net/anime/54687/Boruto__Naruto_Next_Generations_Part_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1604/134068.jpg?s=94bee9c5e52799eae96b81c1d88af6c3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1604/134068t.jpg?s=94bee9c5e52799eae96b81c1d88af6c3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1604/134068l.jpg?s=94bee9c5e52799eae96b81c1d88af6c3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1604/134068.webp?s=94bee9c5e52799eae96b81c1d88af6c3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1604/134068t.webp?s=94bee9c5e52799eae96b81c1d88af6c3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1604/134068l.webp?s=94bee9c5e52799eae96b81c1d88af6c3"
+                }
+            },
+            "title": "Boruto: Naruto Next Generations Part 2",
+            "airing": false,
+            "synopsis": "",
+            "type": "TV",
+            "episodes": 0,
+            "score": 0.0,
+            "startDate": null,
+            "endDate": null,
+            "members": 36371,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 247,
+            "url": "https://myanimelist.net/anime/247/Harukanaru_Toki_no_Naka_de__Hachiyou_Shou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1733/153550.jpg?s=d3027d08d829614754aacfbc6a77f132",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1733/153550t.jpg?s=d3027d08d829614754aacfbc6a77f132",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1733/153550l.jpg?s=d3027d08d829614754aacfbc6a77f132"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1733/153550.webp?s=d3027d08d829614754aacfbc6a77f132",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1733/153550t.webp?s=d3027d08d829614754aacfbc6a77f132",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1733/153550l.webp?s=d3027d08d829614754aacfbc6a77f132"
+                }
+            },
+            "title": "Harukanaru Toki no Naka de: Hachiyou Shou",
+            "airing": false,
+            "synopsis": "Akane Motomiya and her friends Tenma and Shimon are pulled by a demon into another world, where Akane becomes the Priestess of the Dragon God. The people of this world tell her that she is the only on...",
+            "type": "TV",
+            "episodes": 26,
+            "score": 7.01,
+            "startDate": "2004-10-06T00:00:00+00:00",
+            "endDate": "2005-03-30T00:00:00+00:00",
+            "members": 27210,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 1907,
+            "url": "https://myanimelist.net/anime/1907/Harukanaru_Toki_no_Naka_de__Hachiyou_Shou_OVA",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/72169.jpg?s=1dba32e8c44b51a1d988612d246b4c12",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/72169t.jpg?s=1dba32e8c44b51a1d988612d246b4c12",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/72169l.jpg?s=1dba32e8c44b51a1d988612d246b4c12"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/72169.webp?s=1dba32e8c44b51a1d988612d246b4c12",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/72169t.webp?s=1dba32e8c44b51a1d988612d246b4c12",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/72169l.webp?s=1dba32e8c44b51a1d988612d246b4c12"
+                }
+            },
+            "title": "Harukanaru Toki no Naka de: Hachiyou Shou OVA",
+            "airing": false,
+            "synopsis": "Two side stories to the main series Kokoro no Yukue (Ten) ~ Destination of the Heart Story featuring the four Hachiyou of Heaven: Yorihisa and Takamichi, Eisen and Inori. Minor incidents lead to the H...",
+            "type": "OVA",
+            "episodes": 2,
+            "score": 6.41,
+            "startDate": "2005-12-23T00:00:00+00:00",
+            "endDate": "2006-01-27T00:00:00+00:00",
+            "members": 2515,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 952,
+            "url": "https://myanimelist.net/anime/952/Magical_Nyan_Nyan_Taruto",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1/952.jpg?s=dc4e285b7587bcceb59d1cd68f64e261",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1/952t.jpg?s=dc4e285b7587bcceb59d1cd68f64e261",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1/952l.jpg?s=dc4e285b7587bcceb59d1cd68f64e261"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1/952.webp?s=dc4e285b7587bcceb59d1cd68f64e261",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1/952t.webp?s=dc4e285b7587bcceb59d1cd68f64e261",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1/952l.webp?s=dc4e285b7587bcceb59d1cd68f64e261"
+                }
+            },
+            "title": "Magical Nyan Nyan Taruto",
+            "airing": false,
+            "synopsis": "Taruto is a little cat who has just moved to a new city with her master's family. Taruto spends her days making friends and exploring her new home town. She also has a knack for getting herself into t...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.3,
+            "startDate": "2001-07-05T00:00:00+00:00",
+            "endDate": "2001-09-27T00:00:00+00:00",
+            "members": 9140,
+            "rated": "G"
+        }
+    ]
+}

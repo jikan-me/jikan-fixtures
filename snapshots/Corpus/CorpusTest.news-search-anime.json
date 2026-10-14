@@ -1,0 +1,719 @@
+{
+    "@class": "Jikan\\Model\\News\\NewsList",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74516828,
+            "url": "https://myanimelist.net/news/74516828",
+            "title": "Toei Animation Produces New 'Ginga Tetsudou 999' Theatrical Anime Adaptation",
+            "date": "2026-07-25T03:56:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2273390",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1784977301-779f82a6a4d8130e1b01f97c978e6f02.jpeg?s=740118d59bf723a6d926bd1d819047b6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1784977301-779f82a6a4d8130e1b01f97c978e6f02.jpeg?s=740118d59bf723a6d926bd1d819047b6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1784977301-779f82a6a4d8130e1b01f97c978e6f02.jpeg?s=740118d59bf723a6d926bd1d819047b6"
+                }
+            },
+            "comments": 8,
+            "excerpt": "Toei Animation announced a new theatrical anime adaptation for Ginga Tetsudou 999 (Galaxy Express 999) anime franchise on Saturday. The new film features a story concept by Rintarou (Ginga Tetsudou 999 (Movie), Sayonara Ginga Tetsudou 999 director) and animation production by Toe...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74808029,
+            "url": "https://myanimelist.net/news/74808029",
+            "title": "New 'Dr. Stone' Anime Announced",
+            "date": "2026-10-10T06:05:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282296",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg?s=95920d518b4a0fe82c15c0cdd5fbd86b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg?s=95920d518b4a0fe82c15c0cdd5fbd86b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg?s=95920d518b4a0fe82c15c0cdd5fbd86b"
+                }
+            },
+            "comments": 12,
+            "excerpt": "The Stone Fes.2026 event at Yokohama Buntai announced on Saturday that a sequel anime subtitled Dr. Stone: Terraforming is in production. The official website also revealed a new anime logo (pictured above) and an announcement promo. The character designer, Yuuko Iwasa drew an i...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74662721,
+            "url": "https://myanimelist.net/news/74662721",
+            "title": "'Nippon Sangoku' Anime Sequel Announced",
+            "date": "2026-09-02T20:43:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2277828",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1788406673-8115c274381081698743e9ac35246b50.jpeg?s=592020a92016a7050c50c1fb83aa4e83",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1788406673-8115c274381081698743e9ac35246b50.jpeg?s=592020a92016a7050c50c1fb83aa4e83",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1788406673-8115c274381081698743e9ac35246b50.jpeg?s=592020a92016a7050c50c1fb83aa4e83"
+                }
+            },
+            "comments": 8,
+            "excerpt": "Production company Twin Engine announced on Thursday that a sequel to the Nippon Sangoku (Nippon Sangoku: The Three Nations of the Crimson Sun) television anime is in production. Produced by Studio Kafka, the anime series adapting Ikka Matsuki's post-apocalyptic drama manga bega...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74803941,
+            "url": "https://myanimelist.net/news/74803941",
+            "title": "Animator Kenichirou Katsura Dies at 59",
+            "date": "2026-10-08T19:45:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282127",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791513856-c6ddbaa843da3644d08a11a8f2e502e2.png?s=9d2aad3a3933a0d0bd77b3ac765c5026",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791513856-c6ddbaa843da3644d08a11a8f2e502e2.png?s=9d2aad3a3933a0d0bd77b3ac765c5026",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791513856-c6ddbaa843da3644d08a11a8f2e502e2.png?s=9d2aad3a3933a0d0bd77b3ac765c5026"
+                }
+            },
+            "comments": 9,
+            "excerpt": "Kenichirou Katsura, known for his character designs for Macross 7 and Knight's & Magic, died on September 30. He was 59. A funeral service was held by his close relatives. Satoko Miyachi, his wife and fellow animator, announced the news on X (formerly Twitter) on Monday, stating...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "life_event",
+                    "name": "Life Event",
+                    "url": "https://myanimelist.net/news/tag/life_event"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "staff",
+                    "name": "Staff",
+                    "url": "https://myanimelist.net/news/tag/staff"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74803494,
+            "url": "https://myanimelist.net/news/74803494",
+            "title": "Webtoon 'The Boxer' Gets TV Anime",
+            "date": "2026-10-08T16:43:00+00:00",
+            "authorUsername": "SyverenWaterlow",
+            "authorUrl": "https://myanimelist.net/profile/SyverenWaterlow",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282099",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791502423-7eaf732e83edf476ff060386472e9aaa.jpeg?s=91a469d09660408e2ff1194af7aa785c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791502423-7eaf732e83edf476ff060386472e9aaa.jpeg?s=91a469d09660408e2ff1194af7aa785c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791502423-7eaf732e83edf476ff060386472e9aaa.jpeg?s=91a469d09660408e2ff1194af7aa785c"
+                }
+            },
+            "comments": 6,
+            "excerpt": "The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Ji-Hoon Jeong's The Boxer webtoon on Thursday, revealing the main cast, staff, and a special promotional trailer. Cast Yu: Kouki Uchiyama (Blue Lock) J: Toshiyuki Toyonaga (Bungou Stray...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74548488,
+            "url": "https://myanimelist.net/news/74548488",
+            "title": "New 'Digimon' Anime Announced for 2027",
+            "date": "2026-08-02T06:57:00+00:00",
+            "authorUsername": "mobulidae",
+            "authorUrl": "https://myanimelist.net/profile/mobulidae",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2274326",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1785678884-a8402ad17c8b82ed3132349d4dd9f3f0.jpeg?s=42fc6523a3fe953f24c77c35da04fa16",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1785678884-a8402ad17c8b82ed3132349d4dd9f3f0.jpeg?s=42fc6523a3fe953f24c77c35da04fa16",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1785678884-a8402ad17c8b82ed3132349d4dd9f3f0.jpeg?s=42fc6523a3fe953f24c77c35da04fa16"
+                }
+            },
+            "comments": 17,
+            "excerpt": "The official X (formerly Twitter) account of the Digimon anime franchise announced an anime project on August 1. The new series is scheduled to air in 2027. The Digimon franchise began in 1997 as a virtual pet game and later gained popularity with the 1999 anime Digimon Adventure...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 73656304,
+            "url": "https://myanimelist.net/news/73656304",
+            "title": "Kyoto Animation Adapts 'Ruri Dragon' Manga for TV Anime",
+            "date": "2025-12-28T02:42:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2246760",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1766919691-e77594774a391325326c4d4dcb4f79da.jpeg?s=932554f0366f7f944e84b5db21cdd1ce",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1766919691-e77594774a391325326c4d4dcb4f79da.jpeg?s=932554f0366f7f944e84b5db21cdd1ce",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1766919691-e77594774a391325326c4d4dcb4f79da.jpeg?s=932554f0366f7f944e84b5db21cdd1ce"
+                }
+            },
+            "comments": 44,
+            "excerpt": "Kyoto Animation announced a television anime adaptation of Masaoki Shindou's Ruri Dragon (RuriDragon) manga on Sunday. Shindou originally launched the supernatural comedy manga as a one-shot in Jump GIGA in December 2020 before beginning regular serialization in Weekly Shounen J...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74794281,
+            "url": "https://myanimelist.net/news/74794281",
+            "title": "North American Anime & Manga Releases for October",
+            "date": "2026-10-05T12:41:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281692",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791228470-cac25ed644e5415d259ec43e47b70c9e.jpeg?s=2b4de74ce42df4c8f57e050c3d1b1765",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791228470-cac25ed644e5415d259ec43e47b70c9e.jpeg?s=2b4de74ce42df4c8f57e050c3d1b1765",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791228470-cac25ed644e5415d259ec43e47b70c9e.jpeg?s=2b4de74ce42df4c8f57e050c3d1b1765"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for October. Week 1: October 6 - 12 Anime Releases Devil Survivor 2 The Animation Blu-ray Manga Releases Boku ga Watashi ni Naru Tame ni (My Journey to Her) Boruto: Two Blue Vortex Vol.6 Dandadan Vol.21 Dekiru Nek...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "licenses",
+                    "name": "Licenses",
+                    "url": "https://myanimelist.net/news/tag/licenses"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74437440,
+            "url": "https://myanimelist.net/news/74437440",
+            "title": "'Mononoke' Gets New Anime Project",
+            "date": "2026-07-05T09:11:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2271086",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1783268684-5ac43aacf5516dca50f9faa57bbe4569.jpeg?s=cfe5ed96054fdfbfd63b634bf5fa2203",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1783268684-5ac43aacf5516dca50f9faa57bbe4569.jpeg?s=cfe5ed96054fdfbfd63b634bf5fa2203",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1783268684-5ac43aacf5516dca50f9faa57bbe4569.jpeg?s=cfe5ed96054fdfbfd63b634bf5fa2203"
+                }
+            },
+            "comments": 12,
+            "excerpt": "Production company Twin Engine announced that a new project in the Mononoke anime series is in production on Sunday. Actor Hirofumi Araki (Tennis no Oujisama), who played the Medicine Seller in the most recent Mononoke stage play, will voice a new Medicine Seller named Ken no Ts...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74434811,
+            "url": "https://myanimelist.net/news/74434811",
+            "title": "Original Anime 'Ryuugeshou no Shinobi' Announced",
+            "date": "2026-07-04T15:21:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2270955",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1783203639-87a7b185f145b09a2b01cbe84ca2c852.jpeg?s=1fcbd2b3764704c6cac1988f4f31ce72",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1783203639-87a7b185f145b09a2b01cbe84ca2c852.jpeg?s=1fcbd2b3764704c6cac1988f4f31ce72",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1783203639-87a7b185f145b09a2b01cbe84ca2c852.jpeg?s=1fcbd2b3764704c6cac1988f4f31ce72"
+                }
+            },
+            "comments": 9,
+            "excerpt": "The Avex Pictures panel at Anime Expo 2026 announced a new original anime titled Ryuugeshou no Shinobi (Jurassic Shadows) on Saturday, revealing the main staff, a concept visual (pictured), and project promotional video. Staff Original Story: SANB Director: Norihiro Naganuma (Mah...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "anime_expo",
+                    "name": "Anime Expo",
+                    "url": "https://myanimelist.net/news/tag/anime_expo"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74651031,
+            "url": "https://myanimelist.net/news/74651031",
+            "title": "North American Anime & Manga Releases for September",
+            "date": "2026-08-30T11:07:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2277419",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1788113335-6518b268ad4e4b8fb4e4376a0c23ac58.jpeg?s=f6ebab4a2177d1cdf5fdfd9daf6f1652",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1788113335-6518b268ad4e4b8fb4e4376a0c23ac58.jpeg?s=f6ebab4a2177d1cdf5fdfd9daf6f1652",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1788113335-6518b268ad4e4b8fb4e4376a0c23ac58.jpeg?s=f6ebab4a2177d1cdf5fdfd9daf6f1652"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for September. Week 1: September 1 - 7 Anime Releases Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya (Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion) Blu-ray Kur...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "licenses",
+                    "name": "Licenses",
+                    "url": "https://myanimelist.net/news/tag/licenses"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74809610,
+            "url": "https://myanimelist.net/news/74809610",
+            "title": "'Naruto x Ninkuu' Crossover Anime Announced",
+            "date": "2026-10-10T16:37:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282354",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg?s=d13e6eae3fcad24edf8a7466aca78113",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg?s=d13e6eae3fcad24edf8a7466aca78113",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg?s=d13e6eae3fcad24edf8a7466aca78113"
+                }
+            },
+            "comments": 26,
+            "excerpt": "The \"Naruto: What's Next?\" panel at New York Comic Con 2026 announced a brand new four-episode crossover anime based on Masashi Kishimoto's Naruto manga and Kouji Kiriyama's Ninkuu manga on Saturday. The Naruto franchise's official website opened a new page, revealing the main c...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74247883,
+            "url": "https://myanimelist.net/news/74247883",
+            "title": "Manga 'Gigant' Receives Anime Movie",
+            "date": "2026-05-17T10:08:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2264737",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1779037624-34a752d26450b9b0d0c6f10ab734dcbf.jpeg?s=0407424e8a59101ab0a9ca9bc32790d0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1779037624-34a752d26450b9b0d0c6f10ab734dcbf.jpeg?s=0407424e8a59101ab0a9ca9bc32790d0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1779037624-34a752d26450b9b0d0c6f10ab734dcbf.jpeg?s=0407424e8a59101ab0a9ca9bc32790d0"
+                }
+            },
+            "comments": 24,
+            "excerpt": "The K2 Pictures press conference at the Cannes Film Festival in France announced an anime movie adaptation of Hiroya Oku's Gigant manga on Sunday. The project marks K2 Pictures' first venture into animation production. Oku (Gantz) launched the sci-fi seinen manga in Big Comic Sup...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74776019,
+            "url": "https://myanimelist.net/news/74776019",
+            "title": "'Seirei Gensouki' Receives Third Anime Season",
+            "date": "2026-09-30T07:04:00+00:00",
+            "authorUsername": "Safuan12616",
+            "authorUrl": "https://myanimelist.net/profile/Safuan12616",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2281043",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1790776873-95586a52ca4a306d8a1ee31d733e1e0a.jpeg?s=9ca744d3b0f48afa2f9dd8cb6a8f5c5e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1790776873-95586a52ca4a306d8a1ee31d733e1e0a.jpeg?s=9ca744d3b0f48afa2f9dd8cb6a8f5c5e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1790776873-95586a52ca4a306d8a1ee31d733e1e0a.jpeg?s=9ca744d3b0f48afa2f9dd8cb6a8f5c5e"
+                }
+            },
+            "comments": 8,
+            "excerpt": "The official website of the television anime adaptation of Yuri Kitayama's Seirei Gensouki (Seirei Gensouki: Spirit Chronicles) light novel announced a third season on Wednesday. Produced by TMS Entertainment, the first season aired in 12 episodes in Summer 2021. A 12 episodes se...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74765400,
+            "url": "https://myanimelist.net/news/74765400",
+            "title": "'Mairimashita! Iruma-kun' Anime Movie Announced",
+            "date": "2026-09-27T03:43:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2280665",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1790505715-60f93a1c22e04d2f7f2c93f490ed1fd5.png?s=7e79fa1ea5b33cae76d3c3b220bb093f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1790505715-60f93a1c22e04d2f7f2c93f490ed1fd5.png?s=7e79fa1ea5b33cae76d3c3b220bb093f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1790505715-60f93a1c22e04d2f7f2c93f490ed1fd5.png?s=7e79fa1ea5b33cae76d3c3b220bb093f"
+                }
+            },
+            "comments": 7,
+            "excerpt": "The Mairimashita! Iruma-kun (Welcome to Demon School! Iruma-kun) special event \"Devils Party 2\" announced an anime movie project for the franchise on Sunday. The official website also revealed an announcement image (pictured above) and announcement promo. Produced by Bandai Namc...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74754110,
+            "url": "https://myanimelist.net/news/74754110",
+            "title": "'Phantom Busters' TV Anime Announced For 2027",
+            "date": "2026-09-24T02:22:00+00:00",
+            "authorUsername": "NokkiMal",
+            "authorUrl": "https://myanimelist.net/profile/NokkiMal",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2280347",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1790241726-e2011f2218bf8d3537598b2c8cb96f6e.jpeg?s=777033beeb67a32d6c681c4b15e0762a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1790241726-e2011f2218bf8d3537598b2c8cb96f6e.jpeg?s=777033beeb67a32d6c681c4b15e0762a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1790241726-e2011f2218bf8d3537598b2c8cb96f6e.jpeg?s=777033beeb67a32d6c681c4b15e0762a"
+                }
+            },
+            "comments": 12,
+            "excerpt": "Production company TOHO animation opened an official website for a television anime adaptation of Shoco's Phantom Busters manga on Thursday, revealing a commemorative illustration by the original creator (pictured right). Shoco originally published the manga as a one-shot in Jump...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74681527,
+            "url": "https://myanimelist.net/news/74681527",
+            "title": "'Dark Machine: The Animation' Announces Supporting Cast",
+            "date": "2026-09-07T02:14:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2278362",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1788772437-e585ab04ccedf3e8a4990dfaa263ad05.jpeg?s=d956b5bb11173fb04dab0c3619e9dd9a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1788772437-e585ab04ccedf3e8a4990dfaa263ad05.jpeg?s=d956b5bb11173fb04dab0c3619e9dd9a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1788772437-e585ab04ccedf3e8a4990dfaa263ad05.jpeg?s=d956b5bb11173fb04dab0c3619e9dd9a"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website for the Dark Machine: The Animation television anime announced the supporting cast on Monday. The anime is scheduled to premiere on October 14 at 1:45 a.m. on Fuji TV, followed by Kansai TV and BS Fuji. Cast Aluk: Nao Touyama (Sakamoto Days) Denebola: Nonoka...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "fall_2026",
+                    "name": "Fall 2026",
+                    "url": "https://myanimelist.net/news/tag/fall_2026"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74803489,
+            "url": "https://myanimelist.net/news/74803489",
+            "title": "Webtoon 'The Remarried Empress' Gets TV Anime in 2027",
+            "date": "2026-10-08T16:41:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282098",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791502829-d725b283515855700a2a341f7d6ac536.jpeg?s=bb91aa21fd87a64b43bf599e1ede6b01",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791502829-d725b283515855700a2a341f7d6ac536.jpeg?s=bb91aa21fd87a64b43bf599e1ede6b01",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791502829-d725b283515855700a2a341f7d6ac536.jpeg?s=bb91aa21fd87a64b43bf599e1ede6b01"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Alphatart and Sumpul's The Remarried Princess webtoon on Thursday. An official website was also launched, revealing the main cast, staff, a fourth character visual (pictured), and spec...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74735216,
+            "url": "https://myanimelist.net/news/74735216",
+            "title": "'Shin Oishinbo' New TV Anime Announced",
+            "date": "2026-09-18T23:48:00+00:00",
+            "authorUsername": "NokkiMal",
+            "authorUrl": "https://myanimelist.net/profile/NokkiMal",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2279748",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1789799958-e828371782d37de11bdde9c4c92eb5a7.jpeg?s=b33278567ef3738e5ebb39c54ac12c20",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1789799958-e828371782d37de11bdde9c4c92eb5a7.jpeg?s=b33278567ef3738e5ebb39c54ac12c20",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1789799958-e828371782d37de11bdde9c4c92eb5a7.jpeg?s=b33278567ef3738e5ebb39c54ac12c20"
+                }
+            },
+            "comments": 10,
+            "excerpt": "A new television anime adaptation of Tetsu Kariya's Oshinbo manga, titled Shin Oishinbo was announced at the Shin-Ei Animation 50th Anniversary special stage at ABEMA Anime Festival 2026 on Saturday, revealing the announcement promotional video. Kariya began writing Oishinbo in...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74425093,
+            "url": "https://myanimelist.net/news/74425093",
+            "title": "MyAnimeList Reports from Anime Expo 2026",
+            "date": "2026-07-02T18:15:00+00:00",
+            "authorUsername": "Naruleach",
+            "authorUrl": "https://myanimelist.net/profile/Naruleach",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2270657",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1783041222-a77b37d4c607d53b3f16209043327d9c.png?s=fe26a16704b998b3ba05226d9789d689",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1783041222-a77b37d4c607d53b3f16209043327d9c.png?s=fe26a16704b998b3ba05226d9789d689",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1783041222-a77b37d4c607d53b3f16209043327d9c.png?s=fe26a16704b998b3ba05226d9789d689"
+                }
+            },
+            "comments": 2,
+            "excerpt": "Anime Expo, the largest anime convention in North America, returns to Los Angeles Convention Center and will be held July 2–5 this year. MAL users and moderators have attended Anime Expo for years, and our team will once again provide live updates from the event this year. #MALa...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "anime_expo",
+                    "name": "Anime Expo",
+                    "url": "https://myanimelist.net/news/tag/anime_expo"
+                }
+            ]
+        }
+    ]
+}

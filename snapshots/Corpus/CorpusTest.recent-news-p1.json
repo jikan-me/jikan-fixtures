@@ -1,0 +1,755 @@
+{
+    "@class": "Jikan\\Model\\News\\NewsList",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74818100,
+            "url": "https://myanimelist.net/news/74818100",
+            "title": "'The Fable 2nd Season' Announces Additional Cast",
+            "date": "2026-10-13T15:40:58+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282678",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791905651-55ef155e7f41864166385ee2a1f453cb.jpeg?s=118327ebaab7eb747cae784be7d27f81",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791905651-55ef155e7f41864166385ee2a1f453cb.jpeg?s=118327ebaab7eb747cae784be7d27f81",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791905651-55ef155e7f41864166385ee2a1f453cb.jpeg?s=118327ebaab7eb747cae784be7d27f81"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website for the The Fable television anime revealed additional cast and the main visual (pictured) for its second season on Wednesday. The new season will adapt the Yamaoka-hen (Yamaoka Arc) from Katsuhisa Minami's crime comedy manga and is scheduled to premiere on t...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "winter_2027",
+                    "name": "Winter 2027",
+                    "url": "https://myanimelist.net/news/tag/winter_2027"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74817857,
+            "url": "https://myanimelist.net/news/74817857",
+            "title": "'Kusuriya no Hitorigoto' Movie Reveals Additional Cast, Character Trailers [Update 10/14]",
+            "date": "2026-10-14T07:13:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282660",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791900760-f0bfacae90915c1f952a00b8932d661c.jpeg?s=889035671ba030d4d65db44d6938a644",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791900760-f0bfacae90915c1f952a00b8932d661c.jpeg?s=889035671ba030d4d65db44d6938a644",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791900760-f0bfacae90915c1f952a00b8932d661c.jpeg?s=889035671ba030d4d65db44d6938a644"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website for the Kusuriya no Hitorigoto anime series revealed the additional cast and two character trailers for the anime movie on Tuesday. The movie, subtitled Bouhi no Hihou (The Secret Treasure of the Deceased Consort), opens in Japanese theaters on December 11. C...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74817329,
+            "url": "https://myanimelist.net/news/74817329",
+            "title": "'Hirayasumi' Announces Additional Cast",
+            "date": "2026-10-14T01:39:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282639",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791880730-1c0e05a8e77bb133fb9174fc07370b5c.jpeg?s=287db22b131afee3539a3b59c7263bc6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791880730-1c0e05a8e77bb133fb9174fc07370b5c.jpeg?s=287db22b131afee3539a3b59c7263bc6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791880730-1c0e05a8e77bb133fb9174fc07370b5c.jpeg?s=287db22b131afee3539a3b59c7263bc6"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The official website for the television anime adaptation of Keigo Shinzou's Hirayasumi manga announced five additional cast members on Tuesday. The anime series will premiere on NHK-G in January 2027. Cast Hideki Noguchi: Daisuke Namikawa (Hunter x Hunter (2011)) Yomogi Tachiban...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "winter_2027",
+                    "name": "Winter 2027",
+                    "url": "https://myanimelist.net/news/tag/winter_2027"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74817108,
+            "url": "https://myanimelist.net/news/74817108",
+            "title": "Voice Actress Manaka Iwami Announces Marriage",
+            "date": "2026-10-13T23:00:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282634",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791871040-0d3faf2990239f23cb642a93668d4766.jpeg?s=ceb8ba34d8f5b596c2d5889f9ca2059a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791871040-0d3faf2990239f23cb642a93668d4766.jpeg?s=ceb8ba34d8f5b596c2d5889f9ca2059a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791871040-0d3faf2990239f23cb642a93668d4766.jpeg?s=ceb8ba34d8f5b596c2d5889f9ca2059a"
+                }
+            },
+            "comments": 13,
+            "excerpt": "Voice actress Manaka Iwami announced her marriage to a man outside of the industry and the birth of her first child on her official radio program on Tuesday. \"It's been a while, everyone. This is Manaka Iwami. I'd like to take a moment at the beginning of the program to share som...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "seiyuu",
+                    "name": "Seiyuu",
+                    "url": "https://myanimelist.net/news/tag/seiyuu"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "life_event",
+                    "name": "Life Event",
+                    "url": "https://myanimelist.net/news/tag/life_event"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74814550,
+            "url": "https://myanimelist.net/news/74814550",
+            "title": "Manga 'Nue no Onmyouji' Gets TV Anime in Summer 2027",
+            "date": "2026-10-13T04:54:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282524",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791806165-83f3cba0d7f65b64697ef6aee334e0fd.jpeg?s=b53fd82fcbe321c0533e7945ae51f357",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791806165-83f3cba0d7f65b64697ef6aee334e0fd.jpeg?s=b53fd82fcbe321c0533e7945ae51f357",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791806165-83f3cba0d7f65b64697ef6aee334e0fd.jpeg?s=b53fd82fcbe321c0533e7945ae51f357"
+                }
+            },
+            "comments": 30,
+            "excerpt": "The sixth Jump Press livestream event announced a television anime adaptation of Kouta Kawae's Nue no Onmyouji (Nue's Exorcist) manga on Monday, revealing the main cast, staff, a teaser visual (pictured), and an announcement promotional video. The anime is scheduled to premiere...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "summer_2027",
+                    "name": "Summer 2027",
+                    "url": "https://myanimelist.net/news/tag/summer_2027"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74813800,
+            "url": "https://myanimelist.net/news/74813800",
+            "title": "'Kino no Tabi' Creator Duo Begins New Light Novel",
+            "date": "2026-10-11T21:17:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282501",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791778558-4de299e25e515e9b8aaf6aee692a5d07.jpeg?s=be1d93a86cbd0cb1b818a358b473a16a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791778558-4de299e25e515e9b8aaf6aee692a5d07.jpeg?s=be1d93a86cbd0cb1b818a358b473a16a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791778558-4de299e25e515e9b8aaf6aee692a5d07.jpeg?s=be1d93a86cbd0cb1b818a358b473a16a"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Publishing company Kadokawa announced on Friday that author Keiichi Sigsawa and illustrator Kouhaku Kuroboshi, the duo behind the Kino no Tabi: The Beautiful World (Kino's Journey: The Beautiful World) light novel, will launch a new light novel titled Drifted: John Smith no Edo H...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74813653,
+            "url": "https://myanimelist.net/news/74813653",
+            "title": "Idol Group i☆Ris to End Activities in 2027",
+            "date": "2026-10-11T20:22:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282497",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791775254-9743b753082275cb32e6ba57ca9558f1.jpeg?s=31e34046c687e0e2870f1f815cc8fe5f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791775254-9743b753082275cb32e6ba57ca9558f1.jpeg?s=31e34046c687e0e2870f1f815cc8fe5f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791775254-9743b753082275cb32e6ba57ca9558f1.jpeg?s=31e34046c687e0e2870f1f815cc8fe5f"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Voice actress idol unit i☆Ris announced on Sunday on their official website that they will end their activities at the end of 2027, coinciding with the group's 15th anniversary and marking the conclusion of their 15-year journey. In a statement, the staff apologized for the sudd...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "musician",
+                    "name": "Musician",
+                    "url": "https://myanimelist.net/news/tag/musician"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74811025,
+            "url": "https://myanimelist.net/news/74811025",
+            "title": "'Noa-senpai wa Tomodachi' Reveals Main Cast, 2027 Debut",
+            "date": "2026-10-11T03:16:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282401",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791713753-684272201e881400d9c608311ba31ab7.jpeg?s=241106ffb7c66abb70930882ac67dac6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791713753-684272201e881400d9c608311ba31ab7.jpeg?s=241106ffb7c66abb70930882ac67dac6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791713753-684272201e881400d9c608311ba31ab7.jpeg?s=241106ffb7c66abb70930882ac67dac6"
+                }
+            },
+            "comments": 7,
+            "excerpt": "The official website for the television anime adaptation of Enma Akiyama's Noa-senpai wa Tomodachi (Noa Is My Senior, and My Friend) manga revealed the main cast and a key visual (pictured) on Sunday. The anime series will premiere in 2027. Voice actors Rina Kawaguchi (Witch Watc...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74810180,
+            "url": "https://myanimelist.net/news/74810180",
+            "title": "'Shishite Ikiru SSS-kyuu Hunter' Reveals Additional Cast, Ending Theme, Second Promo",
+            "date": "2026-10-10T19:43:00+00:00",
+            "authorUsername": "DatRandomDude",
+            "authorUrl": "https://myanimelist.net/profile/DatRandomDude",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282373",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791686582-c84ae40025b0662bdba28045cf8bf854.jpeg?s=34e1a46669b564907134e79d341430ad",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791686582-c84ae40025b0662bdba28045cf8bf854.jpeg?s=34e1a46669b564907134e79d341430ad",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791686582-c84ae40025b0662bdba28045cf8bf854.jpeg?s=34e1a46669b564907134e79d341430ad"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The official website of the television anime adaptation of Sinnoa and Bill K's SSS-Class Revival Hunter webtoon revealed additional cast members, ending theme artists, and a second promotional video on Sunday. The anime is scheduled to premiere in January 2027 on Fuji TV's +Ultr...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "winter_2027",
+                    "name": "Winter 2027",
+                    "url": "https://myanimelist.net/news/tag/winter_2027"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74809691,
+            "url": "https://myanimelist.net/news/74809691",
+            "title": "New 'Naruto' Manga 'Shadow Rising' Announced",
+            "date": "2026-10-10T17:20:00+00:00",
+            "authorUsername": "SyverenWaterlow",
+            "authorUrl": "https://myanimelist.net/profile/SyverenWaterlow",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282358",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791677791-8328da60ba359484b8c2ee6cd5e69ae8.jpeg?s=a038d54e31482e57984f327ec650474d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791677791-8328da60ba359484b8c2ee6cd5e69ae8.jpeg?s=a038d54e31482e57984f327ec650474d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791677791-8328da60ba359484b8c2ee6cd5e69ae8.jpeg?s=a038d54e31482e57984f327ec650474d"
+                }
+            },
+            "comments": 24,
+            "excerpt": "The Naruto: What's Next? panel at New York Comic Con 2026 announced on Saturday that Masashi Kishimoto will launch a new Naruto manga titled Naruto: Shadow Rising, revealing a super teaser announcement video. The new series is part of Project Rasengan, a three-year timeline of u...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_manga",
+                    "name": "New Manga",
+                    "url": "https://myanimelist.net/news/tag/new_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74809610,
+            "url": "https://myanimelist.net/news/74809610",
+            "title": "'Naruto x Ninkuu' Crossover Anime Announced",
+            "date": "2026-10-10T16:37:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282354",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg?s=d13e6eae3fcad24edf8a7466aca78113",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg?s=d13e6eae3fcad24edf8a7466aca78113",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg?s=d13e6eae3fcad24edf8a7466aca78113"
+                }
+            },
+            "comments": 26,
+            "excerpt": "The \"Naruto: What's Next?\" panel at New York Comic Con 2026 announced a brand new four-episode crossover anime based on Masashi Kishimoto's Naruto manga and Kouji Kiriyama's Ninkuu manga on Saturday. The Naruto franchise's official website opened a new page, revealing the main c...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74808029,
+            "url": "https://myanimelist.net/news/74808029",
+            "title": "New 'Dr. Stone' Anime Announced",
+            "date": "2026-10-10T06:05:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282296",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg?s=95920d518b4a0fe82c15c0cdd5fbd86b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg?s=95920d518b4a0fe82c15c0cdd5fbd86b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg?s=95920d518b4a0fe82c15c0cdd5fbd86b"
+                }
+            },
+            "comments": 12,
+            "excerpt": "The Stone Fes.2026 event at Yokohama Buntai announced on Saturday that a sequel anime subtitled Dr. Stone: Terraforming is in production. The official website also revealed a new anime logo (pictured above) and an announcement promo. The character designer, Yuuko Iwasa drew an i...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "adapts_manga",
+                    "name": "Adapts Manga",
+                    "url": "https://myanimelist.net/news/tag/adapts_manga"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74807103,
+            "url": "https://myanimelist.net/news/74807103",
+            "title": "'Zombie no Afureta Sekai de Ore dake ga Osowarenai' Unveils Additional Cast, Staff, Theme Songs, First Promo",
+            "date": "2026-10-09T21:04:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282273",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791605055-036817d4b6e996f720ede1436e2502f5.jpeg?s=a64e95ac774791eab65fdb23b9f11191",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791605055-036817d4b6e996f720ede1436e2502f5.jpeg?s=a64e95ac774791eab65fdb23b9f11191",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791605055-036817d4b6e996f720ede1436e2502f5.jpeg?s=a64e95ac774791eab65fdb23b9f11191"
+                }
+            },
+            "comments": 3,
+            "excerpt": "The official website for the television anime adaptation of Rokuro Uraji's Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked) light novel unveiled additional cast, staff, a key visual (pictured), the theme song...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "winter_2027",
+                    "name": "Winter 2027",
+                    "url": "https://myanimelist.net/news/tag/winter_2027"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74805426,
+            "url": "https://myanimelist.net/news/74805426",
+            "title": "Manga 'Hotaru no Yomeiri' Gets Live-Action Adaptation in 2027",
+            "date": "2026-10-09T09:15:00+00:00",
+            "authorUsername": "nirererin",
+            "authorUrl": "https://myanimelist.net/profile/nirererin",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282210",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791562442-7e99d4bfb2da7214012b166fd99ad5d4.jpeg?s=a4c6d39c7da5737c684d018206731963",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791562442-7e99d4bfb2da7214012b166fd99ad5d4.jpeg?s=a4c6d39c7da5737c684d018206731963",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791562442-7e99d4bfb2da7214012b166fd99ad5d4.jpeg?s=a4c6d39c7da5737c684d018206731963"
+                }
+            },
+            "comments": 2,
+            "excerpt": "Television broadcast company Fuji TV announced a live-action adaptation of Oreco Tachibana's Hotaru no Yomeiri (Firefly Wedding) web manga on Saturday, revealing an announcement promotional video. The live-action series is scheduled to premiere on Fuji TV in 2027. Tachibana began...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "live_action",
+                    "name": "Live Action",
+                    "url": "https://myanimelist.net/news/tag/live_action"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74804055,
+            "url": "https://myanimelist.net/news/74804055",
+            "title": "White Fox Produces 'Monster no Niku wo Kutte Itara Oui ni Tsuita Ken' TV Anime Adaptation for 2027",
+            "date": "2026-10-09T02:00:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282133",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791517737-ee34417371d7288d4bf8cadad0ee0e65.jpeg?s=e9631dfd0b66de0b089789f218616897",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791517737-ee34417371d7288d4bf8cadad0ee0e65.jpeg?s=e9631dfd0b66de0b089789f218616897",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791517737-ee34417371d7288d4bf8cadad0ee0e65.jpeg?s=e9631dfd0b66de0b089789f218616897"
+                }
+            },
+            "comments": 11,
+            "excerpt": "Production company King Records opened an official website for a television anime adaptation of Daken's Monster no Niku wo Kutte Itara Oui ni Tsuita Ken (How I Became King by Eating Monsters) light novel on Friday, revealing a teaser visual (pictured). The anime series is being p...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "light_novels",
+                    "name": "Light Novels",
+                    "url": "https://myanimelist.net/news/tag/light_novels"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "new_anime",
+                    "name": "New Anime",
+                    "url": "https://myanimelist.net/news/tag/new_anime"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74804034,
+            "url": "https://myanimelist.net/news/74804034",
+            "title": "'Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu' Reveals Main Cast, Teaser Promo for Winter 2027",
+            "date": "2026-10-08T20:36:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282131",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791516935-1124e9fa281d5ec1376f12ce269cdf19.jpeg?s=1dfc8da8ccc4d21361f3c264acd24e18",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791516935-1124e9fa281d5ec1376f12ce269cdf19.jpeg?s=1dfc8da8ccc4d21361f3c264acd24e18",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791516935-1124e9fa281d5ec1376f12ce269cdf19.jpeg?s=1dfc8da8ccc4d21361f3c264acd24e18"
+                }
+            },
+            "comments": 2,
+            "excerpt": "The official website for the television anime adaptation of Kennoji and R_ringo's Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute to Live With!) manga unveiled the main cast and a teaser promotional video on Friday....",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "winter_2027",
+                    "name": "Winter 2027",
+                    "url": "https://myanimelist.net/news/tag/winter_2027"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74803941,
+            "url": "https://myanimelist.net/news/74803941",
+            "title": "Animator Kenichirou Katsura Dies at 59",
+            "date": "2026-10-08T19:45:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282127",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791513856-c6ddbaa843da3644d08a11a8f2e502e2.png?s=9d2aad3a3933a0d0bd77b3ac765c5026",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791513856-c6ddbaa843da3644d08a11a8f2e502e2.png?s=9d2aad3a3933a0d0bd77b3ac765c5026",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791513856-c6ddbaa843da3644d08a11a8f2e502e2.png?s=9d2aad3a3933a0d0bd77b3ac765c5026"
+                }
+            },
+            "comments": 9,
+            "excerpt": "Kenichirou Katsura, known for his character designs for Macross 7 and Knight's & Magic, died on September 30. He was 59. A funeral service was held by his close relatives. Satoko Miyachi, his wife and fellow animator, announced the news on X (formerly Twitter) on Monday, stating...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "life_event",
+                    "name": "Life Event",
+                    "url": "https://myanimelist.net/news/tag/life_event"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "staff",
+                    "name": "Staff",
+                    "url": "https://myanimelist.net/news/tag/staff"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74803756,
+            "url": "https://myanimelist.net/news/74803756",
+            "title": "'Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made' Unveils Additional Cast, Opening Theme, Second Promo",
+            "date": "2026-10-08T18:27:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282123",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791509221-878adf917b7adb21e51b8f4e8762cae0.jpeg?s=da89a6a31547e0f40d4a99e050889951",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791509221-878adf917b7adb21e51b8f4e8762cae0.jpeg?s=da89a6a31547e0f40d4a99e050889951",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791509221-878adf917b7adb21e51b8f4e8762cae0.jpeg?s=da89a6a31547e0f40d4a99e050889951"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The Crunchyroll Showcase at New York Comic Con 2026 unveiled additional cast, a second key visual (pictured right), the opening theme, and second promotional video for the television anime adaptation of Haka Tokura and Shin Arakawa's Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "op_ed",
+                    "name": "OP ED",
+                    "url": "https://myanimelist.net/news/tag/op_ed"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "preview",
+                    "name": "Preview",
+                    "url": "https://myanimelist.net/news/tag/preview"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "winter_2027",
+                    "name": "Winter 2027",
+                    "url": "https://myanimelist.net/news/tag/winter_2027"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74803695,
+            "url": "https://myanimelist.net/news/74803695",
+            "title": "'Ghost of Tsushima Kuroudo Kitan' Announces Additional Cast, Staff, 2028 Delay",
+            "date": "2026-10-08T17:55:00+00:00",
+            "authorUsername": "NokkiMal",
+            "authorUrl": "https://myanimelist.net/profile/NokkiMal",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282115",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791507546-84f6958ab1663bfaa47fe5eb007cb601.jpeg?s=5627aa0c6b69a66d6aec8032686a479e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791507546-84f6958ab1663bfaa47fe5eb007cb601.jpeg?s=5627aa0c6b69a66d6aec8032686a479e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791507546-84f6958ab1663bfaa47fe5eb007cb601.jpeg?s=5627aa0c6b69a66d6aec8032686a479e"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The Crunchyroll showcase at New York Comic Con 2026 revealed additional cast and staff for the anime adaptation of Sucker Punch Productions' Ghost of Tsushima video game on Thursday. The anime has been delayed to 2028 from its originally planned 2027 premiere. Mayumi Saco (Vinlan...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\News\\NewsListItem",
+            "malId": 74803693,
+            "url": "https://myanimelist.net/news/74803693",
+            "title": "'Teenage Mercenary' Reveals Main Staff, 2027 Debut",
+            "date": "2026-10-08T17:55:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2282114",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\NewsImageResource\\NewsImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\NewsImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1791507244-4f70bcfac3a3b20df86b55650dc1fe4f.jpeg?s=395f7aee602df9b6af67cea61bc47f87",
+                    "smallImageUrl": "https://cdn.myanimelist.net/r/100x156/s/common/uploaded_files/1791507244-4f70bcfac3a3b20df86b55650dc1fe4f.jpeg?s=395f7aee602df9b6af67cea61bc47f87",
+                    "largeImageUrl": "https://cdn.myanimelist.net/r/200x312/s/common/uploaded_files/1791507244-4f70bcfac3a3b20df86b55650dc1fe4f.jpeg?s=395f7aee602df9b6af67cea61bc47f87"
+                }
+            },
+            "comments": 0,
+            "excerpt": "The Crunchyroll Showcase at New York Comic Con 2026 revealed the main staff, a teaser visual (pictured), and an announcement promo for the television anime adaptation of YC's Teenage Mercenary (Nyuugaku Youhei) webtoon on Thursday. The anime series will premiere in 2027. Staff Di...",
+            "tags": [
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "nycc",
+                    "name": "NYCC",
+                    "url": "https://myanimelist.net/news/tag/nycc"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\TagUrl",
+                    "malId": "more_info",
+                    "name": "More Info",
+                    "url": "https://myanimelist.net/news/tag/more_info"
+                }
+            ]
+        }
+    ]
+}
