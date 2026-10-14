@@ -565,9 +565,9 @@
                     "title": "Yofukashi no Uta Season 2"
                 },
                 "score": 9,
-                "status": "Watching -",
-                "episodesSeen": null,
-                "episodesTotal": null,
+                "status": "Watching",
+                "episodesSeen": 0,
+                "episodesTotal": 12,
                 "date": "2026-01-01T16:57:00+00:00"
             },
             {
@@ -712,9 +712,9 @@
                     "title": "Mahou Sensei Negima!"
                 },
                 "score": 0,
-                "status": "On-Hold -",
-                "chaptersRead": null,
-                "chaptersTotal": null,
+                "status": "On-Hold",
+                "chaptersRead": 0,
+                "chaptersTotal": 355,
                 "date": "2017-10-02T09:36:00+00:00"
             }
         ]
