@@ -1,0 +1,739 @@
+{
+    "@class": "Jikan\\Model\\User\\Profile",
+    "malId": 1,
+    "username": "Xinil",
+    "url": "https://myanimelist.net/profile/Xinil",
+    "images": {
+        "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/c3f4dc4a-ef1f-48d2-970b-cd23a8cc37ad_225w?s=012c053fba954194fcef80b68f1e13c3"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/c3f4dc4a-ef1f-48d2-970b-cd23a8cc37ad_225w?s=012c053fba954194fcef80b68f1e13c3"
+        }
+    },
+    "lastOnline": "2026-07-03T21:03:00+00:00",
+    "gender": "Male",
+    "birthday": "1985-03-04T00:00:00+00:00",
+    "location": "California",
+    "joined": "2004-11-05T00:00:00+00:00",
+    "animeStats": {
+        "@class": "Jikan\\Model\\User\\AnimeStats",
+        "daysWatched": 142.3,
+        "meanScore": 7.37,
+        "watching": 1,
+        "completed": 233,
+        "onHold": 8,
+        "dropped": 93,
+        "planToWatch": 64,
+        "totalEntries": 399,
+        "rewatched": 60,
+        "episodesWatched": 8481
+    },
+    "mangaStats": {
+        "@class": "Jikan\\Model\\User\\MangaStats",
+        "daysRead": 17.6,
+        "meanScore": 7.35,
+        "reading": 15,
+        "completed": 12,
+        "onHold": 3,
+        "dropped": 21,
+        "planToRead": 25,
+        "totalEntries": 76,
+        "reread": 0,
+        "chaptersRead": 3283,
+        "volumesRead": 189
+    },
+    "favorites": {
+        "@class": "Jikan\\Model\\User\\Favorites",
+        "anime": [
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteAnime",
+                "type": "TV",
+                "startYear": 1998,
+                "malId": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=2002f38f261487660101f15e223acbc6",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644t.jpg?s=2002f38f261487660101f15e223acbc6",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg?s=2002f38f261487660101f15e223acbc6"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/19644.webp?s=2002f38f261487660101f15e223acbc6",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644t.webp?s=2002f38f261487660101f15e223acbc6",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644l.webp?s=2002f38f261487660101f15e223acbc6"
+                    }
+                },
+                "title": "Cowboy Bebop"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteAnime",
+                "type": "TV",
+                "startYear": 1998,
+                "malId": 6,
+                "url": "https://myanimelist.net/anime/6/Trigun",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002.jpg?s=3e747b44cf0a37bca244bf6cfc857022",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002t.jpg?s=3e747b44cf0a37bca244bf6cfc857022",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002l.jpg?s=3e747b44cf0a37bca244bf6cfc857022"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002.webp?s=3e747b44cf0a37bca244bf6cfc857022",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002t.webp?s=3e747b44cf0a37bca244bf6cfc857022",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1130/120002l.webp?s=3e747b44cf0a37bca244bf6cfc857022"
+                    }
+                },
+                "title": "Trigun"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteAnime",
+                "type": "TV",
+                "startYear": 2000,
+                "malId": 263,
+                "url": "https://myanimelist.net/anime/263/Hajime_no_Ippo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86334.jpg?s=c4978294343eede799f7714c52759f0d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334t.jpg?s=c4978294343eede799f7714c52759f0d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg?s=c4978294343eede799f7714c52759f0d"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86334.webp?s=c4978294343eede799f7714c52759f0d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334t.webp?s=c4978294343eede799f7714c52759f0d",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.webp?s=c4978294343eede799f7714c52759f0d"
+                    }
+                },
+                "title": "Hajime no Ippo"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteAnime",
+                "type": "TV",
+                "startYear": 2003,
+                "malId": 72,
+                "url": "https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/75260.jpg?s=c62b19af7a5a92b9815bbdfc68a73990",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/75260t.jpg?s=c62b19af7a5a92b9815bbdfc68a73990",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/75260l.jpg?s=c62b19af7a5a92b9815bbdfc68a73990"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/75260.webp?s=c62b19af7a5a92b9815bbdfc68a73990",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/75260t.webp?s=c62b19af7a5a92b9815bbdfc68a73990",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/75260l.webp?s=c62b19af7a5a92b9815bbdfc68a73990"
+                    }
+                },
+                "title": "Full Metal Panic? Fumoffu"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteAnime",
+                "type": "TV",
+                "startYear": 2011,
+                "malId": 11061,
+                "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg?s=504a4913520f83c69ba65d7dcc5b70bb",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013t.jpg?s=504a4913520f83c69ba65d7dcc5b70bb",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg?s=504a4913520f83c69ba65d7dcc5b70bb"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013.webp?s=504a4913520f83c69ba65d7dcc5b70bb",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013t.webp?s=504a4913520f83c69ba65d7dcc5b70bb",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp?s=504a4913520f83c69ba65d7dcc5b70bb"
+                    }
+                },
+                "title": "Hunter x Hunter (2011)"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteAnime",
+                "type": "TV",
+                "startYear": 1999,
+                "malId": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg?s=18d143b1db40fb5b52905408b23a15f5",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851t.jpg?s=18d143b1db40fb5b52905408b23a15f5",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg?s=18d143b1db40fb5b52905408b23a15f5"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851.webp?s=18d143b1db40fb5b52905408b23a15f5",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851t.webp?s=18d143b1db40fb5b52905408b23a15f5",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.webp?s=18d143b1db40fb5b52905408b23a15f5"
+                    }
+                },
+                "title": "One Piece"
+            }
+        ],
+        "manga": [
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteManga",
+                "type": "Manga",
+                "startYear": 1989,
+                "malId": 7,
+                "url": "https://myanimelist.net/manga/7/Hajime_no_Ippo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/250313.jpg?s=e1e9f8fdf0e007338231d561fac8f1c2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/250313t.jpg?s=e1e9f8fdf0e007338231d561fac8f1c2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/250313l.jpg?s=e1e9f8fdf0e007338231d561fac8f1c2"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/250313.webp?s=e1e9f8fdf0e007338231d561fac8f1c2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/250313t.webp?s=e1e9f8fdf0e007338231d561fac8f1c2",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/250313l.webp?s=e1e9f8fdf0e007338231d561fac8f1c2"
+                    }
+                },
+                "title": "Hajime no Ippo"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteManga",
+                "type": "Manga",
+                "startYear": 2001,
+                "malId": 419,
+                "url": "https://myanimelist.net/manga/419/Nodame_Cantabile",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/153962.jpg?s=8eed2b5fd5a7a66c9fa95c002d40d43a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/153962t.jpg?s=8eed2b5fd5a7a66c9fa95c002d40d43a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/153962l.jpg?s=8eed2b5fd5a7a66c9fa95c002d40d43a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/153962.webp?s=8eed2b5fd5a7a66c9fa95c002d40d43a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/153962t.webp?s=8eed2b5fd5a7a66c9fa95c002d40d43a",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/153962l.webp?s=8eed2b5fd5a7a66c9fa95c002d40d43a"
+                    }
+                },
+                "title": "Nodame Cantabile"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteManga",
+                "type": "Manga",
+                "startYear": 2003,
+                "malId": 21,
+                "url": "https://myanimelist.net/manga/21/Death_Note",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/258245.jpg?s=07d8ce3337182f069af7741feefb98bd",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/258245t.jpg?s=07d8ce3337182f069af7741feefb98bd",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/258245l.jpg?s=07d8ce3337182f069af7741feefb98bd"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/1/258245.webp?s=07d8ce3337182f069af7741feefb98bd",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/258245t.webp?s=07d8ce3337182f069af7741feefb98bd",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/258245l.webp?s=07d8ce3337182f069af7741feefb98bd"
+                    }
+                },
+                "title": "Death Note"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\FavoriteManga",
+                "type": "Manga",
+                "startYear": 1995,
+                "malId": 375,
+                "url": "https://myanimelist.net/manga/375/Initial_D",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/186990.jpg?s=7a427546b9f9cf6ade849607655a5aeb",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/186990t.jpg?s=7a427546b9f9cf6ade849607655a5aeb",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/186990l.jpg?s=7a427546b9f9cf6ade849607655a5aeb"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/manga/2/186990.webp?s=7a427546b9f9cf6ade849607655a5aeb",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/186990t.webp?s=7a427546b9f9cf6ade849607655a5aeb",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/186990l.webp?s=7a427546b9f9cf6ade849607655a5aeb"
+                    }
+                },
+                "title": "Initial D"
+            }
+        ],
+        "characters": [
+            {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 1,
+                "url": "https://myanimelist.net/character/1/Spike_Spiegel",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/11/516853.jpg?s=86afeea5bb025f36dc72215becf25fdc"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/11/516853.webp?s=86afeea5bb025f36dc72215becf25fdc",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/characters/11/516853t.webp?s=86afeea5bb025f36dc72215becf25fdc"
+                    }
+                },
+                "name": "Spiegel, Spike"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 168,
+                "url": "https://myanimelist.net/character/168/Sousuke_Sagara",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/9/139801.jpg?s=4588a80df8e394b85d5a0030fc37b7ab"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/9/139801.webp?s=4588a80df8e394b85d5a0030fc37b7ab",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/characters/9/139801t.webp?s=4588a80df8e394b85d5a0030fc37b7ab"
+                    }
+                },
+                "name": "Sagara, Sousuke"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 162,
+                "url": "https://myanimelist.net/character/162/Vash_the_Stampede",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/10/89607.jpg?s=a5b12774853d8494ff125dec6b664b75"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/10/89607.webp?s=a5b12774853d8494ff125dec6b664b75",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/characters/10/89607t.webp?s=a5b12774853d8494ff125dec6b664b75"
+                    }
+                },
+                "name": "Vash the Stampede"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 15,
+                "url": "https://myanimelist.net/character/15/Ippo_Makunouchi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/16/74142.jpg?s=d8f9f394ccb96108584d22dbf016f969"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/16/74142.webp?s=d8f9f394ccb96108584d22dbf016f969",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/characters/16/74142t.webp?s=d8f9f394ccb96108584d22dbf016f969"
+                    }
+                },
+                "name": "Makunouchi, Ippo"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 40,
+                "url": "https://myanimelist.net/character/40/Luffy_Monkey_D",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/9/310307.jpg?s=d10cc158dc281afac6b67d32b94d3831"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/9/310307.webp?s=d10cc158dc281afac6b67d32b94d3831",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/characters/9/310307t.webp?s=d10cc158dc281afac6b67d32b94d3831"
+                    }
+                },
+                "name": "Monkey D., Luffy"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 251,
+                "url": "https://myanimelist.net/character/251/Haruhi_Suzumiya",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/13/284136.jpg?s=58a720e59cd2ffe21bdbe280247d2003"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/13/284136.webp?s=58a720e59cd2ffe21bdbe280247d2003",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/characters/13/284136t.webp?s=58a720e59cd2ffe21bdbe280247d2003"
+                    }
+                },
+                "name": "Suzumiya, Haruhi"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 434,
+                "url": "https://myanimelist.net/character/434/Eikichi_Onizuka",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/8/241475.jpg?s=b34ad8e298a02c2604bfd69d10ad572d"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/8/241475.webp?s=b34ad8e298a02c2604bfd69d10ad572d",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/characters/8/241475t.webp?s=b34ad8e298a02c2604bfd69d10ad572d"
+                    }
+                },
+                "name": "Onizuka, Eikichi"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 1184,
+                "url": "https://myanimelist.net/character/1184/Shinichi_Chiaki",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/12/80560.jpg?s=ccde914bd83e4d918336731aeda4bcf2"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/12/80560.webp?s=ccde914bd83e4d918336731aeda4bcf2",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/characters/12/80560t.webp?s=ccde914bd83e4d918336731aeda4bcf2"
+                    }
+                },
+                "name": "Chiaki, Shinichi"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\CharacterMeta",
+                "malId": 30,
+                "url": "https://myanimelist.net/character/30/Gon_Freecss",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/11/174517.jpg?s=515e43704947e72f484cab1d97b7eb2a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/characters/11/174517.webp?s=515e43704947e72f484cab1d97b7eb2a",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/characters/11/174517t.webp?s=515e43704947e72f484cab1d97b7eb2a"
+                    }
+                },
+                "name": "Freecss, Gon"
+            }
+        ],
+        "people": [
+            {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 1,
+                "url": "https://myanimelist.net/people/1/Tomokazu_Seki",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/85360.jpg?s=0baf43a2b04643eccdc5df9942cc0abc"
+                    }
+                },
+                "name": "Seki, Tomokazu"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 12,
+                "url": "https://myanimelist.net/people/12/Steven_Blum",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/45741.jpg?s=dac5f4e1864e0451ce9aa05e8c4b087e"
+                    }
+                },
+                "name": "Blum, Steven"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 3,
+                "url": "https://myanimelist.net/people/3/Satsuki_Yukino",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/75881.jpg?s=a31bffe64aa59144139fe04b8af2932f"
+                    }
+                },
+                "name": "Yukino, Satsuki"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 2,
+                "url": "https://myanimelist.net/people/2/Tomokazu_Sugita",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/92182.jpg?s=caeefb7d6b57bcab365bc3c43db647cb"
+                    }
+                },
+                "name": "Sugita, Tomokazu"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 1867,
+                "url": "https://myanimelist.net/people/1867/Naoki_Urasawa",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/83481.jpg?s=b4741ebdbbcdbe561b33d44fc4cdeee0"
+                    }
+                },
+                "name": "Urasawa, Naoki"
+            },
+            {
+                "@class": "Jikan\\Model\\Common\\PersonMeta",
+                "malId": 4,
+                "url": "https://myanimelist.net/people/4/Aya_Hirano",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/78608.jpg?s=b3d6ca83dcd2e2288af73364bd2c420e"
+                    }
+                },
+                "name": "Hirano, Aya"
+            }
+        ]
+    },
+    "lastUpdates": {
+        "@class": "Jikan\\Model\\User\\LastUpdates",
+        "anime": [
+            {
+                "@class": "Jikan\\Model\\User\\LastAnimeUpdate",
+                "entry": {
+                    "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                    "malId": 21,
+                    "url": "https://myanimelist.net/anime/21/One_Piece",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg?s=247d923c9d9c80123d126df0d58b0d24",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851t.jpg?s=247d923c9d9c80123d126df0d58b0d24",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg?s=247d923c9d9c80123d126df0d58b0d24"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851.webp?s=247d923c9d9c80123d126df0d58b0d24",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851t.webp?s=247d923c9d9c80123d126df0d58b0d24",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.webp?s=247d923c9d9c80123d126df0d58b0d24"
+                        }
+                    },
+                    "title": "One Piece"
+                },
+                "score": 9,
+                "status": "Watching",
+                "episodesSeen": 623,
+                "episodesTotal": null,
+                "date": "2021-04-19T14:44:00+00:00"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\LastAnimeUpdate",
+                "entry": {
+                    "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                    "malId": 9201,
+                    "url": "https://myanimelist.net/anime/9201/Air_Gear__Kuro_no_Hane_to_Nemuri_no_Mori_-_Break_on_the_Sky",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/8/74158.jpg?s=56c90720bd5f9e0c1794c1347f5d4fb9",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/74158t.jpg?s=56c90720bd5f9e0c1794c1347f5d4fb9",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/74158l.jpg?s=56c90720bd5f9e0c1794c1347f5d4fb9"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/8/74158.webp?s=56c90720bd5f9e0c1794c1347f5d4fb9",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/74158t.webp?s=56c90720bd5f9e0c1794c1347f5d4fb9",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/74158l.webp?s=56c90720bd5f9e0c1794c1347f5d4fb9"
+                        }
+                    },
+                    "title": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky"
+                },
+                "score": 0,
+                "status": "Plan to Watch",
+                "episodesSeen": null,
+                "episodesTotal": null,
+                "date": "2020-09-23T21:50:00+00:00"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\LastAnimeUpdate",
+                "entry": {
+                    "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                    "malId": 11061,
+                    "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg?s=0105f32a3cf160e53bf3451d03401377",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013t.jpg?s=0105f32a3cf160e53bf3451d03401377",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg?s=0105f32a3cf160e53bf3451d03401377"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013.webp?s=0105f32a3cf160e53bf3451d03401377",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013t.webp?s=0105f32a3cf160e53bf3451d03401377",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp?s=0105f32a3cf160e53bf3451d03401377"
+                        }
+                    },
+                    "title": "Hunter x Hunter (2011)"
+                },
+                "score": 9,
+                "status": "Completed",
+                "episodesSeen": 148,
+                "episodesTotal": 148,
+                "date": "2020-09-05T21:35:00+00:00"
+            }
+        ],
+        "manga": [
+            {
+                "@class": "Jikan\\Model\\User\\LastMangaUpdate",
+                "entry": {
+                    "@class": "Jikan\\Model\\Common\\MangaMeta",
+                    "malId": 44347,
+                    "url": "https://myanimelist.net/manga/44347/One_Punch-Man",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/80661.jpg?s=1e161a43418d7e7bd8d774882d123abc",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/80661t.jpg?s=1e161a43418d7e7bd8d774882d123abc",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/80661l.jpg?s=1e161a43418d7e7bd8d774882d123abc"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/80661.webp?s=1e161a43418d7e7bd8d774882d123abc",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/80661t.webp?s=1e161a43418d7e7bd8d774882d123abc",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/80661l.webp?s=1e161a43418d7e7bd8d774882d123abc"
+                        }
+                    },
+                    "title": "One Punch-Man"
+                },
+                "score": 8,
+                "status": "Reading",
+                "chaptersRead": 92,
+                "chaptersTotal": null,
+                "date": "2022-01-15T23:47:00+00:00"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\LastMangaUpdate",
+                "entry": {
+                    "@class": "Jikan\\Model\\Common\\MangaMeta",
+                    "malId": 7,
+                    "url": "https://myanimelist.net/manga/7/Hajime_no_Ippo",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/250313.jpg?s=76d2defb6cfa535ece435352f29c2b0e",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/250313t.jpg?s=76d2defb6cfa535ece435352f29c2b0e",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/250313l.jpg?s=76d2defb6cfa535ece435352f29c2b0e"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/250313.webp?s=76d2defb6cfa535ece435352f29c2b0e",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/250313t.webp?s=76d2defb6cfa535ece435352f29c2b0e",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/250313l.webp?s=76d2defb6cfa535ece435352f29c2b0e"
+                        }
+                    },
+                    "title": "Hajime no Ippo"
+                },
+                "score": 9,
+                "status": "Reading",
+                "chaptersRead": 135,
+                "chaptersTotal": null,
+                "date": "2013-10-25T21:13:00+00:00"
+            },
+            {
+                "@class": "Jikan\\Model\\User\\LastMangaUpdate",
+                "entry": {
+                    "@class": "Jikan\\Model\\Common\\MangaMeta",
+                    "malId": 10552,
+                    "url": "https://myanimelist.net/manga/10552/Hoshi_no_Samidare",
+                    "images": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                        "jpg": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/56421.jpg?s=2b3435de0f5fdf8c168e11089966e204",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/56421t.jpg?s=2b3435de0f5fdf8c168e11089966e204",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/56421l.jpg?s=2b3435de0f5fdf8c168e11089966e204"
+                        },
+                        "webp": {
+                            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/56421.webp?s=2b3435de0f5fdf8c168e11089966e204",
+                            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/56421t.webp?s=2b3435de0f5fdf8c168e11089966e204",
+                            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/56421l.webp?s=2b3435de0f5fdf8c168e11089966e204"
+                        }
+                    },
+                    "title": "Hoshi no Samidare"
+                },
+                "score": 0,
+                "status": "Plan to Read",
+                "chaptersRead": null,
+                "chaptersTotal": null,
+                "date": "2011-07-07T14:04:00+00:00"
+            }
+        ]
+    },
+    "externalLinks": [
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Recent Anime",
+            "url": "https://myanimelist.net/rss.php?type=rw&u=Xinil"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Recent Anime by Episode",
+            "url": "https://myanimelist.net/rss.php?type=rwe&u=Xinil"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Recent Manga",
+            "url": "https://myanimelist.net/rss.php?type=rm&u=Xinil"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Recent Manga by Chapter",
+            "url": "https://myanimelist.net/rss.php?type=rrm&u=Xinil"
+        },
+        {
+            "@class": "Jikan\\Model\\Common\\Url",
+            "name": "Blog Feed",
+            "url": "https://myanimelist.net/rss.php?type=blog&u=Xinil"
+        }
+    ],
+    "about": "Founder and creator of MyAnimeList. <br>\n<br>\nThanks for stopping by!"
+}
