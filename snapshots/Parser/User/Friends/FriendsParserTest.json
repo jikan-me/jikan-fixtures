@@ -21,8 +21,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:59:57+00:00",
+            "friendsSince": "2018-03-09T12:41:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -42,8 +42,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:59:40+00:00",
+            "friendsSince": "2026-02-14T09:59:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -63,8 +63,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:59:24+00:00",
+            "friendsSince": "2018-03-08T15:42:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -84,8 +84,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:59:18+00:00",
+            "friendsSince": "2026-08-19T06:12:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -105,8 +105,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:59:00+00:00",
+            "friendsSince": "2021-03-12T06:39:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -126,8 +126,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:58:00+00:00",
+            "friendsSince": "2021-02-04T15:49:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -147,8 +147,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:58:00+00:00",
+            "friendsSince": "2022-09-14T07:36:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -168,7 +168,7 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
+            "lastOnline": "2026-10-12T11:58:00+00:00",
             "friendsSince": null
         },
         {
@@ -189,8 +189,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:57:00+00:00",
+            "friendsSince": "2022-07-05T07:57:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -210,8 +210,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:57:00+00:00",
+            "friendsSince": "2022-03-28T17:23:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -231,8 +231,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:57:00+00:00",
+            "friendsSince": "2026-07-19T08:17:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -252,8 +252,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:56:00+00:00",
+            "friendsSince": "2025-02-10T18:48:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -273,8 +273,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:56:00+00:00",
+            "friendsSince": "2025-06-05T18:21:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -294,8 +294,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:55:00+00:00",
+            "friendsSince": "2022-10-16T08:26:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -315,8 +315,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:54:00+00:00",
+            "friendsSince": "2023-01-17T14:13:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -336,8 +336,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:54:00+00:00",
+            "friendsSince": "2019-11-24T04:09:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -357,8 +357,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:54:00+00:00",
+            "friendsSince": "2021-06-09T09:26:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -378,8 +378,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:53:00+00:00",
+            "friendsSince": "2018-03-26T19:26:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -399,8 +399,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:53:00+00:00",
+            "friendsSince": "2025-01-05T18:06:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -420,8 +420,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:52:00+00:00",
+            "friendsSince": "2022-02-19T14:09:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -441,8 +441,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:52:00+00:00",
+            "friendsSince": "2022-09-13T06:37:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -462,8 +462,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:51:00+00:00",
+            "friendsSince": "2017-07-02T09:49:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -483,8 +483,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:51:00+00:00",
+            "friendsSince": "2021-02-14T10:57:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -504,8 +504,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:51:00+00:00",
+            "friendsSince": "2017-05-01T14:27:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -525,8 +525,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:50:00+00:00",
+            "friendsSince": "2023-04-04T20:18:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -546,8 +546,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:49:00+00:00",
+            "friendsSince": "2022-06-17T20:40:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -567,8 +567,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:49:00+00:00",
+            "friendsSince": "2023-10-09T08:53:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -588,8 +588,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:49:00+00:00",
+            "friendsSince": "2022-12-09T18:01:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -609,8 +609,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:48:00+00:00",
+            "friendsSince": "2025-01-08T15:11:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -630,8 +630,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:45:00+00:00",
+            "friendsSince": "2023-11-06T21:54:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -651,8 +651,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:45:00+00:00",
+            "friendsSince": "2018-08-16T03:28:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -672,8 +672,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:42:00+00:00",
+            "friendsSince": "2025-06-24T18:33:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -693,8 +693,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:42:00+00:00",
+            "friendsSince": "2023-03-22T11:34:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -714,8 +714,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:41:00+00:00",
+            "friendsSince": "2021-08-12T21:05:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -735,8 +735,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:41:00+00:00",
+            "friendsSince": "2023-02-01T07:30:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -756,8 +756,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:41:00+00:00",
+            "friendsSince": "2025-08-08T18:46:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -777,8 +777,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:40:00+00:00",
+            "friendsSince": "2023-09-28T11:17:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -798,8 +798,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:40:00+00:00",
+            "friendsSince": "2020-05-28T18:07:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -819,7 +819,7 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
+            "lastOnline": "2026-10-12T11:39:00+00:00",
             "friendsSince": null
         },
         {
@@ -840,8 +840,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:39:00+00:00",
+            "friendsSince": "2018-09-28T18:38:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -861,8 +861,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:39:00+00:00",
+            "friendsSince": "2022-04-07T16:05:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -882,8 +882,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:38:00+00:00",
+            "friendsSince": "2017-10-13T13:33:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -903,8 +903,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:37:00+00:00",
+            "friendsSince": "2023-01-17T13:05:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -924,8 +924,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:36:00+00:00",
+            "friendsSince": "2026-06-16T20:35:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -945,8 +945,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:34:00+00:00",
+            "friendsSince": "2025-03-15T11:35:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -966,8 +966,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:34:00+00:00",
+            "friendsSince": "2025-02-22T07:07:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -987,8 +987,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:33:00+00:00",
+            "friendsSince": "2023-07-23T07:03:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1008,8 +1008,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:32:00+00:00",
+            "friendsSince": "2020-01-15T13:36:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1029,8 +1029,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:32:00+00:00",
+            "friendsSince": "2016-09-15T16:20:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1050,8 +1050,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:28:00+00:00",
+            "friendsSince": "2021-01-02T08:11:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1071,8 +1071,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:27:00+00:00",
+            "friendsSince": "2017-07-04T11:17:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1092,7 +1092,7 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
+            "lastOnline": "2026-10-12T11:25:00+00:00",
             "friendsSince": null
         },
         {
@@ -1113,8 +1113,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:25:00+00:00",
+            "friendsSince": "2024-10-19T10:53:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1134,8 +1134,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:24:00+00:00",
+            "friendsSince": "2022-12-11T13:12:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1155,8 +1155,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:24:00+00:00",
+            "friendsSince": "2018-02-11T16:29:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1176,8 +1176,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:23:00+00:00",
+            "friendsSince": "2022-02-21T14:46:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1197,7 +1197,7 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
+            "lastOnline": "2026-10-12T11:23:00+00:00",
             "friendsSince": null
         },
         {
@@ -1218,8 +1218,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:23:00+00:00",
+            "friendsSince": "2024-01-18T07:36:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1239,8 +1239,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:22:00+00:00",
+            "friendsSince": "2026-06-04T06:29:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1260,8 +1260,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:21:00+00:00",
+            "friendsSince": "2025-09-19T08:17:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1281,8 +1281,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:19:00+00:00",
+            "friendsSince": "2024-10-03T06:07:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1302,8 +1302,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:16:00+00:00",
+            "friendsSince": "2022-11-30T06:25:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1323,8 +1323,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:16:00+00:00",
+            "friendsSince": "2017-12-29T12:16:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1344,8 +1344,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:15:00+00:00",
+            "friendsSince": "2017-12-30T22:02:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1365,8 +1365,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:14:00+00:00",
+            "friendsSince": "2018-11-10T14:14:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1386,8 +1386,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:14:00+00:00",
+            "friendsSince": "2021-03-06T06:49:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1407,8 +1407,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:13:00+00:00",
+            "friendsSince": "2024-12-21T23:08:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1428,8 +1428,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:13:00+00:00",
+            "friendsSince": "2023-08-22T17:25:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1449,8 +1449,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:13:00+00:00",
+            "friendsSince": "2022-11-21T06:17:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1470,8 +1470,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:12:00+00:00",
+            "friendsSince": "2021-06-21T13:05:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1491,7 +1491,7 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
+            "lastOnline": "2026-10-12T11:11:00+00:00",
             "friendsSince": null
         },
         {
@@ -1512,8 +1512,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:11:00+00:00",
+            "friendsSince": "2019-12-20T09:57:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1533,8 +1533,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:09:00+00:00",
+            "friendsSince": "2022-02-04T14:22:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1554,8 +1554,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:09:00+00:00",
+            "friendsSince": "2026-03-28T16:50:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1575,8 +1575,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:06:00+00:00",
+            "friendsSince": "2017-09-13T10:11:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1596,8 +1596,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:05:00+00:00",
+            "friendsSince": "2018-11-04T05:44:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1617,8 +1617,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:05:00+00:00",
+            "friendsSince": "2023-05-27T14:49:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1638,8 +1638,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:04:00+00:00",
+            "friendsSince": "2022-10-05T08:06:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1659,8 +1659,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:04:00+00:00",
+            "friendsSince": "2025-09-06T20:58:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1680,8 +1680,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:03:00+00:00",
+            "friendsSince": "2022-01-20T11:05:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1701,8 +1701,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:03:00+00:00",
+            "friendsSince": "2022-07-24T15:17:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1722,8 +1722,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2016-02-16T18:05:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1743,8 +1743,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2019-07-22T11:05:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1764,8 +1764,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2022-03-06T13:05:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1785,8 +1785,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2022-12-26T12:17:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1806,8 +1806,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2018-09-22T12:01:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1827,8 +1827,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2024-04-10T07:19:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1848,8 +1848,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2021-03-13T20:43:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1869,8 +1869,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2026-09-02T14:10:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1890,8 +1890,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2022-11-18T20:23:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1911,8 +1911,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2021-07-25T07:51:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1932,8 +1932,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2022-01-17T11:16:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1953,8 +1953,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2021-01-11T14:11:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1974,8 +1974,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2021-03-13T08:49:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -1995,8 +1995,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2020-02-23T06:51:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -2016,8 +2016,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2022-05-17T09:35:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -2037,8 +2037,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2021-03-29T08:08:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -2058,8 +2058,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2025-04-08T08:59:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -2079,8 +2079,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2021-01-02T10:30:00+00:00"
         },
         {
             "@class": "Jikan\\Model\\User\\Friend",
@@ -2100,8 +2100,8 @@
                     }
                 }
             },
-            "lastOnline": "<date>",
-            "friendsSince": "<date>"
+            "lastOnline": "2026-10-12T11:00:00+00:00",
+            "friendsSince": "2025-11-01T22:47:00+00:00"
         }
     ]
 }
