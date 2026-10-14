@@ -1,0 +1,167 @@
+[
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/151744.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/151744t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/151744l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/151744.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/151744t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/151744l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/1/151745.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/151745t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/151745l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/1/151745.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/151745t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/151745l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/5/159355.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/159355t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/159355l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/5/159355.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/159355t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/159355l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/185904.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/185904t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/185904l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/185904.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/185904t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/185904l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/185905.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/185905t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/185905l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/185905.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/185905t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/185905l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/1/185906.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/185906t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/185906l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/1/185906.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/185906t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/185906l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/185907.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/185907t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/185907l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/185907.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/185907t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/185907l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/185908.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/185908t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/185908l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/185908.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/185908t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/185908l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/185909.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/185909t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/185909l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/2/185909.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/185909t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/185909l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/210885.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/210885t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/210885l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/3/210885.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/210885t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/210885l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/1/219795.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/219795t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/219795l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/manga/1/219795.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/219795t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/219795l.webp"
+        }
+    }
+]

@@ -1,0 +1,1507 @@
+{
+    "@class": "Jikan\\Model\\Search\\AnimeSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 11741,
+            "url": "https://myanimelist.net/anime/11741/Fate_Zero_2nd_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1522/117645.jpg?s=e54dcf99dc0874bc5b228ebe8496c857",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1522/117645t.jpg?s=e54dcf99dc0874bc5b228ebe8496c857",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1522/117645l.jpg?s=e54dcf99dc0874bc5b228ebe8496c857"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1522/117645.webp?s=e54dcf99dc0874bc5b228ebe8496c857",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1522/117645t.webp?s=e54dcf99dc0874bc5b228ebe8496c857",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1522/117645l.webp?s=e54dcf99dc0874bc5b228ebe8496c857"
+                }
+            },
+            "title": "Fate/Zero 2nd Season",
+            "airing": false,
+            "synopsis": "As the Fourth Holy Grail War rages on with no clear victor in sight, the remaining Servants and their Masters are called upon by Church supervisor Risei Kotomine, in order to band together and confron...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 8.54,
+            "startDate": "2012-04-08T00:00:00+00:00",
+            "endDate": "2012-06-24T00:00:00+00:00",
+            "members": 1182927,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 14829,
+            "url": "https://myanimelist.net/anime/14829/Fate_kaleid_liner_Prisma☆Illya",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/121542.jpg?s=0993053f96be284e6792a3f4c4bbef7e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1773/121542t.jpg?s=0993053f96be284e6792a3f4c4bbef7e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1773/121542l.jpg?s=0993053f96be284e6792a3f4c4bbef7e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1773/121542.webp?s=0993053f96be284e6792a3f4c4bbef7e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1773/121542t.webp?s=0993053f96be284e6792a3f4c4bbef7e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1773/121542l.webp?s=0993053f96be284e6792a3f4c4bbef7e"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya",
+            "airing": false,
+            "synopsis": "Mage's Association members Rin Toosaka and Luviagelita \"Luvia\" Edelfelt are tasked with finding and retrieving seven Class Cards, medieval artifacts containing the life essence of legendary Heroic Spi...",
+            "type": "TV",
+            "episodes": 10,
+            "score": 7.0,
+            "startDate": "2013-07-13T00:00:00+00:00",
+            "endDate": "2013-09-14T00:00:00+00:00",
+            "members": 290943,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 22297,
+            "url": "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/67333.jpg?s=bc2c38201e676d7c50e27246c740aa5c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/67333t.jpg?s=bc2c38201e676d7c50e27246c740aa5c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/67333l.jpg?s=bc2c38201e676d7c50e27246c740aa5c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/67333.webp?s=bc2c38201e676d7c50e27246c740aa5c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/67333t.webp?s=bc2c38201e676d7c50e27246c740aa5c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/67333l.webp?s=bc2c38201e676d7c50e27246c740aa5c"
+                }
+            },
+            "title": "Fate/stay night: Unlimited Blade Works",
+            "airing": false,
+            "synopsis": "The Holy Grail War is a battle royale among seven magi who serve as Masters. Masters, through the use of the command seals they are given when they enter the war, command Heroic Spirits known as Serva...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 8.18,
+            "startDate": "2014-10-12T00:00:00+00:00",
+            "endDate": "2014-12-28T00:00:00+00:00",
+            "members": 1158955,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34321,
+            "url": "https://myanimelist.net/anime/34321/Fate_Grand_Order__First_Order",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/82651.jpg?s=770755fd36e51d8c99b287d6f81a2d4b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/82651t.jpg?s=770755fd36e51d8c99b287d6f81a2d4b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/82651l.jpg?s=770755fd36e51d8c99b287d6f81a2d4b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/82651.webp?s=770755fd36e51d8c99b287d6f81a2d4b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/82651t.webp?s=770755fd36e51d8c99b287d6f81a2d4b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/82651l.webp?s=770755fd36e51d8c99b287d6f81a2d4b"
+                }
+            },
+            "title": "Fate/Grand Order: First Order",
+            "airing": false,
+            "synopsis": "In 2015, the Chaldea Security Organization draws on experts of both the magical and mundane fields to observe the future of mankind for possible extinction events. Humanity's survival seems assured fo...",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 6.73,
+            "startDate": "2016-12-31T00:00:00+00:00",
+            "endDate": "2016-12-31T00:00:00+00:00",
+            "members": 239225,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 20509,
+            "url": "https://myanimelist.net/anime/20509/Fate_kaleid_liner_Prisma☆Illya_2wei",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/64175.jpg?s=3664bf6496e9b48d48f896c1e186f4f5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/64175t.jpg?s=3664bf6496e9b48d48f896c1e186f4f5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/64175l.jpg?s=3664bf6496e9b48d48f896c1e186f4f5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/64175.webp?s=3664bf6496e9b48d48f896c1e186f4f5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/64175t.webp?s=3664bf6496e9b48d48f896c1e186f4f5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/64175l.webp?s=3664bf6496e9b48d48f896c1e186f4f5"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya 2wei!",
+            "airing": false,
+            "synopsis": "Another lovely summer goes by for Illyasviel von Einzbern. Taking a break from her magical girl duties, she enjoys her time off after collecting the Class Cards with her best friend Miyu Edelfelt. How...",
+            "type": "TV",
+            "episodes": 10,
+            "score": 7.19,
+            "startDate": "2014-07-10T00:00:00+00:00",
+            "endDate": "2014-09-11T00:00:00+00:00",
+            "members": 173827,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10087,
+            "url": "https://myanimelist.net/anime/10087/Fate_Zero",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1887/117644.jpg?s=2d08381c9d71958d6e484f18d3520dbf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1887/117644t.jpg?s=2d08381c9d71958d6e484f18d3520dbf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1887/117644l.jpg?s=2d08381c9d71958d6e484f18d3520dbf"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1887/117644.webp?s=2d08381c9d71958d6e484f18d3520dbf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1887/117644t.webp?s=2d08381c9d71958d6e484f18d3520dbf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1887/117644l.webp?s=2d08381c9d71958d6e484f18d3520dbf"
+                }
+            },
+            "title": "Fate/Zero",
+            "airing": false,
+            "synopsis": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confide...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.26,
+            "startDate": "2011-10-02T00:00:00+00:00",
+            "endDate": "2011-12-25T00:00:00+00:00",
+            "members": 1586898,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 27525,
+            "url": "https://myanimelist.net/anime/27525/Fate_kaleid_liner_Prisma☆Illya_2wei_Herz",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/75297.jpg?s=d3a4a42c1b00d2276449370258e00266",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/75297t.jpg?s=d3a4a42c1b00d2276449370258e00266",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/75297l.jpg?s=d3a4a42c1b00d2276449370258e00266"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/75297.webp?s=d3a4a42c1b00d2276449370258e00266",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/75297t.webp?s=d3a4a42c1b00d2276449370258e00266",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/75297l.webp?s=d3a4a42c1b00d2276449370258e00266"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+            "airing": false,
+            "synopsis": "Little Illya's life has gotten completely out of hand since the Kaleidostick Ruby granted her the powers of a magical girl. Now a regular beach trip is going to turn into another crazy mystery adventu...",
+            "type": "TV",
+            "episodes": 10,
+            "score": 7.15,
+            "startDate": "2015-07-25T00:00:00+00:00",
+            "endDate": "2015-09-26T00:00:00+00:00",
+            "members": 152424,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38084,
+            "url": "https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/103420.jpg?s=ab22c4cdf9f5805eee017284ef956772",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1194/103420t.jpg?s=ab22c4cdf9f5805eee017284ef956772",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1194/103420l.jpg?s=ab22c4cdf9f5805eee017284ef956772"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1194/103420.webp?s=ab22c4cdf9f5805eee017284ef956772",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1194/103420t.webp?s=ab22c4cdf9f5805eee017284ef956772",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1194/103420l.webp?s=ab22c4cdf9f5805eee017284ef956772"
+                }
+            },
+            "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+            "airing": false,
+            "synopsis": "A.D. 2016, the foundations of humanity have been incinerated by the Mage King Solomon. Chaldea, a secret mages organization with the mission to preserve humanity's future, foresaw mankind's extinction...",
+            "type": "TV",
+            "episodes": 21,
+            "score": 7.94,
+            "startDate": "2019-10-05T00:00:00+00:00",
+            "endDate": "2020-03-21T00:00:00+00:00",
+            "members": 308263,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 25537,
+            "url": "https://myanimelist.net/anime/25537/Fate_stay_night_Movie__Heavens_Feel_-_I_Presage_Flower",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1274/102213.jpg?s=6726974668ea14695f6f4a1d74595383",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1274/102213t.jpg?s=6726974668ea14695f6f4a1d74595383",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1274/102213l.jpg?s=6726974668ea14695f6f4a1d74595383"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1274/102213.webp?s=6726974668ea14695f6f4a1d74595383",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1274/102213t.webp?s=6726974668ea14695f6f4a1d74595383",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1274/102213l.webp?s=6726974668ea14695f6f4a1d74595383"
+                }
+            },
+            "title": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+            "airing": false,
+            "synopsis": "The Holy Grail War: a violent battle between mages in which seven masters and their summoned servants fight for the Holy Grail, a magical artifact that can grant the victor any wish. Nearly 10 years a...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 8.15,
+            "startDate": "2017-10-14T00:00:00+00:00",
+            "endDate": "2017-10-14T00:00:00+00:00",
+            "members": 508249,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 356,
+            "url": "https://myanimelist.net/anime/356/Fate_stay_night",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/30327.jpg?s=83d26b95fcc7fc4297332ebc4497e91a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/30327t.jpg?s=83d26b95fcc7fc4297332ebc4497e91a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/30327l.jpg?s=83d26b95fcc7fc4297332ebc4497e91a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/30327.webp?s=83d26b95fcc7fc4297332ebc4497e91a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/30327t.webp?s=83d26b95fcc7fc4297332ebc4497e91a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/30327l.webp?s=83d26b95fcc7fc4297332ebc4497e91a"
+                }
+            },
+            "title": "Fate/stay night",
+            "airing": false,
+            "synopsis": "After a mysterious inferno kills his family, Shirou is saved and adopted by Kiritsugu Emiya, who teaches him the ways of magic and justice. One night, years after Kiritsugu's death, Shirou is cleaning...",
+            "type": "TV",
+            "episodes": 24,
+            "score": 7.27,
+            "startDate": "2006-01-07T00:00:00+00:00",
+            "endDate": "2006-06-17T00:00:00+00:00",
+            "members": 993810,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 31706,
+            "url": "https://myanimelist.net/anime/31706/Fate_kaleid_liner_Prisma☆Illya_3rei",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/80834.jpg?s=9f9795d3e111695317da43659c6b57bc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/80834t.jpg?s=9f9795d3e111695317da43659c6b57bc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/80834l.jpg?s=9f9795d3e111695317da43659c6b57bc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/80834.webp?s=9f9795d3e111695317da43659c6b57bc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/80834t.webp?s=9f9795d3e111695317da43659c6b57bc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/80834l.webp?s=9f9795d3e111695317da43659c6b57bc"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+            "airing": false,
+            "synopsis": "Waking up to find herself in a parallel version of Fuyuki City, Illyasviel \"Illya\" von Einzbern is lost and alone. She discovers her home in ruins, with a massive crater lying in the center of her hom...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.48,
+            "startDate": "2016-07-06T00:00:00+00:00",
+            "endDate": "2016-09-21T00:00:00+00:00",
+            "members": 137727,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33050,
+            "url": "https://myanimelist.net/anime/33050/Fate_stay_night_Movie__Heavens_Feel_-_III_Spring_Song",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957.jpg?s=f0984cb6fcb8188ce26035b0b56de828",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957t.jpg?s=f0984cb6fcb8188ce26035b0b56de828",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg?s=f0984cb6fcb8188ce26035b0b56de828"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957.webp?s=f0984cb6fcb8188ce26035b0b56de828",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957t.webp?s=f0984cb6fcb8188ce26035b0b56de828",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957l.webp?s=f0984cb6fcb8188ce26035b0b56de828"
+                }
+            },
+            "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
+            "airing": false,
+            "synopsis": "The Fifth Holy Grail War in Fuyuki City has reached a turning point in which the lives of all participants are threatened as the hidden enemy finally reveals itself. As Shirou Emiya, Rin Toosaka, and...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 8.64,
+            "startDate": "2020-08-15T00:00:00+00:00",
+            "endDate": "2020-08-15T00:00:00+00:00",
+            "members": 397956,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 20543,
+            "url": "https://myanimelist.net/anime/20543/Bayonetta__Bloody_Fate",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390.jpg?s=860693ff365efbb8ed9e4768681c6785",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390t.jpg?s=860693ff365efbb8ed9e4768681c6785",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390l.jpg?s=860693ff365efbb8ed9e4768681c6785"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390.webp?s=860693ff365efbb8ed9e4768681c6785",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390t.webp?s=860693ff365efbb8ed9e4768681c6785",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390l.webp?s=860693ff365efbb8ed9e4768681c6785"
+                }
+            },
+            "title": "Bayonetta: Bloody Fate",
+            "airing": false,
+            "synopsis": "Driven to recover her memories after waking in a coffin at the bottom of a lake 20 years ago, Bayonetta hunts down the forces of Heaven day and night in search of clues to her forgotten past, and to u...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.64,
+            "startDate": "2013-11-23T00:00:00+00:00",
+            "endDate": "2013-11-23T00:00:00+00:00",
+            "members": 57716,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 6922,
+            "url": "https://myanimelist.net/anime/6922/Fate_stay_night_Movie__Unlimited_Blade_Works",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/95111.jpg?s=5d42bc9400ff6666331681bac3732288",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1889/95111t.jpg?s=5d42bc9400ff6666331681bac3732288",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1889/95111l.jpg?s=5d42bc9400ff6666331681bac3732288"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/95111.webp?s=5d42bc9400ff6666331681bac3732288",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1889/95111t.webp?s=5d42bc9400ff6666331681bac3732288",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1889/95111l.webp?s=5d42bc9400ff6666331681bac3732288"
+                }
+            },
+            "title": "Fate/stay night Movie: Unlimited Blade Works",
+            "airing": false,
+            "synopsis": "In Fuyuki City, the Fifth Holy Grail War is about to commence a lengthy battle of blood, death, and misery. High school student Rin Toosaka has trained her entire life for this moment—to become a magu...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.4,
+            "startDate": "2010-01-23T00:00:00+00:00",
+            "endDate": "2010-01-23T00:00:00+00:00",
+            "members": 242056,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 37651,
+            "url": "https://myanimelist.net/anime/37651/Fate_Extra__Last_Encore_-_Illustrias_Tendousetsu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1280/93468.jpg?s=fbcdbc83574a918e72f6ed315208c60f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1280/93468t.jpg?s=fbcdbc83574a918e72f6ed315208c60f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1280/93468l.jpg?s=fbcdbc83574a918e72f6ed315208c60f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1280/93468.webp?s=fbcdbc83574a918e72f6ed315208c60f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1280/93468t.webp?s=fbcdbc83574a918e72f6ed315208c60f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1280/93468l.webp?s=fbcdbc83574a918e72f6ed315208c60f"
+                }
+            },
+            "title": "Fate/Extra: Last Encore - Illustrias Tendousetsu",
+            "airing": false,
+            "synopsis": "After defeating the various Floor Masters of the six prior levels, Hakuno Kishinami and Saber arrive at the top floor of the Moon Cell. Their opponent will be Leonardo B. Harwey—the strongest Master i...",
+            "type": "TV",
+            "episodes": 3,
+            "score": 6.52,
+            "startDate": "2018-07-29T00:00:00+00:00",
+            "endDate": "2018-07-29T00:00:00+00:00",
+            "members": 82365,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33047,
+            "url": "https://myanimelist.net/anime/33047/Fate_Extra__Last_Encore",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/90836.jpg?s=f57b021c7df229f5fd527da596b4bce4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1122/90836t.jpg?s=f57b021c7df229f5fd527da596b4bce4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1122/90836l.jpg?s=f57b021c7df229f5fd527da596b4bce4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/90836.webp?s=f57b021c7df229f5fd527da596b4bce4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1122/90836t.webp?s=f57b021c7df229f5fd527da596b4bce4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1122/90836l.webp?s=f57b021c7df229f5fd527da596b4bce4"
+                }
+            },
+            "title": "Fate/Extra: Last Encore",
+            "airing": false,
+            "synopsis": "A technological hell masquerading as paradise, Tsukimihara Academy is an artificial high school that serves as the setting for the next Holy Grail War. Created by the Moon Cell computer, the school is...",
+            "type": "TV",
+            "episodes": 10,
+            "score": 6.3,
+            "startDate": "2018-01-28T00:00:00+00:00",
+            "endDate": "2018-04-01T00:00:00+00:00",
+            "members": 234328,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 55830,
+            "url": "https://myanimelist.net/anime/55830/Fate_strange_Fake",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1752/150192.jpg?s=47c7f2875c95c3ab9b0abed23fc0319a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1752/150192t.jpg?s=47c7f2875c95c3ab9b0abed23fc0319a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1752/150192l.jpg?s=47c7f2875c95c3ab9b0abed23fc0319a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1752/150192.webp?s=47c7f2875c95c3ab9b0abed23fc0319a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1752/150192t.webp?s=47c7f2875c95c3ab9b0abed23fc0319a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1752/150192l.webp?s=47c7f2875c95c3ab9b0abed23fc0319a"
+                }
+            },
+            "title": "Fate/strange Fake",
+            "airing": true,
+            "synopsis": "Fate/strange Fake centers around an imperfect copy of a Grail War based on the Third Holy Grail War in Fuyuki. Following the conclusion of the third Grail War, a US-based organization with magi distin...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.42,
+            "startDate": "2026-01-03T00:00:00+00:00",
+            "endDate": null,
+            "members": 105324,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36064,
+            "url": "https://myanimelist.net/anime/36064/Fate_Grand_Order",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1554/110198.jpg?s=70c85e77255b6acf99d03f44186da85e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1554/110198t.jpg?s=70c85e77255b6acf99d03f44186da85e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1554/110198l.jpg?s=70c85e77255b6acf99d03f44186da85e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1554/110198.webp?s=70c85e77255b6acf99d03f44186da85e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1554/110198t.webp?s=70c85e77255b6acf99d03f44186da85e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1554/110198l.webp?s=70c85e77255b6acf99d03f44186da85e"
+                }
+            },
+            "title": "Fate/Grand Order",
+            "airing": true,
+            "synopsis": "Assorted commercials and collaborations for the Fate/Grand Order mobile RPG. These short animations are posted to Type-Moon's official YouTube channel and advertise the game itself or promote a new ga...",
+            "type": "CM",
+            "episodes": 0,
+            "score": 7.62,
+            "startDate": "2014-12-27T00:00:00+00:00",
+            "endDate": null,
+            "members": 39019,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 19165,
+            "url": "https://myanimelist.net/anime/19165/Fate_Zero_Cafe",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1160/146062.jpg?s=8906fbac498427e05baa3dc007a771b9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1160/146062t.jpg?s=8906fbac498427e05baa3dc007a771b9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1160/146062l.jpg?s=8906fbac498427e05baa3dc007a771b9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1160/146062.webp?s=8906fbac498427e05baa3dc007a771b9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1160/146062t.webp?s=8906fbac498427e05baa3dc007a771b9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1160/146062l.webp?s=8906fbac498427e05baa3dc007a771b9"
+                }
+            },
+            "title": "Fate/Zero Cafe",
+            "airing": false,
+            "synopsis": "The story re-imagines the cast of the Fate/Zero as cute super-deformed characters who open a café, led by Saber as the manager. (Source: ANN)",
+            "type": "Movie",
+            "episodes": 2,
+            "score": 6.08,
+            "startDate": "2013-07-13T00:00:00+00:00",
+            "endDate": "2016-03-19T00:00:00+00:00",
+            "members": 23155,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 53127,
+            "url": "https://myanimelist.net/anime/53127/Fate_strange_Fake__Whispers_of_Dawn",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg?s=2955835b83d0fc0c8534a802a4d1cf1c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619t.jpg?s=2955835b83d0fc0c8534a802a4d1cf1c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg?s=2955835b83d0fc0c8534a802a4d1cf1c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619.webp?s=2955835b83d0fc0c8534a802a4d1cf1c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619t.webp?s=2955835b83d0fc0c8534a802a4d1cf1c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp?s=2955835b83d0fc0c8534a802a4d1cf1c"
+                }
+            },
+            "title": "Fate/strange Fake: Whispers of Dawn",
+            "airing": false,
+            "synopsis": "In the American city of Snowfield, a new Holy Grail War is about to erupt. Such ruthless confrontations pit against each other magic experts known as magi, who ascend to the status of Master by summon...",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 8.16,
+            "startDate": "2023-07-02T00:00:00+00:00",
+            "endDate": "2023-07-02T00:00:00+00:00",
+            "members": 107970,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 40982,
+            "url": "https://myanimelist.net/anime/40982/Fate_strange_Fake_PV",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105177.jpg?s=e3e4e33f6be38e072594010b9ac82b3f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1124/105177t.jpg?s=e3e4e33f6be38e072594010b9ac82b3f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1124/105177l.jpg?s=e3e4e33f6be38e072594010b9ac82b3f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1124/105177.webp?s=e3e4e33f6be38e072594010b9ac82b3f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1124/105177t.webp?s=e3e4e33f6be38e072594010b9ac82b3f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1124/105177l.webp?s=e3e4e33f6be38e072594010b9ac82b3f"
+                }
+            },
+            "title": "Fate/strange Fake PV",
+            "airing": false,
+            "synopsis": "The Dengeki Bunko light novel label commemorated Fate/strange Fake sixth light novel volume's release for January 10, 2020 by releasing a full commercial on their official YouTube channel an hour befo...",
+            "type": "PV",
+            "episodes": 1,
+            "score": 6.75,
+            "startDate": "2019-12-31T00:00:00+00:00",
+            "endDate": "2019-12-31T00:00:00+00:00",
+            "members": 12165,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 28701,
+            "url": "https://myanimelist.net/anime/28701/Fate_stay_night__Unlimited_Blade_Works_2nd_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/124810.jpg?s=bcc9a2280d895b064514afd7598e6081",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1881/124810t.jpg?s=bcc9a2280d895b064514afd7598e6081",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1881/124810l.jpg?s=bcc9a2280d895b064514afd7598e6081"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/124810.webp?s=bcc9a2280d895b064514afd7598e6081",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1881/124810t.webp?s=bcc9a2280d895b064514afd7598e6081",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1881/124810l.webp?s=bcc9a2280d895b064514afd7598e6081"
+                }
+            },
+            "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+            "airing": false,
+            "synopsis": "In the midst of the Fifth Holy Grail War, Caster sets her plans into motion, beginning with the capture of Shirou's Servant Saber. With the witch growing ever more powerful, Rin and Archer determine s...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.32,
+            "startDate": "2015-04-05T00:00:00+00:00",
+            "endDate": "2015-06-28T00:00:00+00:00",
+            "members": 910239,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 12565,
+            "url": "https://myanimelist.net/anime/12565/Fate_Prototype",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/51045.jpg?s=60c220409ef9769257e78130313bead6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/51045t.jpg?s=60c220409ef9769257e78130313bead6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/51045l.jpg?s=60c220409ef9769257e78130313bead6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/51045.webp?s=60c220409ef9769257e78130313bead6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/51045t.webp?s=60c220409ef9769257e78130313bead6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/51045l.webp?s=60c220409ef9769257e78130313bead6"
+                }
+            },
+            "title": "Fate/Prototype",
+            "airing": false,
+            "synopsis": "Coming from a renowned magus family, Ayaka Sajou is much expected to partake in the Holy Grail War. But ever since her father and sister's demise in the previous battle, she has grown gloomy and unwil...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 6.62,
+            "startDate": "2011-12-31T00:00:00+00:00",
+            "endDate": "2011-12-31T00:00:00+00:00",
+            "members": 117776,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34662,
+            "url": "https://myanimelist.net/anime/34662/Fate_Apocrypha",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86573.jpg?s=563cb90dcd23e3ea22805fbc87919d89",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/86573t.jpg?s=563cb90dcd23e3ea22805fbc87919d89",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/86573l.jpg?s=563cb90dcd23e3ea22805fbc87919d89"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86573.webp?s=563cb90dcd23e3ea22805fbc87919d89",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/86573t.webp?s=563cb90dcd23e3ea22805fbc87919d89",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/86573l.webp?s=563cb90dcd23e3ea22805fbc87919d89"
+                }
+            },
+            "title": "Fate/Apocrypha",
+            "airing": false,
+            "synopsis": "The Holy Grail is a powerful, ancient relic capable of granting any wish the beholder desires. In order to obtain this power, various magi known as \"masters\" summon legendary Heroic Spirits called \"se...",
+            "type": "TV",
+            "episodes": 25,
+            "score": 7.2,
+            "startDate": "2017-07-02T00:00:00+00:00",
+            "endDate": "2017-12-31T00:00:00+00:00",
+            "members": 507715,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 61361,
+            "url": "https://myanimelist.net/anime/61361/7Fates__Chakho",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985.jpg?s=24cb0655603df82c89210f23087ceaaf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985t.jpg?s=24cb0655603df82c89210f23087ceaaf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985l.jpg?s=24cb0655603df82c89210f23087ceaaf"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985.webp?s=24cb0655603df82c89210f23087ceaaf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985t.webp?s=24cb0655603df82c89210f23087ceaaf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1810/148985l.webp?s=24cb0655603df82c89210f23087ceaaf"
+                }
+            },
+            "title": "7Fates: Chakho",
+            "airing": false,
+            "synopsis": "",
+            "type": "ONA",
+            "episodes": 1,
+            "score": 6.73,
+            "startDate": "2025-04-03T00:00:00+00:00",
+            "endDate": "2025-04-03T00:00:00+00:00",
+            "members": 3511,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 7559,
+            "url": "https://myanimelist.net/anime/7559/Fate_stay_night_TV_Reproduction",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/33537.jpg?s=1b994b71aac8947022003bfc5722378d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/33537t.jpg?s=1b994b71aac8947022003bfc5722378d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/33537l.jpg?s=1b994b71aac8947022003bfc5722378d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/33537.webp?s=1b994b71aac8947022003bfc5722378d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/33537t.webp?s=1b994b71aac8947022003bfc5722378d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/33537l.webp?s=1b994b71aac8947022003bfc5722378d"
+                }
+            },
+            "title": "Fate/stay night TV Reproduction",
+            "airing": false,
+            "synopsis": "An edited and condensed version of the TV series.",
+            "type": "OVA",
+            "episodes": 2,
+            "score": 6.82,
+            "startDate": "2010-01-17T00:00:00+00:00",
+            "endDate": "2010-01-17T00:00:00+00:00",
+            "members": 45131,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 19109,
+            "url": "https://myanimelist.net/anime/19109/Fate_kaleid_liner_Prisma☆Illya_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/51235.jpg?s=d7a2ba1bd9f3782c7f653deafa3f26cd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/51235t.jpg?s=d7a2ba1bd9f3782c7f653deafa3f26cd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/51235l.jpg?s=d7a2ba1bd9f3782c7f653deafa3f26cd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/51235.webp?s=d7a2ba1bd9f3782c7f653deafa3f26cd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/51235t.webp?s=d7a2ba1bd9f3782c7f653deafa3f26cd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/51235l.webp?s=d7a2ba1bd9f3782c7f653deafa3f26cd"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya Specials",
+            "airing": false,
+            "synopsis": "Specials bundled with each of all five Blu-ray/DVD volumes.",
+            "type": "Special",
+            "episodes": 5,
+            "score": 6.71,
+            "startDate": "2013-09-27T00:00:00+00:00",
+            "endDate": "2014-01-31T00:00:00+00:00",
+            "members": 48735,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 25011,
+            "url": "https://myanimelist.net/anime/25011/Fate_kaleid_liner_Prisma☆Illya_2wei_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/64197.jpg?s=5cf0a95a06837587e0a182b10b1bae7d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/64197t.jpg?s=5cf0a95a06837587e0a182b10b1bae7d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/64197l.jpg?s=5cf0a95a06837587e0a182b10b1bae7d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/64197.webp?s=5cf0a95a06837587e0a182b10b1bae7d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/64197t.webp?s=5cf0a95a06837587e0a182b10b1bae7d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/64197l.webp?s=5cf0a95a06837587e0a182b10b1bae7d"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya 2wei! Specials",
+            "airing": false,
+            "synopsis": "Short specials included with the Blu-ray/DVD releases of the TV series.",
+            "type": "Special",
+            "episodes": 5,
+            "score": 6.8,
+            "startDate": "2014-09-26T00:00:00+00:00",
+            "endDate": "2015-01-30T00:00:00+00:00",
+            "members": 47222,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 27821,
+            "url": "https://myanimelist.net/anime/27821/Fate_stay_night__Unlimited_Blade_Works_Prologue",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/67425.jpg?s=14c00022d56b6396f61e3c1813e27312",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/67425t.jpg?s=14c00022d56b6396f61e3c1813e27312",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/67425l.jpg?s=14c00022d56b6396f61e3c1813e27312"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/67425.webp?s=14c00022d56b6396f61e3c1813e27312",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/67425t.webp?s=14c00022d56b6396f61e3c1813e27312",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/67425l.webp?s=14c00022d56b6396f61e3c1813e27312"
+                }
+            },
+            "title": "Fate/stay night: Unlimited Blade Works Prologue",
+            "airing": false,
+            "synopsis": "In Fuyuki City, a long-lived ritual involving battles between seven magi and their servants is taking place. This ritual is known as the Holy Grail War and it promises to grant the victor any wish. Wi...",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 8.03,
+            "startDate": "2014-10-05T00:00:00+00:00",
+            "endDate": "2014-10-05T00:00:00+00:00",
+            "members": 343961,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38958,
+            "url": "https://myanimelist.net/anime/38958/Manga_de_Wakaru_Fate_Grand_Order",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102.jpg?s=2194702599fdeff1ea361edfc4b3afcd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102t.jpg?s=2194702599fdeff1ea361edfc4b3afcd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102l.jpg?s=2194702599fdeff1ea361edfc4b3afcd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102.webp?s=2194702599fdeff1ea361edfc4b3afcd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102t.webp?s=2194702599fdeff1ea361edfc4b3afcd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/98102l.webp?s=2194702599fdeff1ea361edfc4b3afcd"
+                }
+            },
+            "title": "Manga de Wakaru! Fate/Grand Order",
+            "airing": false,
+            "synopsis": "A short anime based on Manga de Wakaru! Fate/Grand Order by Riyo. Aired during Fate Project Year End 2018, and is also available on YouTube.",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 7.57,
+            "startDate": "2018-12-31T00:00:00+00:00",
+            "endDate": "2018-12-31T00:00:00+00:00",
+            "members": 19511,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 41497,
+            "url": "https://myanimelist.net/anime/41497/Fate_Grand_Order__Shuukyoku_Tokuiten_-_Kani_Jikan_Shinden_Solomon",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/114957.jpg?s=72bb72a7ec520637d29d10a294004572",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1507/114957t.jpg?s=72bb72a7ec520637d29d10a294004572",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1507/114957l.jpg?s=72bb72a7ec520637d29d10a294004572"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1507/114957.webp?s=72bb72a7ec520637d29d10a294004572",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1507/114957t.webp?s=72bb72a7ec520637d29d10a294004572",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1507/114957l.webp?s=72bb72a7ec520637d29d10a294004572"
+                }
+            },
+            "title": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
+            "airing": false,
+            "synopsis": "After battling their way through all seven Singularities, the Chaldea Security Organization has finally arrived at the endpoint of the Grand Order: The Final Singularity, Grand Temple of Time: Solomon...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.72,
+            "startDate": "2021-07-30T00:00:00+00:00",
+            "endDate": "2021-07-30T00:00:00+00:00",
+            "members": 86741,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33049,
+            "url": "https://myanimelist.net/anime/33049/Fate_stay_night_Movie__Heavens_Feel_-_II_Lost_Butterfly",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158.jpg?s=ec1b1ac07bd5fcd166381a293ae7dbee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158t.jpg?s=ec1b1ac07bd5fcd166381a293ae7dbee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg?s=ec1b1ac07bd5fcd166381a293ae7dbee"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158.webp?s=ec1b1ac07bd5fcd166381a293ae7dbee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158t.webp?s=ec1b1ac07bd5fcd166381a293ae7dbee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158l.webp?s=ec1b1ac07bd5fcd166381a293ae7dbee"
+                }
+            },
+            "title": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+            "airing": false,
+            "synopsis": "The Fifth Holy Grail War continues, and the ensuing chaos results in higher stakes for all participants. Shirou Emiya continues to participate in the war, aspiring to be a hero of justice who saves ev...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 8.46,
+            "startDate": "2019-01-12T00:00:00+00:00",
+            "endDate": "2019-01-12T00:00:00+00:00",
+            "members": 429839,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 44248,
+            "url": "https://myanimelist.net/anime/44248/Fate_Grand_Carnival",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/117596.jpg?s=2120290c7972b933fbc7084cef75193e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1239/117596t.jpg?s=2120290c7972b933fbc7084cef75193e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1239/117596l.jpg?s=2120290c7972b933fbc7084cef75193e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1239/117596.webp?s=2120290c7972b933fbc7084cef75193e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1239/117596t.webp?s=2120290c7972b933fbc7084cef75193e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1239/117596l.webp?s=2120290c7972b933fbc7084cef75193e"
+                }
+            },
+            "title": "Fate/Grand Carnival",
+            "airing": false,
+            "synopsis": "The first episode of \"season\" one was pre-aired on the Fate Project New Year's Eve TV Special 2020 program.",
+            "type": "OVA",
+            "episodes": 4,
+            "score": 7.7,
+            "startDate": "2020-12-31T00:00:00+00:00",
+            "endDate": "2021-10-13T00:00:00+00:00",
+            "members": 61387,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33456,
+            "url": "https://myanimelist.net/anime/33456/Fate_kaleid_liner_Prisma☆Illya_3rei_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1588/121787.jpg?s=9193879ca7dc9711987bb88e62bb868c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1588/121787t.jpg?s=9193879ca7dc9711987bb88e62bb868c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1588/121787l.jpg?s=9193879ca7dc9711987bb88e62bb868c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1588/121787.webp?s=9193879ca7dc9711987bb88e62bb868c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1588/121787t.webp?s=9193879ca7dc9711987bb88e62bb868c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1588/121787l.webp?s=9193879ca7dc9711987bb88e62bb868c"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya 3rei!! Specials",
+            "airing": false,
+            "synopsis": "Specials included with the BD/DVD releases.",
+            "type": "Special",
+            "episodes": 6,
+            "score": 6.66,
+            "startDate": "2016-09-30T00:00:00+00:00",
+            "endDate": "2017-02-24T00:00:00+00:00",
+            "members": 28044,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36729,
+            "url": "https://myanimelist.net/anime/36729/Fate_Apocrypha_Recaps",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468.jpg?s=c16067f5879657164105345118aeb68e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468t.jpg?s=c16067f5879657164105345118aeb68e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468l.jpg?s=c16067f5879657164105345118aeb68e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468.webp?s=c16067f5879657164105345118aeb68e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468t.webp?s=c16067f5879657164105345118aeb68e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1661/102468l.webp?s=c16067f5879657164105345118aeb68e"
+                }
+            },
+            "title": "Fate/Apocrypha Recaps",
+            "airing": false,
+            "synopsis": "Recap episodes of first 12 and 19 episodes of Fate/Apocrypha with narration by Astolfo and Shakespeare. Episode 12.5: Fate/Apocrypha: Seihai Taisen Douran-hen Episode 19.5: Fate/Apocrypha: Seihai Tais...",
+            "type": "TV Special",
+            "episodes": 2,
+            "score": 6.47,
+            "startDate": "2017-09-24T00:00:00+00:00",
+            "endDate": "2017-11-18T00:00:00+00:00",
+            "members": 18898,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 42030,
+            "url": "https://myanimelist.net/anime/42030/Fate_kaleid_liner_Prisma☆Illya_Movie__Licht_-_Namae_no_Nai_Shoujo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/117733.jpg?s=203da9d80791e878fa8097351637912f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1331/117733t.jpg?s=203da9d80791e878fa8097351637912f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1331/117733l.jpg?s=203da9d80791e878fa8097351637912f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1331/117733.webp?s=203da9d80791e878fa8097351637912f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1331/117733t.webp?s=203da9d80791e878fa8097351637912f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1331/117733l.webp?s=203da9d80791e878fa8097351637912f"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo",
+            "airing": false,
+            "synopsis": "The world is dying, no longer able to support life. The Ainsworth family can use the Holy Grail to save humanity, but the price of salvation is sacrifice of the magical girl Miyu — but Miyu’s brother,...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.22,
+            "startDate": "2021-08-27T00:00:00+00:00",
+            "endDate": "2021-08-27T00:00:00+00:00",
+            "members": 40939,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 54042,
+            "url": "https://myanimelist.net/anime/54042/Fate_Grand_Order__Fujimaru_Ritsuka_wa_Wakaranai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1800/132226.jpg?s=9ad58a06924b217a88e37a22203f51cc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1800/132226t.jpg?s=9ad58a06924b217a88e37a22203f51cc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1800/132226l.jpg?s=9ad58a06924b217a88e37a22203f51cc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1800/132226.webp?s=9ad58a06924b217a88e37a22203f51cc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1800/132226t.webp?s=9ad58a06924b217a88e37a22203f51cc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1800/132226l.webp?s=9ad58a06924b217a88e37a22203f51cc"
+                }
+            },
+            "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai",
+            "airing": false,
+            "synopsis": "Ritsuka Fujimaru—humanity's last master. It would not have been possible to restore humanity without him. However, he does have a shortcoming... he is far too honest! A slapstick comedy in which Fujim...",
+            "type": "ONA",
+            "episodes": 33,
+            "score": 7.23,
+            "startDate": "2023-02-04T00:00:00+00:00",
+            "endDate": "2023-07-30T00:00:00+00:00",
+            "members": 8128,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 31056,
+            "url": "https://myanimelist.net/anime/31056/Fate_kaleid_liner_Prisma☆Illya_2wei_Herz_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/122720.jpg?s=fb88d6778fdad699d2e26734ad462416",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1918/122720t.jpg?s=fb88d6778fdad699d2e26734ad462416",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1918/122720l.jpg?s=fb88d6778fdad699d2e26734ad462416"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/122720.webp?s=fb88d6778fdad699d2e26734ad462416",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1918/122720t.webp?s=fb88d6778fdad699d2e26734ad462416",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1918/122720l.webp?s=fb88d6778fdad699d2e26734ad462416"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials",
+            "airing": false,
+            "synopsis": "Specials bundled with limited edition Blu-ray/DVD volumes of the Fate/kaleid liner Prisma Illya 2wei Herz!.",
+            "type": "Special",
+            "episodes": 5,
+            "score": 6.86,
+            "startDate": "2015-09-25T00:00:00+00:00",
+            "endDate": "2016-01-29T00:00:00+00:00",
+            "members": 39809,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 40206,
+            "url": "https://myanimelist.net/anime/40206/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia_-_Initium_Iter",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1864/102399.jpg?s=63d47ea6c8491782120543dd3ca1271a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1864/102399t.jpg?s=63d47ea6c8491782120543dd3ca1271a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1864/102399l.jpg?s=63d47ea6c8491782120543dd3ca1271a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1864/102399.webp?s=63d47ea6c8491782120543dd3ca1271a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1864/102399t.webp?s=63d47ea6c8491782120543dd3ca1271a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1864/102399l.webp?s=63d47ea6c8491782120543dd3ca1271a"
+                }
+            },
+            "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter",
+            "airing": false,
+            "synopsis": "The year 2010 AD. Romani Archaman has been posted to Chaldea. There, he becomes the primary doctor for a young girl. Mash Kyrielight, Chaldea's second successful summoning experiment, is interested in...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 7.13,
+            "startDate": "2019-08-04T00:00:00+00:00",
+            "endDate": "2019-08-04T00:00:00+00:00",
+            "members": 76600,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38085,
+            "url": "https://myanimelist.net/anime/38085/Fate_Grand_Order__Shinsei_Entaku_Ryouiki_Camelot_1_-_Wandering__Agateram",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385.jpg?s=053c3e710c29ce88b013fc7b12d7b067",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385t.jpg?s=053c3e710c29ce88b013fc7b12d7b067",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385l.jpg?s=053c3e710c29ce88b013fc7b12d7b067"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385.webp?s=053c3e710c29ce88b013fc7b12d7b067",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385t.webp?s=053c3e710c29ce88b013fc7b12d7b067",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1535/103385l.webp?s=053c3e710c29ce88b013fc7b12d7b067"
+                }
+            },
+            "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+            "airing": false,
+            "synopsis": "The wandering knight, Bedivere, reaches the end of his journey. The year is A.D. 1273 in Jerusalem. The Holy Land has been transformed into a massive desert, the people have been forced out of their h...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.91,
+            "startDate": "2020-12-05T00:00:00+00:00",
+            "endDate": "2020-12-05T00:00:00+00:00",
+            "members": 101748,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 40761,
+            "url": "https://myanimelist.net/anime/40761/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia_Recaps",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/105307.jpg?s=6e8cf0d8a218ca430fd5ff7a1b45172f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1336/105307t.jpg?s=6e8cf0d8a218ca430fd5ff7a1b45172f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1336/105307l.jpg?s=6e8cf0d8a218ca430fd5ff7a1b45172f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/105307.webp?s=6e8cf0d8a218ca430fd5ff7a1b45172f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1336/105307t.webp?s=6e8cf0d8a218ca430fd5ff7a1b45172f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1336/105307l.webp?s=6e8cf0d8a218ca430fd5ff7a1b45172f"
+                }
+            },
+            "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia Recaps",
+            "airing": false,
+            "synopsis": "Recap episodes for Fate/Grand Order: Zettai Majuu Sensen Babylonia.",
+            "type": "TV Special",
+            "episodes": 3,
+            "score": 6.88,
+            "startDate": "2019-12-21T00:00:00+00:00",
+            "endDate": "2020-02-01T00:00:00+00:00",
+            "members": 11462,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 13183,
+            "url": "https://myanimelist.net/anime/13183/Fate_Zero_Remix",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105.jpg?s=ad10c955dd22f39470d46075af736d26",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105t.jpg?s=ad10c955dd22f39470d46075af736d26",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105l.jpg?s=ad10c955dd22f39470d46075af736d26"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105.webp?s=ad10c955dd22f39470d46075af736d26",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105t.webp?s=ad10c955dd22f39470d46075af736d26",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1629/122105l.webp?s=ad10c955dd22f39470d46075af736d26"
+                }
+            },
+            "title": "Fate/Zero Remix",
+            "airing": false,
+            "synopsis": "Two recap specials titled \"Fate/Zero Remix I\" and \"Fate/Zero Remix II\" serve to summarize the first 13 episodes of Fate/Zero.",
+            "type": "TV Special",
+            "episodes": 2,
+            "score": 7.01,
+            "startDate": "2012-03-25T00:00:00+00:00",
+            "endDate": "2012-04-01T00:00:00+00:00",
+            "members": 26854,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 49942,
+            "url": "https://myanimelist.net/anime/49942/Tales_of_Luminaria__The_Fateful_Crossroad",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624.jpg?s=4e4a624095702141ea1b1a04d71a68b2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624t.jpg?s=4e4a624095702141ea1b1a04d71a68b2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624l.jpg?s=4e4a624095702141ea1b1a04d71a68b2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624.webp?s=4e4a624095702141ea1b1a04d71a68b2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624t.webp?s=4e4a624095702141ea1b1a04d71a68b2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1544/120624l.webp?s=4e4a624095702141ea1b1a04d71a68b2"
+                }
+            },
+            "title": "Tales of Luminaria: The Fateful Crossroad",
+            "airing": false,
+            "synopsis": "Long ago, this land was home to beasts the size of mountains that have now become petrified. Mana overflowed from their remains, drawing people who sought its power, and civilizations sprang up. Peopl...",
+            "type": "ONA",
+            "episodes": 2,
+            "score": 6.17,
+            "startDate": "2022-01-21T00:00:00+00:00",
+            "endDate": "2022-01-21T00:00:00+00:00",
+            "members": 6460,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 18851,
+            "url": "https://myanimelist.net/anime/18851/Fate_kaleid_liner_Prisma☆Illya__Undoukai_de_Dance",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/60279.jpg?s=0f3056d188c5c2ced7775626ddf7cbb4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/60279t.jpg?s=0f3056d188c5c2ced7775626ddf7cbb4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/60279l.jpg?s=0f3056d188c5c2ced7775626ddf7cbb4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/60279.webp?s=0f3056d188c5c2ced7775626ddf7cbb4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/60279t.webp?s=0f3056d188c5c2ced7775626ddf7cbb4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/60279l.webp?s=0f3056d188c5c2ced7775626ddf7cbb4"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!",
+            "airing": false,
+            "synopsis": "Tatsuko of class 5-1 is really excited about the upcoming school sports festival, her proposal for a new \"Eel Scooping\" event is less than enthusiastically received though, especially by Suzuka. Illya...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 6.65,
+            "startDate": "2014-03-10T00:00:00+00:00",
+            "endDate": "2014-03-10T00:00:00+00:00",
+            "members": 56510,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 26057,
+            "url": "https://myanimelist.net/anime/26057/Fate_kaleid_liner_Prisma☆Illya_2wei__Mahou_Shoujo_in_Onsen_Ryokou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/154191.jpg?s=6c7d52a28add7f08762cad44d1d17ac2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1432/154191t.jpg?s=6c7d52a28add7f08762cad44d1d17ac2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1432/154191l.jpg?s=6c7d52a28add7f08762cad44d1d17ac2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/154191.webp?s=6c7d52a28add7f08762cad44d1d17ac2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1432/154191t.webp?s=6c7d52a28add7f08762cad44d1d17ac2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1432/154191l.webp?s=6c7d52a28add7f08762cad44d1d17ac2"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+            "airing": false,
+            "synopsis": "Based on the manga by the same name by Hiroyama Hiroshi, itself a spin-off of the Fate/stay night erotic visual novel by Type-Moon. Note: Bundled with the limited edition of the sixth Fate/Kaleid Line...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 6.95,
+            "startDate": "2015-07-25T00:00:00+00:00",
+            "endDate": "2015-07-25T00:00:00+00:00",
+            "members": 45583,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38413,
+            "url": "https://myanimelist.net/anime/38413/Arad__Suming_Zhi_Men",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976.jpg?s=32b2e181b5caeefbeaaeca20b2c76314",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976t.jpg?s=32b2e181b5caeefbeaaeca20b2c76314",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976l.jpg?s=32b2e181b5caeefbeaaeca20b2c76314"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976.webp?s=32b2e181b5caeefbeaaeca20b2c76314",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976t.webp?s=32b2e181b5caeefbeaaeca20b2c76314",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1143/94976l.webp?s=32b2e181b5caeefbeaaeca20b2c76314"
+                }
+            },
+            "title": "Arad: Suming Zhi Men",
+            "airing": false,
+            "synopsis": "",
+            "type": "ONA",
+            "episodes": 20,
+            "score": 6.08,
+            "startDate": "2017-04-28T00:00:00+00:00",
+            "endDate": "2017-09-01T00:00:00+00:00",
+            "members": 2705,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34100,
+            "url": "https://myanimelist.net/anime/34100/Fate_kaleid_liner_Prisma☆Illya_Movie__Sekka_no_Chikai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1996/93042.jpg?s=f22bfdab4bd701fd79d06d4c8d56ec78",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1996/93042t.jpg?s=f22bfdab4bd701fd79d06d4c8d56ec78",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1996/93042l.jpg?s=f22bfdab4bd701fd79d06d4c8d56ec78"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1996/93042.webp?s=f22bfdab4bd701fd79d06d4c8d56ec78",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1996/93042t.webp?s=f22bfdab4bd701fd79d06d4c8d56ec78",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1996/93042l.webp?s=f22bfdab4bd701fd79d06d4c8d56ec78"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+            "airing": false,
+            "synopsis": "After succumbing to an unenviable fate, Kiritsugu Emiya has left Shirou Emiya the duty to save mankind in his place. The world is dying and time is ticking, but when the salvation Shirou seeks is at t...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.92,
+            "startDate": "2017-08-26T00:00:00+00:00",
+            "endDate": "2017-08-26T00:00:00+00:00",
+            "members": 104118,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 13263,
+            "url": "https://myanimelist.net/anime/13263/Fate_Zero__Onegai_Einzbern_Soudanshitsu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/64273.jpg?s=41fd3ba4136fe34bb0b7f0a3c2476fa9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/64273t.jpg?s=41fd3ba4136fe34bb0b7f0a3c2476fa9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/64273l.jpg?s=41fd3ba4136fe34bb0b7f0a3c2476fa9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/64273.webp?s=41fd3ba4136fe34bb0b7f0a3c2476fa9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/64273t.webp?s=41fd3ba4136fe34bb0b7f0a3c2476fa9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/64273l.webp?s=41fd3ba4136fe34bb0b7f0a3c2476fa9"
+                }
+            },
+            "title": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+            "airing": false,
+            "synopsis": "Written by Kinoko Nasu, these specials are included in the BD box sets I & II. Join Irisviel as she helps Disciple No. Zero understand more details and history relating to the Holy Grail War.",
+            "type": "Special",
+            "episodes": 6,
+            "score": 6.64,
+            "startDate": "2012-03-07T00:00:00+00:00",
+            "endDate": "2012-09-19T00:00:00+00:00",
+            "members": 39722,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38086,
+            "url": "https://myanimelist.net/anime/38086/Fate_Grand_Order__Shinsei_Entaku_Ryouiki_Camelot_2_-_Paladin__Agateram",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615.jpg?s=c400e12849bee5ecbafdf506efec9da6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615t.jpg?s=c400e12849bee5ecbafdf506efec9da6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615l.jpg?s=c400e12849bee5ecbafdf506efec9da6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615.webp?s=c400e12849bee5ecbafdf506efec9da6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615t.webp?s=c400e12849bee5ecbafdf506efec9da6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1736/114615l.webp?s=c400e12849bee5ecbafdf506efec9da6"
+                }
+            },
+            "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram",
+            "airing": false,
+            "synopsis": "\"This time for sure, I will kill my king with my own hands...\" Jerusalem, 1273 A.D. Here, both the wandering knight, Bedivere, and Chaldea’s own expedition find the Sixth Singularity. The residents of...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.61,
+            "startDate": "2021-05-15T00:00:00+00:00",
+            "endDate": "2021-05-15T00:00:00+00:00",
+            "members": 85570,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 31389,
+            "url": "https://myanimelist.net/anime/31389/Fate_stay_night__Unlimited_Blade_Works_2nd_Season_-_Sunny_Day",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/75684.jpg?s=19b47be7324010fa26a926286a669d11",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/75684t.jpg?s=19b47be7324010fa26a926286a669d11",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/75684l.jpg?s=19b47be7324010fa26a926286a669d11"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/75684.webp?s=19b47be7324010fa26a926286a669d11",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/75684t.webp?s=19b47be7324010fa26a926286a669d11",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/75684l.webp?s=19b47be7324010fa26a926286a669d11"
+                }
+            },
+            "title": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+            "airing": false,
+            "synopsis": "As the Fifth Holy Grail War reaches its conclusion, Saber repeats her final duty from the previous war in order to end the vicious cycle once and for all. With the decisive blow draining her remaining...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 7.47,
+            "startDate": "2015-10-07T00:00:00+00:00",
+            "endDate": "2015-10-07T00:00:00+00:00",
+            "members": 123233,
+            "rated": "PG-13"
+        }
+    ]
+}

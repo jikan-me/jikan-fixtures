@@ -1,0 +1,1507 @@
+{
+    "@class": "Jikan\\Model\\Search\\AnimeSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 24793,
+            "url": "https://myanimelist.net/anime/24793/Bloody_Bunny",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/113309.jpg?s=8b3762ac7779be02c87aa398342454ba",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1308/113309t.jpg?s=8b3762ac7779be02c87aa398342454ba",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1308/113309l.jpg?s=8b3762ac7779be02c87aa398342454ba"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/113309.webp?s=8b3762ac7779be02c87aa398342454ba",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1308/113309t.webp?s=8b3762ac7779be02c87aa398342454ba",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1308/113309l.webp?s=8b3762ac7779be02c87aa398342454ba"
+                }
+            },
+            "title": "Bloody Bunny",
+            "airing": true,
+            "synopsis": "Shorts based off of the Thai mascot owned by TwoSpot Studio, Bloody Bunny (gender male in this series), and his brother that are avenging their parents' death.",
+            "type": "TV",
+            "episodes": 26,
+            "score": 5.68,
+            "startDate": "2012-07-18T00:00:00+00:00",
+            "endDate": null,
+            "members": 936,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 20543,
+            "url": "https://myanimelist.net/anime/20543/Bayonetta__Bloody_Fate",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390.jpg?s=860693ff365efbb8ed9e4768681c6785",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390t.jpg?s=860693ff365efbb8ed9e4768681c6785",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390l.jpg?s=860693ff365efbb8ed9e4768681c6785"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390.webp?s=860693ff365efbb8ed9e4768681c6785",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390t.webp?s=860693ff365efbb8ed9e4768681c6785",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390l.webp?s=860693ff365efbb8ed9e4768681c6785"
+                }
+            },
+            "title": "Bayonetta: Bloody Fate",
+            "airing": false,
+            "synopsis": "Driven to recover her memories after waking in a coffin at the bottom of a lake 20 years ago, Bayonetta hunts down the forces of Heaven day and night in search of clues to her forgotten past, and to u...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.64,
+            "startDate": "2013-11-23T00:00:00+00:00",
+            "endDate": "2013-11-23T00:00:00+00:00",
+            "members": 57716,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 18441,
+            "url": "https://myanimelist.net/anime/18441/Blood_Lad__Wagahai_wa_Neko_de_wa_Nai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/52611.jpg?s=954a0afd2ef75998e529b5e4260cd594",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/52611t.jpg?s=954a0afd2ef75998e529b5e4260cd594",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/52611l.jpg?s=954a0afd2ef75998e529b5e4260cd594"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/52611.webp?s=954a0afd2ef75998e529b5e4260cd594",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/52611t.webp?s=954a0afd2ef75998e529b5e4260cd594",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/52611l.webp?s=954a0afd2ef75998e529b5e4260cd594"
+                }
+            },
+            "title": "Blood Lad: Wagahai wa Neko de wa Nai",
+            "airing": false,
+            "synopsis": "Bundled with the tenth limited-edition volume of Blood Lad manga.",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 7.1,
+            "startDate": "2013-12-04T00:00:00+00:00",
+            "endDate": "2013-12-04T00:00:00+00:00",
+            "members": 119648,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 4901,
+            "url": "https://myanimelist.net/anime/4901/Black_Lagoon__Robertas_Blood_Trail",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75529.jpg?s=c8e88495ad56ad749fdb93320aea84b2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/75529t.jpg?s=c8e88495ad56ad749fdb93320aea84b2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg?s=c8e88495ad56ad749fdb93320aea84b2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75529.webp?s=c8e88495ad56ad749fdb93320aea84b2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/75529t.webp?s=c8e88495ad56ad749fdb93320aea84b2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75529l.webp?s=c8e88495ad56ad749fdb93320aea84b2"
+                }
+            },
+            "title": "Black Lagoon: Roberta's Blood Trail",
+            "airing": false,
+            "synopsis": "Crime never sleeps in Roanapur, and neither does Roberta—a devoted maid and skilled guerilla soldier in service to the Venezuelan Lovelace family. After the assassination of her superior by the US Sec...",
+            "type": "OVA",
+            "episodes": 5,
+            "score": 8.02,
+            "startDate": "2010-06-27T00:00:00+00:00",
+            "endDate": "2011-06-22T00:00:00+00:00",
+            "members": 326167,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 37450,
+            "url": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586.jpg?s=f19bb396363ae0caf8f1e1e8c17b49ac",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586t.jpg?s=f19bb396363ae0caf8f1e1e8c17b49ac",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586l.jpg?s=f19bb396363ae0caf8f1e1e8c17b49ac"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586.webp?s=f19bb396363ae0caf8f1e1e8c17b49ac",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586t.webp?s=f19bb396363ae0caf8f1e1e8c17b49ac",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1301/93586l.webp?s=f19bb396363ae0caf8f1e1e8c17b49ac"
+                }
+            },
+            "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "airing": false,
+            "synopsis": "The rare and inexplicable Puberty Syndrome is thought of as a myth. It is a rare disease which only affects teenagers, and its symptoms are so supernatural that hardly anyone recognizes it as a legiti...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.23,
+            "startDate": "2018-10-04T00:00:00+00:00",
+            "endDate": "2018-12-27T00:00:00+00:00",
+            "members": 1924365,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33286,
+            "url": "https://myanimelist.net/anime/33286/Strike_the_Blood_II",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/111675.jpg?s=22b7e699ed1ce836bb6b2c34d104a307",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1600/111675t.jpg?s=22b7e699ed1ce836bb6b2c34d104a307",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1600/111675l.jpg?s=22b7e699ed1ce836bb6b2c34d104a307"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/111675.webp?s=22b7e699ed1ce836bb6b2c34d104a307",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1600/111675t.webp?s=22b7e699ed1ce836bb6b2c34d104a307",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1600/111675l.webp?s=22b7e699ed1ce836bb6b2c34d104a307"
+                }
+            },
+            "title": "Strike the Blood II",
+            "airing": false,
+            "synopsis": "The second season of Strike the Blood which adapts three arcs from the 9th, 11th, and 12th light novel volumes.",
+            "type": "OVA",
+            "episodes": 8,
+            "score": 6.94,
+            "startDate": "2016-11-23T00:00:00+00:00",
+            "endDate": "2017-05-24T00:00:00+00:00",
+            "members": 207082,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 29974,
+            "url": "https://myanimelist.net/anime/29974/Diabolik_Lovers_MoreBlood",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/73657.jpg?s=bb37e0c3ca76dc78966cd508ff79ac23",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/73657t.jpg?s=bb37e0c3ca76dc78966cd508ff79ac23",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/73657l.jpg?s=bb37e0c3ca76dc78966cd508ff79ac23"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/73657.webp?s=bb37e0c3ca76dc78966cd508ff79ac23",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/73657t.webp?s=bb37e0c3ca76dc78966cd508ff79ac23",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/73657l.webp?s=bb37e0c3ca76dc78966cd508ff79ac23"
+                }
+            },
+            "title": "Diabolik Lovers More,Blood",
+            "airing": false,
+            "synopsis": "Yui Komori, still held captive by the Sakamaki brothers—pureblood vampires after her blood—experiences yet more bizarre twists to her life following her stay at their household. Though haunted by enig...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 5.51,
+            "startDate": "2015-09-24T00:00:00+00:00",
+            "endDate": "2015-12-10T00:00:00+00:00",
+            "members": 171918,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 1821,
+            "url": "https://myanimelist.net/anime/1821/Guren",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/113060.jpg?s=610689382c078e5a9cadb0e85c127ab7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1493/113060t.jpg?s=610689382c078e5a9cadb0e85c127ab7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1493/113060l.jpg?s=610689382c078e5a9cadb0e85c127ab7"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/113060.webp?s=610689382c078e5a9cadb0e85c127ab7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1493/113060t.webp?s=610689382c078e5a9cadb0e85c127ab7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1493/113060l.webp?s=610689382c078e5a9cadb0e85c127ab7"
+                }
+            },
+            "title": "Guren",
+            "airing": false,
+            "synopsis": "In a world where demons lurk behind every shadow, ready to ravage any woman who crosses their path, murder and bloodshed are a way of life. A team of feisty female fighters known as the Crimson Lotus...",
+            "type": "OVA",
+            "episodes": 3,
+            "score": 6.1,
+            "startDate": "2001-09-07T00:00:00+00:00",
+            "endDate": "2002-03-29T00:00:00+00:00",
+            "members": 6708,
+            "rated": "Rx"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 30321,
+            "url": "https://myanimelist.net/anime/30321/Strike_the_Blood__Valkyria_no_Oukoku-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/77275.jpg?s=91eb87645380491a145de799ae283c3d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/77275t.jpg?s=91eb87645380491a145de799ae283c3d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/77275l.jpg?s=91eb87645380491a145de799ae283c3d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/77275.webp?s=91eb87645380491a145de799ae283c3d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/77275t.webp?s=91eb87645380491a145de799ae283c3d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/77275l.webp?s=91eb87645380491a145de799ae283c3d"
+                }
+            },
+            "title": "Strike the Blood: Valkyria no Oukoku-hen",
+            "airing": false,
+            "synopsis": "It was officially announced at the Dengeki Game Festival 2015 event that Strike the Blood will be getting a two-episode OVA series to be released at the end of 2015. The OVA will be an original story...",
+            "type": "OVA",
+            "episodes": 2,
+            "score": 7.21,
+            "startDate": "2015-11-25T00:00:00+00:00",
+            "endDate": "2015-12-23T00:00:00+00:00",
+            "members": 100628,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34451,
+            "url": "https://myanimelist.net/anime/34451/Kekkai_Sensen___Beyond",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/88282.jpg?s=8e72cada2526b48e61996dce69b964af",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/88282t.jpg?s=8e72cada2526b48e61996dce69b964af",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/88282l.jpg?s=8e72cada2526b48e61996dce69b964af"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/88282.webp?s=8e72cada2526b48e61996dce69b964af",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/88282t.webp?s=8e72cada2526b48e61996dce69b964af",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/88282l.webp?s=8e72cada2526b48e61996dce69b964af"
+                }
+            },
+            "title": "Kekkai Sensen & Beyond",
+            "airing": false,
+            "synopsis": "Three years ago, a gateway between Earth and the Beyond opened in New York City, trapping extradimensional creatures and humans alike in an impermeable bubble. After the city's restoration, monsters,...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.77,
+            "startDate": "2017-10-08T00:00:00+00:00",
+            "endDate": "2017-12-24T00:00:00+00:00",
+            "members": 471085,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10589,
+            "url": "https://myanimelist.net/anime/10589/Naruto__Shippuuden_Movie_5_-_Blood_Prison",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496.jpg?s=169e7a2c20e9f51bf7fb9da5475252c0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496t.jpg?s=169e7a2c20e9f51bf7fb9da5475252c0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496l.jpg?s=169e7a2c20e9f51bf7fb9da5475252c0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496.webp?s=169e7a2c20e9f51bf7fb9da5475252c0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496t.webp?s=169e7a2c20e9f51bf7fb9da5475252c0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1500/134496l.webp?s=169e7a2c20e9f51bf7fb9da5475252c0"
+                }
+            },
+            "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
+            "airing": false,
+            "synopsis": "During their discussion of a sensitive investigation A, the Fourth Raikage, and his subordinates are ambushed by a cloaked intruder. As the Kumogakure leader repels the assault, he is shocked to disco...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.46,
+            "startDate": "2011-07-30T00:00:00+00:00",
+            "endDate": "2011-07-30T00:00:00+00:00",
+            "members": 272101,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 543,
+            "url": "https://myanimelist.net/anime/543/Vampire_Hunter_D_2000",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1571/135153.jpg?s=2d9bd0a66c8aa41331e0587809bc4959",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1571/135153t.jpg?s=2d9bd0a66c8aa41331e0587809bc4959",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1571/135153l.jpg?s=2d9bd0a66c8aa41331e0587809bc4959"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1571/135153.webp?s=2d9bd0a66c8aa41331e0587809bc4959",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1571/135153t.webp?s=2d9bd0a66c8aa41331e0587809bc4959",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1571/135153l.webp?s=2d9bd0a66c8aa41331e0587809bc4959"
+                }
+            },
+            "title": "Vampire Hunter D (2000)",
+            "airing": false,
+            "synopsis": "When the soothing comfort of sunlight starts to fade, beings of seraphic beauty become the undisputed masters of the night, instilling fear in every living creature. Water turns into ice before these...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.97,
+            "startDate": "2000-08-25T00:00:00+00:00",
+            "endDate": "2000-08-25T00:00:00+00:00",
+            "members": 237512,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 24439,
+            "url": "https://myanimelist.net/anime/24439/Kekkai_Sensen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1449/142053.jpg?s=ba4f416d70674e84a2c3a8a391547735",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1449/142053t.jpg?s=ba4f416d70674e84a2c3a8a391547735",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1449/142053l.jpg?s=ba4f416d70674e84a2c3a8a391547735"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1449/142053.webp?s=ba4f416d70674e84a2c3a8a391547735",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1449/142053t.webp?s=ba4f416d70674e84a2c3a8a391547735",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1449/142053l.webp?s=ba4f416d70674e84a2c3a8a391547735"
+                }
+            },
+            "title": "Kekkai Sensen",
+            "airing": false,
+            "synopsis": "Supersonic monkeys, vampires, talking fishmen, and all sorts of different supernatural monsters living alongside humans—this has been part of daily life in Hellsalem's Lot, formerly known as New York...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.59,
+            "startDate": "2015-04-05T00:00:00+00:00",
+            "endDate": "2015-10-04T00:00:00+00:00",
+            "members": 936115,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33051,
+            "url": "https://myanimelist.net/anime/33051/Kidou_Senshi_Gundam__Tekketsu_no_Orphans_2nd_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/80899.jpg?s=dd62fd9e1b49ecaeed1a9417198a05cc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/80899t.jpg?s=dd62fd9e1b49ecaeed1a9417198a05cc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/80899l.jpg?s=dd62fd9e1b49ecaeed1a9417198a05cc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/80899.webp?s=dd62fd9e1b49ecaeed1a9417198a05cc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/80899t.webp?s=dd62fd9e1b49ecaeed1a9417198a05cc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/80899l.webp?s=dd62fd9e1b49ecaeed1a9417198a05cc"
+                }
+            },
+            "title": "Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season",
+            "airing": false,
+            "synopsis": "Tekkadan has now become a direct affiliate of Teiwaz after procuring a new trade agreement with Arbrau. With its newfound funds and prestige, Tekkadan finds both its list of allies and enemies growing...",
+            "type": "TV",
+            "episodes": 25,
+            "score": 8.23,
+            "startDate": "2016-10-02T00:00:00+00:00",
+            "endDate": "2017-04-02T00:00:00+00:00",
+            "members": 158687,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 31251,
+            "url": "https://myanimelist.net/anime/31251/Kidou_Senshi_Gundam__Tekketsu_no_Orphans",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/75879.jpg?s=333b818502490e74895dc4a7aad7f2e8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/75879t.jpg?s=333b818502490e74895dc4a7aad7f2e8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/75879l.jpg?s=333b818502490e74895dc4a7aad7f2e8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/75879.webp?s=333b818502490e74895dc4a7aad7f2e8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/75879t.webp?s=333b818502490e74895dc4a7aad7f2e8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/75879l.webp?s=333b818502490e74895dc4a7aad7f2e8"
+                }
+            },
+            "title": "Kidou Senshi Gundam: Tekketsu no Orphans",
+            "airing": false,
+            "synopsis": "Over three hundred years have passed since the Calamity War, the great conflict between Earth and its outer space colonies. Now Earth is ruled over by four economic blocs, and the military organizatio...",
+            "type": "TV",
+            "episodes": 25,
+            "score": 8.06,
+            "startDate": "2015-10-04T00:00:00+00:00",
+            "endDate": "2016-03-27T00:00:00+00:00",
+            "members": 269122,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36762,
+            "url": "https://myanimelist.net/anime/36762/Xue_Se_Cang_Qiong",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/88891.jpg?s=8c0f16e38f6b2b1838a1f270f9aa10b0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/88891t.jpg?s=8c0f16e38f6b2b1838a1f270f9aa10b0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/88891l.jpg?s=8c0f16e38f6b2b1838a1f270f9aa10b0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/88891.webp?s=8c0f16e38f6b2b1838a1f270f9aa10b0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/88891t.webp?s=8c0f16e38f6b2b1838a1f270f9aa10b0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/88891l.webp?s=8c0f16e38f6b2b1838a1f270f9aa10b0"
+                }
+            },
+            "title": "Xue Se Cang Qiong",
+            "airing": false,
+            "synopsis": "Li Mingyang was originally an ordinary office worker. Because of a strange QR code, he was trapped in a killing city. Here everyone is forced to participate in a survival game that is going to kill or...",
+            "type": "ONA",
+            "episodes": 26,
+            "score": 6.06,
+            "startDate": "2017-08-18T00:00:00+00:00",
+            "endDate": "2018-01-26T00:00:00+00:00",
+            "members": 2841,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 11691,
+            "url": "https://myanimelist.net/anime/11691/Bloody_Date",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/32603.jpg?s=fd7afc639e19f5875e97c00cf18b53da",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/32603t.jpg?s=fd7afc639e19f5875e97c00cf18b53da",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/32603l.jpg?s=fd7afc639e19f5875e97c00cf18b53da"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/32603.webp?s=fd7afc639e19f5875e97c00cf18b53da",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/32603t.webp?s=fd7afc639e19f5875e97c00cf18b53da",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/32603l.webp?s=fd7afc639e19f5875e97c00cf18b53da"
+                }
+            },
+            "title": "Bloody Date",
+            "airing": false,
+            "synopsis": "While enjoying their first date, a young couple experiences a nasty surprise when they're interrupted by an axe-wielding murderer! The girl manages to escape and finds refuge in a strange family's hou...",
+            "type": "ONA",
+            "episodes": 1,
+            "score": 4.26,
+            "startDate": "2006-11-29T00:00:00+00:00",
+            "endDate": "2006-11-29T00:00:00+00:00",
+            "members": 4476,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10162,
+            "url": "https://myanimelist.net/anime/10162/Usagi_Drop",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1460/98853.jpg?s=0d08699d28eea96ed969ecf023de57f9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1460/98853t.jpg?s=0d08699d28eea96ed969ecf023de57f9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1460/98853l.jpg?s=0d08699d28eea96ed969ecf023de57f9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1460/98853.webp?s=0d08699d28eea96ed969ecf023de57f9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1460/98853t.webp?s=0d08699d28eea96ed969ecf023de57f9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1460/98853l.webp?s=0d08699d28eea96ed969ecf023de57f9"
+                }
+            },
+            "title": "Usagi Drop",
+            "airing": false,
+            "synopsis": "Daikichi Kawachi is a 30-year-old bachelor working a respectable job but otherwise wandering aimlessly through life. When his grandfather suddenly passes away, he returns to the family home to pay his...",
+            "type": "TV",
+            "episodes": 11,
+            "score": 8.32,
+            "startDate": "2011-07-08T00:00:00+00:00",
+            "endDate": "2011-09-16T00:00:00+00:00",
+            "members": 521263,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 30915,
+            "url": "https://myanimelist.net/anime/30915/Kekkai_Sensen__Soresaemo_Saitei_de_Saikou_na_Hibi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/74387.jpg?s=4d791dec18406d6b78456539779c84d2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/74387t.jpg?s=4d791dec18406d6b78456539779c84d2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/74387l.jpg?s=4d791dec18406d6b78456539779c84d2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/74387.webp?s=4d791dec18406d6b78456539779c84d2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/74387t.webp?s=4d791dec18406d6b78456539779c84d2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/74387l.webp?s=4d791dec18406d6b78456539779c84d2"
+                }
+            },
+            "title": "Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi",
+            "airing": false,
+            "synopsis": "A recap episode of episodes 1 through 10 of Kekkai Sensen. Leonardo Watch reflects on his experiences at Libra.",
+            "type": "Special",
+            "episodes": 1,
+            "score": 6.83,
+            "startDate": "2015-06-14T00:00:00+00:00",
+            "endDate": "2015-06-14T00:00:00+00:00",
+            "members": 43286,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 55673,
+            "url": "https://myanimelist.net/anime/55673/Bloody_Mary",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/136478.jpg?s=fe2f1e4d3256d74f8f56d29fc8c8c6d1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1555/136478t.jpg?s=fe2f1e4d3256d74f8f56d29fc8c8c6d1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1555/136478l.jpg?s=fe2f1e4d3256d74f8f56d29fc8c8c6d1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1555/136478.webp?s=fe2f1e4d3256d74f8f56d29fc8c8c6d1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1555/136478t.webp?s=fe2f1e4d3256d74f8f56d29fc8c8c6d1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1555/136478l.webp?s=fe2f1e4d3256d74f8f56d29fc8c8c6d1"
+                }
+            },
+            "title": "Bloody Mary",
+            "airing": false,
+            "synopsis": "Music video for the song Bloody Mary by Kankan.",
+            "type": "Music",
+            "episodes": 1,
+            "score": 6.2,
+            "startDate": "2021-02-19T00:00:00+00:00",
+            "endDate": "2021-02-19T00:00:00+00:00",
+            "members": 233,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 41595,
+            "url": "https://myanimelist.net/anime/41595/Tiger___Bunny_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1678/121388.jpg?s=e0b91db27c4478e43736ab53b4012d8a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1678/121388t.jpg?s=e0b91db27c4478e43736ab53b4012d8a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1678/121388l.jpg?s=e0b91db27c4478e43736ab53b4012d8a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1678/121388.webp?s=e0b91db27c4478e43736ab53b4012d8a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1678/121388t.webp?s=e0b91db27c4478e43736ab53b4012d8a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1678/121388l.webp?s=e0b91db27c4478e43736ab53b4012d8a"
+                }
+            },
+            "title": "Tiger & Bunny 2",
+            "airing": false,
+            "synopsis": "With Kotetsu back on the First League, the buddy system is now the big new project of HeroTV. Two heroes fighting crime back to back due to the popularity of the famous duo: Wild Tiger and Barnaby Bro...",
+            "type": "ONA",
+            "episodes": 13,
+            "score": 7.41,
+            "startDate": "2022-04-08T00:00:00+00:00",
+            "endDate": "2022-04-08T00:00:00+00:00",
+            "members": 25514,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 11633,
+            "url": "https://myanimelist.net/anime/11633/Blood_Lad",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/47677.jpg?s=6305d2a6b71738d6d7d79e59ca5418c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/47677t.jpg?s=6305d2a6b71738d6d7d79e59ca5418c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/47677l.jpg?s=6305d2a6b71738d6d7d79e59ca5418c6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/47677.webp?s=6305d2a6b71738d6d7d79e59ca5418c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/47677t.webp?s=6305d2a6b71738d6d7d79e59ca5418c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/47677l.webp?s=6305d2a6b71738d6d7d79e59ca5418c6"
+                }
+            },
+            "title": "Blood Lad",
+            "airing": false,
+            "synopsis": "Staz Charlie Blood is a powerful vampire who rules the Eastern district of Demon World. According to rumors, he is a bloodthirsty and merciless monster, but in reality, Staz is just an otaku obsessed...",
+            "type": "TV",
+            "episodes": 10,
+            "score": 7.23,
+            "startDate": "2013-07-08T00:00:00+00:00",
+            "endDate": "2013-09-09T00:00:00+00:00",
+            "members": 720599,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 11869,
+            "url": "https://myanimelist.net/anime/11869/Bloody_Night",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/33341.jpg?s=499ee8e4e9d61886705b5111ede7455d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/33341t.jpg?s=499ee8e4e9d61886705b5111ede7455d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/33341l.jpg?s=499ee8e4e9d61886705b5111ede7455d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/33341.webp?s=499ee8e4e9d61886705b5111ede7455d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/33341t.webp?s=499ee8e4e9d61886705b5111ede7455d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/33341l.webp?s=499ee8e4e9d61886705b5111ede7455d"
+                }
+            },
+            "title": "Bloody Night",
+            "airing": false,
+            "synopsis": "A little girl is wandering the streets late at night, but something is eerily amiss. Suddenly, a vicious red monster appears and begins chasing her. As she desperately tries to get away, she encounter...",
+            "type": "ONA",
+            "episodes": 1,
+            "score": 3.93,
+            "startDate": "2006-04-05T00:00:00+00:00",
+            "endDate": "2006-04-05T00:00:00+00:00",
+            "members": 3534,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 37786,
+            "url": "https://myanimelist.net/anime/37786/Yagate_Kimi_ni_Naru",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1783/96153.jpg?s=417ebf7092dad72389d824b840bf37b5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1783/96153t.jpg?s=417ebf7092dad72389d824b840bf37b5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1783/96153l.jpg?s=417ebf7092dad72389d824b840bf37b5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1783/96153.webp?s=417ebf7092dad72389d824b840bf37b5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1783/96153t.webp?s=417ebf7092dad72389d824b840bf37b5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1783/96153l.webp?s=417ebf7092dad72389d824b840bf37b5"
+                }
+            },
+            "title": "Yagate Kimi ni Naru",
+            "airing": false,
+            "synopsis": "Yuu Koito has always been entranced with romantic shoujo manga and the lyrics of love songs. She patiently waits for the wings of love to sprout and send her heart aflutter on the day that she finally...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 7.88,
+            "startDate": "2018-10-05T00:00:00+00:00",
+            "endDate": "2018-12-28T00:00:00+00:00",
+            "members": 377520,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10490,
+            "url": "https://myanimelist.net/anime/10490/Blood-C",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1691/140716.jpg?s=7bcf4139a835ebee4b8fc905635010e2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1691/140716t.jpg?s=7bcf4139a835ebee4b8fc905635010e2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1691/140716l.jpg?s=7bcf4139a835ebee4b8fc905635010e2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1691/140716.webp?s=7bcf4139a835ebee4b8fc905635010e2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1691/140716t.webp?s=7bcf4139a835ebee4b8fc905635010e2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1691/140716l.webp?s=7bcf4139a835ebee4b8fc905635010e2"
+                }
+            },
+            "title": "Blood-C",
+            "airing": false,
+            "synopsis": "Peaceful schoolgirl by day, fearsome monster slayer by night, Saya Kisaragi is leading a split life. Equipped with a ceremonial sword given to her by her father for sacred tasks, she vanquishes every...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.53,
+            "startDate": "2011-07-08T00:00:00+00:00",
+            "endDate": "2011-09-30T00:00:00+00:00",
+            "members": 402853,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 52291,
+            "url": "https://myanimelist.net/anime/52291/Tiger___Bunny_2_Part_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1941/128060.jpg?s=662e15f31bfa1fa6bebde5fd31af24ce",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1941/128060t.jpg?s=662e15f31bfa1fa6bebde5fd31af24ce",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1941/128060l.jpg?s=662e15f31bfa1fa6bebde5fd31af24ce"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1941/128060.webp?s=662e15f31bfa1fa6bebde5fd31af24ce",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1941/128060t.webp?s=662e15f31bfa1fa6bebde5fd31af24ce",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1941/128060l.webp?s=662e15f31bfa1fa6bebde5fd31af24ce"
+                }
+            },
+            "title": "Tiger & Bunny 2 Part 2",
+            "airing": false,
+            "synopsis": "Second half of the second season of Tiger & Bunny.",
+            "type": "ONA",
+            "episodes": 12,
+            "score": 7.49,
+            "startDate": "2022-10-07T00:00:00+00:00",
+            "endDate": "2022-10-07T00:00:00+00:00",
+            "members": 11734,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 11915,
+            "url": "https://myanimelist.net/anime/11915/Within_the_Bloody_Woods",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/33469.jpg?s=01803d0465137ce330c6a8e55605c028",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/33469t.jpg?s=01803d0465137ce330c6a8e55605c028",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/33469l.jpg?s=01803d0465137ce330c6a8e55605c028"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/33469.webp?s=01803d0465137ce330c6a8e55605c028",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/33469t.webp?s=01803d0465137ce330c6a8e55605c028",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/33469l.webp?s=01803d0465137ce330c6a8e55605c028"
+                }
+            },
+            "title": "Within the Bloody Woods",
+            "airing": false,
+            "synopsis": "A man wanders lost in the forest when he happens upon another person. At first thinking the stranger is injured, the man quickly realizes that isn't the case. The stranger, in fact, isn't even human—h...",
+            "type": "ONA",
+            "episodes": 2,
+            "score": 3.42,
+            "startDate": "2006-05-22T00:00:00+00:00",
+            "endDate": "2006-08-05T00:00:00+00:00",
+            "members": 3003,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 150,
+            "url": "https://myanimelist.net/anime/150/Blood_",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/10183.jpg?s=48be7550bfc136dcc857b13cb238c1d0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/10183t.jpg?s=48be7550bfc136dcc857b13cb238c1d0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/10183l.jpg?s=48be7550bfc136dcc857b13cb238c1d0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/10183.webp?s=48be7550bfc136dcc857b13cb238c1d0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/10183t.webp?s=48be7550bfc136dcc857b13cb238c1d0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/10183l.webp?s=48be7550bfc136dcc857b13cb238c1d0"
+                }
+            },
+            "title": "Blood+",
+            "airing": false,
+            "synopsis": "Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of...",
+            "type": "TV",
+            "episodes": 50,
+            "score": 7.6,
+            "startDate": "2005-10-08T00:00:00+00:00",
+            "endDate": "2006-09-23T00:00:00+00:00",
+            "members": 394898,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 9941,
+            "url": "https://myanimelist.net/anime/9941/Tiger___Bunny",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/29466.jpg?s=a3894a3446d05a6f29e67c3649d0d2ea",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/29466t.jpg?s=a3894a3446d05a6f29e67c3649d0d2ea",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/29466l.jpg?s=a3894a3446d05a6f29e67c3649d0d2ea"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/29466.webp?s=a3894a3446d05a6f29e67c3649d0d2ea",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/29466t.webp?s=a3894a3446d05a6f29e67c3649d0d2ea",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/29466l.webp?s=a3894a3446d05a6f29e67c3649d0d2ea"
+                }
+            },
+            "title": "Tiger & Bunny",
+            "airing": false,
+            "synopsis": "In Stern Bild City, those with special abilities are called NEXT, and can use their powers for good or bad. A unique organized group of NEXT appear regularly on Hero TV, where they chase down evildoer...",
+            "type": "TV",
+            "episodes": 25,
+            "score": 7.83,
+            "startDate": "2011-04-03T00:00:00+00:00",
+            "endDate": "2011-09-18T00:00:00+00:00",
+            "members": 237099,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 54793,
+            "url": "https://myanimelist.net/anime/54793/Bloody_Escape__Jigoku_no_Tousou_Geki",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1043/139689.jpg?s=2bae1fc0db8bc533703723edfe0465a8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1043/139689t.jpg?s=2bae1fc0db8bc533703723edfe0465a8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1043/139689l.jpg?s=2bae1fc0db8bc533703723edfe0465a8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1043/139689.webp?s=2bae1fc0db8bc533703723edfe0465a8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1043/139689t.webp?s=2bae1fc0db8bc533703723edfe0465a8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1043/139689l.webp?s=2bae1fc0db8bc533703723edfe0465a8"
+                }
+            },
+            "title": "Bloody Escape: Jigoku no Tousou Geki",
+            "airing": false,
+            "synopsis": "After human experimentation turns Kisaragi into a cyborg, he finds himself pressured by multiple organizations: An undying convent of vampires bent on the conquest of Tokyo, and an immortal order of k...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.05,
+            "startDate": "2024-01-05T00:00:00+00:00",
+            "endDate": "2024-01-05T00:00:00+00:00",
+            "members": 3294,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 14117,
+            "url": "https://myanimelist.net/anime/14117/Blood-C__Special_Edition",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/39001.jpg?s=90ff81723ce27b230272c96105653bcf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/39001t.jpg?s=90ff81723ce27b230272c96105653bcf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/39001l.jpg?s=90ff81723ce27b230272c96105653bcf"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/39001.webp?s=90ff81723ce27b230272c96105653bcf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/39001t.webp?s=90ff81723ce27b230272c96105653bcf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/39001l.webp?s=90ff81723ce27b230272c96105653bcf"
+                }
+            },
+            "title": "Blood-C: Special Edition",
+            "airing": false,
+            "synopsis": "Two summary episodes of the TV series that are airing prior to Blood-C: The Last Dark. They will feature secret content that was never aired during the TV series' run.",
+            "type": "Special",
+            "episodes": 2,
+            "score": 6.75,
+            "startDate": "2012-05-26T00:00:00+00:00",
+            "endDate": "2012-05-30T00:00:00+00:00",
+            "members": 21663,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 12017,
+            "url": "https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/56915.jpg?s=6aaa8cf767e257f3d47e3aab9a96525c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/56915t.jpg?s=6aaa8cf767e257f3d47e3aab9a96525c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/56915l.jpg?s=6aaa8cf767e257f3d47e3aab9a96525c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/56915.webp?s=6aaa8cf767e257f3d47e3aab9a96525c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/56915t.webp?s=6aaa8cf767e257f3d47e3aab9a96525c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/56915l.webp?s=6aaa8cf767e257f3d47e3aab9a96525c"
+                }
+            },
+            "title": "Tiger & Bunny Movie 2: The Rising",
+            "airing": false,
+            "synopsis": "The film will revolve around a mystery that happens on the day of the \"Justice Day\" festival that celebrates Sternbild's legendary goddess. (Source: ANN)",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.68,
+            "startDate": "2014-02-08T00:00:00+00:00",
+            "endDate": "2014-02-08T00:00:00+00:00",
+            "members": 34341,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38337,
+            "url": "https://myanimelist.net/anime/38337/Gochuumon_wa_Usagi_desu_ka_Bloom",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/109179.jpg?s=75d1a5f7bcc570d58a784b1ea76288ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1900/109179t.jpg?s=75d1a5f7bcc570d58a784b1ea76288ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1900/109179l.jpg?s=75d1a5f7bcc570d58a784b1ea76288ec"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/109179.webp?s=75d1a5f7bcc570d58a784b1ea76288ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1900/109179t.webp?s=75d1a5f7bcc570d58a784b1ea76288ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1900/109179l.webp?s=75d1a5f7bcc570d58a784b1ea76288ec"
+                }
+            },
+            "title": "Gochuumon wa Usagi desu ka? Bloom",
+            "airing": false,
+            "synopsis": "Although the year is coming close to an end, there is no lack of fun for Kokoa Hoto and the other café waitresses! From bazaars to festivals, life is as enjoyable as it gets. As for Chino Kafuu and he...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.92,
+            "startDate": "2020-10-10T00:00:00+00:00",
+            "endDate": "2020-12-26T00:00:00+00:00",
+            "members": 71675,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 18277,
+            "url": "https://myanimelist.net/anime/18277/Strike_the_Blood",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/56163.jpg?s=d5ceae087d157ee8af8fed5d1fede8de",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/56163t.jpg?s=d5ceae087d157ee8af8fed5d1fede8de",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/56163l.jpg?s=d5ceae087d157ee8af8fed5d1fede8de"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/56163.webp?s=d5ceae087d157ee8af8fed5d1fede8de",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/56163t.webp?s=d5ceae087d157ee8af8fed5d1fede8de",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/56163l.webp?s=d5ceae087d157ee8af8fed5d1fede8de"
+                }
+            },
+            "title": "Strike the Blood",
+            "airing": false,
+            "synopsis": "Kojou Akatsuki's days as an ordinary high school student in the Demon District of Itogami Island come to an abrupt end after a fateful encounter leaves him with the remarkable abilities of a vampire....",
+            "type": "TV",
+            "episodes": 24,
+            "score": 7.0,
+            "startDate": "2013-10-04T00:00:00+00:00",
+            "endDate": "2014-03-28T00:00:00+00:00",
+            "members": 667077,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 9177,
+            "url": "https://myanimelist.net/anime/9177/Burning_Blood",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/42743.jpg?s=10bc8e62ca6490b3d77452fe3256951d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/42743t.jpg?s=10bc8e62ca6490b3d77452fe3256951d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/42743l.jpg?s=10bc8e62ca6490b3d77452fe3256951d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/42743.webp?s=10bc8e62ca6490b3d77452fe3256951d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/42743t.webp?s=10bc8e62ca6490b3d77452fe3256951d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/42743l.webp?s=10bc8e62ca6490b3d77452fe3256951d"
+                }
+            },
+            "title": "Burning Blood",
+            "airing": false,
+            "synopsis": "Ryo Takagi is a trumpet player on the verge of hitting it big with his band, but he's also a natural fighter whose blood starts burning when he fights seriously; this gave him the nickname B.B (\"Burni...",
+            "type": "OVA",
+            "episodes": 3,
+            "score": 6.17,
+            "startDate": "1990-04-25T00:00:00+00:00",
+            "endDate": "1991-04-25T00:00:00+00:00",
+            "members": 2432,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 12485,
+            "url": "https://myanimelist.net/anime/12485/Gregory_Horror_Show__The_Bloody_Karte",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/35061.jpg?s=e10d13fb8145afd78e908bedcb0f4124",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/35061t.jpg?s=e10d13fb8145afd78e908bedcb0f4124",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/35061l.jpg?s=e10d13fb8145afd78e908bedcb0f4124"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/35061.webp?s=e10d13fb8145afd78e908bedcb0f4124",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/35061t.webp?s=e10d13fb8145afd78e908bedcb0f4124",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/35061l.webp?s=e10d13fb8145afd78e908bedcb0f4124"
+                }
+            },
+            "title": "Gregory Horror Show: The Bloody Karte",
+            "airing": false,
+            "synopsis": "The fourth series, The Bloody Karte (presented as a side series on the DVDs) is a set of 12 stories about Catherine working in a mysterious hospital. (Source: AniDB)",
+            "type": "Special",
+            "episodes": 12,
+            "score": 5.84,
+            "startDate": "2001-04-07T00:00:00+00:00",
+            "endDate": "2001-06-30T00:00:00+00:00",
+            "members": 1460,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33985,
+            "url": "https://myanimelist.net/anime/33985/Bloodivores",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/82233.jpg?s=c2f02e5503b69bb489425cf5f1d7adee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/82233t.jpg?s=c2f02e5503b69bb489425cf5f1d7adee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/82233l.jpg?s=c2f02e5503b69bb489425cf5f1d7adee"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/82233.webp?s=c2f02e5503b69bb489425cf5f1d7adee",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/82233t.webp?s=c2f02e5503b69bb489425cf5f1d7adee",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/82233l.webp?s=c2f02e5503b69bb489425cf5f1d7adee"
+                }
+            },
+            "title": "Bloodivores",
+            "airing": false,
+            "synopsis": "60 years ago, a strange case of insomnia struck the population, forcing them to stay awake for more than a full week. The victims, completely sleep deprived, all went mad. To cure this illness, a new...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 5.47,
+            "startDate": "2016-10-01T00:00:00+00:00",
+            "endDate": "2016-12-17T00:00:00+00:00",
+            "members": 114790,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 1275,
+            "url": "https://myanimelist.net/anime/1275/Can_Can_Bunny_Extra",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1540/116121.jpg?s=da3260d2b3caab055d97544558d3abcd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1540/116121t.jpg?s=da3260d2b3caab055d97544558d3abcd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1540/116121l.jpg?s=da3260d2b3caab055d97544558d3abcd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1540/116121.webp?s=da3260d2b3caab055d97544558d3abcd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1540/116121t.webp?s=da3260d2b3caab055d97544558d3abcd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1540/116121l.webp?s=da3260d2b3caab055d97544558d3abcd"
+                }
+            },
+            "title": "Can Can Bunny Extra",
+            "airing": false,
+            "synopsis": "Looking at him, he ain't much. But Kenta scores with every girl he meets. Why, Well, he has a love-struck goddess who's decided to help him out. After the celestial sweetie takes a shine to him, she g...",
+            "type": "OVA",
+            "episodes": 6,
+            "score": 6.21,
+            "startDate": "1996-01-19T00:00:00+00:00",
+            "endDate": "1997-04-21T00:00:00+00:00",
+            "members": 4501,
+            "rated": "Rx"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 51347,
+            "url": "https://myanimelist.net/anime/51347/Tekken__Bloodline",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/127170.jpg?s=ea5e9d3b1e1e5ae26347cdd474965285",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1842/127170t.jpg?s=ea5e9d3b1e1e5ae26347cdd474965285",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1842/127170l.jpg?s=ea5e9d3b1e1e5ae26347cdd474965285"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/127170.webp?s=ea5e9d3b1e1e5ae26347cdd474965285",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1842/127170t.webp?s=ea5e9d3b1e1e5ae26347cdd474965285",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1842/127170l.webp?s=ea5e9d3b1e1e5ae26347cdd474965285"
+                }
+            },
+            "title": "Tekken: Bloodline",
+            "airing": false,
+            "synopsis": "Thanks to their family's martial arts style, Jin Kazama and his mother, Jun, have had to overcome all sorts of challenges. But even with their strong bond, the two are no match for the terrifying demo...",
+            "type": "ONA",
+            "episodes": 6,
+            "score": 6.41,
+            "startDate": "2022-08-18T00:00:00+00:00",
+            "endDate": "2022-08-18T00:00:00+00:00",
+            "members": 36082,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 11099,
+            "url": "https://myanimelist.net/anime/11099/Tiger___Bunny_Pilot",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/30751.jpg?s=381a112b04a4e04672a8374ca9ea5d24",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/30751t.jpg?s=381a112b04a4e04672a8374ca9ea5d24",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/30751l.jpg?s=381a112b04a4e04672a8374ca9ea5d24"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/30751.webp?s=381a112b04a4e04672a8374ca9ea5d24",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/30751t.webp?s=381a112b04a4e04672a8374ca9ea5d24",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/30751l.webp?s=381a112b04a4e04672a8374ca9ea5d24"
+                }
+            },
+            "title": "Tiger & Bunny Pilot",
+            "airing": false,
+            "synopsis": "The pilot episode for Tiger & Bunny released on the first DVD & BD volume.",
+            "type": "Special",
+            "episodes": 1,
+            "score": 6.17,
+            "startDate": "2011-05-27T00:00:00+00:00",
+            "endDate": "2011-05-27T00:00:00+00:00",
+            "members": 10430,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 12015,
+            "url": "https://myanimelist.net/anime/12015/Tiger___Bunny_Movie_1__The_Beginning",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/40041.jpg?s=18ca7eeeb91e12bd4ff27e24f15490ea",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/40041t.jpg?s=18ca7eeeb91e12bd4ff27e24f15490ea",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/40041l.jpg?s=18ca7eeeb91e12bd4ff27e24f15490ea"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/40041.webp?s=18ca7eeeb91e12bd4ff27e24f15490ea",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/40041t.webp?s=18ca7eeeb91e12bd4ff27e24f15490ea",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/40041l.webp?s=18ca7eeeb91e12bd4ff27e24f15490ea"
+                }
+            },
+            "title": "Tiger & Bunny Movie 1: The Beginning",
+            "airing": false,
+            "synopsis": "The first of two Tiger and Bunny movies, based on the first two episodes of the TV series with additional new scenes.",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.35,
+            "startDate": "2012-09-22T00:00:00+00:00",
+            "endDate": "2012-09-22T00:00:00+00:00",
+            "members": 27338,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38181,
+            "url": "https://myanimelist.net/anime/38181/Chainsaw_Bunny",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1817/93467.jpg?s=a2e252970bd6174bb88973b3c95ab8c5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1817/93467t.jpg?s=a2e252970bd6174bb88973b3c95ab8c5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1817/93467l.jpg?s=a2e252970bd6174bb88973b3c95ab8c5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1817/93467.webp?s=a2e252970bd6174bb88973b3c95ab8c5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1817/93467t.webp?s=a2e252970bd6174bb88973b3c95ab8c5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1817/93467l.webp?s=a2e252970bd6174bb88973b3c95ab8c5"
+                }
+            },
+            "title": "Chainsaw Bunny",
+            "airing": false,
+            "synopsis": "Two bunny girls get in trouble..... From the creator of CHAINSAW MAID and PUSSYCAT, another gory horror clay animation comes!! Never ending splatter carnival has begun!!",
+            "type": "ONA",
+            "episodes": 1,
+            "score": 5.26,
+            "startDate": "2018-08-01T00:00:00+00:00",
+            "endDate": "2018-08-01T00:00:00+00:00",
+            "members": 4432,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10681,
+            "url": "https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg?s=040211594cc69adbc9c91d3863cb6b80",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1159/94216t.jpg?s=040211594cc69adbc9c91d3863cb6b80",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1159/94216l.jpg?s=040211594cc69adbc9c91d3863cb6b80"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/94216.webp?s=040211594cc69adbc9c91d3863cb6b80",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1159/94216t.webp?s=040211594cc69adbc9c91d3863cb6b80",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1159/94216l.webp?s=040211594cc69adbc9c91d3863cb6b80"
+                }
+            },
+            "title": "Blood-C: The Last Dark",
+            "airing": false,
+            "synopsis": "Having escaped the many horrors of her village, Saya Kisaragi vows to hunt down the monster responsible and make him pay with his life. As she tears through flesh and bone for her vendetta, she encoun...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.14,
+            "startDate": "2012-06-02T00:00:00+00:00",
+            "endDate": "2012-06-02T00:00:00+00:00",
+            "members": 111208,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 4069,
+            "url": "https://myanimelist.net/anime/4069/Pucca",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1443/138449.jpg?s=308cecff01cc21f04d5a7e2b53e34ff9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1443/138449t.jpg?s=308cecff01cc21f04d5a7e2b53e34ff9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1443/138449l.jpg?s=308cecff01cc21f04d5a7e2b53e34ff9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1443/138449.webp?s=308cecff01cc21f04d5a7e2b53e34ff9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1443/138449t.webp?s=308cecff01cc21f04d5a7e2b53e34ff9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1443/138449l.webp?s=308cecff01cc21f04d5a7e2b53e34ff9"
+                }
+            },
+            "title": "Pucca",
+            "airing": false,
+            "synopsis": "Pucca is a cute and energetic 10 years old Korean girl. Working as a delivery girl for the restaurant of her parents, she has one love obsession, Garu, and will do anything to kiss him! Garu is an asp...",
+            "type": "ONA",
+            "episodes": 46,
+            "score": 6.66,
+            "startDate": "2000-01-01T00:00:00+00:00",
+            "endDate": "2005-01-01T00:00:00+00:00",
+            "members": 9277,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 30433,
+            "url": "https://myanimelist.net/anime/30433/Eat_You_Up_Bunny",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72810.jpg?s=ed153bd9cc5675b5ed8f746b11158e44",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/72810t.jpg?s=ed153bd9cc5675b5ed8f746b11158e44",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/72810l.jpg?s=ed153bd9cc5675b5ed8f746b11158e44"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/72810.webp?s=ed153bd9cc5675b5ed8f746b11158e44",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/72810t.webp?s=ed153bd9cc5675b5ed8f746b11158e44",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/72810l.webp?s=ed153bd9cc5675b5ed8f746b11158e44"
+                }
+            },
+            "title": "Eat You Up/Bunny",
+            "airing": false,
+            "synopsis": "An animated music video for Mama Guitar's song \"Eat You Up/Bunny\"",
+            "type": "Music",
+            "episodes": 1,
+            "score": 5.22,
+            "startDate": "2012-02-07T00:00:00+00:00",
+            "endDate": "2012-02-07T00:00:00+00:00",
+            "members": 494,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 40485,
+            "url": "https://myanimelist.net/anime/40485/Strike_the_Blood_IV",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1692/116875.jpg?s=48d82da9e75204b2764e353fab63bb3c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1692/116875t.jpg?s=48d82da9e75204b2764e353fab63bb3c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1692/116875l.jpg?s=48d82da9e75204b2764e353fab63bb3c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1692/116875.webp?s=48d82da9e75204b2764e353fab63bb3c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1692/116875t.webp?s=48d82da9e75204b2764e353fab63bb3c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1692/116875l.webp?s=48d82da9e75204b2764e353fab63bb3c"
+                }
+            },
+            "title": "Strike the Blood IV",
+            "airing": false,
+            "synopsis": "Fourth season of Strike the Blood.",
+            "type": "OVA",
+            "episodes": 12,
+            "score": 6.93,
+            "startDate": "2020-04-08T00:00:00+00:00",
+            "endDate": "2021-06-30T00:00:00+00:00",
+            "members": 94704,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10702,
+            "url": "https://myanimelist.net/anime/10702/Tekken__Blood_Vengeance",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1078/112635.jpg?s=8192c98b8daf79c33bfd846eaa3ee08a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1078/112635t.jpg?s=8192c98b8daf79c33bfd846eaa3ee08a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1078/112635l.jpg?s=8192c98b8daf79c33bfd846eaa3ee08a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1078/112635.webp?s=8192c98b8daf79c33bfd846eaa3ee08a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1078/112635t.webp?s=8192c98b8daf79c33bfd846eaa3ee08a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1078/112635l.webp?s=8192c98b8daf79c33bfd846eaa3ee08a"
+                }
+            },
+            "title": "Tekken: Blood Vengeance",
+            "airing": false,
+            "synopsis": "High school student Ling Xiaoyu is recruited by Anna Williams of G Corporation to transfer to Kyoto University and gather information on a student named Shin Kamiya. Meanwhile, Jin Kazama, the current...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.59,
+            "startDate": "2011-07-26T00:00:00+00:00",
+            "endDate": "2011-07-26T00:00:00+00:00",
+            "members": 24208,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 11113,
+            "url": "https://myanimelist.net/anime/11113/Usagi_Drop_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/30759.jpg?s=7da18f10e8f2c3c8bd566c990abdff0f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/30759t.jpg?s=7da18f10e8f2c3c8bd566c990abdff0f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/30759l.jpg?s=7da18f10e8f2c3c8bd566c990abdff0f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/30759.webp?s=7da18f10e8f2c3c8bd566c990abdff0f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/30759t.webp?s=7da18f10e8f2c3c8bd566c990abdff0f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/30759l.webp?s=7da18f10e8f2c3c8bd566c990abdff0f"
+                }
+            },
+            "title": "Usagi Drop Specials",
+            "airing": false,
+            "synopsis": "Happa no Suizokukan One morning, Daikichi Kawachi finds Rin Kaga eagerly crafting fish out of autumn leaves. Wanting to spur her newfound interest, Daikichi helps Rin learn more about the beautiful an...",
+            "type": "Special",
+            "episodes": 4,
+            "score": 7.92,
+            "startDate": "2011-10-28T00:00:00+00:00",
+            "endDate": "2012-01-27T00:00:00+00:00",
+            "members": 74626,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 405,
+            "url": "https://myanimelist.net/anime/405/Blood__The_Last_Vampire",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/18913.jpg?s=cdeaa063e8af7b3e3f2516cc597cc204",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/18913t.jpg?s=cdeaa063e8af7b3e3f2516cc597cc204",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/18913l.jpg?s=cdeaa063e8af7b3e3f2516cc597cc204"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/18913.webp?s=cdeaa063e8af7b3e3f2516cc597cc204",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/18913t.webp?s=cdeaa063e8af7b3e3f2516cc597cc204",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/18913l.webp?s=cdeaa063e8af7b3e3f2516cc597cc204"
+                }
+            },
+            "title": "Blood: The Last Vampire",
+            "airing": false,
+            "synopsis": "Teropterids are evil beasts which pose as humans and live only to drink human blood. Fortunately for the human world there are groups dedicated to destroying them. A brooding and mysterious girl named...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.86,
+            "startDate": "2000-11-18T00:00:00+00:00",
+            "endDate": "2000-11-18T00:00:00+00:00",
+            "members": 120478,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 2562,
+            "url": "https://myanimelist.net/anime/2562/Shion_no_Ou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/74050.jpg?s=020c094678076107b2e0c8371e6f5c4b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/74050t.jpg?s=020c094678076107b2e0c8371e6f5c4b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/74050l.jpg?s=020c094678076107b2e0c8371e6f5c4b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/74050.webp?s=020c094678076107b2e0c8371e6f5c4b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/74050t.webp?s=020c094678076107b2e0c8371e6f5c4b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/74050l.webp?s=020c094678076107b2e0c8371e6f5c4b"
+                }
+            },
+            "title": "Shion no Ou",
+            "airing": false,
+            "synopsis": "Defying the odds, middle school student Shion Yasuoka is becoming a rising star of the professional shogi world. Despite losing her family at a young age and being unable to speak due to the trauma, i...",
+            "type": "TV",
+            "episodes": 22,
+            "score": 7.49,
+            "startDate": "2007-10-14T00:00:00+00:00",
+            "endDate": "2008-03-23T00:00:00+00:00",
+            "members": 34071,
+            "rated": "PG-13"
+        }
+    ]
+}

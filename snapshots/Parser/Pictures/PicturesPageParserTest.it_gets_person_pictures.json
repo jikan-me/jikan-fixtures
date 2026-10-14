@@ -1,0 +1,77 @@
+[
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/10012.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/10012t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/10012l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/10012.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/10012t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/10012l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/30927.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/30927t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/30927l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/30927.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/30927t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/30927l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/43460.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/43460t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/43460l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/43460.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/43460t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/43460l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/43463.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/43463t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/43463l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/43463.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/43463t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/43463l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/64826.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/64826t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/64826l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/64826.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/64826t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/64826l.webp"
+        }
+    }
+]

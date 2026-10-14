@@ -1,0 +1,257 @@
+[
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 24838,
+        "url": "https://myanimelist.net/forum/?topicid=24838",
+        "title": "Cowboy Bebop Episode 26 Discussion",
+        "date": "<date>",
+        "authorUsername": "Metty",
+        "authorUrl": "https://myanimelist.net/profile/Metty",
+        "comments": 727,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=24838&goto=lastpost",
+            "authorUsername": "CEO_of_FISH",
+            "authorUrl": "https://myanimelist.net/profile/CEO_of_FISH",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 64109,
+        "url": "https://myanimelist.net/forum/?topicid=64109",
+        "title": "Cowboy Bebop Episode 25 Discussion",
+        "date": "<date>",
+        "authorUsername": "Scribbly",
+        "authorUrl": "https://myanimelist.net/profile/Scribbly",
+        "comments": 122,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=64109&goto=lastpost",
+            "authorUsername": "SHS13",
+            "authorUrl": "https://myanimelist.net/profile/SHS13",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 24084,
+        "url": "https://myanimelist.net/forum/?topicid=24084",
+        "title": "Cowboy Bebop Episode 13 Discussion",
+        "date": "<date>",
+        "authorUsername": "FighterZ",
+        "authorUrl": "https://myanimelist.net/profile/FighterZ",
+        "comments": 164,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=24084&goto=lastpost",
+            "authorUsername": "ThatOneNicheWeeb",
+            "authorUrl": "https://myanimelist.net/profile/ThatOneNicheWeeb",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 36204,
+        "url": "https://myanimelist.net/forum/?topicid=36204",
+        "title": "Cowboy Bebop Episode 12 Discussion",
+        "date": "<date>",
+        "authorUsername": "Scribbly",
+        "authorUrl": "https://myanimelist.net/profile/Scribbly",
+        "comments": 125,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=36204&goto=lastpost",
+            "authorUsername": "ThatOneNicheWeeb",
+            "authorUrl": "https://myanimelist.net/profile/ThatOneNicheWeeb",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 29264,
+        "url": "https://myanimelist.net/forum/?topicid=29264",
+        "title": "Cowboy Bebop Episode 1 Discussion",
+        "date": "<date>",
+        "authorUsername": "ManU-Alchemist",
+        "authorUrl": "https://myanimelist.net/profile/ManU-Alchemist",
+        "comments": 243,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=29264&goto=lastpost",
+            "authorUsername": "bl4ckwing",
+            "authorUrl": "https://myanimelist.net/profile/bl4ckwing",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 35320,
+        "url": "https://myanimelist.net/forum/?topicid=35320",
+        "title": "Cowboy Bebop Episode 11 Discussion",
+        "date": "<date>",
+        "authorUsername": "Scribbly",
+        "authorUrl": "https://myanimelist.net/profile/Scribbly",
+        "comments": 232,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=35320&goto=lastpost",
+            "authorUsername": "ThatOneNicheWeeb",
+            "authorUrl": "https://myanimelist.net/profile/ThatOneNicheWeeb",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 23465,
+        "url": "https://myanimelist.net/forum/?topicid=23465",
+        "title": "Cowboy Bebop Episode 10 Discussion",
+        "date": "<date>",
+        "authorUsername": "FighterZ",
+        "authorUrl": "https://myanimelist.net/profile/FighterZ",
+        "comments": 160,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=23465&goto=lastpost",
+            "authorUsername": "ThatOneNicheWeeb",
+            "authorUrl": "https://myanimelist.net/profile/ThatOneNicheWeeb",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 101461,
+        "url": "https://myanimelist.net/forum/?topicid=101461",
+        "title": "Cowboy Bebop Episode 9 Discussion",
+        "date": "<date>",
+        "authorUsername": "KillthisAccount",
+        "authorUrl": "https://myanimelist.net/profile/KillthisAccount",
+        "comments": 135,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=101461&goto=lastpost",
+            "authorUsername": "ThatOneNicheWeeb",
+            "authorUrl": "https://myanimelist.net/profile/ThatOneNicheWeeb",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 22879,
+        "url": "https://myanimelist.net/forum/?topicid=22879",
+        "title": "Cowboy Bebop Episode 5 Discussion",
+        "date": "<date>",
+        "authorUsername": "FighterZ",
+        "authorUrl": "https://myanimelist.net/profile/FighterZ",
+        "comments": 217,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=22879&goto=lastpost",
+            "authorUsername": "flimpyfoo",
+            "authorUrl": "https://myanimelist.net/profile/flimpyfoo",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 41342,
+        "url": "https://myanimelist.net/forum/?topicid=41342",
+        "title": "Cowboy Bebop Episode 24 Discussion",
+        "date": "<date>",
+        "authorUsername": "Issun",
+        "authorUrl": "https://myanimelist.net/profile/Issun",
+        "comments": 255,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=41342&goto=lastpost",
+            "authorUsername": "Muraragi-san41",
+            "authorUrl": "https://myanimelist.net/profile/Muraragi-san41",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 101271,
+        "url": "https://myanimelist.net/forum/?topicid=101271",
+        "title": "Cowboy Bebop Episode 8 Discussion",
+        "date": "<date>",
+        "authorUsername": "KillthisAccount",
+        "authorUrl": "https://myanimelist.net/profile/KillthisAccount",
+        "comments": 163,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=101271&goto=lastpost",
+            "authorUsername": "KarstenTheGreat",
+            "authorUrl": "https://myanimelist.net/profile/KarstenTheGreat",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 101265,
+        "url": "https://myanimelist.net/forum/?topicid=101265",
+        "title": "Cowboy Bebop Episode 7 Discussion",
+        "date": "<date>",
+        "authorUsername": "KillthisAccount",
+        "authorUrl": "https://myanimelist.net/profile/KillthisAccount",
+        "comments": 132,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=101265&goto=lastpost",
+            "authorUsername": "KarstenTheGreat",
+            "authorUrl": "https://myanimelist.net/profile/KarstenTheGreat",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 62654,
+        "url": "https://myanimelist.net/forum/?topicid=62654",
+        "title": "Cowboy Bebop Episode 22 Discussion",
+        "date": "<date>",
+        "authorUsername": "Scribbly",
+        "authorUrl": "https://myanimelist.net/profile/Scribbly",
+        "comments": 184,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=62654&goto=lastpost",
+            "authorUsername": "brecktyn",
+            "authorUrl": "https://myanimelist.net/profile/brecktyn",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 40846,
+        "url": "https://myanimelist.net/forum/?topicid=40846",
+        "title": "Cowboy Bebop Episode 20 Discussion",
+        "date": "<date>",
+        "authorUsername": "Issun",
+        "authorUrl": "https://myanimelist.net/profile/Issun",
+        "comments": 267,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=40846&goto=lastpost",
+            "authorUsername": "brecktyn",
+            "authorUrl": "https://myanimelist.net/profile/brecktyn",
+            "date": "<date>"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Forum\\ForumTopic",
+        "malId": 133101,
+        "url": "https://myanimelist.net/forum/?topicid=133101",
+        "title": "Cowboy Bebop Episode 16 Discussion",
+        "date": "<date>",
+        "authorUsername": "Kappaka",
+        "authorUrl": "https://myanimelist.net/profile/Kappaka",
+        "comments": 105,
+        "lastComment": {
+            "@class": "Jikan\\Model\\Forum\\ForumPost",
+            "url": "https://myanimelist.net/forum/?topicid=133101&goto=lastpost",
+            "authorUsername": "jolli",
+            "authorUrl": "https://myanimelist.net/profile/jolli",
+            "date": "<date>"
+        }
+    }
+]

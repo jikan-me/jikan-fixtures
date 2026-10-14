@@ -1,0 +1,1507 @@
+{
+    "@class": "Jikan\\Model\\Search\\MangaSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 25191,
+            "url": "https://myanimelist.net/manga/25191/Fate_Zero",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/196931.jpg?s=7da8d65371bc975c9ecda0d30a832984",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/196931t.jpg?s=7da8d65371bc975c9ecda0d30a832984",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/196931l.jpg?s=7da8d65371bc975c9ecda0d30a832984"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/196931.webp?s=7da8d65371bc975c9ecda0d30a832984",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/196931t.webp?s=7da8d65371bc975c9ecda0d30a832984",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/196931l.webp?s=7da8d65371bc975c9ecda0d30a832984"
+                }
+            },
+            "title": "Fate/Zero",
+            "publishing": false,
+            "synopsis": "War of the Holy Grail—Pursuing the power of the \"Holy Grail\" which grants a miracle, this is a contest in which seven magi summon seven Heroic Spirits to compete for it. In that battle whose conclusio...",
+            "type": "Manga",
+            "chapters": 79,
+            "volumes": 14,
+            "score": 7.77,
+            "startDate": "2010-12-29T00:00:00+00:00",
+            "endDate": "2017-06-02T00:00:00+00:00",
+            "members": 8695
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 3649,
+            "url": "https://myanimelist.net/manga/3649/Fate_Zero",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/186073.jpg?s=5bff4e6932a81c9a27b3bb5848849f53",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/186073t.jpg?s=5bff4e6932a81c9a27b3bb5848849f53",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/186073l.jpg?s=5bff4e6932a81c9a27b3bb5848849f53"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/186073.webp?s=5bff4e6932a81c9a27b3bb5848849f53",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/186073t.webp?s=5bff4e6932a81c9a27b3bb5848849f53",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/186073l.webp?s=5bff4e6932a81c9a27b3bb5848849f53"
+                }
+            },
+            "title": "Fate/Zero",
+            "publishing": false,
+            "synopsis": "The Holy Grail War is a ritualistic battle fought to determine who is worthy of commanding the Holy Grail: an omnipotent wish-granting device. The war is held between seven mages, each armed with thei...",
+            "type": "Light Novel",
+            "chapters": 18,
+            "volumes": 4,
+            "score": 8.49,
+            "startDate": "2006-12-29T00:00:00+00:00",
+            "endDate": "2007-12-29T00:00:00+00:00",
+            "members": 30114
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 715,
+            "url": "https://myanimelist.net/manga/715/Fate_stay_night",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/115669.jpg?s=3a95e587f613ae4f899492e941d7530c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/115669t.jpg?s=3a95e587f613ae4f899492e941d7530c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/115669l.jpg?s=3a95e587f613ae4f899492e941d7530c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/115669.webp?s=3a95e587f613ae4f899492e941d7530c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/115669t.webp?s=3a95e587f613ae4f899492e941d7530c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/115669l.webp?s=3a95e587f613ae4f899492e941d7530c"
+                }
+            },
+            "title": "Fate/stay night",
+            "publishing": false,
+            "synopsis": "The story takes place in an ordinary Japanese town, Fuyuki City. Hidden from society, there has been a deadly war going on in this town. Seven sorcerers known as \"Masters\" summon a powerful familiar c...",
+            "type": "Manga",
+            "chapters": 87,
+            "volumes": 20,
+            "score": 7.55,
+            "startDate": "2005-12-26T00:00:00+00:00",
+            "endDate": "2012-10-26T00:00:00+00:00",
+            "members": 19538
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 8764,
+            "url": "https://myanimelist.net/manga/8764/Fate",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/11996.jpg?s=9327af4837d4b71f84d40229069d8908",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/11996t.jpg?s=9327af4837d4b71f84d40229069d8908",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/11996l.jpg?s=9327af4837d4b71f84d40229069d8908"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/11996.webp?s=9327af4837d4b71f84d40229069d8908",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/11996t.webp?s=9327af4837d4b71f84d40229069d8908",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/11996l.webp?s=9327af4837d4b71f84d40229069d8908"
+                }
+            },
+            "title": "Fate",
+            "publishing": false,
+            "synopsis": "From [RC-SCANS]: Shin-Young abruptly wakes up from a nightmare just to find a man, named Ji-Hoo, sleeping in the same bed. If that wasn't bizzare enough, the two of them find out that they were engage...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 13,
+            "score": 0.0,
+            "startDate": null,
+            "endDate": null,
+            "members": 250
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 147655,
+            "url": "https://myanimelist.net/manga/147655/7Fates__Chakho",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/290995.jpg?s=97f21146b1fd7045faadd8019745a87e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/290995t.jpg?s=97f21146b1fd7045faadd8019745a87e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/290995l.jpg?s=97f21146b1fd7045faadd8019745a87e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/290995.webp?s=97f21146b1fd7045faadd8019745a87e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/290995t.webp?s=97f21146b1fd7045faadd8019745a87e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/290995l.webp?s=97f21146b1fd7045faadd8019745a87e"
+                }
+            },
+            "title": "7Fates: Chakho",
+            "publishing": false,
+            "synopsis": "The beom are vicious tiger-like monsters who blend in with humans, brutally devour them, and bring chaos to the corrupt city of Sin-si. Four thousand years ago, they were sealed behind Beom Rock on In...",
+            "type": "Manhwa",
+            "chapters": 53,
+            "volumes": 7,
+            "score": 6.8,
+            "startDate": "2022-01-11T00:00:00+00:00",
+            "endDate": "2023-03-10T00:00:00+00:00",
+            "members": 1480
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 32425,
+            "url": "https://myanimelist.net/manga/32425/Fate_Extra",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/139337.jpg?s=05749fd494ca1cfbd809344d11c2f465",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/139337t.jpg?s=05749fd494ca1cfbd809344d11c2f465",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/139337l.jpg?s=05749fd494ca1cfbd809344d11c2f465"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/139337.webp?s=05749fd494ca1cfbd809344d11c2f465",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/139337t.webp?s=05749fd494ca1cfbd809344d11c2f465",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/139337l.webp?s=05749fd494ca1cfbd809344d11c2f465"
+                }
+            },
+            "title": "Fate/Extra",
+            "publishing": false,
+            "synopsis": "Struggling to make sense of his broken memory, high schooler Hakuno Kishinami arrives at school with a piercing headache. Staring out of a window in his classroom, he notices two girls in the courtyar...",
+            "type": "Manga",
+            "chapters": 41,
+            "volumes": 6,
+            "score": 7.12,
+            "startDate": "2011-04-09T00:00:00+00:00",
+            "endDate": "2014-11-10T00:00:00+00:00",
+            "members": 4829
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 3526,
+            "url": "https://myanimelist.net/manga/3526/Fate_kaleid_liner_Prisma☆Illya",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/271563.jpg?s=a9112ae37f4c85c9c208c7632c26a2ca",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/271563t.jpg?s=a9112ae37f4c85c9c208c7632c26a2ca",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/271563l.jpg?s=a9112ae37f4c85c9c208c7632c26a2ca"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/271563.webp?s=a9112ae37f4c85c9c208c7632c26a2ca",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/271563t.webp?s=a9112ae37f4c85c9c208c7632c26a2ca",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/271563l.webp?s=a9112ae37f4c85c9c208c7632c26a2ca"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya",
+            "publishing": false,
+            "synopsis": "Illyasviel von Einzbern is obsessed with magical girl cartoons, but otherwise, she lives the life of any other adolescent. One night while in the bath, an enchanted wand named Ruby flies through her w...",
+            "type": "Manga",
+            "chapters": 14,
+            "volumes": 2,
+            "score": 7.05,
+            "startDate": "2007-09-26T00:00:00+00:00",
+            "endDate": "2008-11-26T00:00:00+00:00",
+            "members": 11517
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 108116,
+            "url": "https://myanimelist.net/manga/108116/Fate_Grand_Order__Mortalis_Stella",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/205353.jpg?s=99d3692c3bf13dc25dad278a070cc097",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/205353t.jpg?s=99d3692c3bf13dc25dad278a070cc097",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/205353l.jpg?s=99d3692c3bf13dc25dad278a070cc097"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/205353.webp?s=99d3692c3bf13dc25dad278a070cc097",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/205353t.webp?s=99d3692c3bf13dc25dad278a070cc097",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/205353l.webp?s=99d3692c3bf13dc25dad278a070cc097"
+                }
+            },
+            "title": "Fate/Grand Order: Mortalis:Stella",
+            "publishing": true,
+            "synopsis": "The year is 2016, and glitches found in humanity's past threaten the sustainability of its future. The Chaldea Security Organization—tasked with preserving human history for as long and as strongly as...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.27,
+            "startDate": "2017-07-28T00:00:00+00:00",
+            "endDate": null,
+            "members": 3002
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 83903,
+            "url": "https://myanimelist.net/manga/83903/Fate_strange_Fake",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/171596.jpg?s=99b1318f1400913b09cb7cc3c7bf90b0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/171596t.jpg?s=99b1318f1400913b09cb7cc3c7bf90b0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/171596l.jpg?s=99b1318f1400913b09cb7cc3c7bf90b0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/171596.webp?s=99b1318f1400913b09cb7cc3c7bf90b0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/171596t.webp?s=99b1318f1400913b09cb7cc3c7bf90b0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/171596l.webp?s=99b1318f1400913b09cb7cc3c7bf90b0"
+                }
+            },
+            "title": "Fate/strange Fake",
+            "publishing": true,
+            "synopsis": "The plot centers around a Grail War faultily copied from the Third Holy Grail War in Fuyuki. After the end of the third Grail War, an organization from the United States that has magi separate from th...",
+            "type": "Light Novel",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 8.36,
+            "startDate": "2015-01-10T00:00:00+00:00",
+            "endDate": null,
+            "members": 11151
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 89196,
+            "url": "https://myanimelist.net/manga/89196/Fate_Extra_CCC",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/180280.jpg?s=49db7655707f6349dc4ce5de8fa71cfe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/180280t.jpg?s=49db7655707f6349dc4ce5de8fa71cfe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/180280l.jpg?s=49db7655707f6349dc4ce5de8fa71cfe"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/180280.webp?s=49db7655707f6349dc4ce5de8fa71cfe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/180280t.webp?s=49db7655707f6349dc4ce5de8fa71cfe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/180280l.webp?s=49db7655707f6349dc4ce5de8fa71cfe"
+                }
+            },
+            "title": "Fate/Extra CCC",
+            "publishing": false,
+            "synopsis": "The story is set on the Far Side of the Moon Cell, where BB used her abilities to create the Sakura Labyrinth. She brought over various Masters and Servants from the Moon Cell Holy Grail War on the Ne...",
+            "type": "Manga",
+            "chapters": 77,
+            "volumes": 8,
+            "score": 7.09,
+            "startDate": "2015-06-10T00:00:00+00:00",
+            "endDate": "2023-12-08T00:00:00+00:00",
+            "members": 1998
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 99106,
+            "url": "https://myanimelist.net/manga/99106/Fate_Apocrypha",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/182620.jpg?s=8d3565d1bda3d67ec36bf8d4e132ff3d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/182620t.jpg?s=8d3565d1bda3d67ec36bf8d4e132ff3d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/182620l.jpg?s=8d3565d1bda3d67ec36bf8d4e132ff3d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/182620.webp?s=8d3565d1bda3d67ec36bf8d4e132ff3d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/182620t.webp?s=8d3565d1bda3d67ec36bf8d4e132ff3d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/182620l.webp?s=8d3565d1bda3d67ec36bf8d4e132ff3d"
+                }
+            },
+            "title": "Fate/Apocrypha",
+            "publishing": false,
+            "synopsis": "The setting of Fate/Apocrypha is a parallel world to Fate/stay night where the Greater Grail was removed from Fuyuki after the Third Holy Grail War and disappeared for many years. Around the 2000s, ar...",
+            "type": "Manga",
+            "chapters": 77,
+            "volumes": 16,
+            "score": 7.35,
+            "startDate": "2016-06-26T00:00:00+00:00",
+            "endDate": "2024-04-26T00:00:00+00:00",
+            "members": 4018
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 108921,
+            "url": "https://myanimelist.net/manga/108921/Unmei_ja_Nai_Hito",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/208340.jpg?s=eb4328366514bf243e91ab8afa8c2343",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/208340t.jpg?s=eb4328366514bf243e91ab8afa8c2343",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/208340l.jpg?s=eb4328366514bf243e91ab8afa8c2343"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/208340.webp?s=eb4328366514bf243e91ab8afa8c2343",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/208340t.webp?s=eb4328366514bf243e91ab8afa8c2343",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/208340l.webp?s=eb4328366514bf243e91ab8afa8c2343"
+                }
+            },
+            "title": "Unmei ja Nai Hito",
+            "publishing": false,
+            "synopsis": "\"Even if it's hopeless, I'm not gonna give up! No matter how many times I get rejected or how much I get hurt, I won't stop feeling this way!\" ...So says the bright and optimistic university student,...",
+            "type": "Manga",
+            "chapters": 5,
+            "volumes": 1,
+            "score": 6.81,
+            "startDate": "2016-11-24T00:00:00+00:00",
+            "endDate": "2017-03-24T00:00:00+00:00",
+            "members": 1240
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 83923,
+            "url": "https://myanimelist.net/manga/83923/Fate_strange_Fake",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/145617.jpg?s=f64cef78720bd2a17c5d5b5912ca10c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/145617t.jpg?s=f64cef78720bd2a17c5d5b5912ca10c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/145617l.jpg?s=f64cef78720bd2a17c5d5b5912ca10c6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/145617.webp?s=f64cef78720bd2a17c5d5b5912ca10c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/145617t.webp?s=f64cef78720bd2a17c5d5b5912ca10c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/145617l.webp?s=f64cef78720bd2a17c5d5b5912ca10c6"
+                }
+            },
+            "title": "Fate/strange Fake",
+            "publishing": true,
+            "synopsis": "The plot centers around a Grail War faultily copied from the Third Holy Grail War in Fuyuki. After the end of the third Grail War, an organization from the United States that has magi separate from th...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 8.02,
+            "startDate": "2015-01-10T00:00:00+00:00",
+            "endDate": null,
+            "members": 9851
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 33005,
+            "url": "https://myanimelist.net/manga/33005/Fate_Apocrypha",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/88873.jpg?s=58cd7951bdf71b4c342ed4a66c2bada7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/88873t.jpg?s=58cd7951bdf71b4c342ed4a66c2bada7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/88873l.jpg?s=58cd7951bdf71b4c342ed4a66c2bada7"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/88873.webp?s=58cd7951bdf71b4c342ed4a66c2bada7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/88873t.webp?s=58cd7951bdf71b4c342ed4a66c2bada7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/88873l.webp?s=58cd7951bdf71b4c342ed4a66c2bada7"
+                }
+            },
+            "title": "Fate/Apocrypha",
+            "publishing": false,
+            "synopsis": "The setting of Fate/Apocrypha is a parallel world to Fate/stay night where the Greater Grail was removed from Fuyuki after the Third Holy Grail War and disappeared for many years. Around the 2000s, ar...",
+            "type": "Light Novel",
+            "chapters": 26,
+            "volumes": 5,
+            "score": 7.6,
+            "startDate": "2012-12-29T00:00:00+00:00",
+            "endDate": "2014-12-30T00:00:00+00:00",
+            "members": 5860
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 61147,
+            "url": "https://myanimelist.net/manga/61147/Fate_Extra_CCC__Fox_Tail",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/120387.jpg?s=759ea5400526e0ebab5121dba1ced6c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/120387t.jpg?s=759ea5400526e0ebab5121dba1ced6c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/120387l.jpg?s=759ea5400526e0ebab5121dba1ced6c6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/120387.webp?s=759ea5400526e0ebab5121dba1ced6c6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/120387t.webp?s=759ea5400526e0ebab5121dba1ced6c6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/120387l.webp?s=759ea5400526e0ebab5121dba1ced6c6"
+                }
+            },
+            "title": "Fate/Extra CCC: Fox Tail",
+            "publishing": true,
+            "synopsis": "The series is set on the Far Side of the Moon Cell, where BB used her abilities to create the Sakura Labyrinth. She brought over various Masters and Servants from the Moon Cell Holy Grail War on the N...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.52,
+            "startDate": "2013-10-26T00:00:00+00:00",
+            "endDate": null,
+            "members": 4087
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 88110,
+            "url": "https://myanimelist.net/manga/88110/Fate_stay_night__Heavens_Feel",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/159383.jpg?s=8173dc6fd689d9f4411d619013e7958f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/159383t.jpg?s=8173dc6fd689d9f4411d619013e7958f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/159383l.jpg?s=8173dc6fd689d9f4411d619013e7958f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/159383.webp?s=8173dc6fd689d9f4411d619013e7958f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/159383t.webp?s=8173dc6fd689d9f4411d619013e7958f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/159383l.webp?s=8173dc6fd689d9f4411d619013e7958f"
+                }
+            },
+            "title": "Fate/stay night: Heaven's Feel",
+            "publishing": true,
+            "synopsis": "Ten years after the Holy Grail War, a devastating clash between Masters and Servants, another war erupts. Shirou Emiya, whose father fought in the first battle, was leading a peaceful life with the wa...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 8.03,
+            "startDate": "2015-05-02T00:00:00+00:00",
+            "endDate": null,
+            "members": 9386
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 145221,
+            "url": "https://myanimelist.net/manga/145221/Fate_Zero_Kuro",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/273862.jpg?s=12af0db016c0ad2a9df8f0dff443ef6f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/273862t.jpg?s=12af0db016c0ad2a9df8f0dff443ef6f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/273862l.jpg?s=12af0db016c0ad2a9df8f0dff443ef6f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/273862.webp?s=12af0db016c0ad2a9df8f0dff443ef6f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/273862t.webp?s=12af0db016c0ad2a9df8f0dff443ef6f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/273862l.webp?s=12af0db016c0ad2a9df8f0dff443ef6f"
+                }
+            },
+            "title": "Fate/Zero Kuro",
+            "publishing": false,
+            "synopsis": "",
+            "type": "Manga",
+            "chapters": 11,
+            "volumes": 1,
+            "score": 0.0,
+            "startDate": "2011-10-18T00:00:00+00:00",
+            "endDate": "2013-02-23T00:00:00+00:00",
+            "members": 280
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 105798,
+            "url": "https://myanimelist.net/manga/105798/Akaiito_no_Shikkou_Yuuyo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/194052.jpg?s=9e26b81bbf9e2d2c682ef6ee851408d2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/194052t.jpg?s=9e26b81bbf9e2d2c682ef6ee851408d2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/194052l.jpg?s=9e26b81bbf9e2d2c682ef6ee851408d2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/194052.webp?s=9e26b81bbf9e2d2c682ef6ee851408d2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/194052t.webp?s=9e26b81bbf9e2d2c682ef6ee851408d2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/194052l.webp?s=9e26b81bbf9e2d2c682ef6ee851408d2"
+                }
+            },
+            "title": "Akaiito no Shikkou Yuuyo",
+            "publishing": false,
+            "synopsis": "College student Keiji has always been a bit of an oddity. Born with the gift of being able to see the red string of fate, it is a blessing that he has learned to understand is really a curse. He has s...",
+            "type": "Manga",
+            "chapters": 7,
+            "volumes": 1,
+            "score": 7.65,
+            "startDate": "2015-11-30T00:00:00+00:00",
+            "endDate": "2016-08-31T00:00:00+00:00",
+            "members": 9805
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 120769,
+            "url": "https://myanimelist.net/manga/120769/Fate_Makes_No_Mistakes",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/272322.jpg?s=5a1e6753fb0d7072526566d76f3c00bd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/272322t.jpg?s=5a1e6753fb0d7072526566d76f3c00bd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/272322l.jpg?s=5a1e6753fb0d7072526566d76f3c00bd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/272322.webp?s=5a1e6753fb0d7072526566d76f3c00bd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/272322t.webp?s=5a1e6753fb0d7072526566d76f3c00bd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/272322l.webp?s=5a1e6753fb0d7072526566d76f3c00bd"
+                }
+            },
+            "title": "Fate Makes No Mistakes",
+            "publishing": true,
+            "synopsis": "Eunjae's been losing sleep from some decidedly disturbing dreams: some kind of otherworldly being keeps having its way with him in the middle of the night. His days are filled with strange coincidence...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.37,
+            "startDate": "2019-02-07T00:00:00+00:00",
+            "endDate": null,
+            "members": 1152
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 166925,
+            "url": "https://myanimelist.net/manga/166925/A_Twisted_Fate",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/297253.jpg?s=ebea47ec42cfad9176b568c9a99a96d4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/297253t.jpg?s=ebea47ec42cfad9176b568c9a99a96d4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/297253l.jpg?s=ebea47ec42cfad9176b568c9a99a96d4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/297253.webp?s=ebea47ec42cfad9176b568c9a99a96d4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/297253t.webp?s=ebea47ec42cfad9176b568c9a99a96d4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/297253l.webp?s=ebea47ec42cfad9176b568c9a99a96d4"
+                }
+            },
+            "title": "A Twisted Fate",
+            "publishing": true,
+            "synopsis": "Demi-drake, a mythical creature yearning to ascend to dragonhood, tragically falls short, harboring resentment in its serpentine form. A twisted fate unfolds as Baeksa, a white serpent demi-drake, see...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2023-11-22T00:00:00+00:00",
+            "endDate": null,
+            "members": 375
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 164509,
+            "url": "https://myanimelist.net/manga/164509/The_Fateful_Invitation",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/292166.jpg?s=38a254302c0bafcd57c699caf8cd24e5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/292166t.jpg?s=38a254302c0bafcd57c699caf8cd24e5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/292166l.jpg?s=38a254302c0bafcd57c699caf8cd24e5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/292166.webp?s=38a254302c0bafcd57c699caf8cd24e5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/292166t.webp?s=38a254302c0bafcd57c699caf8cd24e5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/292166l.webp?s=38a254302c0bafcd57c699caf8cd24e5"
+                }
+            },
+            "title": "The Fateful Invitation",
+            "publishing": false,
+            "synopsis": "After Hillaria sees a future where her beloved nation is burned down to ashes just because she refused the emperor's proposal, she accepts an invitation to the imperial palace with a mission to change...",
+            "type": "Manhwa",
+            "chapters": 101,
+            "volumes": 0,
+            "score": 6.85,
+            "startDate": "2022-10-24T00:00:00+00:00",
+            "endDate": "2025-12-15T00:00:00+00:00",
+            "members": 788
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 23568,
+            "url": "https://myanimelist.net/manga/23568/Fate_Extra",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/38152.jpg?s=2074944f30a055e4b6a1df7b770e3361",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/38152t.jpg?s=2074944f30a055e4b6a1df7b770e3361",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/38152l.jpg?s=2074944f30a055e4b6a1df7b770e3361"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/38152.webp?s=2074944f30a055e4b6a1df7b770e3361",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/38152t.webp?s=2074944f30a055e4b6a1df7b770e3361",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/38152l.webp?s=2074944f30a055e4b6a1df7b770e3361"
+                }
+            },
+            "title": "Fate/Extra",
+            "publishing": false,
+            "synopsis": "One-shot advertising on Fate/Extra.",
+            "type": "One-shot",
+            "chapters": 1,
+            "volumes": 0,
+            "score": 6.7,
+            "startDate": null,
+            "endDate": null,
+            "members": 1285
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 123444,
+            "url": "https://myanimelist.net/manga/123444/Teito_Seihai_Kitan__Fate_type_Redline",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/234884.jpg?s=dbb4beeb4988c634e03b85969d710e8a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/234884t.jpg?s=dbb4beeb4988c634e03b85969d710e8a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/234884l.jpg?s=dbb4beeb4988c634e03b85969d710e8a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/234884.webp?s=dbb4beeb4988c634e03b85969d710e8a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/234884t.webp?s=dbb4beeb4988c634e03b85969d710e8a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/234884l.webp?s=dbb4beeb4988c634e03b85969d710e8a"
+                }
+            },
+            "title": "Teito Seihai Kitan: Fate/type Redline",
+            "publishing": true,
+            "synopsis": "A remake of the comedy spin-off manga Koha-Ace GO: Teito Seihai Kitan.",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 8.31,
+            "startDate": "2019-12-20T00:00:00+00:00",
+            "endDate": null,
+            "members": 17704
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 51987,
+            "url": "https://myanimelist.net/manga/51987/Fate_hollow_ataraxia",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/115043.jpg?s=1c0dd3f58b62279e9e97697d20b7815d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/115043t.jpg?s=1c0dd3f58b62279e9e97697d20b7815d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/115043l.jpg?s=1c0dd3f58b62279e9e97697d20b7815d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/115043.webp?s=1c0dd3f58b62279e9e97697d20b7815d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/115043t.webp?s=1c0dd3f58b62279e9e97697d20b7815d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/115043l.webp?s=1c0dd3f58b62279e9e97697d20b7815d"
+                }
+            },
+            "title": "Fate/hollow ataraxia",
+            "publishing": true,
+            "synopsis": "The plot of Fate/hollow ataraxia is based half a year after the events of Fate/stay night. Like its preceding counterpart, the story is set in Fuyuki City. Bazett Fraga McRemitz, a member of the Mages...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.15,
+            "startDate": "2013-05-25T00:00:00+00:00",
+            "endDate": null,
+            "members": 4681
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 61005,
+            "url": "https://myanimelist.net/manga/61005/Fate_Prototype__Sougin_no_Fragments",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/139339.jpg?s=096127dffe162e64300dc50ae9ab1e61",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/139339t.jpg?s=096127dffe162e64300dc50ae9ab1e61",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/139339l.jpg?s=096127dffe162e64300dc50ae9ab1e61"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/139339.webp?s=096127dffe162e64300dc50ae9ab1e61",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/139339t.webp?s=096127dffe162e64300dc50ae9ab1e61",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/139339l.webp?s=096127dffe162e64300dc50ae9ab1e61"
+                }
+            },
+            "title": "Fate/Prototype: Sougin no Fragments",
+            "publishing": false,
+            "synopsis": "Prequel to Fate/Prototype.",
+            "type": "Light Novel",
+            "chapters": 36,
+            "volumes": 5,
+            "score": 7.37,
+            "startDate": "2013-07-10T00:00:00+00:00",
+            "endDate": "2016-09-10T00:00:00+00:00",
+            "members": 2322
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 113244,
+            "url": "https://myanimelist.net/manga/113244/Manga_de_Wakaru_Fate_Grand_Order",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/223914.jpg?s=c2f2823e710fc21132fce67837927986",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/223914t.jpg?s=c2f2823e710fc21132fce67837927986",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/223914l.jpg?s=c2f2823e710fc21132fce67837927986"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/223914.webp?s=c2f2823e710fc21132fce67837927986",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/223914t.webp?s=c2f2823e710fc21132fce67837927986",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/223914l.webp?s=c2f2823e710fc21132fce67837927986"
+                }
+            },
+            "title": "Manga de Wakaru! Fate/Grand Order",
+            "publishing": true,
+            "synopsis": "",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.77,
+            "startDate": "2015-08-13T00:00:00+00:00",
+            "endDate": null,
+            "members": 2047
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 172032,
+            "url": "https://myanimelist.net/manga/172032/Fated_but_Flawed",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/306203.jpg?s=d217e49e13f9dbe568c5b413199c466f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/306203t.jpg?s=d217e49e13f9dbe568c5b413199c466f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/306203l.jpg?s=d217e49e13f9dbe568c5b413199c466f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/306203.webp?s=d217e49e13f9dbe568c5b413199c466f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/306203t.webp?s=d217e49e13f9dbe568c5b413199c466f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/306203l.webp?s=d217e49e13f9dbe568c5b413199c466f"
+                }
+            },
+            "title": "Fated but Flawed",
+            "publishing": false,
+            "synopsis": "Beom Gyu-hwa always believed he was an alpha, until one strange night turned everything upside down. Desperate to pay tuition, he accepts a high-paying gig...only to find out it's at Sehan Hotel, a pl...",
+            "type": "Manhwa",
+            "chapters": 44,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2024-06-17T00:00:00+00:00",
+            "endDate": "2025-06-24T00:00:00+00:00",
+            "members": 147
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 21296,
+            "url": "https://myanimelist.net/manga/21296/God_Eater__The_Spiral_Fate",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/160489.jpg?s=58c2ab87b260801f85191caf6ad833bd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/160489t.jpg?s=58c2ab87b260801f85191caf6ad833bd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/160489l.jpg?s=58c2ab87b260801f85191caf6ad833bd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/160489.webp?s=58c2ab87b260801f85191caf6ad833bd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/160489t.webp?s=58c2ab87b260801f85191caf6ad833bd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/160489l.webp?s=58c2ab87b260801f85191caf6ad833bd"
+                }
+            },
+            "title": "God Eater: The Spiral Fate",
+            "publishing": false,
+            "synopsis": "",
+            "type": "Manga",
+            "chapters": 17,
+            "volumes": 2,
+            "score": 6.86,
+            "startDate": "2009-09-03T00:00:00+00:00",
+            "endDate": "2010-11-04T00:00:00+00:00",
+            "members": 1291
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 36131,
+            "url": "https://myanimelist.net/manga/36131/Fate_kaleid_liner_Prisma☆Illya_3rei",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/271628.jpg?s=e050fe4f1ee208f4cc0e88b32831c4c1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/271628t.jpg?s=e050fe4f1ee208f4cc0e88b32831c4c1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/271628l.jpg?s=e050fe4f1ee208f4cc0e88b32831c4c1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/271628.webp?s=e050fe4f1ee208f4cc0e88b32831c4c1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/271628t.webp?s=e050fe4f1ee208f4cc0e88b32831c4c1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/271628l.webp?s=e050fe4f1ee208f4cc0e88b32831c4c1"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+            "publishing": true,
+            "synopsis": "Awakening in a parallel world, Illyasviel von Einzbern is distressed and in trouble, unable to transform and without Miyu Edelfelt or Rin Toosaka for support. The once lively Fuyuki City is in snowy r...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 8.15,
+            "startDate": "2012-05-26T00:00:00+00:00",
+            "endDate": null,
+            "members": 11079
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 3144,
+            "url": "https://myanimelist.net/manga/3144/Unmei_ni_KISS",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/146827.jpg?s=3531e66a123dcd1454678ff30726fa9c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/146827t.jpg?s=3531e66a123dcd1454678ff30726fa9c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/146827l.jpg?s=3531e66a123dcd1454678ff30726fa9c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/5/146827.webp?s=3531e66a123dcd1454678ff30726fa9c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/5/146827t.webp?s=3531e66a123dcd1454678ff30726fa9c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/5/146827l.webp?s=3531e66a123dcd1454678ff30726fa9c"
+                }
+            },
+            "title": "Unmei ni KISS",
+            "publishing": true,
+            "synopsis": "What happens when your mother decides with her best friend that their two children will be soulmates? If the two children turn out to be boys, nothing, right? It seems fate was playing a trick, though...",
+            "type": "Manga",
+            "chapters": 5,
+            "volumes": 1,
+            "score": 6.41,
+            "startDate": "1998-01-01T00:00:00+00:00",
+            "endDate": null,
+            "members": 1508
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 88347,
+            "url": "https://myanimelist.net/manga/88347/Fate_Labyrinth",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/169878.jpg?s=e6bf4ac03146c0776ddc3aec52bb0997",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/169878t.jpg?s=e6bf4ac03146c0776ddc3aec52bb0997",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/169878l.jpg?s=e6bf4ac03146c0776ddc3aec52bb0997"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/169878.webp?s=e6bf4ac03146c0776ddc3aec52bb0997",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/169878t.webp?s=e6bf4ac03146c0776ddc3aec52bb0997",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/169878l.webp?s=e6bf4ac03146c0776ddc3aec52bb0997"
+                }
+            },
+            "title": "Fate/Labyrinth",
+            "publishing": false,
+            "synopsis": "Manaka Sajyou, an existence connected to Akasha, is unable to experience phenomena like change and surprise, so she wishes to attempt to \"dream.\" She sends her consciousness through the backside of th...",
+            "type": "Light Novel",
+            "chapters": 7,
+            "volumes": 1,
+            "score": 6.62,
+            "startDate": "2015-04-10T00:00:00+00:00",
+            "endDate": "2015-06-10T00:00:00+00:00",
+            "members": 1319
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 185907,
+            "url": "https://myanimelist.net/manga/185907/Fate_Mate",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/332569.jpg?s=1ef31ec24fb8fb0719834ed4682b596a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/332569t.jpg?s=1ef31ec24fb8fb0719834ed4682b596a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/332569l.jpg?s=1ef31ec24fb8fb0719834ed4682b596a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/332569.webp?s=1ef31ec24fb8fb0719834ed4682b596a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/332569t.webp?s=1ef31ec24fb8fb0719834ed4682b596a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/332569l.webp?s=1ef31ec24fb8fb0719834ed4682b596a"
+                }
+            },
+            "title": "Fate Mate",
+            "publishing": true,
+            "synopsis": "Kwon Sehyeon is both an alpha and omega who enters the beta dorm at his university to hide his unusual trait. Since his omega side awakened late and is unstable, he needs to avoid alphas at all costs....",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2024-06-05T00:00:00+00:00",
+            "endDate": null,
+            "members": 63
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 18572,
+            "url": "https://myanimelist.net/manga/18572/Fated_to_Love_You",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/28452.jpg?s=37eb497ca811956d0a10b865053f0f81",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/28452t.jpg?s=37eb497ca811956d0a10b865053f0f81",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/28452l.jpg?s=37eb497ca811956d0a10b865053f0f81"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/28452.webp?s=37eb497ca811956d0a10b865053f0f81",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/28452t.webp?s=37eb497ca811956d0a10b865053f0f81",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/28452l.webp?s=37eb497ca811956d0a10b865053f0f81"
+                }
+            },
+            "title": "Fated to Love You",
+            "publishing": true,
+            "synopsis": "A really unfashionable working class girl, Chen Xin Yi, desires to tie down her handsome boyfriend to be with her. during a trip on a love cruise, but ends up sick and drowsy due to the medicine, whic...",
+            "type": "Manhua",
+            "chapters": 14,
+            "volumes": 3,
+            "score": 6.73,
+            "startDate": "2008-01-01T00:00:00+00:00",
+            "endDate": null,
+            "members": 1488
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 91809,
+            "url": "https://myanimelist.net/manga/91809/Fate_kaleid_liner_Prisma☆Illya",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161426.jpg?s=4d1a8d6c7e159b3bb852d26e6547b257",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161426t.jpg?s=4d1a8d6c7e159b3bb852d26e6547b257",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161426l.jpg?s=4d1a8d6c7e159b3bb852d26e6547b257"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/161426.webp?s=4d1a8d6c7e159b3bb852d26e6547b257",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/161426t.webp?s=4d1a8d6c7e159b3bb852d26e6547b257",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/161426l.webp?s=4d1a8d6c7e159b3bb852d26e6547b257"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya",
+            "publishing": false,
+            "synopsis": "On a quiet evening, an enchanted magical wand called Ruby visits a surprised young Illyasviel von Einzbern. On the run from her abusive owner, Ruby quickly senses great magical energy in Illyasviel an...",
+            "type": "Light Novel",
+            "chapters": 16,
+            "volumes": 2,
+            "score": 7.3,
+            "startDate": "2013-08-01T00:00:00+00:00",
+            "endDate": "2013-10-01T00:00:00+00:00",
+            "members": 1282
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 185034,
+            "url": "https://myanimelist.net/manga/185034/When_Fate_Finds_Us",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/331323.jpg?s=acfcf57d3106e85dac7f1aa21a51e339",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/331323t.jpg?s=acfcf57d3106e85dac7f1aa21a51e339",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/331323l.jpg?s=acfcf57d3106e85dac7f1aa21a51e339"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/331323.webp?s=acfcf57d3106e85dac7f1aa21a51e339",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/331323t.webp?s=acfcf57d3106e85dac7f1aa21a51e339",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/331323l.webp?s=acfcf57d3106e85dac7f1aa21a51e339"
+                }
+            },
+            "title": "When Fate Finds Us",
+            "publishing": false,
+            "synopsis": "One kiss could save my life. As a prophetess, Noemi can see the futures of those she touches. Yet sadly, as the wife of a god, she sees only death in her own fateful future. But then, a sudden kiss wi...",
+            "type": "Manhwa",
+            "chapters": 86,
+            "volumes": 0,
+            "score": 7.16,
+            "startDate": "2023-09-15T00:00:00+00:00",
+            "endDate": "2025-06-27T00:00:00+00:00",
+            "members": 386
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 13856,
+            "url": "https://myanimelist.net/manga/13856/Fate_kaleid_liner_Prisma☆Illya_2wei",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/4/271565.jpg?s=fb89c9c9381d899181956a95dbe18380",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/4/271565t.jpg?s=fb89c9c9381d899181956a95dbe18380",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/4/271565l.jpg?s=fb89c9c9381d899181956a95dbe18380"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/4/271565.webp?s=fb89c9c9381d899181956a95dbe18380",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/4/271565t.webp?s=fb89c9c9381d899181956a95dbe18380",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/4/271565l.webp?s=fb89c9c9381d899181956a95dbe18380"
+                }
+            },
+            "title": "Fate/kaleid liner Prisma☆Illya 2wei!",
+            "publishing": false,
+            "synopsis": "Only a month has passed since she met the magical wand Ruby, but life goes on for the young Illyasviel von Einzbern, as she continues to balance the responsibilities of both a student and a magical gi...",
+            "type": "Manga",
+            "chapters": 31,
+            "volumes": 5,
+            "score": 7.36,
+            "startDate": "2009-04-26T00:00:00+00:00",
+            "endDate": "2012-03-26T00:00:00+00:00",
+            "members": 9416
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 108117,
+            "url": "https://myanimelist.net/manga/108117/Fate_Grand_Order__Turas_Réalta",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/205354.jpg?s=b3018db1b281ecfbbfaa23dbece9e72f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/205354t.jpg?s=b3018db1b281ecfbbfaa23dbece9e72f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/205354l.jpg?s=b3018db1b281ecfbbfaa23dbece9e72f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/205354.webp?s=b3018db1b281ecfbbfaa23dbece9e72f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/205354t.webp?s=b3018db1b281ecfbbfaa23dbece9e72f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/205354l.webp?s=b3018db1b281ecfbbfaa23dbece9e72f"
+                }
+            },
+            "title": "Fate/Grand Order: Turas Réalta",
+            "publishing": true,
+            "synopsis": "",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.37,
+            "startDate": "2017-08-09T00:00:00+00:00",
+            "endDate": null,
+            "members": 2648
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 183280,
+            "url": "https://myanimelist.net/manga/183280/Mark_of_Fate",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/328059.jpg?s=ed9d0199f1a82e4955f5e8f34a40c5c0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/328059t.jpg?s=ed9d0199f1a82e4955f5e8f34a40c5c0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/328059l.jpg?s=ed9d0199f1a82e4955f5e8f34a40c5c0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/328059.webp?s=ed9d0199f1a82e4955f5e8f34a40c5c0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/328059t.webp?s=ed9d0199f1a82e4955f5e8f34a40c5c0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/328059l.webp?s=ed9d0199f1a82e4955f5e8f34a40c5c0"
+                }
+            },
+            "title": "Mark of Fate",
+            "publishing": true,
+            "synopsis": "In a world that brands Espers as monsters, B-class Esper Seungwon keeps his head down, until a false accusation from a chaebol heir ruins him. Suspended from duty and desperate to support his family,...",
+            "type": "Manhwa",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2025-06-15T00:00:00+00:00",
+            "endDate": null,
+            "members": 64
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 85773,
+            "url": "https://myanimelist.net/manga/85773/Fate_stay_night__Garden_of_Avalon",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/298135.jpg?s=ecbb11e8f348ee6a8a7760979ea0bef9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/298135t.jpg?s=ecbb11e8f348ee6a8a7760979ea0bef9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/298135l.jpg?s=ecbb11e8f348ee6a8a7760979ea0bef9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/298135.webp?s=ecbb11e8f348ee6a8a7760979ea0bef9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/298135t.webp?s=ecbb11e8f348ee6a8a7760979ea0bef9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/298135l.webp?s=ecbb11e8f348ee6a8a7760979ea0bef9"
+                }
+            },
+            "title": "Fate/stay night: Garden of Avalon",
+            "publishing": false,
+            "synopsis": "Garden of Avalon retells the events of Arthurian legend through various characters.",
+            "type": "Light Novel",
+            "chapters": 7,
+            "volumes": 1,
+            "score": 8.15,
+            "startDate": "2015-03-25T00:00:00+00:00",
+            "endDate": "2015-03-25T00:00:00+00:00",
+            "members": 4875
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 19381,
+            "url": "https://myanimelist.net/manga/19381/Himuro_no_Tenchi_Fate_school_Life",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/313811.jpg?s=51b7483c8fa8e00c139e5535c8077d6a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/313811t.jpg?s=51b7483c8fa8e00c139e5535c8077d6a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/313811l.jpg?s=51b7483c8fa8e00c139e5535c8077d6a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/313811.webp?s=51b7483c8fa8e00c139e5535c8077d6a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/313811t.webp?s=51b7483c8fa8e00c139e5535c8077d6a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/313811l.webp?s=51b7483c8fa8e00c139e5535c8077d6a"
+                }
+            },
+            "title": "Himuro no Tenchi Fate/school Life",
+            "publishing": true,
+            "synopsis": "A comedy 4-koma manga revolving around the normal life at school of the minor characters of Fate/stay night and Fate/hollow ataraxia, specifically the character Himuro Kane, classmate of Fate/stay nig...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.51,
+            "startDate": "2006-11-25T00:00:00+00:00",
+            "endDate": null,
+            "members": 1138
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 143334,
+            "url": "https://myanimelist.net/manga/143334/Unmei_ja_Nakutemo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/254543.jpg?s=d838ed13792fd2beb2626cbc9565026f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/254543t.jpg?s=d838ed13792fd2beb2626cbc9565026f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/254543l.jpg?s=d838ed13792fd2beb2626cbc9565026f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/254543.webp?s=d838ed13792fd2beb2626cbc9565026f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/254543t.webp?s=d838ed13792fd2beb2626cbc9565026f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/254543l.webp?s=d838ed13792fd2beb2626cbc9565026f"
+                }
+            },
+            "title": "Unmei ja Nakutemo",
+            "publishing": false,
+            "synopsis": "1-3, 7. Unmei ja Nakutemo (Even If It's Not Fate) 4-6. Boutokuteki Encount (Profanity Encounter)",
+            "type": "Manga",
+            "chapters": 7,
+            "volumes": 1,
+            "score": 6.39,
+            "startDate": "2017-11-25T00:00:00+00:00",
+            "endDate": "2018-09-25T00:00:00+00:00",
+            "members": 291
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 117297,
+            "url": "https://myanimelist.net/manga/117297/Fate_Grand_Order__Chaldea_Scrap_-_Nakatani_Sakuhinshuu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/283070.jpg?s=b549ff192d5c73f6c34039b0921b2ca2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/283070t.jpg?s=b549ff192d5c73f6c34039b0921b2ca2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/283070l.jpg?s=b549ff192d5c73f6c34039b0921b2ca2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/283070.webp?s=b549ff192d5c73f6c34039b0921b2ca2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/283070t.webp?s=b549ff192d5c73f6c34039b0921b2ca2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/283070l.webp?s=b549ff192d5c73f6c34039b0921b2ca2"
+                }
+            },
+            "title": "Fate/Grand Order: Chaldea Scrap - Nakatani Sakuhinshuu",
+            "publishing": false,
+            "synopsis": "1. Sayonara Scrap 2. Artoria Kaigi 3. Mash no Tatakai 4. Madonna Lily no Inori 5. Asaki Yumemishi 6. Majutsushi no Kodomotachi 7. Master ni Tsugu 8. Toki wa Mijikashi Koiseyo Seihai 9. Sorekara",
+            "type": "Manga",
+            "chapters": 9,
+            "volumes": 1,
+            "score": 0.0,
+            "startDate": "2016-05-26T00:00:00+00:00",
+            "endDate": "2018-09-22T00:00:00+00:00",
+            "members": 219
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 160797,
+            "url": "https://myanimelist.net/manga/160797/Talent_Agent_and_the_Threads_of_Fate",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/285324.jpg?s=6155194e1430d075c089d5883c30a8b1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/285324t.jpg?s=6155194e1430d075c089d5883c30a8b1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/285324l.jpg?s=6155194e1430d075c089d5883c30a8b1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/285324.webp?s=6155194e1430d075c089d5883c30a8b1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/285324t.webp?s=6155194e1430d075c089d5883c30a8b1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/285324l.webp?s=6155194e1430d075c089d5883c30a8b1"
+                }
+            },
+            "title": "Talent Agent and the Threads of Fate",
+            "publishing": false,
+            "synopsis": "Ever since former screenwriter, Injoon Kim, was nearly taken to the underworld by mistake, he has been able to see Threads of Fate—white where fortune awaits, and black where misfortune looms. This ne...",
+            "type": "Manhwa",
+            "chapters": 137,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2021-10-14T00:00:00+00:00",
+            "endDate": "2024-03-21T00:00:00+00:00",
+            "members": 396
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 105395,
+            "url": "https://myanimelist.net/manga/105395/Higyaku_no_Noel",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/199408.jpg?s=6e82a950678a55ed287584f476a43040",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/199408t.jpg?s=6e82a950678a55ed287584f476a43040",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/199408l.jpg?s=6e82a950678a55ed287584f476a43040"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/199408.webp?s=6e82a950678a55ed287584f476a43040",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/199408t.webp?s=6e82a950678a55ed287584f476a43040",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/199408l.webp?s=6e82a950678a55ed287584f476a43040"
+                }
+            },
+            "title": "Higyaku no Noel",
+            "publishing": true,
+            "synopsis": "There is a girl who carries a lust for revenge in her eyes. Donned in a dark evening gown, with unnaturally pitch-black legs and lack of arms past her elbows, she makes a strange sight—even more so be...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.93,
+            "startDate": "2017-03-15T00:00:00+00:00",
+            "endDate": null,
+            "members": 1074
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 161995,
+            "url": "https://myanimelist.net/manga/161995/Between_Fate_and_Fortune",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/289076.jpg?s=e10d1f5b22452d442f6135993b9bd0b5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/289076t.jpg?s=e10d1f5b22452d442f6135993b9bd0b5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/289076l.jpg?s=e10d1f5b22452d442f6135993b9bd0b5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/289076.webp?s=e10d1f5b22452d442f6135993b9bd0b5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/289076t.webp?s=e10d1f5b22452d442f6135993b9bd0b5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/289076l.webp?s=e10d1f5b22452d442f6135993b9bd0b5"
+                }
+            },
+            "title": "Between Fate and Fortune",
+            "publishing": false,
+            "synopsis": "How many coincidences does it take for something to become fate? For Dojun Chae the only thing fate has ever brought him is bad luck and misfortune. As a result, he refuses to believe in such romantic...",
+            "type": "Manhwa",
+            "chapters": 90,
+            "volumes": 0,
+            "score": 7.22,
+            "startDate": "2022-09-22T00:00:00+00:00",
+            "endDate": "2025-08-14T00:00:00+00:00",
+            "members": 651
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 135220,
+            "url": "https://myanimelist.net/manga/135220/Fate_Ixtella",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/245046.jpg?s=fe6005e0277c84b6ed192ec015ddc7bc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/245046t.jpg?s=fe6005e0277c84b6ed192ec015ddc7bc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/245046l.jpg?s=fe6005e0277c84b6ed192ec015ddc7bc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/3/245046.webp?s=fe6005e0277c84b6ed192ec015ddc7bc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/3/245046t.webp?s=fe6005e0277c84b6ed192ec015ddc7bc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/3/245046l.webp?s=fe6005e0277c84b6ed192ec015ddc7bc"
+                }
+            },
+            "title": "Fate/Ixtella",
+            "publishing": false,
+            "synopsis": "A gag manga where Servants try to take care of their Masters who have become toddlers.",
+            "type": "Manga",
+            "chapters": 21,
+            "volumes": 0,
+            "score": 0.0,
+            "startDate": "2018-03-06T00:00:00+00:00",
+            "endDate": "2018-07-25T00:00:00+00:00",
+            "members": 295
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 121306,
+            "url": "https://myanimelist.net/manga/121306/Tsunaida_Koi_no_Kanaekata",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/227728.jpg?s=dc9598ad4512bc457491531246e7d99a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/227728t.jpg?s=dc9598ad4512bc457491531246e7d99a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/227728l.jpg?s=dc9598ad4512bc457491531246e7d99a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/227728.webp?s=dc9598ad4512bc457491531246e7d99a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/227728t.webp?s=dc9598ad4512bc457491531246e7d99a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/227728l.webp?s=dc9598ad4512bc457491531246e7d99a"
+                }
+            },
+            "title": "Tsunaida Koi no Kanaekata",
+            "publishing": false,
+            "synopsis": "Since birth, Kaoru Kamisawa has had the ability to see the \"threads that connect people,\" supernatural strings that represent relationships of romantic, platonic, and adversarial in nature. In additio...",
+            "type": "Manga",
+            "chapters": 7,
+            "volumes": 1,
+            "score": 7.65,
+            "startDate": "2019-05-31T00:00:00+00:00",
+            "endDate": "2019-11-30T00:00:00+00:00",
+            "members": 1801
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 132039,
+            "url": "https://myanimelist.net/manga/132039/Konna_no_Unmei_ja_Nai_kara_Kanchigai_shinaide",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/238687.jpg?s=1790fa79c27ca95fedee32fe7a5966d1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/238687t.jpg?s=1790fa79c27ca95fedee32fe7a5966d1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/238687l.jpg?s=1790fa79c27ca95fedee32fe7a5966d1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/238687.webp?s=1790fa79c27ca95fedee32fe7a5966d1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/238687t.webp?s=1790fa79c27ca95fedee32fe7a5966d1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/238687l.webp?s=1790fa79c27ca95fedee32fe7a5966d1"
+                }
+            },
+            "title": "Konna no Unmei ja Nai kara Kanchigai shinaide",
+            "publishing": false,
+            "synopsis": "Yuuzen, Kouetsu, and Ginga have been best friends since preschool, and they're at the top of the pecking order at a prestigious academy for only the most elite alphas. With their good looks, money, an...",
+            "type": "Manga",
+            "chapters": 12,
+            "volumes": 2,
+            "score": 6.89,
+            "startDate": "2018-07-13T00:00:00+00:00",
+            "endDate": "2019-10-11T00:00:00+00:00",
+            "members": 1107
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 117242,
+            "url": "https://myanimelist.net/manga/117242/Fate_Grand_Order__Epic_of_Remnant_-_Ashu_Tokuiten_IV_-_Kinki_Kourin_Teien_Salem_-_Itan_naru_Salem",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/226274.jpg?s=064ece8eba32be4448c7a9802d8bc21b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/226274t.jpg?s=064ece8eba32be4448c7a9802d8bc21b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/226274l.jpg?s=064ece8eba32be4448c7a9802d8bc21b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/2/226274.webp?s=064ece8eba32be4448c7a9802d8bc21b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/2/226274t.webp?s=064ece8eba32be4448c7a9802d8bc21b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/2/226274l.webp?s=064ece8eba32be4448c7a9802d8bc21b"
+                }
+            },
+            "title": "Fate/Grand Order: Epic of Remnant - Ashu Tokuiten IV - Kinki Kourin Teien Salem - Itan naru Salem",
+            "publishing": true,
+            "synopsis": "As a result of the efforts of the people of Chaldea, the human incineration plan of those who called themselves the Magic King was bitterly stopped at the water's edge, and the destiny of the world se...",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 7.12,
+            "startDate": "2019-01-26T00:00:00+00:00",
+            "endDate": null,
+            "members": 1259
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\MangaSearchListItem",
+            "malId": 102336,
+            "url": "https://myanimelist.net/manga/102336/Fate_mahjong_night_Seihai_Sensou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/185284.jpg?s=45c33ce800affcbae8af42eea27d4be4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/185284t.jpg?s=45c33ce800affcbae8af42eea27d4be4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/185284l.jpg?s=45c33ce800affcbae8af42eea27d4be4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/manga/1/185284.webp?s=45c33ce800affcbae8af42eea27d4be4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/manga/1/185284t.webp?s=45c33ce800affcbae8af42eea27d4be4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/manga/1/185284l.webp?s=45c33ce800affcbae8af42eea27d4be4"
+                }
+            },
+            "title": "Fate/mahjong night Seihai Sensou",
+            "publishing": true,
+            "synopsis": "",
+            "type": "Manga",
+            "chapters": 0,
+            "volumes": 0,
+            "score": 6.37,
+            "startDate": "2015-06-30T00:00:00+00:00",
+            "endDate": null,
+            "members": 900
+        }
+    ]
+}
