@@ -1,0 +1,1507 @@
+{
+    "@class": "Jikan\\Model\\Search\\AnimeSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 19,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 37999,
+            "url": "https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg?s=ea15a93e0d25bce3e6c15e2c3ddb66a1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1295/106551t.jpg?s=ea15a93e0d25bce3e6c15e2c3ddb66a1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1295/106551l.jpg?s=ea15a93e0d25bce3e6c15e2c3ddb66a1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/106551.webp?s=ea15a93e0d25bce3e6c15e2c3ddb66a1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1295/106551t.webp?s=ea15a93e0d25bce3e6c15e2c3ddb66a1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1295/106551l.webp?s=ea15a93e0d25bce3e6c15e2c3ddb66a1"
+                }
+            },
+            "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+            "airing": false,
+            "synopsis": "At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body's top representatives. Ranked the top student in the nation and respected by peers and mentors alike, Miyuk...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 8.4,
+            "startDate": "2019-01-12T00:00:00+00:00",
+            "endDate": "2019-03-30T00:00:00+00:00",
+            "members": 1906324,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 40591,
+            "url": "https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg?s=aab19d0f19e345e223dc26542ac3a28f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659t.jpg?s=aab19d0f19e345e223dc26542ac3a28f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659l.jpg?s=aab19d0f19e345e223dc26542ac3a28f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659.webp?s=aab19d0f19e345e223dc26542ac3a28f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659t.webp?s=aab19d0f19e345e223dc26542ac3a28f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1764/106659l.webp?s=aab19d0f19e345e223dc26542ac3a28f"
+                }
+            },
+            "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+            "airing": false,
+            "synopsis": "After a slow but eventful summer vacation, Shuchiin Academy's second term is now starting in full force. As August transitions into September, Miyuki Shirogane's birthday looms ever closer, leaving Ka...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 8.62,
+            "startDate": "2020-04-11T00:00:00+00:00",
+            "endDate": "2020-06-27T00:00:00+00:00",
+            "members": 1474831,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 16664,
+            "url": "https://myanimelist.net/anime/16664/Kaguya-hime_no_Monogatari",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1935/93606.jpg?s=7e060d91735177243610e0cffb1e182e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1935/93606t.jpg?s=7e060d91735177243610e0cffb1e182e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1935/93606l.jpg?s=7e060d91735177243610e0cffb1e182e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1935/93606.webp?s=7e060d91735177243610e0cffb1e182e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1935/93606t.webp?s=7e060d91735177243610e0cffb1e182e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1935/93606l.webp?s=7e060d91735177243610e0cffb1e182e"
+                }
+            },
+            "title": "Kaguya-hime no Monogatari",
+            "airing": false,
+            "synopsis": "Deep in the countryside, a man named Okina works as a bamboo cutter in a forest, chopping away at the hollow plants day after day. One day, he discovers a small baby inside a glowing shoot. He immedia...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 8.21,
+            "startDate": "2013-11-23T00:00:00+00:00",
+            "endDate": "2013-11-23T00:00:00+00:00",
+            "members": 256697,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 43609,
+            "url": "https://myanimelist.net/anime/43609/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen_OVA",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1027/115055.jpg?s=6bf345e4a450f2dc8a401887a65be628",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1027/115055t.jpg?s=6bf345e4a450f2dc8a401887a65be628",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1027/115055l.jpg?s=6bf345e4a450f2dc8a401887a65be628"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1027/115055.webp?s=6bf345e4a450f2dc8a401887a65be628",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1027/115055t.webp?s=6bf345e4a450f2dc8a401887a65be628",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1027/115055l.webp?s=6bf345e4a450f2dc8a401887a65be628"
+                }
+            },
+            "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA",
+            "airing": false,
+            "synopsis": "What do Shuchiin Academy's model students do outside of their student council duties? After a visit to the swimming pool, Kaguya Shinomiya and Chika Fujiwara take to the showers to wash themselves off...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 7.58,
+            "startDate": "2021-05-19T00:00:00+00:00",
+            "endDate": "2021-05-19T00:00:00+00:00",
+            "members": 257220,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 44270,
+            "url": "https://myanimelist.net/anime/44270/He_Wei_Dao_x_Hui_Yeda_Xiaojie_Xiangyao_Wo_Gaobai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1513/110504.jpg?s=73bd87dd15c1e13b5239a269ab876456",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1513/110504t.jpg?s=73bd87dd15c1e13b5239a269ab876456",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1513/110504l.jpg?s=73bd87dd15c1e13b5239a269ab876456"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1513/110504.webp?s=73bd87dd15c1e13b5239a269ab876456",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1513/110504t.webp?s=73bd87dd15c1e13b5239a269ab876456",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1513/110504l.webp?s=73bd87dd15c1e13b5239a269ab876456"
+                }
+            },
+            "title": "He Wei Dao x Hui Yeda Xiaojie Xiangyao Wo Gaobai",
+            "airing": false,
+            "synopsis": "Cup noodle ads featuring Kaguya-sama's characters.",
+            "type": "CM",
+            "episodes": 2,
+            "score": 6.95,
+            "startDate": "2020-10-18T00:00:00+00:00",
+            "endDate": "2020-10-29T00:00:00+00:00",
+            "members": 15112,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 43608,
+            "url": "https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg?s=9b41450e9598d10c97fb4eeb7cca3737",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627t.jpg?s=9b41450e9598d10c97fb4eeb7cca3737",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg?s=9b41450e9598d10c97fb4eeb7cca3737"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627.webp?s=9b41450e9598d10c97fb4eeb7cca3737",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627t.webp?s=9b41450e9598d10c97fb4eeb7cca3737",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp?s=9b41450e9598d10c97fb4eeb7cca3737"
+                }
+            },
+            "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "airing": false,
+            "synopsis": "The elite members of Shuchiin Academy's student council continue their competitive day-to-day antics. Council president Miyuki Shirogane clashes daily against vice-president Kaguya Shinomiya, each fig...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.96,
+            "startDate": "2022-04-09T00:00:00+00:00",
+            "endDate": "2022-06-25T00:00:00+00:00",
+            "members": 1082827,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 62896,
+            "url": "https://myanimelist.net/anime/62896/Chou_Kaguya-hime",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1544/154878.jpg?s=c6b82c5e16499f194ccfe0641a1543e8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1544/154878t.jpg?s=c6b82c5e16499f194ccfe0641a1543e8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1544/154878l.jpg?s=c6b82c5e16499f194ccfe0641a1543e8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1544/154878.webp?s=c6b82c5e16499f194ccfe0641a1543e8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1544/154878t.webp?s=c6b82c5e16499f194ccfe0641a1543e8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1544/154878l.webp?s=c6b82c5e16499f194ccfe0641a1543e8"
+                }
+            },
+            "title": "Chou Kaguya-hime!",
+            "airing": false,
+            "synopsis": "Tsukuyomi is a virtual realm where hopes and dreams come together. Iroha Sakayori, a 17-year-old high school student in Tokyo, leads an extremely busy life trying to balance part-time work and academi...",
+            "type": "ONA",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "2026-01-22T00:00:00+00:00",
+            "endDate": "2026-01-22T00:00:00+00:00",
+            "members": 13195,
+            "rated": null
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 63212,
+            "url": "https://myanimelist.net/anime/63212/Kaguya-sama_wa_Kokurasetai_Movie",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761.jpg?s=92f811ff557877f0c1e0c140941bea15",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761t.jpg?s=92f811ff557877f0c1e0c140941bea15",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg?s=92f811ff557877f0c1e0c140941bea15"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761.webp?s=92f811ff557877f0c1e0c140941bea15",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761t.webp?s=92f811ff557877f0c1e0c140941bea15",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761l.webp?s=92f811ff557877f0c1e0c140941bea15"
+                }
+            },
+            "title": "Kaguya-sama wa Kokurasetai Movie",
+            "airing": false,
+            "synopsis": "The final chapters of Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen as a completely new theatrical movie based on an original story written by the original creator.",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": null,
+            "endDate": null,
+            "members": 25936,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 52198,
+            "url": "https://myanimelist.net/anime/52198/Kaguya-sama_wa_Kokurasetai__First_Kiss_wa_Owaranai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060.jpg?s=d6b458f3a59a4c5ae4a2ee526feb690f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060t.jpg?s=d6b458f3a59a4c5ae4a2ee526feb690f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060l.jpg?s=d6b458f3a59a4c5ae4a2ee526feb690f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060.webp?s=d6b458f3a59a4c5ae4a2ee526feb690f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060t.webp?s=d6b458f3a59a4c5ae4a2ee526feb690f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp?s=d6b458f3a59a4c5ae4a2ee526feb690f"
+                }
+            },
+            "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "airing": false,
+            "synopsis": "After their first kiss, Kaguya Shinomiya and Miyuki Shirogane are left unsure where their relationship stands. The troubling uncertainty of whether they could be considered an official couple unleashe...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 8.72,
+            "startDate": "2022-12-17T00:00:00+00:00",
+            "endDate": "2022-12-17T00:00:00+00:00",
+            "members": 363162,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 29927,
+            "url": "https://myanimelist.net/anime/29927/Kaguya-hime_1961",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1651/112762.jpg?s=8bdc82880fc71c2a6b162103275e1801",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1651/112762t.jpg?s=8bdc82880fc71c2a6b162103275e1801",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1651/112762l.jpg?s=8bdc82880fc71c2a6b162103275e1801"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1651/112762.webp?s=8bdc82880fc71c2a6b162103275e1801",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1651/112762t.webp?s=8bdc82880fc71c2a6b162103275e1801",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1651/112762l.webp?s=8bdc82880fc71c2a6b162103275e1801"
+                }
+            },
+            "title": "Kaguya-hime (1961)",
+            "airing": false,
+            "synopsis": "A short puppet animation movie by Kazuhiko Watanabe.",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.54,
+            "startDate": "1961-01-01T00:00:00+00:00",
+            "endDate": "1961-01-01T00:00:00+00:00",
+            "members": 2462,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 61903,
+            "url": "https://myanimelist.net/anime/61903/Kaguya-sama_wa_Kokurasetai__Otona_e_no_Kaidan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/150697.jpg?s=612cee439d2d976d6eeae473da1ae61d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1112/150697t.jpg?s=612cee439d2d976d6eeae473da1ae61d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1112/150697l.jpg?s=612cee439d2d976d6eeae473da1ae61d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1112/150697.webp?s=612cee439d2d976d6eeae473da1ae61d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1112/150697t.webp?s=612cee439d2d976d6eeae473da1ae61d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1112/150697l.webp?s=612cee439d2d976d6eeae473da1ae61d"
+                }
+            },
+            "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "airing": false,
+            "synopsis": "TV special for Kaguya-sama wa Kokurasetai.",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 8.58,
+            "startDate": "2025-12-31T00:00:00+00:00",
+            "endDate": "2025-12-31T00:00:00+00:00",
+            "members": 78145,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 50325,
+            "url": "https://myanimelist.net/anime/50325/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic_Teaser_PV_-_Ishigami_Yuu_wa_Kataritai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1265/119435.jpg?s=88c11eafe4e3b3bbc07350852cb44320",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1265/119435t.jpg?s=88c11eafe4e3b3bbc07350852cb44320",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1265/119435l.jpg?s=88c11eafe4e3b3bbc07350852cb44320"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1265/119435.webp?s=88c11eafe4e3b3bbc07350852cb44320",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1265/119435t.webp?s=88c11eafe4e3b3bbc07350852cb44320",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1265/119435l.webp?s=88c11eafe4e3b3bbc07350852cb44320"
+                }
+            },
+            "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai",
+            "airing": false,
+            "synopsis": "Every Thursday, Shuchiin Academy student council secretary Yuu Ishigami can be found in a state of anxiety. He counts down the hours until he can escape to the student council chamber to read the late...",
+            "type": "PV",
+            "episodes": 1,
+            "score": 8.13,
+            "startDate": "2021-10-21T00:00:00+00:00",
+            "endDate": "2021-10-21T00:00:00+00:00",
+            "members": 62748,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 22497,
+            "url": "https://myanimelist.net/anime/22497/Hello_Kitty_no_Kaguya-hime",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1744/108568.jpg?s=b9ea1974410c00a177eb4e7336ad3230",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1744/108568t.jpg?s=b9ea1974410c00a177eb4e7336ad3230",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1744/108568l.jpg?s=b9ea1974410c00a177eb4e7336ad3230"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1744/108568.webp?s=b9ea1974410c00a177eb4e7336ad3230",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1744/108568t.webp?s=b9ea1974410c00a177eb4e7336ad3230",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1744/108568l.webp?s=b9ea1974410c00a177eb4e7336ad3230"
+                }
+            },
+            "title": "Hello Kitty no Kaguya-hime",
+            "airing": false,
+            "synopsis": "Kitty and friends recreate the story of The Tale of the Bamboo Cutter.",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 5.67,
+            "startDate": "1993-09-21T00:00:00+00:00",
+            "endDate": "1993-09-21T00:00:00+00:00",
+            "members": 1167,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 997,
+            "url": "https://myanimelist.net/anime/997/Bishoujo_Senshi_Sailor_Moon_S__Kaguya-hime_no_Koibito",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/98566.jpg?s=6a0a7146089bc7c5bab36fdd2e326cac",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1601/98566t.jpg?s=6a0a7146089bc7c5bab36fdd2e326cac",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1601/98566l.jpg?s=6a0a7146089bc7c5bab36fdd2e326cac"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/98566.webp?s=6a0a7146089bc7c5bab36fdd2e326cac",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1601/98566t.webp?s=6a0a7146089bc7c5bab36fdd2e326cac",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1601/98566l.webp?s=6a0a7146089bc7c5bab36fdd2e326cac"
+                }
+            },
+            "title": "Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito",
+            "airing": false,
+            "synopsis": "An unusual snow storm hits Tokyo and the Sailor Senshi discover that an evil snow queen Kaguya, wants to freeze the entire earth. It's up to the Inner Sailor Senshi along with the Outers, to defeat th...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.69,
+            "startDate": "1994-12-04T00:00:00+00:00",
+            "endDate": "1994-12-04T00:00:00+00:00",
+            "members": 57978,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 59930,
+            "url": "https://myanimelist.net/anime/59930/Kaguya-hime",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/145720.jpg?s=b15424de7062196aa45ad2f931619a37",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1881/145720t.jpg?s=b15424de7062196aa45ad2f931619a37",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1881/145720l.jpg?s=b15424de7062196aa45ad2f931619a37"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1881/145720.webp?s=b15424de7062196aa45ad2f931619a37",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1881/145720t.webp?s=b15424de7062196aa45ad2f931619a37",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1881/145720l.webp?s=b15424de7062196aa45ad2f931619a37"
+                }
+            },
+            "title": "Kaguya-hime",
+            "airing": false,
+            "synopsis": "A silhouette animation version of Princess Kaguya, also known as The Tale of the Bamboo Cutter, a 10th century folk tale.",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "1942-02-24T00:00:00+00:00",
+            "endDate": "1942-02-24T00:00:00+00:00",
+            "members": 254,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 62580,
+            "url": "https://myanimelist.net/anime/62580/Shin_Samurai-den_Yaiba__Kaguya-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1913/152261.jpg?s=21e49e0ba9ac168d0428b789476a29c2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1913/152261t.jpg?s=21e49e0ba9ac168d0428b789476a29c2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1913/152261l.jpg?s=21e49e0ba9ac168d0428b789476a29c2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1913/152261.webp?s=21e49e0ba9ac168d0428b789476a29c2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1913/152261t.webp?s=21e49e0ba9ac168d0428b789476a29c2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1913/152261l.webp?s=21e49e0ba9ac168d0428b789476a29c2"
+                }
+            },
+            "title": "Shin Samurai-den Yaiba: Kaguya-hen",
+            "airing": false,
+            "synopsis": "Second season of Shin Samurai-den Yaiba.",
+            "type": "TV",
+            "episodes": 0,
+            "score": 0.0,
+            "startDate": null,
+            "endDate": null,
+            "members": 3968,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 59925,
+            "url": "https://myanimelist.net/anime/59925/Kaguya-hime_1972",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1586/145711.jpg?s=e792bc959aadd130af3157b811a353de",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1586/145711t.jpg?s=e792bc959aadd130af3157b811a353de",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1586/145711l.jpg?s=e792bc959aadd130af3157b811a353de"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1586/145711.webp?s=e792bc959aadd130af3157b811a353de",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1586/145711t.webp?s=e792bc959aadd130af3157b811a353de",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1586/145711l.webp?s=e792bc959aadd130af3157b811a353de"
+                }
+            },
+            "title": "Kaguya-hime (1972)",
+            "airing": false,
+            "synopsis": "A short puppet animation version of Princess Kaguya, also known as The Tale of the Bamboo Cutter, a 10th century folk tale.",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "1972-01-01T00:00:00+00:00",
+            "endDate": "1972-01-01T00:00:00+00:00",
+            "members": 160,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 42501,
+            "url": "https://myanimelist.net/anime/42501/Hello_Kitty_no_Kaguya-hime_2001",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1981/108569.jpg?s=05fe524cf6368920903d50ccc7f85e19",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1981/108569t.jpg?s=05fe524cf6368920903d50ccc7f85e19",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1981/108569l.jpg?s=05fe524cf6368920903d50ccc7f85e19"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1981/108569.webp?s=05fe524cf6368920903d50ccc7f85e19",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1981/108569t.webp?s=05fe524cf6368920903d50ccc7f85e19",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1981/108569l.webp?s=05fe524cf6368920903d50ccc7f85e19"
+                }
+            },
+            "title": "Hello Kitty no Kaguya-hime (2001)",
+            "airing": false,
+            "synopsis": "Kitty and friends recreate the story of The Tale of the Bamboo Cutter.",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 5.66,
+            "startDate": "2001-08-24T00:00:00+00:00",
+            "endDate": "2001-08-24T00:00:00+00:00",
+            "members": 657,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 14471,
+            "url": "https://myanimelist.net/anime/14471/Kaguya-hime__Taketori_Monogatari",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/39527.jpg?s=2ce680cfa84adf2738e421f38b78dc59",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/39527t.jpg?s=2ce680cfa84adf2738e421f38b78dc59",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/39527l.jpg?s=2ce680cfa84adf2738e421f38b78dc59"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/39527.webp?s=2ce680cfa84adf2738e421f38b78dc59",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/39527t.webp?s=2ce680cfa84adf2738e421f38b78dc59",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/39527l.webp?s=2ce680cfa84adf2738e421f38b78dc59"
+                }
+            },
+            "title": "Kaguya-hime: Taketori Monogatari",
+            "airing": false,
+            "synopsis": "An erotic version of the classical Japanese folktale \"The Tale of the Bamboo Cutter\", produced by Tokyo Studio.",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 4.55,
+            "startDate": "1987-09-21T00:00:00+00:00",
+            "endDate": "1987-09-21T00:00:00+00:00",
+            "members": 1529,
+            "rated": "Rx"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 35098,
+            "url": "https://myanimelist.net/anime/35098/San_Tarou_to_Kaguya-hime_no_Koutsuu_Anzen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/84691.jpg?s=2feebca15f288de2b33322137ab5c75d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/84691t.jpg?s=2feebca15f288de2b33322137ab5c75d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/84691l.jpg?s=2feebca15f288de2b33322137ab5c75d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/84691.webp?s=2feebca15f288de2b33322137ab5c75d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/84691t.webp?s=2feebca15f288de2b33322137ab5c75d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/84691l.webp?s=2feebca15f288de2b33322137ab5c75d"
+                }
+            },
+            "title": "San Tarou to Kaguya-hime no Koutsuu Anzen",
+            "airing": false,
+            "synopsis": "A traffic safety anime featuring 3 Tarous (Tarou Urashima, Momotarou, Kintarou) and Kaguya-hime.",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": null,
+            "endDate": null,
+            "members": 222,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 15119,
+            "url": "https://myanimelist.net/anime/15119/Senran_Kagura",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/45640.jpg?s=1deb64a9f25f91f75d6cc158fc9444c4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/45640t.jpg?s=1deb64a9f25f91f75d6cc158fc9444c4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/45640l.jpg?s=1deb64a9f25f91f75d6cc158fc9444c4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/45640.webp?s=1deb64a9f25f91f75d6cc158fc9444c4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/45640t.webp?s=1deb64a9f25f91f75d6cc158fc9444c4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/45640l.webp?s=1deb64a9f25f91f75d6cc158fc9444c4"
+                }
+            },
+            "title": "Senran Kagura",
+            "airing": false,
+            "synopsis": "At the renowned Hanzo Academy, a select group of students trains in secret to become ninjas of an elite clan known as the Shinobi Masters. Following her grandfather's footsteps, the hopeful Asuka unde...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.27,
+            "startDate": "2013-01-06T00:00:00+00:00",
+            "endDate": "2013-03-24T00:00:00+00:00",
+            "members": 145107,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36037,
+            "url": "https://myanimelist.net/anime/36037/Senran_Kagura_Shinovi_Master__Tokyo_Youma-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1022/124269.jpg?s=5470c2bb3a31f7e48b4626deb87e3d20",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1022/124269t.jpg?s=5470c2bb3a31f7e48b4626deb87e3d20",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1022/124269l.jpg?s=5470c2bb3a31f7e48b4626deb87e3d20"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1022/124269.webp?s=5470c2bb3a31f7e48b4626deb87e3d20",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1022/124269t.webp?s=5470c2bb3a31f7e48b4626deb87e3d20",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1022/124269l.webp?s=5470c2bb3a31f7e48b4626deb87e3d20"
+                }
+            },
+            "title": "Senran Kagura Shinovi Master: Tokyo Youma-hen",
+            "airing": false,
+            "synopsis": "Girls study at schools for modern shinobi. They dedicate their entire young lives to learning to become true shinobi, battling each other to polish their skills. And then one day, Asuka, whose grandfa...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.32,
+            "startDate": "2018-10-13T00:00:00+00:00",
+            "endDate": "2018-12-29T00:00:00+00:00",
+            "members": 49572,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 28817,
+            "url": "https://myanimelist.net/anime/28817/Mikagura_Gakuen_Kumikyoku_TV",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/73590.jpg?s=615013d4bad01a44b5a5c8990e9b2669",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/73590t.jpg?s=615013d4bad01a44b5a5c8990e9b2669",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/73590l.jpg?s=615013d4bad01a44b5a5c8990e9b2669"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/73590.webp?s=615013d4bad01a44b5a5c8990e9b2669",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/73590t.webp?s=615013d4bad01a44b5a5c8990e9b2669",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/73590l.webp?s=615013d4bad01a44b5a5c8990e9b2669"
+                }
+            },
+            "title": "Mikagura Gakuen Kumikyoku (TV)",
+            "airing": false,
+            "synopsis": "To be around cute girls wearing cute clothing is all Eruna Ichinomiya desires. Since Mikagura High School happens to have the cutest uniforms around, she decides to enroll in this prestigious high sch...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.67,
+            "startDate": "2015-04-07T00:00:00+00:00",
+            "endDate": "2015-06-23T00:00:00+00:00",
+            "members": 93601,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 30924,
+            "url": "https://myanimelist.net/anime/30924/Mikagura_Gakuen_Kumikyoku",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/74422.jpg?s=e8ec660ab81ffc3e0f20e4faf2a7ba1f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/74422t.jpg?s=e8ec660ab81ffc3e0f20e4faf2a7ba1f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/74422l.jpg?s=e8ec660ab81ffc3e0f20e4faf2a7ba1f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/74422.webp?s=e8ec660ab81ffc3e0f20e4faf2a7ba1f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/74422t.webp?s=e8ec660ab81ffc3e0f20e4faf2a7ba1f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/74422l.webp?s=e8ec660ab81ffc3e0f20e4faf2a7ba1f"
+                }
+            },
+            "title": "Mikagura Gakuen Kumikyoku",
+            "airing": false,
+            "synopsis": "As a new student, Eruna Ichinomiya meets various strangers, learns about their clubs, and helps them with their problems. Houkago Stride Eruna was hardly prepared to go to her new school, but that's n...",
+            "type": "Music",
+            "episodes": 5,
+            "score": 6.62,
+            "startDate": "2015-02-25T00:00:00+00:00",
+            "endDate": "2015-02-25T00:00:00+00:00",
+            "members": 3597,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 45753,
+            "url": "https://myanimelist.net/anime/45753/Tensei_shitara_Slime_Datta_Ken__Kanwa_-_Hinata_Sakaguchi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1670/111154.jpg?s=5ee70b6cdf99854cb689a32fb702ebde",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1670/111154t.jpg?s=5ee70b6cdf99854cb689a32fb702ebde",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1670/111154l.jpg?s=5ee70b6cdf99854cb689a32fb702ebde"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1670/111154.webp?s=5ee70b6cdf99854cb689a32fb702ebde",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1670/111154t.webp?s=5ee70b6cdf99854cb689a32fb702ebde",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1670/111154l.webp?s=5ee70b6cdf99854cb689a32fb702ebde"
+                }
+            },
+            "title": "Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi",
+            "airing": false,
+            "synopsis": "A summary of season one of Tensei shitara Slime Datta Ken with some extra content leading into season two.",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 6.81,
+            "startDate": "2021-01-05T00:00:00+00:00",
+            "endDate": "2021-01-05T00:00:00+00:00",
+            "members": 71548,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 32682,
+            "url": "https://myanimelist.net/anime/32682/Kagewani__Shou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/78601.jpg?s=1f4b9dc59df6de8e0eb5dd225f608e74",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/78601t.jpg?s=1f4b9dc59df6de8e0eb5dd225f608e74",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/78601l.jpg?s=1f4b9dc59df6de8e0eb5dd225f608e74"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/78601.webp?s=1f4b9dc59df6de8e0eb5dd225f608e74",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/78601t.webp?s=1f4b9dc59df6de8e0eb5dd225f608e74",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/78601l.webp?s=1f4b9dc59df6de8e0eb5dd225f608e74"
+                }
+            },
+            "title": "Kagewani: Shou",
+            "airing": false,
+            "synopsis": "After surviving the onslaught at Sarugaku headquarters, Sousuke Banba resumes his investigation of the Kagewani monster hybrids. Armed with the ability to harness the Kagewani's power, the researcher...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 6.41,
+            "startDate": "2016-04-01T00:00:00+00:00",
+            "endDate": "2016-06-24T00:00:00+00:00",
+            "members": 19924,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 958,
+            "url": "https://myanimelist.net/anime/958/Heat_Guy_J",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/76288.jpg?s=b23716d2cb71046583eba3dcb2d91dcc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/76288t.jpg?s=b23716d2cb71046583eba3dcb2d91dcc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/76288l.jpg?s=b23716d2cb71046583eba3dcb2d91dcc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/76288.webp?s=b23716d2cb71046583eba3dcb2d91dcc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/76288t.webp?s=b23716d2cb71046583eba3dcb2d91dcc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/76288l.webp?s=b23716d2cb71046583eba3dcb2d91dcc"
+                }
+            },
+            "title": "Heat Guy J",
+            "airing": false,
+            "synopsis": "In the city of Judoh, Claire Leonelli has inherited leadership of the Mafia group \"Vampire\" following the death of his father. To keep Claire's and other criminal activities in check, the city's Burea...",
+            "type": "TV",
+            "episodes": 25,
+            "score": 7.11,
+            "startDate": "2002-10-02T00:00:00+00:00",
+            "endDate": "2003-03-26T00:00:00+00:00",
+            "members": 21008,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 658,
+            "url": "https://myanimelist.net/anime/658/Touhai_Densetsu_Akagi__Yami_ni_Maiorita_Tensai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/53587.jpg?s=32ffd00d43d051fad8577c3d9be9a430",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/53587t.jpg?s=32ffd00d43d051fad8577c3d9be9a430",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/53587l.jpg?s=32ffd00d43d051fad8577c3d9be9a430"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/53587.webp?s=32ffd00d43d051fad8577c3d9be9a430",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/53587t.webp?s=32ffd00d43d051fad8577c3d9be9a430",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/53587l.webp?s=32ffd00d43d051fad8577c3d9be9a430"
+                }
+            },
+            "title": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+            "airing": false,
+            "synopsis": "While mahjong is a game that is often played with family and friends, it is also a game that is played in the darkest corners of society. Nangou is a compulsive gambler who has accumulated debt over t...",
+            "type": "TV",
+            "episodes": 26,
+            "score": 7.92,
+            "startDate": "2005-10-05T00:00:00+00:00",
+            "endDate": "2006-03-29T00:00:00+00:00",
+            "members": 112847,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38395,
+            "url": "https://myanimelist.net/anime/38395/Otona_no_Bouguya-san",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1590/111713.jpg?s=a5342133a5c1747a695cb6c4403a0839",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1590/111713t.jpg?s=a5342133a5c1747a695cb6c4403a0839",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1590/111713l.jpg?s=a5342133a5c1747a695cb6c4403a0839"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1590/111713.webp?s=a5342133a5c1747a695cb6c4403a0839",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1590/111713t.webp?s=a5342133a5c1747a695cb6c4403a0839",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1590/111713l.webp?s=a5342133a5c1747a695cb6c4403a0839"
+                }
+            },
+            "title": "Otona no Bouguya-san",
+            "airing": false,
+            "synopsis": "Kautz was looking for a job and suddenly he gets hired by an armor shop. But it's not your run of the mill armor shop, it's an adult armor shop. An ecchi comedy showing the shopkeeper side of selling...",
+            "type": "ONA",
+            "episodes": 12,
+            "score": 5.58,
+            "startDate": "2018-10-09T00:00:00+00:00",
+            "endDate": "2018-12-25T00:00:00+00:00",
+            "members": 45899,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 42862,
+            "url": "https://myanimelist.net/anime/42862/Otona_no_Bouguya-san_II",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/111426.jpg?s=48be88e10a194a7d8dc204a89e66d0bb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1738/111426t.jpg?s=48be88e10a194a7d8dc204a89e66d0bb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1738/111426l.jpg?s=48be88e10a194a7d8dc204a89e66d0bb"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1738/111426.webp?s=48be88e10a194a7d8dc204a89e66d0bb",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1738/111426t.webp?s=48be88e10a194a7d8dc204a89e66d0bb",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1738/111426l.webp?s=48be88e10a194a7d8dc204a89e66d0bb"
+                }
+            },
+            "title": "Otona no Bouguya-san II",
+            "airing": false,
+            "synopsis": "Second season of Otona no Bouguya-san.",
+            "type": "ONA",
+            "episodes": 12,
+            "score": 5.48,
+            "startDate": "2021-01-02T00:00:00+00:00",
+            "endDate": "2021-03-20T00:00:00+00:00",
+            "members": 15537,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 249,
+            "url": "https://myanimelist.net/anime/249/InuYasha",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg?s=8254094634e2145d86d63438c0ab9205",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1589/95329t.jpg?s=8254094634e2145d86d63438c0ab9205",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1589/95329l.jpg?s=8254094634e2145d86d63438c0ab9205"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/95329.webp?s=8254094634e2145d86d63438c0ab9205",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1589/95329t.webp?s=8254094634e2145d86d63438c0ab9205",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1589/95329l.webp?s=8254094634e2145d86d63438c0ab9205"
+                }
+            },
+            "title": "InuYasha",
+            "airing": false,
+            "synopsis": "Kagome Higurashi's 15th birthday takes a sudden turn when she is forcefully pulled by a demon into the old well of her family's shrine. Brought to the past, when demons were a common sight in feudal J...",
+            "type": "TV",
+            "episodes": 167,
+            "score": 7.87,
+            "startDate": "2000-10-16T00:00:00+00:00",
+            "endDate": "2004-09-13T00:00:00+00:00",
+            "members": 851410,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 39325,
+            "url": "https://myanimelist.net/anime/39325/Otona_no_Bouguya-san_Rimen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1191/99230.jpg?s=606652c02c30173242eded7ac9565f44",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1191/99230t.jpg?s=606652c02c30173242eded7ac9565f44",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1191/99230l.jpg?s=606652c02c30173242eded7ac9565f44"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1191/99230.webp?s=606652c02c30173242eded7ac9565f44",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1191/99230t.webp?s=606652c02c30173242eded7ac9565f44",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1191/99230l.webp?s=606652c02c30173242eded7ac9565f44"
+                }
+            },
+            "title": "Otona no Bouguya-san (Rimen)",
+            "airing": false,
+            "synopsis": "",
+            "type": "ONA",
+            "episodes": 3,
+            "score": 5.42,
+            "startDate": "2019-03-06T00:00:00+00:00",
+            "endDate": "2019-03-20T00:00:00+00:00",
+            "members": 10178,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 40711,
+            "url": "https://myanimelist.net/anime/40711/Gantz_x_Senran_Kagura_New_Link",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1628/104353.jpg?s=12be8478b03cc7745d50884e17eefb82",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1628/104353t.jpg?s=12be8478b03cc7745d50884e17eefb82",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1628/104353l.jpg?s=12be8478b03cc7745d50884e17eefb82"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1628/104353.webp?s=12be8478b03cc7745d50884e17eefb82",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1628/104353t.webp?s=12be8478b03cc7745d50884e17eefb82",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1628/104353l.webp?s=12be8478b03cc7745d50884e17eefb82"
+                }
+            },
+            "title": "Gantz x Senran Kagura New Link",
+            "airing": false,
+            "synopsis": "Short animated PV featuring Ikaruga, Hikage, Ryouki, Ryouna, and Ryoubi from Senran Kagura performing the radio calisthenics song in the Gantz summoning room wearing the suits seen in the Gantz anime.",
+            "type": "PV",
+            "episodes": 1,
+            "score": 5.35,
+            "startDate": "2019-11-13T00:00:00+00:00",
+            "endDate": "2019-11-13T00:00:00+00:00",
+            "members": 5621,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 35062,
+            "url": "https://myanimelist.net/anime/35062/Mahoutsukai_no_Yome",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/88476.jpg?s=0dcaf8e0720f4a54712da5423b63bd1e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/88476t.jpg?s=0dcaf8e0720f4a54712da5423b63bd1e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/88476l.jpg?s=0dcaf8e0720f4a54712da5423b63bd1e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/88476.webp?s=0dcaf8e0720f4a54712da5423b63bd1e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/88476t.webp?s=0dcaf8e0720f4a54712da5423b63bd1e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/88476l.webp?s=0dcaf8e0720f4a54712da5423b63bd1e"
+                }
+            },
+            "title": "Mahoutsukai no Yome",
+            "airing": false,
+            "synopsis": "Chise Hatori, a 15-year-old Japanese girl, was sold for five million pounds at an auction to a tall masked gentleman. Abandoned at a young age and ridiculed by her peers for her unconventional behavio...",
+            "type": "TV",
+            "episodes": 24,
+            "score": 8.05,
+            "startDate": "2017-10-08T00:00:00+00:00",
+            "endDate": "2018-03-25T00:00:00+00:00",
+            "members": 1005847,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 17345,
+            "url": "https://myanimelist.net/anime/17345/Senran_Kagura_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/67249.jpg?s=b0aaa547d0f93510a1fb18735aa13dbd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/67249t.jpg?s=b0aaa547d0f93510a1fb18735aa13dbd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/67249l.jpg?s=b0aaa547d0f93510a1fb18735aa13dbd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/67249.webp?s=b0aaa547d0f93510a1fb18735aa13dbd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/67249t.webp?s=b0aaa547d0f93510a1fb18735aa13dbd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/67249l.webp?s=b0aaa547d0f93510a1fb18735aa13dbd"
+                }
+            },
+            "title": "Senran Kagura Specials",
+            "airing": false,
+            "synopsis": "Special, unaired, episodes released with the Senran Kagura BD/DVDs.",
+            "type": "Special",
+            "episodes": 6,
+            "score": 6.42,
+            "startDate": "2013-03-27T00:00:00+00:00",
+            "endDate": "2013-08-28T00:00:00+00:00",
+            "members": 19420,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 30524,
+            "url": "https://myanimelist.net/anime/30524/Kagewani",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/76060.jpg?s=fb26b10540c5f183042a56d9c49a72ca",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/76060t.jpg?s=fb26b10540c5f183042a56d9c49a72ca",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/76060l.jpg?s=fb26b10540c5f183042a56d9c49a72ca"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/76060.webp?s=fb26b10540c5f183042a56d9c49a72ca",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/76060t.webp?s=fb26b10540c5f183042a56d9c49a72ca",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/76060l.webp?s=fb26b10540c5f183042a56d9c49a72ca"
+                }
+            },
+            "title": "Kagewani",
+            "airing": false,
+            "synopsis": "A video blogger attempts to fake cryptid sightings to boost his views, but gets more than he bargained for when his crew is slaughtered by a real monster. Elsewhere, students find themselves preyed up...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 6.38,
+            "startDate": "2015-10-02T00:00:00+00:00",
+            "endDate": "2015-12-25T00:00:00+00:00",
+            "members": 34279,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 28685,
+            "url": "https://myanimelist.net/anime/28685/Tough_Guy",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/87749.jpg?s=01d0a183f3f841b1557d536dbb0f0e9a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/87749t.jpg?s=01d0a183f3f841b1557d536dbb0f0e9a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/87749l.jpg?s=01d0a183f3f841b1557d536dbb0f0e9a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/87749.webp?s=01d0a183f3f841b1557d536dbb0f0e9a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/87749t.webp?s=01d0a183f3f841b1557d536dbb0f0e9a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/87749l.webp?s=01d0a183f3f841b1557d536dbb0f0e9a"
+                }
+            },
+            "title": "Tough Guy!",
+            "airing": false,
+            "synopsis": "An aggressive and martial arts-devoted mantis kicks cans and hunts down cicadas, bringing havoc into the life of a couple of humans. This personal opus by Shintaro Kishimoto, now steady collaborator o...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 5.22,
+            "startDate": "2005-06-03T00:00:00+00:00",
+            "endDate": "2005-06-03T00:00:00+00:00",
+            "members": 811,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 6811,
+            "url": "https://myanimelist.net/anime/6811/InuYasha__Kanketsu-hen",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/75570.jpg?s=3f81bce22beb0e563ee93092ca0301b8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/75570t.jpg?s=3f81bce22beb0e563ee93092ca0301b8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/75570l.jpg?s=3f81bce22beb0e563ee93092ca0301b8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/75570.webp?s=3f81bce22beb0e563ee93092ca0301b8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/75570t.webp?s=3f81bce22beb0e563ee93092ca0301b8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/75570l.webp?s=3f81bce22beb0e563ee93092ca0301b8"
+                }
+            },
+            "title": "InuYasha: Kanketsu-hen",
+            "airing": false,
+            "synopsis": "Thwarted again by Naraku, Inuyasha, Kagome Higurashi, and their friends must continue their hunt for the few remaining Shikon Jewel shards, lest they fully form into a corrupted jewel at the hands of...",
+            "type": "TV",
+            "episodes": 26,
+            "score": 8.2,
+            "startDate": "2009-10-04T00:00:00+00:00",
+            "endDate": "2010-03-30T00:00:00+00:00",
+            "members": 303025,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34542,
+            "url": "https://myanimelist.net/anime/34542/Inuyashiki",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/88471.jpg?s=a1f407117d231d41b3dd74028df9c830",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/88471t.jpg?s=a1f407117d231d41b3dd74028df9c830",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/88471l.jpg?s=a1f407117d231d41b3dd74028df9c830"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/88471.webp?s=a1f407117d231d41b3dd74028df9c830",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/88471t.webp?s=a1f407117d231d41b3dd74028df9c830",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/88471l.webp?s=a1f407117d231d41b3dd74028df9c830"
+                }
+            },
+            "title": "Inuyashiki",
+            "airing": false,
+            "synopsis": "Ichirou Inuyashiki is a 58-year-old family man who is going through a difficult time in his life. Though his frequent back problems are painful, nothing hurts quite as much as the indifference and dis...",
+            "type": "TV",
+            "episodes": 11,
+            "score": 7.63,
+            "startDate": "2017-10-13T00:00:00+00:00",
+            "endDate": "2017-12-22T00:00:00+00:00",
+            "members": 696356,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 450,
+            "url": "https://myanimelist.net/anime/450/InuYasha_Movie_2__Kagami_no_Naka_no_Mugenjou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1162/92219.jpg?s=0d69a9a3e6f55c967f7ffba287c463ff",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1162/92219t.jpg?s=0d69a9a3e6f55c967f7ffba287c463ff",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1162/92219l.jpg?s=0d69a9a3e6f55c967f7ffba287c463ff"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1162/92219.webp?s=0d69a9a3e6f55c967f7ffba287c463ff",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1162/92219t.webp?s=0d69a9a3e6f55c967f7ffba287c463ff",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1162/92219l.webp?s=0d69a9a3e6f55c967f7ffba287c463ff"
+                }
+            },
+            "title": "InuYasha Movie 2: Kagami no Naka no Mugenjou",
+            "airing": false,
+            "synopsis": "Fortune smiles on Inuyasha and his allies when they finally defeat their nemesis Naraku, who has caused them unrelenting hardships. Overjoyed by the long-awaited victory, they all hurry to resume thei...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.67,
+            "startDate": "2002-12-21T00:00:00+00:00",
+            "endDate": "2002-12-21T00:00:00+00:00",
+            "members": 110837,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 35860,
+            "url": "https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1591/95091.jpg?s=7d8e6373e17c05da36a139d1ffc73d4f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1591/95091t.jpg?s=7d8e6373e17c05da36a139d1ffc73d4f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1591/95091l.jpg?s=7d8e6373e17c05da36a139d1ffc73d4f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1591/95091.webp?s=7d8e6373e17c05da36a139d1ffc73d4f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1591/95091t.webp?s=7d8e6373e17c05da36a139d1ffc73d4f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1591/95091l.webp?s=7d8e6373e17c05da36a139d1ffc73d4f"
+                }
+            },
+            "title": "Karakai Jouzu no Takagi-san",
+            "airing": false,
+            "synopsis": "Having a friend that knows you inside out should be a good thing, but in Nishikata's case, the opposite is true. His classmate Takagi loves to tease him on a daily basis, and she uses her extensive kn...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.67,
+            "startDate": "2018-01-08T00:00:00+00:00",
+            "endDate": "2018-03-26T00:00:00+00:00",
+            "members": 632172,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 3379,
+            "url": "https://myanimelist.net/anime/3379/Mikagura_Tanteidan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1036/116041.jpg?s=ef03f2339b23c8fc9ab29c0390635a5b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1036/116041t.jpg?s=ef03f2339b23c8fc9ab29c0390635a5b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1036/116041l.jpg?s=ef03f2339b23c8fc9ab29c0390635a5b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1036/116041.webp?s=ef03f2339b23c8fc9ab29c0390635a5b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1036/116041t.webp?s=ef03f2339b23c8fc9ab29c0390635a5b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1036/116041l.webp?s=ef03f2339b23c8fc9ab29c0390635a5b"
+                }
+            },
+            "title": "Mikagura Tanteidan",
+            "airing": false,
+            "synopsis": "Based on a game by ELF. It was Taisho era. Mikagura Tokito was the director of a detective agency, which has solved a lot of cases. One day he disappeared involved in an accident.Tomoe, Shigeno, and C...",
+            "type": "OVA",
+            "episodes": 3,
+            "score": 5.86,
+            "startDate": "2004-03-26T00:00:00+00:00",
+            "endDate": "2004-09-24T00:00:00+00:00",
+            "members": 2623,
+            "rated": "Rx"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 1176,
+            "url": "https://myanimelist.net/anime/1176/Unkai_no_Meikyuu_Zeguy",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/6215.jpg?s=705f7fc1554ece690a9607f2fbda20d9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/6215t.jpg?s=705f7fc1554ece690a9607f2fbda20d9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/6215l.jpg?s=705f7fc1554ece690a9607f2fbda20d9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/6215.webp?s=705f7fc1554ece690a9607f2fbda20d9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/6215t.webp?s=705f7fc1554ece690a9607f2fbda20d9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/6215l.webp?s=705f7fc1554ece690a9607f2fbda20d9"
+                }
+            },
+            "title": "Unkai no Meikyuu Zeguy",
+            "airing": false,
+            "synopsis": "Mysterious warriors appear to blast Miki into another dimension! She flees her captors only to find herself trapped in a world of monsters and madmen who plot the downfall of Earth. The only power tha...",
+            "type": "OVA",
+            "episodes": 2,
+            "score": 5.6,
+            "startDate": "1993-03-21T00:00:00+00:00",
+            "endDate": "1993-05-21T00:00:00+00:00",
+            "members": 3280,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38993,
+            "url": "https://myanimelist.net/anime/38993/Karakai_Jouzu_no_Takagi-san_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1393/107033.jpg?s=89cc9663cb4ea9130f8e4516bc78967d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1393/107033t.jpg?s=89cc9663cb4ea9130f8e4516bc78967d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1393/107033l.jpg?s=89cc9663cb4ea9130f8e4516bc78967d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1393/107033.webp?s=89cc9663cb4ea9130f8e4516bc78967d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1393/107033t.webp?s=89cc9663cb4ea9130f8e4516bc78967d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1393/107033l.webp?s=89cc9663cb4ea9130f8e4516bc78967d"
+                }
+            },
+            "title": "Karakai Jouzu no Takagi-san 2",
+            "airing": false,
+            "synopsis": "Even after spending a considerable amount of time with Takagi, Nishikata is still struggling to find a perfect plan to defeat the expert teaser. A battle of wits, a contest of physical prowess, a test...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 8.02,
+            "startDate": "2019-07-07T00:00:00+00:00",
+            "endDate": "2019-09-22T00:00:00+00:00",
+            "members": 357741,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 1087,
+            "url": "https://myanimelist.net/anime/1087/Kimagure_Orange☆Road",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1960/142715.jpg?s=6e6fed61d5feaba2a5f175d3c0403bf7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1960/142715t.jpg?s=6e6fed61d5feaba2a5f175d3c0403bf7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1960/142715l.jpg?s=6e6fed61d5feaba2a5f175d3c0403bf7"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1960/142715.webp?s=6e6fed61d5feaba2a5f175d3c0403bf7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1960/142715t.webp?s=6e6fed61d5feaba2a5f175d3c0403bf7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1960/142715l.webp?s=6e6fed61d5feaba2a5f175d3c0403bf7"
+                }
+            },
+            "title": "Kimagure Orange☆Road",
+            "airing": false,
+            "synopsis": "Kyousuke Kasuga is no stranger to being the new kid at school. Despite only being a third-year middle schooler, he has spent his entire childhood avoiding those who discover his family's paranormal po...",
+            "type": "TV",
+            "episodes": 48,
+            "score": 7.5,
+            "startDate": "1987-04-06T00:00:00+00:00",
+            "endDate": "1988-03-07T00:00:00+00:00",
+            "members": 53372,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 27967,
+            "url": "https://myanimelist.net/anime/27967/Senran_Kagura_Estival_Versus__Mizugi-darake_no_Zenyasai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/70001.jpg?s=f732b0e3c37435d61e0311858dfa11ef",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/70001t.jpg?s=f732b0e3c37435d61e0311858dfa11ef",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/70001l.jpg?s=f732b0e3c37435d61e0311858dfa11ef"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/70001.webp?s=f732b0e3c37435d61e0311858dfa11ef",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/70001t.webp?s=f732b0e3c37435d61e0311858dfa11ef",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/70001l.webp?s=f732b0e3c37435d61e0311858dfa11ef"
+                }
+            },
+            "title": "Senran Kagura Estival Versus: Mizugi-darake no Zenyasai",
+            "airing": false,
+            "synopsis": "A letter arrives at Death Cram School. Inside is a an invitation to a spa resort. Yumi declares to the four excited girls that, \"No. This is evil itself,\" points out that they are slacking off too muc...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 6.47,
+            "startDate": "2015-03-26T00:00:00+00:00",
+            "endDate": "2015-03-26T00:00:00+00:00",
+            "members": 22116,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 28439,
+            "url": "https://myanimelist.net/anime/28439/Hatsune_Miku_x_Tetsuya_Nomura",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/70301.jpg?s=34226312c71d4b5d3059c3e10e3a58c8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/70301t.jpg?s=34226312c71d4b5d3059c3e10e3a58c8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/70301l.jpg?s=34226312c71d4b5d3059c3e10e3a58c8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/70301.webp?s=34226312c71d4b5d3059c3e10e3a58c8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/70301t.webp?s=34226312c71d4b5d3059c3e10e3a58c8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/70301l.webp?s=34226312c71d4b5d3059c3e10e3a58c8"
+                }
+            },
+            "title": "Hatsune Miku x Tetsuya Nomura",
+            "airing": false,
+            "synopsis": "A collaboration video of HATSUNE MIKU x TETSUYA NOMURA (SQUARE ENIX) was screened at Hatsune Miku Art Exhibition \"Universal Positivity\"@Wallplay (Oct.9th-Oct.19th), as a part of HATSUNE MIKU EXPO 2014...",
+            "type": "CM",
+            "episodes": 1,
+            "score": 5.69,
+            "startDate": "2014-10-09T00:00:00+00:00",
+            "endDate": "2014-10-09T00:00:00+00:00",
+            "members": 4035,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 52173,
+            "url": "https://myanimelist.net/anime/52173/Koori_Zokusei_Danshi_to_Cool_na_Douryou_Joshi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1927/132758.jpg?s=d4561defcd923b2686e741b93a9d62a5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1927/132758t.jpg?s=d4561defcd923b2686e741b93a9d62a5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1927/132758l.jpg?s=d4561defcd923b2686e741b93a9d62a5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1927/132758.webp?s=d4561defcd923b2686e741b93a9d62a5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1927/132758t.webp?s=d4561defcd923b2686e741b93a9d62a5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1927/132758l.webp?s=d4561defcd923b2686e741b93a9d62a5"
+                }
+            },
+            "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+            "airing": false,
+            "synopsis": "Kind-hearted Himuro-kun is unfortunate: when in deep concentration, stressed, or flustered, he involuntarily creates blizzard conditions for himself and anyone in his vicinity. During one such inciden...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.31,
+            "startDate": "2023-01-04T00:00:00+00:00",
+            "endDate": "2023-03-22T00:00:00+00:00",
+            "members": 253360,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 16742,
+            "url": "https://myanimelist.net/anime/16742/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/51619.jpg?s=13c75e95bb4eca246b79f4bb12b665e3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/51619t.jpg?s=13c75e95bb4eca246b79f4bb12b665e3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/51619l.jpg?s=13c75e95bb4eca246b79f4bb12b665e3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/51619.webp?s=13c75e95bb4eca246b79f4bb12b665e3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/51619t.webp?s=13c75e95bb4eca246b79f4bb12b665e3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/51619l.webp?s=13c75e95bb4eca246b79f4bb12b665e3"
+                }
+            },
+            "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+            "airing": false,
+            "synopsis": "After living 50 simulated high school lives and dating over 100 virtual boys, Tomoko Kuroki believes that she is ready to conquer her first year of high school. Little does she know that she is much l...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.99,
+            "startDate": "2013-07-09T00:00:00+00:00",
+            "endDate": "2013-09-24T00:00:00+00:00",
+            "members": 694318,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 1374,
+            "url": "https://myanimelist.net/anime/1374/Kyoushoku_Soukou_Guyver_2005",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/3697.jpg?s=cbd65f6e963b220b6e762407ea484330",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/3697t.jpg?s=cbd65f6e963b220b6e762407ea484330",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/3697l.jpg?s=cbd65f6e963b220b6e762407ea484330"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/3697.webp?s=cbd65f6e963b220b6e762407ea484330",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/3697t.webp?s=cbd65f6e963b220b6e762407ea484330",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/3697l.webp?s=cbd65f6e963b220b6e762407ea484330"
+                }
+            },
+            "title": "Kyoushoku Soukou Guyver (2005)",
+            "airing": false,
+            "synopsis": "Sho Fukamachi, a normal teenager accidentally found an alien object called Unit and thus, changed his life forever. The Unit bonded with Sho, resulting in an incredibly powerful life-form called Guyve...",
+            "type": "TV",
+            "episodes": 26,
+            "score": 7.22,
+            "startDate": "2005-08-06T00:00:00+00:00",
+            "endDate": "2006-02-18T00:00:00+00:00",
+            "members": 25130,
+            "rated": "R"
+        }
+    ]
+}

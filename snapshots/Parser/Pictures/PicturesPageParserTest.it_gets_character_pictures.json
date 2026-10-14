@@ -1,0 +1,47 @@
+[
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/13/246869.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/characters/13/246869t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/characters/13/246869l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/13/246869.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/characters/13/246869t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/characters/13/246869l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/12/258329.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/characters/12/258329t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/characters/12/258329l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/12/258329.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/characters/12/258329t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/characters/12/258329l.webp"
+        }
+    },
+    {
+        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+        "jpg": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/7/262087.jpg",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/characters/7/262087t.jpg",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/characters/7/262087l.jpg"
+        },
+        "webp": {
+            "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+            "imageUrl": "https://cdn.myanimelist.net/images/characters/7/262087.webp",
+            "smallImageUrl": "https://cdn.myanimelist.net/images/characters/7/262087t.webp",
+            "largeImageUrl": "https://cdn.myanimelist.net/images/characters/7/262087l.webp"
+        }
+    }
+]

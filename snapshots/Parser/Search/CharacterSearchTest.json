@@ -1,0 +1,1440 @@
+{
+    "@class": "Jikan\\Model\\Search\\CharacterSearch",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 1896,
+            "url": "https://myanimelist.net/character/1896/Fate_Testarossa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/4/226585.jpg?s=267b6d2c90c45a5bdbc191f50d431690"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/4/226585.webp?s=267b6d2c90c45a5bdbc191f50d431690",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/4/226585t.webp?s=267b6d2c90c45a5bdbc191f50d431690"
+                }
+            },
+            "name": "Testarossa, Fate",
+            "alternativeNames": [
+                "Fate T. Harlaown",
+                "Har"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Reflection",
+                    "url": "https://myanimelist.net/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+                    "url": "https://myanimelist.net/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+                    "url": "https://myanimelist.net/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+                    "url": "https://myanimelist.net/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Detonation",
+                    "url": "https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+                    "url": "https://myanimelist.net/anime/60637/Mahou_Shoujo_Lyrical_Nanoha_EXCEEDS__Gun_Blaze_Vengeance"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid: Special Program",
+                    "url": "https://myanimelist.net/anime/31137/Mahou_Shoujo_Lyrical_Nanoha_ViVid__Special_Program"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha",
+                    "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha StrikerS",
+                    "url": "https://myanimelist.net/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics",
+                    "url": "https://myanimelist.net/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Comic à la carte",
+                    "url": "https://myanimelist.net/manga/25218/Mahou_Shoujo_Lyrical_Nanoha__Comic_à_la_carte"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny - Material Musume.",
+                    "url": "https://myanimelist.net/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+                    "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+                    "url": "https://myanimelist.net/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Senki Lyrical Nanoha Force",
+                    "url": "https://myanimelist.net/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Reflection the Comics",
+                    "url": "https://myanimelist.net/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS",
+                    "url": "https://myanimelist.net/manga/181048/Mahou_Shoujo_Lyrical_Nanoha_EXCEEDS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS",
+                    "url": "https://myanimelist.net/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+                    "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st",
+                    "url": "https://myanimelist.net/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+                    "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 273,
+            "url": "https://myanimelist.net/character/273/Teletha_Testarossa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/2/85956.jpg?s=5b8216dcdf6ab1aa7eb2df7e61ff87c4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/2/85956.webp?s=5b8216dcdf6ab1aa7eb2df7e61ff87c4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/2/85956t.webp?s=5b8216dcdf6ab1aa7eb2df7e61ff87c4"
+                }
+            },
+            "name": "Testarossa, Teletha",
+            "alternativeNames": [
+                "Tessa"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+                    "url": "https://myanimelist.net/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid",
+                    "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid Episode 00",
+                    "url": "https://myanimelist.net/anime/6291/Full_Metal_Panic_The_Second_Raid_Episode_00"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/anime/71/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic? Fumoffu",
+                    "url": "https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Movie 2: One Night Stand",
+                    "url": "https://myanimelist.net/anime/36343/Full_Metal_Panic_Movie_2__One_Night_Stand"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Movie 3: Into the Blue",
+                    "url": "https://myanimelist.net/anime/36344/Full_Metal_Panic_Movie_3__Into_the_Blue"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory",
+                    "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory Intermission",
+                    "url": "https://myanimelist.net/anime/38149/Full_Metal_Panic_Invisible_Victory_Intermission"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Movie 1: Boy Meets Girl",
+                    "url": "https://myanimelist.net/anime/36342/Full_Metal_Panic_Movie_1__Boy_Meets_Girl"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Sigma",
+                    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/10892/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/789/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Comic Mission",
+                    "url": "https://myanimelist.net/manga/22697/Full_Metal_Panic_Comic_Mission"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Ikinari! Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/937/Ikinari_Full_Metal_Panic"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 5939,
+            "url": "https://myanimelist.net/character/5939/Precia_Testarossa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/14/226569.jpg?s=3720fdd2b1a1bc691b29599dcb31f808"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/14/226569.webp?s=3720fdd2b1a1bc691b29599dcb31f808",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/14/226569t.webp?s=3720fdd2b1a1bc691b29599dcb31f808"
+                }
+            },
+            "name": "Testarossa, Precia",
+            "alternativeNames": [],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+                    "url": "https://myanimelist.net/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+                    "url": "https://myanimelist.net/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha",
+                    "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+                    "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+                    "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics",
+                    "url": "https://myanimelist.net/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+                    "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st",
+                    "url": "https://myanimelist.net/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 269069,
+            "url": "https://myanimelist.net/character/269069/Asterion_Testarossa_Magentano",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/7/587618.jpg?s=28d18b4633f37a23420f18a9039e68b6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/7/587618.webp?s=28d18b4633f37a23420f18a9039e68b6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/7/587618t.webp?s=28d18b4633f37a23420f18a9039e68b6"
+                }
+            },
+            "name": "Testarossa Magentano, Asterion",
+            "alternativeNames": [],
+            "anime": [],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "The Apothecary Prince",
+                    "url": "https://myanimelist.net/manga/165031/The_Apothecary_Prince"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 202815,
+            "url": "https://myanimelist.net/character/202815/Blanc",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/11/526615.jpg?s=0c8588f16d8a09e8b51fefcb270142aa"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/11/526615.webp?s=0c8588f16d8a09e8b51fefcb270142aa",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/11/526615t.webp?s=0c8588f16d8a09e8b51fefcb270142aa"
+                }
+            },
+            "name": "Blanc",
+            "alternativeNames": [
+                "White Primordial",
+                "Testarossa"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Tensei shitara Slime Datta Ken: Coleus no Yume",
+                    "url": "https://myanimelist.net/anime/54565/Tensei_shitara_Slime_Datta_Ken__Coleus_no_Yume"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Tensei shitara Slime Datta Ken",
+                    "url": "https://myanimelist.net/manga/87610/Tensei_shitara_Slime_Datta_Ken"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Tensei shitara Slime Datta Ken",
+                    "url": "https://myanimelist.net/manga/87609/Tensei_shitara_Slime_Datta_Ken"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 5940,
+            "url": "https://myanimelist.net/character/5940/Alicia_Testarossa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/16/226571.jpg?s=a8defd1486f1585133f3e98a3a557aa5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/16/226571.webp?s=a8defd1486f1585133f3e98a3a557aa5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/16/226571t.webp?s=a8defd1486f1585133f3e98a3a557aa5"
+                }
+            },
+            "name": "Testarossa, Alicia",
+            "alternativeNames": [],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+                    "url": "https://myanimelist.net/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+                    "url": "https://myanimelist.net/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha",
+                    "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+                    "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+                    "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics",
+                    "url": "https://myanimelist.net/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st",
+                    "url": "https://myanimelist.net/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+                    "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 8529,
+            "url": "https://myanimelist.net/character/8529/Leonard_Testarossa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/12/538405.jpg?s=464363c0182ab126cf8be1329856d1d9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/12/538405.webp?s=464363c0182ab126cf8be1329856d1d9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/12/538405t.webp?s=464363c0182ab126cf8be1329856d1d9"
+                }
+            },
+            "name": "Testarossa, Leonard",
+            "alternativeNames": [
+                "Mr. Silver"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory",
+                    "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory Intermission",
+                    "url": "https://myanimelist.net/anime/38149/Full_Metal_Panic_Invisible_Victory_Intermission"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid Episode 00",
+                    "url": "https://myanimelist.net/anime/6291/Full_Metal_Panic_The_Second_Raid_Episode_00"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid",
+                    "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/10892/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Sigma",
+                    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 265850,
+            "url": "https://myanimelist.net/character/265850/Yuuma",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/8/581804.jpg?s=8f9eee7b36b6725a054254f482c6dff3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/8/581804.webp?s=8f9eee7b36b6725a054254f482c6dff3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/8/581804t.webp?s=8f9eee7b36b6725a054254f482c6dff3"
+                }
+            },
+            "name": "Yuuma",
+            "alternativeNames": [],
+            "anime": [],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Blazer Drive",
+                    "url": "https://myanimelist.net/manga/6612/Blazer_Drive"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 19632,
+            "url": "https://myanimelist.net/character/19632/Linith",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/6/248641.jpg?s=87531f9fba3c19f4affd9bca3b42adc2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/6/248641.webp?s=87531f9fba3c19f4affd9bca3b42adc2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/6/248641t.webp?s=87531f9fba3c19f4affd9bca3b42adc2"
+                }
+            },
+            "name": "Linith",
+            "alternativeNames": [],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+                    "url": "https://myanimelist.net/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+                    "url": "https://myanimelist.net/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+                    "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+                    "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+                    "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics",
+                    "url": "https://myanimelist.net/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st",
+                    "url": "https://myanimelist.net/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 269132,
+            "url": "https://myanimelist.net/character/269132/Zanetiz",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/2/587709.jpg?s=dd0a70c5fa51df1b4494092f96d90ef9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/2/587709.webp?s=dd0a70c5fa51df1b4494092f96d90ef9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/2/587709t.webp?s=dd0a70c5fa51df1b4494092f96d90ef9"
+                }
+            },
+            "name": "Zanetiz",
+            "alternativeNames": [],
+            "anime": [],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "The Apothecary Prince",
+                    "url": "https://myanimelist.net/manga/165031/The_Apothecary_Prince"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 6255,
+            "url": "https://myanimelist.net/character/6255/Richard_Henry_Mardukas",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/12/192056.jpg?s=9da8ac4f6b72043ceace11fb75b0fada"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/12/192056.webp?s=9da8ac4f6b72043ceace11fb75b0fada",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/12/192056t.webp?s=9da8ac4f6b72043ceace11fb75b0fada"
+                }
+            },
+            "name": "Mardukas, Richard Henry",
+            "alternativeNames": [],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Movie 2: One Night Stand",
+                    "url": "https://myanimelist.net/anime/36343/Full_Metal_Panic_Movie_2__One_Night_Stand"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Movie 3: Into the Blue",
+                    "url": "https://myanimelist.net/anime/36344/Full_Metal_Panic_Movie_3__Into_the_Blue"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/anime/71/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory Intermission",
+                    "url": "https://myanimelist.net/anime/38149/Full_Metal_Panic_Invisible_Victory_Intermission"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory",
+                    "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+                    "url": "https://myanimelist.net/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Movie 1: Boy Meets Girl",
+                    "url": "https://myanimelist.net/anime/36342/Full_Metal_Panic_Movie_1__Boy_Meets_Girl"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid",
+                    "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic? Fumoffu",
+                    "url": "https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Comic Mission",
+                    "url": "https://myanimelist.net/manga/22697/Full_Metal_Panic_Comic_Mission"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Sigma",
+                    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/789/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Ikinari! Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/937/Ikinari_Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/10892/Full_Metal_Panic"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 17067,
+            "url": "https://myanimelist.net/character/17067/Shirou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/16/580694.jpg?s=a33ad5f8a5cbc7282b6ecaf378e356e5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/16/580694.webp?s=a33ad5f8a5cbc7282b6ecaf378e356e5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/16/580694t.webp?s=a33ad5f8a5cbc7282b6ecaf378e356e5"
+                }
+            },
+            "name": "Shirou",
+            "alternativeNames": [],
+            "anime": [],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Blazer Drive",
+                    "url": "https://myanimelist.net/manga/6612/Blazer_Drive"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 164668,
+            "url": "https://myanimelist.net/character/164668/Kurama",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/6/406772.jpg?s=07d75fc7763668075214757b63b1dc98"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/6/406772.webp?s=07d75fc7763668075214757b63b1dc98",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/6/406772t.webp?s=07d75fc7763668075214757b63b1dc98"
+                }
+            },
+            "name": "Kurama",
+            "alternativeNames": [],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory Intermission",
+                    "url": "https://myanimelist.net/anime/38149/Full_Metal_Panic_Invisible_Victory_Intermission"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory",
+                    "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/10892/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Sigma",
+                    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 67615,
+            "url": "https://myanimelist.net/character/67615/Levi_The_Slasher",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/8/248639.jpg?s=08b9a49ec75763a9ca193ec919655c34"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/8/248639.webp?s=08b9a49ec75763a9ca193ec919655c34",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/8/248639t.webp?s=08b9a49ec75763a9ca193ec919655c34"
+                }
+            },
+            "name": "The Slasher, Levi",
+            "alternativeNames": [
+                "Material L",
+                "Assailant of Thunderblade"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Detonation",
+                    "url": "https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Reflection",
+                    "url": "https://myanimelist.net/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+                    "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+                    "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+                    "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny - Material Musume.",
+                    "url": "https://myanimelist.net/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Material Musume. - Innocent",
+                    "url": "https://myanimelist.net/manga/63893/Mahou_Shoujo_Lyrical_Nanoha__Material_Musume_-_Innocent"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 10671,
+            "url": "https://myanimelist.net/character/10671/Wraith",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/12/406761.jpg?s=9d07c7844b4b7b895d2d717686eee47d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/12/406761.webp?s=9d07c7844b4b7b895d2d717686eee47d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/12/406761t.webp?s=9d07c7844b4b7b895d2d717686eee47d"
+                }
+            },
+            "name": "Wraith",
+            "alternativeNames": [],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid",
+                    "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory Intermission",
+                    "url": "https://myanimelist.net/anime/38149/Full_Metal_Panic_Invisible_Victory_Intermission"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory",
+                    "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/10892/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Sigma",
+                    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 2010,
+            "url": "https://myanimelist.net/character/2010/Nanoha_Takamachi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/7/226583.jpg?s=6047a00d119fbdfb6f11538bad004ac5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/7/226583.webp?s=6047a00d119fbdfb6f11538bad004ac5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/7/226583t.webp?s=6047a00d119fbdfb6f11538bad004ac5"
+                }
+            },
+            "name": "Takamachi, Nanoha",
+            "alternativeNames": [
+                "Ace of Aces"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+                    "url": "https://myanimelist.net/anime/60637/Mahou_Shoujo_Lyrical_Nanoha_EXCEEDS__Gun_Blaze_Vengeance"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Detonation",
+                    "url": "https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Reflection",
+                    "url": "https://myanimelist.net/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Lyrical Magic: Suteki na Mahou",
+                    "url": "https://myanimelist.net/anime/12101/Lyrical_Magic__Suteki_na_Mahou"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+                    "url": "https://myanimelist.net/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+                    "url": "https://myanimelist.net/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid: Special Program",
+                    "url": "https://myanimelist.net/anime/31137/Mahou_Shoujo_Lyrical_Nanoha_ViVid__Special_Program"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Triangle Heart: Sweet Songs Forever",
+                    "url": "https://myanimelist.net/anime/176/Triangle_Heart__Sweet_Songs_Forever"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha",
+                    "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+                    "url": "https://myanimelist.net/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha StrikerS",
+                    "url": "https://myanimelist.net/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+                    "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+                    "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st",
+                    "url": "https://myanimelist.net/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS",
+                    "url": "https://myanimelist.net/manga/181048/Mahou_Shoujo_Lyrical_Nanoha_EXCEEDS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny - Material Musume.",
+                    "url": "https://myanimelist.net/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Reflection the Comics",
+                    "url": "https://myanimelist.net/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+                    "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+                    "url": "https://myanimelist.net/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Senki Lyrical Nanoha Force",
+                    "url": "https://myanimelist.net/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics",
+                    "url": "https://myanimelist.net/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS",
+                    "url": "https://myanimelist.net/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Comic à la carte",
+                    "url": "https://myanimelist.net/manga/25218/Mahou_Shoujo_Lyrical_Nanoha__Comic_à_la_carte"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 2251,
+            "url": "https://myanimelist.net/character/2251/Vita",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/3/226521.jpg?s=ffde9fad065d03bb9c3451c0b6cbe788"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/3/226521.webp?s=ffde9fad065d03bb9c3451c0b6cbe788",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/3/226521t.webp?s=ffde9fad065d03bb9c3451c0b6cbe788"
+                }
+            },
+            "name": "Vita",
+            "alternativeNames": [
+                "Knight of the Iron Hammer"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Reflection",
+                    "url": "https://myanimelist.net/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+                    "url": "https://myanimelist.net/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+                    "url": "https://myanimelist.net/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Detonation",
+                    "url": "https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha StrikerS",
+                    "url": "https://myanimelist.net/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+                    "url": "https://myanimelist.net/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+                    "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+                    "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Senki Lyrical Nanoha Force",
+                    "url": "https://myanimelist.net/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+                    "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Reflection the Comics",
+                    "url": "https://myanimelist.net/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS",
+                    "url": "https://myanimelist.net/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 2747,
+            "url": "https://myanimelist.net/character/2747/Andrei_Sergeivich_Kalinin",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/10/85063.jpg?s=811dc671738cdc9b364e78681db08bb6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/10/85063.webp?s=811dc671738cdc9b364e78681db08bb6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/10/85063t.webp?s=811dc671738cdc9b364e78681db08bb6"
+                }
+            },
+            "name": "Kalinin, Andrei Sergeivich",
+            "alternativeNames": [],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Movie 1: Boy Meets Girl",
+                    "url": "https://myanimelist.net/anime/36342/Full_Metal_Panic_Movie_1__Boy_Meets_Girl"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory",
+                    "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Movie 3: Into the Blue",
+                    "url": "https://myanimelist.net/anime/36344/Full_Metal_Panic_Movie_3__Into_the_Blue"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Movie 2: One Night Stand",
+                    "url": "https://myanimelist.net/anime/36343/Full_Metal_Panic_Movie_2__One_Night_Stand"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/anime/71/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic? Fumoffu",
+                    "url": "https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+                    "url": "https://myanimelist.net/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid",
+                    "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/789/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Sigma",
+                    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Ikinari! Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/937/Ikinari_Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Comic Mission",
+                    "url": "https://myanimelist.net/manga/22697/Full_Metal_Panic_Comic_Mission"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/10892/Full_Metal_Panic"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 10655,
+            "url": "https://myanimelist.net/character/10655/Belfangan_Clouseau",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/11/43006.jpg?s=f42e6fa1f0c8b74e8eb0ac1ab50130ab"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/11/43006.webp?s=f42e6fa1f0c8b74e8eb0ac1ab50130ab",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/11/43006t.webp?s=f42e6fa1f0c8b74e8eb0ac1ab50130ab"
+                }
+            },
+            "name": "Clouseau, Belfangan",
+            "alternativeNames": [
+                "Ben"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+                    "url": "https://myanimelist.net/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid Episode 00",
+                    "url": "https://myanimelist.net/anime/6291/Full_Metal_Panic_The_Second_Raid_Episode_00"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! The Second Raid",
+                    "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory",
+                    "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Invisible Victory Intermission",
+                    "url": "https://myanimelist.net/anime/38149/Full_Metal_Panic_Invisible_Victory_Intermission"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic!",
+                    "url": "https://myanimelist.net/manga/10892/Full_Metal_Panic"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Full Metal Panic! Sigma",
+                    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 8513,
+            "url": "https://myanimelist.net/character/8513/Nephrite",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/5/269807.jpg?s=e7e927624776829cf488321c944ea940"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/5/269807.webp?s=e7e927624776829cf488321c944ea940",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/5/269807t.webp?s=e7e927624776829cf488321c944ea940"
+                }
+            },
+            "name": "Nephrite",
+            "alternativeNames": [
+                "Nephlite"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Bishoujo Senshi Sailor Moon Crystal",
+                    "url": "https://myanimelist.net/anime/14751/Bishoujo_Senshi_Sailor_Moon_Crystal"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Bishoujo Senshi Sailor Moon Memorial",
+                    "url": "https://myanimelist.net/anime/8756/Bishoujo_Senshi_Sailor_Moon_Memorial"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Bishoujo Senshi Sailor Moon",
+                    "url": "https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Bishoujo Senshi Sailor Moon",
+                    "url": "https://myanimelist.net/manga/92/Bishoujo_Senshi_Sailor_Moon"
+                }
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\CharacterSearchListItem",
+            "malId": 2232,
+            "url": "https://myanimelist.net/character/2232/Signum",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\CharacterImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/2/226519.jpg?s=48d10cfaec9520072c54d22ab4b91e21"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CharacterImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/characters/2/226519.webp?s=48d10cfaec9520072c54d22ab4b91e21",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/characters/2/226519t.webp?s=48d10cfaec9520072c54d22ab4b91e21"
+                }
+            },
+            "name": "Signum",
+            "alternativeNames": [
+                "Knight of the Sword",
+                "General of the Raging Fire"
+            ],
+            "anime": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+                    "url": "https://myanimelist.net/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha StrikerS",
+                    "url": "https://myanimelist.net/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+                    "url": "https://myanimelist.net/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Detonation",
+                    "url": "https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Reflection",
+                    "url": "https://myanimelist.net/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection"
+                }
+            ],
+            "manga": [
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+                    "url": "https://myanimelist.net/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+                    "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+                    "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Senki Lyrical Nanoha Force",
+                    "url": "https://myanimelist.net/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha: Reflection the Comics",
+                    "url": "https://myanimelist.net/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS",
+                    "url": "https://myanimelist.net/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha A's",
+                    "url": "https://myanimelist.net/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As"
+                },
+                {
+                    "@class": "Jikan\\Model\\Common\\MalUrl",
+                    "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+                    "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS"
+                }
+            ]
+        }
+    ]
+}

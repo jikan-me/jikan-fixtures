@@ -1,0 +1,71 @@
+{
+    "@class": "Jikan\\Model\\Anime\\AnimeStats",
+    "watching": 4444,
+    "completed": 9548,
+    "onHold": 1469,
+    "dropped": 1079,
+    "planToWatch": 4308,
+    "total": 20848,
+    "scores": {
+        "1": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 1,
+            "votes": 173,
+            "percentage": 1.9
+        },
+        "2": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 2,
+            "votes": 117,
+            "percentage": 1.3
+        },
+        "3": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 3,
+            "votes": 164,
+            "percentage": 1.8
+        },
+        "4": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 4,
+            "votes": 338,
+            "percentage": 3.7
+        },
+        "5": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 5,
+            "votes": 736,
+            "percentage": 8.0
+        },
+        "6": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 6,
+            "votes": 1367,
+            "percentage": 14.9
+        },
+        "7": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 7,
+            "votes": 2158,
+            "percentage": 23.6
+        },
+        "8": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 8,
+            "votes": 1802,
+            "percentage": 19.7
+        },
+        "9": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 9,
+            "votes": 963,
+            "percentage": 10.5
+        },
+        "10": {
+            "@class": "Jikan\\Model\\Anime\\AnimeStatsScore",
+            "score": 10,
+            "votes": 1326,
+            "percentage": 14.5
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "@class": "Jikan\\Model\\Manga\\MangaStats",
+    "reading": 14735,
+    "completed": 49114,
+    "onHold": 1835,
+    "dropped": 2436,
+    "planToRead": 29133,
+    "total": 97253,
+    "scores": {
+        "1": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 1,
+            "votes": 200,
+            "percentage": 0.5
+        },
+        "2": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 2,
+            "votes": 104,
+            "percentage": 0.3
+        },
+        "3": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 3,
+            "votes": 181,
+            "percentage": 0.5
+        },
+        "4": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 4,
+            "votes": 342,
+            "percentage": 0.9
+        },
+        "5": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 5,
+            "votes": 826,
+            "percentage": 2.2
+        },
+        "6": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 6,
+            "votes": 1833,
+            "percentage": 4.8
+        },
+        "7": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 7,
+            "votes": 5008,
+            "percentage": 13.1
+        },
+        "8": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 8,
+            "votes": 9091,
+            "percentage": 23.7
+        },
+        "9": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 9,
+            "votes": 9738,
+            "percentage": 25.4
+        },
+        "10": {
+            "@class": "Jikan\\Model\\Manga\\MangaStatsScore",
+            "score": 10,
+            "votes": 11045,
+            "percentage": 28.8
+        }
+    }
+}

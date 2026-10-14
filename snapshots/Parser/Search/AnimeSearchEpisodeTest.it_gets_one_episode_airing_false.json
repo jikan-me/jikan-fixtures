@@ -1,0 +1,1507 @@
+{
+    "@class": "Jikan\\Model\\Search\\AnimeSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 26329,
+            "url": "https://myanimelist.net/anime/26329/Ijimekko_Ookami_to_Nana-chan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/66267.jpg?s=69f6b1d35e054e24bbdff91363c32a47",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/66267t.jpg?s=69f6b1d35e054e24bbdff91363c32a47",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/66267l.jpg?s=69f6b1d35e054e24bbdff91363c32a47"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/66267.webp?s=69f6b1d35e054e24bbdff91363c32a47",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/66267t.webp?s=69f6b1d35e054e24bbdff91363c32a47",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/66267l.webp?s=69f6b1d35e054e24bbdff91363c32a47"
+                }
+            },
+            "title": "Ijimekko Ookami to Nana-chan",
+            "airing": false,
+            "synopsis": "An educational animation on the problems of bullying told through the the fable of \"The Wolf and the Seven Young Goats.\"",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "2006-01-01T00:00:00+00:00",
+            "endDate": null,
+            "members": 225,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 23673,
+            "url": "https://myanimelist.net/anime/23673/Ookami_Shoujo_to_Kuro_Ouji",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1728/147375.jpg?s=014cf70099509ad490144371825416aa",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1728/147375t.jpg?s=014cf70099509ad490144371825416aa",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1728/147375l.jpg?s=014cf70099509ad490144371825416aa"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1728/147375.webp?s=014cf70099509ad490144371825416aa",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1728/147375t.webp?s=014cf70099509ad490144371825416aa",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1728/147375l.webp?s=014cf70099509ad490144371825416aa"
+                }
+            },
+            "title": "Ookami Shoujo to Kuro Ouji",
+            "airing": false,
+            "synopsis": "Erika Shinohara has taken to lying about her romantic exploits to earn the respect of her new friends. So when they ask for a picture of her \"boyfriend,\" she hastily snaps a photo of a handsome strang...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.99,
+            "startDate": "2014-10-05T00:00:00+00:00",
+            "endDate": "2014-12-21T00:00:00+00:00",
+            "members": 498491,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 7769,
+            "url": "https://myanimelist.net/anime/7769/Ookami-san_to_Shichinin_no_Nakama-tachi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/75240.jpg?s=2503d8487eb1d9a9711089139adc9951",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/75240t.jpg?s=2503d8487eb1d9a9711089139adc9951",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/75240l.jpg?s=2503d8487eb1d9a9711089139adc9951"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/75240.webp?s=2503d8487eb1d9a9711089139adc9951",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/75240t.webp?s=2503d8487eb1d9a9711089139adc9951",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/75240l.webp?s=2503d8487eb1d9a9711089139adc9951"
+                }
+            },
+            "title": "Ookami-san to Shichinin no Nakama-tachi",
+            "airing": false,
+            "synopsis": "Tomboy Ryouko Ookami is a fierce boxer and the assigned bruiser of her club. Of course, no normal high school club needs a bruiser, but the Otogi Bank operates more akin to an actual bank. Here, the s...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.15,
+            "startDate": "2010-07-01T00:00:00+00:00",
+            "endDate": "2010-09-16T00:00:00+00:00",
+            "members": 287675,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 23867,
+            "url": "https://myanimelist.net/anime/23867/Saru_Kani_Gassen__Ijimekkozaru_to_Shoujiki_Kani-san",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/61745.jpg?s=3e5a7b69db32cd6da8215c34d05698a9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/61745t.jpg?s=3e5a7b69db32cd6da8215c34d05698a9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/61745l.jpg?s=3e5a7b69db32cd6da8215c34d05698a9"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/61745.webp?s=3e5a7b69db32cd6da8215c34d05698a9",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/61745t.webp?s=3e5a7b69db32cd6da8215c34d05698a9",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/61745l.webp?s=3e5a7b69db32cd6da8215c34d05698a9"
+                }
+            },
+            "title": "Saru Kani Gassen: Ijimekkozaru to Shoujiki Kani-san",
+            "airing": false,
+            "synopsis": "An educational animation on the problems of bullying.",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "1997-03-01T00:00:00+00:00",
+            "endDate": "1997-03-01T00:00:00+00:00",
+            "members": 336,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 25681,
+            "url": "https://myanimelist.net/anime/25681/Kamisama_Hajimemashita◎",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/69187.jpg?s=231dc052a8e86d5618c29c79b6f12a5e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/69187t.jpg?s=231dc052a8e86d5618c29c79b6f12a5e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/69187l.jpg?s=231dc052a8e86d5618c29c79b6f12a5e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/69187.webp?s=231dc052a8e86d5618c29c79b6f12a5e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/69187t.webp?s=231dc052a8e86d5618c29c79b6f12a5e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/69187l.webp?s=231dc052a8e86d5618c29c79b6f12a5e"
+                }
+            },
+            "title": "Kamisama Hajimemashita◎",
+            "airing": false,
+            "synopsis": "Nanami Momozono and her familiars Tomoe and Mizuki have survived quite a few challenges since Nanami took up the mantle of Mikage Shrine's patron god. Naturally, the wind god Otohiko comes to invite N...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 8.24,
+            "startDate": "2015-01-06T00:00:00+00:00",
+            "endDate": "2015-03-31T00:00:00+00:00",
+            "members": 460853,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 31540,
+            "url": "https://myanimelist.net/anime/31540/Sekkou_Boys",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/77840.jpg?s=c2cf8ddc22037a024c4cc80a194a3e13",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/77840t.jpg?s=c2cf8ddc22037a024c4cc80a194a3e13",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/77840l.jpg?s=c2cf8ddc22037a024c4cc80a194a3e13"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/77840.webp?s=c2cf8ddc22037a024c4cc80a194a3e13",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/77840t.webp?s=c2cf8ddc22037a024c4cc80a194a3e13",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/77840l.webp?s=c2cf8ddc22037a024c4cc80a194a3e13"
+                }
+            },
+            "title": "Sekkou Boys",
+            "airing": false,
+            "synopsis": "As luck would have it, on her first day at Holbein Entertainment Co., Miki Ishimoto is tasked with managing a brand new idol group! A recent college graduate, Ishimoto is eager to begin her career in...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.25,
+            "startDate": "2016-01-08T00:00:00+00:00",
+            "endDate": "2016-03-25T00:00:00+00:00",
+            "members": 55376,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 12355,
+            "url": "https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/35721.jpg?s=3cb7f7062c2ef1c69ab18d7e3c04af2b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/35721t.jpg?s=3cb7f7062c2ef1c69ab18d7e3c04af2b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/35721l.jpg?s=3cb7f7062c2ef1c69ab18d7e3c04af2b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/35721.webp?s=3cb7f7062c2ef1c69ab18d7e3c04af2b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/35721t.webp?s=3cb7f7062c2ef1c69ab18d7e3c04af2b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/35721l.webp?s=3cb7f7062c2ef1c69ab18d7e3c04af2b"
+                }
+            },
+            "title": "Ookami Kodomo no Ame to Yuki",
+            "airing": false,
+            "synopsis": "Hana, a hard-working college student, falls in love with a mysterious man who attends one of her classes though he is not an actual student. As it turns out, he is not truly human either. On a full mo...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 8.56,
+            "startDate": "2012-07-21T00:00:00+00:00",
+            "endDate": "2012-07-21T00:00:00+00:00",
+            "members": 859666,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 51122,
+            "url": "https://myanimelist.net/anime/51122/Ookami_to_Koushinryou__Merchant_Meets_the_Wise_Wolf",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1059/142414.jpg?s=39122245cf9ab22ad5466b92085ae43e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1059/142414t.jpg?s=39122245cf9ab22ad5466b92085ae43e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1059/142414l.jpg?s=39122245cf9ab22ad5466b92085ae43e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1059/142414.webp?s=39122245cf9ab22ad5466b92085ae43e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1059/142414t.webp?s=39122245cf9ab22ad5466b92085ae43e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1059/142414l.webp?s=39122245cf9ab22ad5466b92085ae43e"
+                }
+            },
+            "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+            "airing": false,
+            "synopsis": "With a cartload of fur pelts in tow, traveling merchant Kraft Lawrence stops by the village of Pasloe. According to local folklore, centuries ago, one of the villagers made a promise with the wolf dei...",
+            "type": "TV",
+            "episodes": 25,
+            "score": 8.12,
+            "startDate": "2024-04-02T00:00:00+00:00",
+            "endDate": "2024-09-24T00:00:00+00:00",
+            "members": 253875,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 877,
+            "url": "https://myanimelist.net/anime/877/Nana",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/11232.jpg?s=fdcbc61fd7e6407fe3810192a1684acd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/11232t.jpg?s=fdcbc61fd7e6407fe3810192a1684acd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/11232l.jpg?s=fdcbc61fd7e6407fe3810192a1684acd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/11232.webp?s=fdcbc61fd7e6407fe3810192a1684acd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/11232t.webp?s=fdcbc61fd7e6407fe3810192a1684acd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/11232l.webp?s=fdcbc61fd7e6407fe3810192a1684acd"
+                }
+            },
+            "title": "Nana",
+            "airing": false,
+            "synopsis": "Departing from their respective hometowns, two young women with identical names are brought together in their pursuit of new beginnings. With their hearts set on going to Tokyo, Nana Komatsu dreams ab...",
+            "type": "TV",
+            "episodes": 47,
+            "score": 8.57,
+            "startDate": "2006-04-05T00:00:00+00:00",
+            "endDate": "2007-03-28T00:00:00+00:00",
+            "members": 764317,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 35778,
+            "url": "https://myanimelist.net/anime/35778/Ookami_Heart",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/98204.jpg?s=cb8c386f7605552046990b3b0b2b2bcc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1785/98204t.jpg?s=cb8c386f7605552046990b3b0b2b2bcc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1785/98204l.jpg?s=cb8c386f7605552046990b3b0b2b2bcc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/98204.webp?s=cb8c386f7605552046990b3b0b2b2bcc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1785/98204t.webp?s=cb8c386f7605552046990b3b0b2b2bcc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1785/98204l.webp?s=cb8c386f7605552046990b3b0b2b2bcc"
+                }
+            },
+            "title": "Ookami Heart",
+            "airing": false,
+            "synopsis": "Two official music videos for Oresama's Ookami Heart song which was used at the ED for Ookami Shoujo to Kuro Ouji. The first music video is the F.O.ver. release and it was also used to promote the ban...",
+            "type": "Music",
+            "episodes": 2,
+            "score": 6.25,
+            "startDate": "2014-11-26T00:00:00+00:00",
+            "endDate": "2015-04-30T00:00:00+00:00",
+            "members": 2503,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 5341,
+            "url": "https://myanimelist.net/anime/5341/Ookami_to_Koushinryou_II",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/59399.jpg?s=9c18270f2db6cd2c537c9fb5c6caff26",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/59399t.jpg?s=9c18270f2db6cd2c537c9fb5c6caff26",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/59399l.jpg?s=9c18270f2db6cd2c537c9fb5c6caff26"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/59399.webp?s=9c18270f2db6cd2c537c9fb5c6caff26",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/59399t.webp?s=9c18270f2db6cd2c537c9fb5c6caff26",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/59399l.webp?s=9c18270f2db6cd2c537c9fb5c6caff26"
+                }
+            },
+            "title": "Ookami to Koushinryou II",
+            "airing": false,
+            "synopsis": "Traveling merchant Kraft Lawrence continues his northward journey with wolf goddess Holo, in search of her lost home of Yoitsu. Lawrence and his sharp-witted partner continue to make some small profit...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 8.3,
+            "startDate": "2009-07-09T00:00:00+00:00",
+            "endDate": "2009-09-24T00:00:00+00:00",
+            "members": 517556,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 59928,
+            "url": "https://myanimelist.net/anime/59928/Ookami_to_Koushinryou__Merchant_Meets_the_Wise_Wolf_2nd_Season",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/153382.jpg?s=9c6411f5666c3cb580f67b81d47dbd72",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1664/153382t.jpg?s=9c6411f5666c3cb580f67b81d47dbd72",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1664/153382l.jpg?s=9c6411f5666c3cb580f67b81d47dbd72"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1664/153382.webp?s=9c6411f5666c3cb580f67b81d47dbd72",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1664/153382t.webp?s=9c6411f5666c3cb580f67b81d47dbd72",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1664/153382l.webp?s=9c6411f5666c3cb580f67b81d47dbd72"
+                }
+            },
+            "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf 2nd Season",
+            "airing": false,
+            "synopsis": "Second season of Ookami to Koushinryou: Merchant Meets the Wise Wolf.",
+            "type": "TV",
+            "episodes": 0,
+            "score": 0.0,
+            "startDate": null,
+            "endDate": null,
+            "members": 42469,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 5192,
+            "url": "https://myanimelist.net/anime/5192/Kiku-chan_to_Ookami",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1007/111579.jpg?s=1db4a94b598cff44246c8a4d5e41d92d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1007/111579t.jpg?s=1db4a94b598cff44246c8a4d5e41d92d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1007/111579l.jpg?s=1db4a94b598cff44246c8a4d5e41d92d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1007/111579.webp?s=1db4a94b598cff44246c8a4d5e41d92d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1007/111579t.webp?s=1db4a94b598cff44246c8a4d5e41d92d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1007/111579l.webp?s=1db4a94b598cff44246c8a4d5e41d92d"
+                }
+            },
+            "title": "Kiku-chan to Ookami",
+            "airing": false,
+            "synopsis": "\"Kiku-chan to Okami\" is an adaptation of \"Grave of the Fireflies\" author Akiyuki Nosaka’s short story \"Toshi-Oi Mesu-Okami to Onna no Ko no Hanashi\" (The Story of the Old Mother Wolf and the Girl), wh...",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 6.19,
+            "startDate": "2008-08-13T00:00:00+00:00",
+            "endDate": "2008-08-13T00:00:00+00:00",
+            "members": 740,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 2966,
+            "url": "https://myanimelist.net/anime/2966/Ookami_to_Koushinryou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/59401.jpg?s=1c81971daf350f8e99fe00fe3bbd0f95",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/59401t.jpg?s=1c81971daf350f8e99fe00fe3bbd0f95",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg?s=1c81971daf350f8e99fe00fe3bbd0f95"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/59401.webp?s=1c81971daf350f8e99fe00fe3bbd0f95",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/59401t.webp?s=1c81971daf350f8e99fe00fe3bbd0f95",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/59401l.webp?s=1c81971daf350f8e99fe00fe3bbd0f95"
+                }
+            },
+            "title": "Ookami to Koushinryou",
+            "airing": false,
+            "synopsis": "Holo is a powerful wolf deity who is revered in the small town of Pasloe for blessing the annual harvest. Yet as years go by and the villagers become more self-sufficient, Holo has been reduced to a m...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.21,
+            "startDate": "2008-01-09T00:00:00+00:00",
+            "endDate": "2008-03-26T00:00:00+00:00",
+            "members": 863867,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 6884,
+            "url": "https://myanimelist.net/anime/6884/Ookami_to_Koushinryou_II__Holo_no_Short_Anime",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/17117.jpg?s=faf603224ffd84c6a6dce702fdfa193f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/17117t.jpg?s=faf603224ffd84c6a6dce702fdfa193f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/17117l.jpg?s=faf603224ffd84c6a6dce702fdfa193f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/17117.webp?s=faf603224ffd84c6a6dce702fdfa193f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/17117t.webp?s=faf603224ffd84c6a6dce702fdfa193f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/17117l.webp?s=faf603224ffd84c6a6dce702fdfa193f"
+                }
+            },
+            "title": "Ookami to Koushinryou II: Holo no Short Anime",
+            "airing": false,
+            "synopsis": "Extra short anime featuring Holo from BD volumes 1 and 2.",
+            "type": "Special",
+            "episodes": 2,
+            "score": 7.05,
+            "startDate": "2009-10-07T00:00:00+00:00",
+            "endDate": "2009-11-04T00:00:00+00:00",
+            "members": 63973,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 966,
+            "url": "https://myanimelist.net/anime/966/Crayon_Shin-chan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/59897.jpg?s=dcf5f566786bb2ee9b939a73322bcdfe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/59897t.jpg?s=dcf5f566786bb2ee9b939a73322bcdfe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/59897l.jpg?s=dcf5f566786bb2ee9b939a73322bcdfe"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/59897.webp?s=dcf5f566786bb2ee9b939a73322bcdfe",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/59897t.webp?s=dcf5f566786bb2ee9b939a73322bcdfe",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/59897l.webp?s=dcf5f566786bb2ee9b939a73322bcdfe"
+                }
+            },
+            "title": "Crayon Shin-chan",
+            "airing": true,
+            "synopsis": "There is no such thing as an uneventful day in the life of kindergartener Shinnosuke \"Shin-chan\" Nohara. The five-year-old is a cut above the most troublesome, perverted, and shameless kid one can ima...",
+            "type": "TV",
+            "episodes": 0,
+            "score": 7.81,
+            "startDate": "1992-04-13T00:00:00+00:00",
+            "endDate": null,
+            "members": 92976,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36649,
+            "url": "https://myanimelist.net/anime/36649/Banana_Fish",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg?s=a44d13e8e51c4c0e8f80f019e142614c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1190/93472t.jpg?s=a44d13e8e51c4c0e8f80f019e142614c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1190/93472l.jpg?s=a44d13e8e51c4c0e8f80f019e142614c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1190/93472.webp?s=a44d13e8e51c4c0e8f80f019e142614c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1190/93472t.webp?s=a44d13e8e51c4c0e8f80f019e142614c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1190/93472l.webp?s=a44d13e8e51c4c0e8f80f019e142614c"
+                }
+            },
+            "title": "Banana Fish",
+            "airing": false,
+            "synopsis": "Aslan Jade Callenreese, known as Ash Lynx, was a runaway picked off the streets of New York City and raised by the infamous godfather of the mafia, Dino Golzine. Now 17 years old and the boss of his o...",
+            "type": "TV",
+            "episodes": 24,
+            "score": 8.45,
+            "startDate": "2018-07-06T00:00:00+00:00",
+            "endDate": "2018-12-21T00:00:00+00:00",
+            "members": 948722,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34957,
+            "url": "https://myanimelist.net/anime/34957/Ookami_wa_Ookami_da",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1090/92231.jpg?s=341a77bf98ddee74cff35e03a4e44c5d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1090/92231t.jpg?s=341a77bf98ddee74cff35e03a4e44c5d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1090/92231l.jpg?s=341a77bf98ddee74cff35e03a4e44c5d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1090/92231.webp?s=341a77bf98ddee74cff35e03a4e44c5d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1090/92231t.webp?s=341a77bf98ddee74cff35e03a4e44c5d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1090/92231l.webp?s=341a77bf98ddee74cff35e03a4e44c5d"
+                }
+            },
+            "title": "Ookami wa Ookami da",
+            "airing": false,
+            "synopsis": "Village animals are at a loss what to do about the tyrannical wolf. The clever monkey proposes an idea. (Source: Japanese Animated Film Classics)",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 5.14,
+            "startDate": "2031-01-01T00:00:00+00:00",
+            "endDate": "2031-01-01T00:00:00+00:00",
+            "members": 731,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 21561,
+            "url": "https://myanimelist.net/anime/21561/Ryuugajou_Nanana_no_Maizoukin",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/60475.jpg?s=b3cbcb68936b1d838ecd136f5b78cd94",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/60475t.jpg?s=b3cbcb68936b1d838ecd136f5b78cd94",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/60475l.jpg?s=b3cbcb68936b1d838ecd136f5b78cd94"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/60475.webp?s=b3cbcb68936b1d838ecd136f5b78cd94",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/60475t.webp?s=b3cbcb68936b1d838ecd136f5b78cd94",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/60475l.webp?s=b3cbcb68936b1d838ecd136f5b78cd94"
+                }
+            },
+            "title": "Ryuugajou Nanana no Maizoukin",
+            "airing": false,
+            "synopsis": "Nanae Island is a man-made island in the Pacific Ocean that holds everything necessary for the proper education and training of children. It was created by the Great Seven, a group of adventurers head...",
+            "type": "TV",
+            "episodes": 11,
+            "score": 7.11,
+            "startDate": "2014-04-11T00:00:00+00:00",
+            "endDate": "2014-06-20T00:00:00+00:00",
+            "members": 246759,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 357,
+            "url": "https://myanimelist.net/anime/357/Bokusatsu_Tenshi_Dokuro-chan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/13210.jpg?s=180c6d93e2ec47a3b845755c4eba9427",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/13210t.jpg?s=180c6d93e2ec47a3b845755c4eba9427",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/13210l.jpg?s=180c6d93e2ec47a3b845755c4eba9427"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/13210.webp?s=180c6d93e2ec47a3b845755c4eba9427",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/13210t.webp?s=180c6d93e2ec47a3b845755c4eba9427",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/13210l.webp?s=180c6d93e2ec47a3b845755c4eba9427"
+                }
+            },
+            "title": "Bokusatsu Tenshi Dokuro-chan",
+            "airing": false,
+            "synopsis": "Sakura Kusakabe, a mere junior high student, has committed a horrible crime. Or, rather, he will commit a crime—20 years into the future. The crime in question? He will prevent all women from developi...",
+            "type": "OVA",
+            "episodes": 4,
+            "score": 6.53,
+            "startDate": "2005-03-13T00:00:00+00:00",
+            "endDate": "2005-09-22T00:00:00+00:00",
+            "members": 216274,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 2154,
+            "url": "https://myanimelist.net/anime/2154/Tekkon_Kinkreet",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/8520.jpg?s=2a4bf978479651b1847a0f3fb8888e9b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/8520t.jpg?s=2a4bf978479651b1847a0f3fb8888e9b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/8520l.jpg?s=2a4bf978479651b1847a0f3fb8888e9b"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/8520.webp?s=2a4bf978479651b1847a0f3fb8888e9b",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/8520t.webp?s=2a4bf978479651b1847a0f3fb8888e9b",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/8520l.webp?s=2a4bf978479651b1847a0f3fb8888e9b"
+                }
+            },
+            "title": "Tekkon Kinkreet",
+            "airing": false,
+            "synopsis": "The streets of Treasure Town are said to belong to \"The Cats.\" They know everything that goes on in the city, and no one can stir up trouble without going through them first. In reality, The Cats are...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.93,
+            "startDate": "2006-12-23T00:00:00+00:00",
+            "endDate": "2006-12-23T00:00:00+00:00",
+            "members": 122419,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 6007,
+            "url": "https://myanimelist.net/anime/6007/Ookami_to_Koushinryou_II__Ookami_to_Kohakuiro_no_Yuuutsu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/13070.jpg?s=fae36a691ee314625d5ff277bd2a0cf0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/13070t.jpg?s=fae36a691ee314625d5ff277bd2a0cf0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/13070l.jpg?s=fae36a691ee314625d5ff277bd2a0cf0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/13070.webp?s=fae36a691ee314625d5ff277bd2a0cf0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/13070t.webp?s=fae36a691ee314625d5ff277bd2a0cf0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/13070l.webp?s=fae36a691ee314625d5ff277bd2a0cf0"
+                }
+            },
+            "title": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+            "airing": false,
+            "synopsis": "Traveling merchant Kraft Lawrence and wolf deity Holo sit down to have dinner with Norah Arendt, a young shepherdess who helped them smuggle gold. Holo's dislike of Norah—due to both the latter's prof...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 7.86,
+            "startDate": "2009-04-30T00:00:00+00:00",
+            "endDate": "2009-04-30T00:00:00+00:00",
+            "members": 180602,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 42517,
+            "url": "https://myanimelist.net/anime/42517/Ookami-san_wa_Taberaretai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg?s=b7fb54af43bbf64cc3cd7611a9929404",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606t.jpg?s=b7fb54af43bbf64cc3cd7611a9929404",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606l.jpg?s=b7fb54af43bbf64cc3cd7611a9929404"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606.webp?s=b7fb54af43bbf64cc3cd7611a9929404",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606t.webp?s=b7fb54af43bbf64cc3cd7611a9929404",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1020/108606l.webp?s=b7fb54af43bbf64cc3cd7611a9929404"
+                }
+            },
+            "title": "Ookami-san wa Taberaretai",
+            "airing": false,
+            "synopsis": "\"I want Akagashira-sensei to be my first!\" Having a run in with the \"skirt bandit,\" Ookami almost has her skirt stolen. Her teacher, Akagashira, passes by and becomes her hero after stopping the theft...",
+            "type": "ONA",
+            "episodes": 3,
+            "score": 5.88,
+            "startDate": "2020-09-07T00:00:00+00:00",
+            "endDate": "2020-09-21T00:00:00+00:00",
+            "members": 25010,
+            "rated": "Rx"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33654,
+            "url": "https://myanimelist.net/anime/33654/Hitorijime_My_Hero",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/86825.jpg?s=05c28218c27609b3d80f42fad6d514a5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/86825t.jpg?s=05c28218c27609b3d80f42fad6d514a5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/86825l.jpg?s=05c28218c27609b3d80f42fad6d514a5"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/86825.webp?s=05c28218c27609b3d80f42fad6d514a5",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/86825t.webp?s=05c28218c27609b3d80f42fad6d514a5",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/86825l.webp?s=05c28218c27609b3d80f42fad6d514a5"
+                }
+            },
+            "title": "Hitorijime My Hero",
+            "airing": false,
+            "synopsis": "Masahiro Setagawa is a hopeless teenager who is often used by the neighborhood bullies as an errand boy. Defenseless, Masahiro knows that nobody will ever save him. However, his life drastically chang...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.25,
+            "startDate": "2017-07-08T00:00:00+00:00",
+            "endDate": "2017-09-23T00:00:00+00:00",
+            "members": 181600,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 41124,
+            "url": "https://myanimelist.net/anime/41124/Zashiki_Warashi_no_Tatami-chan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1813/116873.jpg?s=9312b3f62596c5d98ee516adda57bf3d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1813/116873t.jpg?s=9312b3f62596c5d98ee516adda57bf3d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1813/116873l.jpg?s=9312b3f62596c5d98ee516adda57bf3d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1813/116873.webp?s=9312b3f62596c5d98ee516adda57bf3d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1813/116873t.webp?s=9312b3f62596c5d98ee516adda57bf3d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1813/116873l.webp?s=9312b3f62596c5d98ee516adda57bf3d"
+                }
+            },
+            "title": "Zashiki Warashi no Tatami-chan",
+            "airing": false,
+            "synopsis": "The \"pleasant horror gag comedy\" centers around the life of Tatami-chan, a sardonic ghost from Iwate Prefecture who is now living in Tokyo among other spirits, supernatural entities, and humans. In ad...",
+            "type": "ONA",
+            "episodes": 12,
+            "score": 5.23,
+            "startDate": "2020-04-10T00:00:00+00:00",
+            "endDate": "2020-06-26T00:00:00+00:00",
+            "members": 5953,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 7079,
+            "url": "https://myanimelist.net/anime/7079/Ookamikakushi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/21784.jpg?s=ca012d1c269f6b34eff5f83e7458a9a1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/21784t.jpg?s=ca012d1c269f6b34eff5f83e7458a9a1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/21784l.jpg?s=ca012d1c269f6b34eff5f83e7458a9a1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/21784.webp?s=ca012d1c269f6b34eff5f83e7458a9a1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/21784t.webp?s=ca012d1c269f6b34eff5f83e7458a9a1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/21784l.webp?s=ca012d1c269f6b34eff5f83e7458a9a1"
+                }
+            },
+            "title": "Ookamikakushi",
+            "airing": false,
+            "synopsis": "Due to his father's job, 15-year-old Hiroshi Kuzumi and his family move to the mountain town of Jouga. While some teenagers might have to worry about fitting in or feel out of place in a new environme...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.29,
+            "startDate": "2010-01-08T00:00:00+00:00",
+            "endDate": "2010-03-26T00:00:00+00:00",
+            "members": 76069,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38778,
+            "url": "https://myanimelist.net/anime/38778/Midara_na_Ao-chan_wa_Benkyou_ga_Dekinai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1718/98214.jpg?s=20ac2e7acf08604efeea0ce0d4b6ad5d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1718/98214t.jpg?s=20ac2e7acf08604efeea0ce0d4b6ad5d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1718/98214l.jpg?s=20ac2e7acf08604efeea0ce0d4b6ad5d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1718/98214.webp?s=20ac2e7acf08604efeea0ce0d4b6ad5d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1718/98214t.webp?s=20ac2e7acf08604efeea0ce0d4b6ad5d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1718/98214l.webp?s=20ac2e7acf08604efeea0ce0d4b6ad5d"
+                }
+            },
+            "title": "Midara na Ao-chan wa Benkyou ga Dekinai",
+            "airing": false,
+            "synopsis": "\"Show them your A-O face!\" As an innocent child, Ao Horie would unhesitantly proclaim the origins of her name. Now that she is in high school, she is determined to study hard in order to one day escap...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.69,
+            "startDate": "2019-04-06T00:00:00+00:00",
+            "endDate": "2019-06-22T00:00:00+00:00",
+            "members": 300869,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 20931,
+            "url": "https://myanimelist.net/anime/20931/Oneechan_ga_Kita",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/56415.jpg?s=8308e7512758b7e0e769923a32d5f115",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/56415t.jpg?s=8308e7512758b7e0e769923a32d5f115",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/56415l.jpg?s=8308e7512758b7e0e769923a32d5f115"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/56415.webp?s=8308e7512758b7e0e769923a32d5f115",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/56415t.webp?s=8308e7512758b7e0e769923a32d5f115",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/56415l.webp?s=8308e7512758b7e0e769923a32d5f115"
+                }
+            },
+            "title": "Oneechan ga Kita",
+            "airing": false,
+            "synopsis": "The story revolves around Tomoya Mizuhara, a 13-year-old boy who suddenly gains a big sister when his father remarries. 17-year-old Ichika is a little strange, and her affection for Tomoya is rather o...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.32,
+            "startDate": "2014-01-09T00:00:00+00:00",
+            "endDate": "2014-03-27T00:00:00+00:00",
+            "members": 128236,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 5258,
+            "url": "https://myanimelist.net/anime/5258/Hajime_no_Ippo__New_Challenger",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/56617.jpg?s=4c8a3a8180c114c3771eb183e5318a0e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/56617t.jpg?s=4c8a3a8180c114c3771eb183e5318a0e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/56617l.jpg?s=4c8a3a8180c114c3771eb183e5318a0e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/56617.webp?s=4c8a3a8180c114c3771eb183e5318a0e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/56617t.webp?s=4c8a3a8180c114c3771eb183e5318a0e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/56617l.webp?s=4c8a3a8180c114c3771eb183e5318a0e"
+                }
+            },
+            "title": "Hajime no Ippo: New Challenger",
+            "airing": false,
+            "synopsis": "Japanese Featherweight Champion Ippo Makunouchi has successfully defended and retained his title. Meanwhile, his rival, Ichirou Miyata, has resurfaced in Japan, aiming for his own Featherweight belt i...",
+            "type": "TV",
+            "episodes": 26,
+            "score": 8.67,
+            "startDate": "2009-01-07T00:00:00+00:00",
+            "endDate": "2009-07-01T00:00:00+00:00",
+            "members": 320538,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 263,
+            "url": "https://myanimelist.net/anime/263/Hajime_no_Ippo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86334.jpg?s=4b3096d30158e251d87c196e56c04e63",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334t.jpg?s=4b3096d30158e251d87c196e56c04e63",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg?s=4b3096d30158e251d87c196e56c04e63"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86334.webp?s=4b3096d30158e251d87c196e56c04e63",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334t.webp?s=4b3096d30158e251d87c196e56c04e63",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.webp?s=4b3096d30158e251d87c196e56c04e63"
+                }
+            },
+            "title": "Hajime no Ippo",
+            "airing": false,
+            "synopsis": "In his father's absence, teenager Ippo Makunouchi works hard to help his mother run her fishing boat rental business. Ippo's timid nature, his lack of sleep, and the sea smell make him an easy target...",
+            "type": "TV",
+            "episodes": 75,
+            "score": 8.78,
+            "startDate": "2000-10-04T00:00:00+00:00",
+            "endDate": "2002-03-27T00:00:00+00:00",
+            "members": 678977,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 12967,
+            "url": "https://myanimelist.net/anime/12967/Arcana_Famiglia",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/39495.jpg?s=bae33a8a371e2c9e63acfcfcfd85c536",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/39495t.jpg?s=bae33a8a371e2c9e63acfcfcfd85c536",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/39495l.jpg?s=bae33a8a371e2c9e63acfcfcfd85c536"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/39495.webp?s=bae33a8a371e2c9e63acfcfcfd85c536",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/39495t.webp?s=bae33a8a371e2c9e63acfcfcfd85c536",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/39495l.webp?s=bae33a8a371e2c9e63acfcfcfd85c536"
+                }
+            },
+            "title": "Arcana Famiglia",
+            "airing": false,
+            "synopsis": "​On the island of Regalo, a group of supernaturally powered mafia-like protectors called the Arcana Famiglia safeguard the people from any who would harm them. The members of their organization, havin...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.26,
+            "startDate": "2012-07-01T00:00:00+00:00",
+            "endDate": "2012-09-16T00:00:00+00:00",
+            "members": 219287,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10080,
+            "url": "https://myanimelist.net/anime/10080/Kami_nomi_zo_Shiru_Sekai_II",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/30030.jpg?s=5ed56f5a8142c82369f7f964abf2bb19",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/30030t.jpg?s=5ed56f5a8142c82369f7f964abf2bb19",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/30030l.jpg?s=5ed56f5a8142c82369f7f964abf2bb19"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/30030.webp?s=5ed56f5a8142c82369f7f964abf2bb19",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/30030t.webp?s=5ed56f5a8142c82369f7f964abf2bb19",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/30030l.webp?s=5ed56f5a8142c82369f7f964abf2bb19"
+                }
+            },
+            "title": "Kami nomi zo Shiru Sekai II",
+            "airing": false,
+            "synopsis": "Keima Katsuragi, the \"God of Conquest,\" returns to his quest of expelling runaway spirits that have possessed the hearts of women. Still stuck in his contract with the demon Elsie, he must continue to...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.86,
+            "startDate": "2011-04-12T00:00:00+00:00",
+            "endDate": "2011-06-28T00:00:00+00:00",
+            "members": 407003,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34835,
+            "url": "https://myanimelist.net/anime/34835/Crayon_Shin-chan_Gaiden__Kazokuzure_Ookami",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/84069.jpg?s=f2682f0914f763e2d2cec483e73e180f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/84069t.jpg?s=f2682f0914f763e2d2cec483e73e180f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/84069l.jpg?s=f2682f0914f763e2d2cec483e73e180f"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/84069.webp?s=f2682f0914f763e2d2cec483e73e180f",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/84069t.webp?s=f2682f0914f763e2d2cec483e73e180f",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/84069l.webp?s=f2682f0914f763e2d2cec483e73e180f"
+                }
+            },
+            "title": "Crayon Shin-chan Gaiden: Kazokuzure Ookami",
+            "airing": false,
+            "synopsis": "Master butt-swordsman Hiroshinosuke Nohara (Lone Wolf) travels with his family seeking employment. The family encounters a mysterious girl Hazumi and a wild dog Shiro, and decides to travel together....",
+            "type": "ONA",
+            "episodes": 13,
+            "score": 6.79,
+            "startDate": "2017-02-22T00:00:00+00:00",
+            "endDate": "2017-05-17T00:00:00+00:00",
+            "members": 2419,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 3619,
+            "url": "https://myanimelist.net/anime/3619/Nanako_SOS",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/6635.jpg?s=94f68b6791f927c231eac238bf7e6288",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/6635t.jpg?s=94f68b6791f927c231eac238bf7e6288",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/6635l.jpg?s=94f68b6791f927c231eac238bf7e6288"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/6635.webp?s=94f68b6791f927c231eac238bf7e6288",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/6635t.webp?s=94f68b6791f927c231eac238bf7e6288",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/6635l.webp?s=94f68b6791f927c231eac238bf7e6288"
+                }
+            },
+            "title": "Nanako SOS",
+            "airing": false,
+            "synopsis": "Nanako is a young girl who unexpectedly acquires supernatural powers and at the same time loses her past memory. By accident, a scientific genius called Marlow, is present when she acquires her powers...",
+            "type": "TV",
+            "episodes": 39,
+            "score": 6.3,
+            "startDate": "1983-04-02T00:00:00+00:00",
+            "endDate": "1983-12-24T00:00:00+00:00",
+            "members": 3165,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34403,
+            "url": "https://myanimelist.net/anime/34403/Hajimete_no_Gal",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86826.jpg?s=223997903a1151cbb00763b7d89a4ef8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/86826t.jpg?s=223997903a1151cbb00763b7d89a4ef8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/86826l.jpg?s=223997903a1151cbb00763b7d89a4ef8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86826.webp?s=223997903a1151cbb00763b7d89a4ef8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/86826t.webp?s=223997903a1151cbb00763b7d89a4ef8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/86826l.webp?s=223997903a1151cbb00763b7d89a4ef8"
+                }
+            },
+            "title": "Hajimete no Gal",
+            "airing": false,
+            "synopsis": "Following a prank pulled by his perverse friends, Junichi Hashiba asks a gal out in an attempt to change the fact that he's a hopeless virgin. Yukana Yame, the girl in question, is disgusted by Junich...",
+            "type": "TV",
+            "episodes": 10,
+            "score": 6.27,
+            "startDate": "2017-07-12T00:00:00+00:00",
+            "endDate": "2017-09-13T00:00:00+00:00",
+            "members": 590331,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 38549,
+            "url": "https://myanimelist.net/anime/38549/TV_Yarou_Nanaana",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1193/99964.jpg?s=03e3eb52190b3658e4ffe175e8c28054",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1193/99964t.jpg?s=03e3eb52190b3658e4ffe175e8c28054",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1193/99964l.jpg?s=03e3eb52190b3658e4ffe175e8c28054"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1193/99964.webp?s=03e3eb52190b3658e4ffe175e8c28054",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1193/99964t.webp?s=03e3eb52190b3658e4ffe175e8c28054",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1193/99964l.webp?s=03e3eb52190b3658e4ffe175e8c28054"
+                }
+            },
+            "title": "TV Yarou Nanaana",
+            "airing": false,
+            "synopsis": "After the administrative board at TV Nanaana cancels the network's most popular show for \"indecency,'' the station's film crew—team leader Nanaoka, cameraman Nanamori, and audio specialist Nanayama—bo...",
+            "type": "TV",
+            "episodes": 24,
+            "score": 6.39,
+            "startDate": "2018-04-06T00:00:00+00:00",
+            "endDate": "2018-09-14T00:00:00+00:00",
+            "members": 2263,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 23007,
+            "url": "https://myanimelist.net/anime/23007/Ookami_Shounen_Ken_Movie",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1988/150268.jpg?s=1c0b64f8f351cbd0bdb7dbdfe3031f79",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1988/150268t.jpg?s=1c0b64f8f351cbd0bdb7dbdfe3031f79",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1988/150268l.jpg?s=1c0b64f8f351cbd0bdb7dbdfe3031f79"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1988/150268.webp?s=1c0b64f8f351cbd0bdb7dbdfe3031f79",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1988/150268t.webp?s=1c0b64f8f351cbd0bdb7dbdfe3031f79",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1988/150268l.webp?s=1c0b64f8f351cbd0bdb7dbdfe3031f79"
+                }
+            },
+            "title": "Ookami Shounen Ken (Movie)",
+            "airing": false,
+            "synopsis": "",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "1963-12-21T00:00:00+00:00",
+            "endDate": "1963-12-21T00:00:00+00:00",
+            "members": 758,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34704,
+            "url": "https://myanimelist.net/anime/34704/Hashi_no_Ue_no_Ookami",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/83680.jpg?s=f390033cb7e6ec9ebc031ed83471d91a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/83680t.jpg?s=f390033cb7e6ec9ebc031ed83471d91a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/83680l.jpg?s=f390033cb7e6ec9ebc031ed83471d91a"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/7/83680.webp?s=f390033cb7e6ec9ebc031ed83471d91a",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/83680t.webp?s=f390033cb7e6ec9ebc031ed83471d91a",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/83680l.webp?s=f390033cb7e6ec9ebc031ed83471d91a"
+                }
+            },
+            "title": "Hashi no Ue no Ookami",
+            "airing": false,
+            "synopsis": "A stop-motion educational animation about a wolf who learns the difference between pleasantness and kindness--and who that cultivates your attitude when interacting with others.",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": null,
+            "endDate": null,
+            "members": 182,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 41619,
+            "url": "https://myanimelist.net/anime/41619/Munou_na_Nana",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/110433.jpg?s=ad65cc3e1bf542023d8988cc89798084",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1301/110433t.jpg?s=ad65cc3e1bf542023d8988cc89798084",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1301/110433l.jpg?s=ad65cc3e1bf542023d8988cc89798084"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1301/110433.webp?s=ad65cc3e1bf542023d8988cc89798084",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1301/110433t.webp?s=ad65cc3e1bf542023d8988cc89798084",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1301/110433l.webp?s=ad65cc3e1bf542023d8988cc89798084"
+                }
+            },
+            "title": "Munou na Nana",
+            "airing": false,
+            "synopsis": "Fifty years ago, horrific creatures dubbed as the \"enemies of humanity\" suddenly appeared around the world. To combat these threats, teenagers gifted with supernatural abilities called \"Talents\"—such...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 7.16,
+            "startDate": "2020-10-04T00:00:00+00:00",
+            "endDate": "2020-12-27T00:00:00+00:00",
+            "members": 372335,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 29129,
+            "url": "https://myanimelist.net/anime/29129/Ookami_Shoujo_to_Kuro_Ouji_Recap",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/78439.jpg?s=681ba79c83e1e3a1717db10984a0dd91",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/78439t.jpg?s=681ba79c83e1e3a1717db10984a0dd91",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/78439l.jpg?s=681ba79c83e1e3a1717db10984a0dd91"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/78439.webp?s=681ba79c83e1e3a1717db10984a0dd91",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/78439t.webp?s=681ba79c83e1e3a1717db10984a0dd91",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/78439l.webp?s=681ba79c83e1e3a1717db10984a0dd91"
+                }
+            },
+            "title": "Ookami Shoujo to Kuro Ouji Recap",
+            "airing": false,
+            "synopsis": "Recap of Ookami Shoujo to Kuro Ouji TV series.",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 6.8,
+            "startDate": "2014-12-28T00:00:00+00:00",
+            "endDate": "2014-12-28T00:00:00+00:00",
+            "members": 18053,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 5973,
+            "url": "https://myanimelist.net/anime/5973/Fight_Ippatsu_Juuden-chan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/12946.jpg?s=815dd09ef926b410e02a71843d358c2c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/12946t.jpg?s=815dd09ef926b410e02a71843d358c2c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/12946l.jpg?s=815dd09ef926b410e02a71843d358c2c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/12946.webp?s=815dd09ef926b410e02a71843d358c2c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/12946t.webp?s=815dd09ef926b410e02a71843d358c2c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/12946l.webp?s=815dd09ef926b410e02a71843d358c2c"
+                }
+            },
+            "title": "Fight Ippatsu! Juuden-chan!!",
+            "airing": false,
+            "synopsis": "Meet Plug, an unusual girl from a parallel world. Plug is a \"Juuden-chan,\" capable of \"recharging\" people down on their luck, spreading good cheer wherever she goes!",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.59,
+            "startDate": "2009-06-25T00:00:00+00:00",
+            "endDate": "2009-09-10T00:00:00+00:00",
+            "members": 38701,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 5079,
+            "url": "https://myanimelist.net/anime/5079/Kurokami_The_Animation",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/78669.jpg?s=78ba415f691b88f1bc0b4496202fceb8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/78669t.jpg?s=78ba415f691b88f1bc0b4496202fceb8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/78669l.jpg?s=78ba415f691b88f1bc0b4496202fceb8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/78669.webp?s=78ba415f691b88f1bc0b4496202fceb8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/78669t.webp?s=78ba415f691b88f1bc0b4496202fceb8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/78669l.webp?s=78ba415f691b88f1bc0b4496202fceb8"
+                }
+            },
+            "title": "Kurokami The Animation",
+            "airing": false,
+            "synopsis": "High school student Ibuki Keita has been haunted by misfortune for as long as he can remember. For no apparent reason, everyone around him dies tragically. Ultimately, he refuses to become too close t...",
+            "type": "TV",
+            "episodes": 23,
+            "score": 7.11,
+            "startDate": "2009-01-09T00:00:00+00:00",
+            "endDate": "2009-06-19T00:00:00+00:00",
+            "members": 127102,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 28299,
+            "url": "https://myanimelist.net/anime/28299/Ookami_Shoujo_to_Kuro_Ouji__Gishinanki_–_Happening_Kiss",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1212/147376.jpg?s=52066a91a76074bdbe340ca28a3cebb0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1212/147376t.jpg?s=52066a91a76074bdbe340ca28a3cebb0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1212/147376l.jpg?s=52066a91a76074bdbe340ca28a3cebb0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1212/147376.webp?s=52066a91a76074bdbe340ca28a3cebb0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1212/147376t.webp?s=52066a91a76074bdbe340ca28a3cebb0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1212/147376l.webp?s=52066a91a76074bdbe340ca28a3cebb0"
+                }
+            },
+            "title": "Ookami Shoujo to Kuro Ouji: Gishinanki – Happening Kiss",
+            "airing": false,
+            "synopsis": "It is Kyouya Sata's 17th birthday, and it seems Erika Shinohara has forgotten about her beloved boyfriend's important day. Even Erika's best friend, Ayumi Sanda, appears to be unaware as she asks Kyou...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 7.2,
+            "startDate": "2015-04-24T00:00:00+00:00",
+            "endDate": "2015-04-24T00:00:00+00:00",
+            "members": 57904,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 22451,
+            "url": "https://myanimelist.net/anime/22451/Bad_Badtz-Maru_no_Ookami_ga_Kita",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/58669.jpg?s=dd63303c0ef85b0134300fcea5e79cd4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/58669t.jpg?s=dd63303c0ef85b0134300fcea5e79cd4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/58669l.jpg?s=dd63303c0ef85b0134300fcea5e79cd4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/13/58669.webp?s=dd63303c0ef85b0134300fcea5e79cd4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/58669t.webp?s=dd63303c0ef85b0134300fcea5e79cd4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/58669l.webp?s=dd63303c0ef85b0134300fcea5e79cd4"
+                }
+            },
+            "title": "Bad Badtz-Maru no Ookami ga Kita!",
+            "airing": false,
+            "synopsis": "Bad Badtz-Maru and friends re-create the classic story of The Boy Who Cried Wolf.",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 5.64,
+            "startDate": "2001-07-20T00:00:00+00:00",
+            "endDate": "2001-07-20T00:00:00+00:00",
+            "members": 687,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 21395,
+            "url": "https://myanimelist.net/anime/21395/Crayon_Shin-chan_Movie_22__Gachinko_Gyakushuu_no_Robo_To-chan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1696/94870.jpg?s=2095f4a44d5c4e14faefd9470384fe02",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1696/94870t.jpg?s=2095f4a44d5c4e14faefd9470384fe02",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1696/94870l.jpg?s=2095f4a44d5c4e14faefd9470384fe02"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1696/94870.webp?s=2095f4a44d5c4e14faefd9470384fe02",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1696/94870t.webp?s=2095f4a44d5c4e14faefd9470384fe02",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1696/94870l.webp?s=2095f4a44d5c4e14faefd9470384fe02"
+                }
+            },
+            "title": "Crayon Shin-chan Movie 22: Gachinko! Gyakushuu no Robo To-chan",
+            "airing": false,
+            "synopsis": "Hiroshi got a slipped disk due to a back injury. He was taken to an Este salon by a mysterious beautiful girl who appeared suddenly, to receive a free trial of beauty treatment as well as a massage. W...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.49,
+            "startDate": "2014-04-19T00:00:00+00:00",
+            "endDate": "2014-04-19T00:00:00+00:00",
+            "members": 7656,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34580,
+            "url": "https://myanimelist.net/anime/34580/Nana_Maru_San_Batsu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1818/121071.jpg?s=ddb4d1706e952d0a516bf8659fefac98",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1818/121071t.jpg?s=ddb4d1706e952d0a516bf8659fefac98",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1818/121071l.jpg?s=ddb4d1706e952d0a516bf8659fefac98"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1818/121071.webp?s=ddb4d1706e952d0a516bf8659fefac98",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1818/121071t.webp?s=ddb4d1706e952d0a516bf8659fefac98",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1818/121071l.webp?s=ddb4d1706e952d0a516bf8659fefac98"
+                }
+            },
+            "title": "Nana Maru San Batsu",
+            "airing": false,
+            "synopsis": "As soon as he entered high school, the first year student Koshiyama Shiki was invited to the mysterious Quiz Study Group led by his senpai. What will Shiki run into when being dragged along by his cla...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.66,
+            "startDate": "2017-07-05T00:00:00+00:00",
+            "endDate": "2017-09-20T00:00:00+00:00",
+            "members": 78891,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 816,
+            "url": "https://myanimelist.net/anime/816/Nanako_Kaitai_Shinsho",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/16175.jpg?s=36b7d8e6218822c23075672eb19a0606",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/16175t.jpg?s=36b7d8e6218822c23075672eb19a0606",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/16175l.jpg?s=36b7d8e6218822c23075672eb19a0606"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/16175.webp?s=36b7d8e6218822c23075672eb19a0606",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/16175t.webp?s=36b7d8e6218822c23075672eb19a0606",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/16175l.webp?s=36b7d8e6218822c23075672eb19a0606"
+                }
+            },
+            "title": "Nanako Kaitai Shinsho",
+            "airing": false,
+            "synopsis": "Nanako is a an inept apprentice nurse to the brilliant young Dr. Kouji. Now for some reason, Nanako is always being targeted by various elements which makes Nanako wonder if she has done anything wron...",
+            "type": "OVA",
+            "episodes": 6,
+            "score": 5.51,
+            "startDate": "1999-07-05T00:00:00+00:00",
+            "endDate": "2000-03-24T00:00:00+00:00",
+            "members": 13633,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 17521,
+            "url": "https://myanimelist.net/anime/17521/Ookami_Shounen_Ken",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/56389.jpg?s=444a0d5209723498bd79adc8995677fc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/56389t.jpg?s=444a0d5209723498bd79adc8995677fc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/56389l.jpg?s=444a0d5209723498bd79adc8995677fc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/56389.webp?s=444a0d5209723498bd79adc8995677fc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/56389t.webp?s=444a0d5209723498bd79adc8995677fc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/56389l.webp?s=444a0d5209723498bd79adc8995677fc"
+                }
+            },
+            "title": "Ookami Shounen Ken",
+            "airing": false,
+            "synopsis": "Ken The Wolf Boy is about the adventures of Ken, who was brought up by wolves in the jungle and can be compared to Jungle Book. His main companions were two young wolves named Chi Chi and Po Po. (Sour...",
+            "type": "TV",
+            "episodes": 86,
+            "score": 5.91,
+            "startDate": "1963-11-25T00:00:00+00:00",
+            "endDate": "1965-08-16T00:00:00+00:00",
+            "members": 1322,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 19585,
+            "url": "https://myanimelist.net/anime/19585/Kobo-chan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1017/99304.jpg?s=b8250a5e2b1b5478a54197292d46f55d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1017/99304t.jpg?s=b8250a5e2b1b5478a54197292d46f55d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1017/99304l.jpg?s=b8250a5e2b1b5478a54197292d46f55d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1017/99304.webp?s=b8250a5e2b1b5478a54197292d46f55d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1017/99304t.webp?s=b8250a5e2b1b5478a54197292d46f55d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1017/99304l.webp?s=b8250a5e2b1b5478a54197292d46f55d"
+                }
+            },
+            "title": "Kobo-chan",
+            "airing": false,
+            "synopsis": "Kobo Tabata lives in a typical Japanese family. His father is a normal salary-man, his mother's a typical housewife, his grandparents (from his mother's side) help to take care of the family and it's...",
+            "type": "TV",
+            "episodes": 63,
+            "score": 6.54,
+            "startDate": "1992-10-19T00:00:00+00:00",
+            "endDate": "1994-03-21T00:00:00+00:00",
+            "members": 1123,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 13517,
+            "url": "https://myanimelist.net/anime/13517/Ryuugajou_Nanana_no_Maizoukin_PV",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/47725.jpg?s=d8fcf9af73e7de5e957dca9b3bf95778",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/47725t.jpg?s=d8fcf9af73e7de5e957dca9b3bf95778",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/47725l.jpg?s=d8fcf9af73e7de5e957dca9b3bf95778"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/47725.webp?s=d8fcf9af73e7de5e957dca9b3bf95778",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/47725t.webp?s=d8fcf9af73e7de5e957dca9b3bf95778",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/47725l.webp?s=d8fcf9af73e7de5e957dca9b3bf95778"
+                }
+            },
+            "title": "Ryuugajou Nanana no Maizoukin PV",
+            "airing": false,
+            "synopsis": "Promotion video for Kazuma Ootorino's light novel Ryuugajou Nanana no Maizoukin, commissioned by Enterbrain after Ootorino won the 13th Entertainment Awards Grand Prize (Entame Taishou) from the publi...",
+            "type": "PV",
+            "episodes": 1,
+            "score": 6.54,
+            "startDate": "2011-12-26T00:00:00+00:00",
+            "endDate": "2011-12-26T00:00:00+00:00",
+            "members": 14303,
+            "rated": "PG-13"
+        }
+    ]
+}

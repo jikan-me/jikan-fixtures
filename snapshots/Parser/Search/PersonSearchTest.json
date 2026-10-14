@@ -1,0 +1,740 @@
+{
+    "@class": "Jikan\\Model\\Search\\PersonSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 88304,
+            "url": "https://myanimelist.net/people/88304/ARA",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "ARA",
+            "alternativeNames": [
+                "아라"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 90017,
+            "url": "https://myanimelist.net/people/90017/Aoi_Arawoka",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arawoka, Aoi",
+            "alternativeNames": [
+                "Aoi Araoka"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 78998,
+            "url": "https://myanimelist.net/people/78998/Ararechan",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Ararechan",
+            "alternativeNames": [
+                "Arare-chan"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 5159,
+            "url": "https://myanimelist.net/people/5159/Rui_Araizumi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/84376.jpg?s=2c1351e4b0fa9b4c953e90c3579ed3bc"
+                }
+            },
+            "name": "Araizumi, Rui",
+            "alternativeNames": [
+                "あらいず☆みるい"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 33423,
+            "url": "https://myanimelist.net/people/33423/Tatsuya_Ara",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Ara, Tatsuya",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 6803,
+            "url": "https://myanimelist.net/people/6803/Suara",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/41933.jpg?s=335427f9f4e6ff70d2581ece4c7addcc"
+                }
+            },
+            "name": "Suara",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 47247,
+            "url": "https://myanimelist.net/people/47247/Masayoshi_Ara",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Ara, Masayoshi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 90122,
+            "url": "https://myanimelist.net/people/90122/Takashi_Ara",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Ara, Takashi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 34139,
+            "url": "https://myanimelist.net/people/34139/Arakure",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arakure",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 79631,
+            "url": "https://myanimelist.net/people/79631/Megumi_Aratake",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/82760.jpg?s=d8b808b366a611af645a7329354100a2"
+                }
+            },
+            "name": "Aratake, Megumi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 87451,
+            "url": "https://myanimelist.net/people/87451/Daisuke_Aranishi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Aranishi, Daisuke",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 61206,
+            "url": "https://myanimelist.net/people/61206/Arare_Yuki",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Yuki, Arare",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 25837,
+            "url": "https://myanimelist.net/people/25837/Yuu_Araoshi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Araoshi, Yuu",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 43492,
+            "url": "https://myanimelist.net/people/43492/Koara_Kishida",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Kishida, Koara",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 66046,
+            "url": "https://myanimelist.net/people/66046/Arako_Toaru",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Toaru, Arako",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 41067,
+            "url": "https://myanimelist.net/people/41067/Arare_Matsumushi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Matsumushi, Arare",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 91795,
+            "url": "https://myanimelist.net/people/91795/Otaku_Ara",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Ara, Otaku",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 51713,
+            "url": "https://myanimelist.net/people/51713/Arare_Ame",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Ame, Arare",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 16697,
+            "url": "https://myanimelist.net/people/16697/Arare_Ame",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Ame, Arare",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 42276,
+            "url": "https://myanimelist.net/people/42276/Aranobu_Takeda",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Takeda, Aranobu",
+            "alternativeNames": [
+                "新野たけし",
+                "たけ（´￢｀）ちゃっと"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 39898,
+            "url": "https://myanimelist.net/people/39898/Arare_Onibi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Onibi, Arare",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 66144,
+            "url": "https://myanimelist.net/people/66144/Asato_Arato",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arato, Asato",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 36553,
+            "url": "https://myanimelist.net/people/36553/Arai_Man",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/43191.jpg?s=1bc9dad1e3c8eeb2f1c72cf0b87d1ad9"
+                }
+            },
+            "name": "Arai Man",
+            "alternativeNames": [
+                "あらい まん"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 3504,
+            "url": "https://myanimelist.net/people/3504/Keiichi_Arawi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/44395.jpg?s=61017b3bcc64fb785bd44e072c175e12"
+                }
+            },
+            "name": "Arawi, Keiichi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 59256,
+            "url": "https://myanimelist.net/people/59256/Ara_Go",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Go, Ara",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 52092,
+            "url": "https://myanimelist.net/people/52092/Aresanzui",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Aresanzui",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 56809,
+            "url": "https://myanimelist.net/people/56809/Koala_Oomugi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/67759.jpg?s=e0c001c0eb1ea5a6626bc8070245b0ea"
+                }
+            },
+            "name": "Oomugi, Koala",
+            "alternativeNames": [
+                "Koala Ohmugi"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 2897,
+            "url": "https://myanimelist.net/people/2897/Court_Betten",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Betten, Court",
+            "alternativeNames": [
+                "Betten Kouto",
+                "Bettencourt"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 386,
+            "url": "https://myanimelist.net/people/386/Kae_Araki",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/33905.jpg?s=a7f1d1ee509b76c684dfee39f305f991"
+                }
+            },
+            "name": "Araki, Kae",
+            "alternativeNames": [
+                "荒木 香恵"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 3747,
+            "url": "https://myanimelist.net/people/3747/Araki_Jou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/44891.jpg?s=840ddf2382751047c8dacc0fe410b06b"
+                }
+            },
+            "name": "Jou, Araki",
+            "alternativeNames": [
+                "Akira Itou",
+                "伊藤 昭",
+                "伊藤 アキラ",
+                "Arajin",
+                "荒仁"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 35209,
+            "url": "https://myanimelist.net/people/35209/Ken_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/36647.jpg?s=4ca5a75a65d5f607afd79000e3f93e9f"
+                }
+            },
+            "name": "Arai, Ken",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 12454,
+            "url": "https://myanimelist.net/people/12454/Avi_Arad",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arad, Avi",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 3533,
+            "url": "https://myanimelist.net/people/3533/Rie_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arai, Rie",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 54668,
+            "url": "https://myanimelist.net/people/54668/Kuo_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arai, Kuo",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 54573,
+            "url": "https://myanimelist.net/people/54573/Ran_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arai, Ran",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 30453,
+            "url": "https://myanimelist.net/people/30453/Kei_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arai, Kei",
+            "alternativeNames": [
+                "Kansai-Orange",
+                "関西オレンジ"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 35049,
+            "url": "https://myanimelist.net/people/35049/Ken_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arai, Ken",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 91596,
+            "url": "https://myanimelist.net/people/91596/Mei_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arai, Mei",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 19916,
+            "url": "https://myanimelist.net/people/19916/Jun_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/3/23247.jpg?s=9eed8783867e1c1df3c8b321c3c48780"
+                }
+            },
+            "name": "Arai, Jun",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 39781,
+            "url": "https://myanimelist.net/people/39781/Kouya_Ginno",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Ginno, Kouya",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 17701,
+            "url": "https://myanimelist.net/people/17701/Mahone_Arekusa",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/55166.jpg?s=b8bbb058b02d98b62de70a343074f838"
+                }
+            },
+            "name": "Arekusa, Mahone",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 36453,
+            "url": "https://myanimelist.net/people/36453/Raiho_Arekishi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arekishi, Raiho",
+            "alternativeNames": [
+                "Alexi Laiho"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 13807,
+            "url": "https://myanimelist.net/people/13807/Souta_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/2/19183.jpg?s=40f95eace337fa85af84b9b35724a8e3"
+                }
+            },
+            "name": "Arai, Souta",
+            "alternativeNames": [
+                "Sohta Arai"
+            ]
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 17311,
+            "url": "https://myanimelist.net/people/17311/Araya_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arai, Araya",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 84603,
+            "url": "https://myanimelist.net/people/84603/Jin_Ara",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Ara, Jin",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 12175,
+            "url": "https://myanimelist.net/people/12175/Shou_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/voiceactors/1/72138.jpg?s=363ac3354df57389760fb3e4fc6ed732"
+                }
+            },
+            "name": "Arai, Shou",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 21537,
+            "url": "https://myanimelist.net/people/21537/Arai_Riki",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Riki, Arai",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 77674,
+            "url": "https://myanimelist.net/people/77674/Miho_Arai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arai, Miho",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 37180,
+            "url": "https://myanimelist.net/people/37180/Fuu_Araki",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Araki, Fuu",
+            "alternativeNames": []
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\PersonSearchListItem",
+            "malId": 53720,
+            "url": "https://myanimelist.net/people/53720/Arata",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\PersonImageResource\\PersonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\PersonImageResource\\Jpg",
+                    "imageUrl": null
+                }
+            },
+            "name": "Arata",
+            "alternativeNames": []
+        }
+    ]
+}

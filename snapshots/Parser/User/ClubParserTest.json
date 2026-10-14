@@ -1,0 +1,182 @@
+[
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 84943,
+        "name": "100k+ Club",
+        "url": "https://myanimelist.net/clubs.php?cid=84943"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 25565,
+        "name": "20+",
+        "url": "https://myanimelist.net/clubs.php?cid=25565"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 67029,
+        "name": "Anime Paradise Club (A.P.C.)",
+        "url": "https://myanimelist.net/clubs.php?cid=67029"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 70446,
+        "name": "Anime Watching Challenges Club [AWCc]",
+        "url": "https://myanimelist.net/clubs.php?cid=70446"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 67414,
+        "name": "☆*･゜ﾟ･*Kiri & Sunny's Coffee House*･゜ﾟ･*☆",
+        "url": "https://myanimelist.net/clubs.php?cid=67414"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 63899,
+        "name": "【Anime Guild】-【Fall 2026 BEGINS!】",
+        "url": "https://myanimelist.net/clubs.php?cid=63899"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 67310,
+        "name": "Casual Discussion 2.0",
+        "url": "https://myanimelist.net/clubs.php?cid=67310"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 72667,
+        "name": "Council of Taste Refinery",
+        "url": "https://myanimelist.net/clubs.php?cid=72667"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 379,
+        "name": "Fantasy Anime League",
+        "url": "https://myanimelist.net/clubs.php?cid=379"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 65645,
+        "name": "Ghoul Countermeasures Bureau",
+        "url": "https://myanimelist.net/clubs.php?cid=65645"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 68090,
+        "name": "Ｌｕｘｕｒｉａ",
+        "url": "https://myanimelist.net/clubs.php?cid=68090"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 68507,
+        "name": "King Louie Cafe",
+        "url": "https://myanimelist.net/clubs.php?cid=68507"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 64995,
+        "name": "Le coin des francophones",
+        "url": "https://myanimelist.net/clubs.php?cid=64995"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 358,
+        "name": "Les Champs Animes",
+        "url": "https://myanimelist.net/clubs.php?cid=358"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 70551,
+        "name": "Les Vagabonds Immobiles",
+        "url": "https://myanimelist.net/clubs.php?cid=70551"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 62581,
+        "name": "Mafia Colosseum",
+        "url": "https://myanimelist.net/clubs.php?cid=62581"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 68552,
+        "name": "MAL Central",
+        "url": "https://myanimelist.net/clubs.php?cid=68552"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 66976,
+        "name": "MAL Interviews",
+        "url": "https://myanimelist.net/clubs.php?cid=66976"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 71065,
+        "name": "MAL Survivor HQ - CLUB AND OWNERSHIP FOR FORUM GAME UP FOR GRABS - PM ME",
+        "url": "https://myanimelist.net/clubs.php?cid=71065"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 39921,
+        "name": "Namine's Café",
+        "url": "https://myanimelist.net/clubs.php?cid=39921"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 62857,
+        "name": "Noob Club",
+        "url": "https://myanimelist.net/clubs.php?cid=62857"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 32683,
+        "name": "Slice of Life Club",
+        "url": "https://myanimelist.net/clubs.php?cid=32683"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 71637,
+        "name": "Statistiques Francophones",
+        "url": "https://myanimelist.net/clubs.php?cid=71637"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 71251,
+        "name": "Team Kuroko",
+        "url": "https://myanimelist.net/clubs.php?cid=71251"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 68903,
+        "name": "The Haven",
+        "url": "https://myanimelist.net/clubs.php?cid=68903"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 68069,
+        "name": "The Infernal Palace",
+        "url": "https://myanimelist.net/clubs.php?cid=68069"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 71496,
+        "name": "Tribe Dio",
+        "url": "https://myanimelist.net/clubs.php?cid=71496"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 69406,
+        "name": "[CLOSED] The Otaku Organisation",
+        "url": "https://myanimelist.net/clubs.php?cid=69406"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 22714,
+        "name": "~Monia Café~",
+        "url": "https://myanimelist.net/clubs.php?cid=22714"
+    },
+    {
+        "@class": "Jikan\\Model\\Common\\ClubMeta",
+        "malId": 68039,
+        "name": "👑 Kish's Citadel 👑",
+        "url": "https://myanimelist.net/clubs.php?cid=68039"
+    }
+]

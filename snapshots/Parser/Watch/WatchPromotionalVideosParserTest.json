@@ -1,0 +1,1177 @@
+{
+    "@class": "Jikan\\Model\\Watch\\PromotionalVideos",
+    "hasNextPage": true,
+    "lastVisiblePage": 2,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 1",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 64950,
+                "url": "https://myanimelist.net/anime/64950/Shishite_Ikiru_SSS-kyuu_Hunter",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1593/159958.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1593/159958t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1593/159958l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1593/159958.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1593/159958t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1593/159958l.webp"
+                    }
+                },
+                "title": "Shishite Ikiru SSS-kyuu Hunter"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "C6ecZk2mHqA",
+                "url": "https://www.youtube.com/watch?v=C6ecZk2mHqA",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/C6ecZk2mHqA?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/C6ecZk2mHqA/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/C6ecZk2mHqA/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/C6ecZk2mHqA/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/C6ecZk2mHqA/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/C6ecZk2mHqA/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Character Trailer (Maomao & Jinshi ver.)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 62844,
+                "url": "https://myanimelist.net/anime/62844/Kusuriya_no_Hitorigoto_Movie__Bouhi_no_Hihou",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/158840.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1656/158840t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1656/158840l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/158840.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1656/158840t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1656/158840l.webp"
+                    }
+                },
+                "title": "Kusuriya no Hitorigoto Movie: Bouhi no Hihou"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "bo-P_qi2-RU",
+                "url": "https://www.youtube.com/watch?v=bo-P_qi2-RU",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/bo-P_qi2-RU?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/bo-P_qi2-RU/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/bo-P_qi2-RU/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/bo-P_qi2-RU/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/bo-P_qi2-RU/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/bo-P_qi2-RU/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 1",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 63193,
+                "url": "https://myanimelist.net/anime/63193/One_Punch_Man_3_Part_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp"
+                    }
+                },
+                "title": "One Punch Man 3 Part 2"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "VR9MRmP2GF8",
+                "url": "https://www.youtube.com/watch?v=VR9MRmP2GF8",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/VR9MRmP2GF8?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/VR9MRmP2GF8/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/VR9MRmP2GF8/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/VR9MRmP2GF8/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/VR9MRmP2GF8/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/VR9MRmP2GF8/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Announcement",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 65161,
+                "url": "https://myanimelist.net/anime/65161/Dr_Stone__Terraforming",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1080/160492.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1080/160492t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1080/160492l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1080/160492.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1080/160492t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1080/160492l.webp"
+                    }
+                },
+                "title": "Dr. Stone: Terraforming"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "-Vk8vSnnmnY",
+                "url": "https://www.youtube.com/watch?v=-Vk8vSnnmnY",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/-Vk8vSnnmnY?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/-Vk8vSnnmnY/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/-Vk8vSnnmnY/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/-Vk8vSnnmnY/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/-Vk8vSnnmnY/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/-Vk8vSnnmnY/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 1",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 57990,
+                "url": "https://myanimelist.net/anime/57990/Zombie_no_Afureta_Sekai_de_Ore_dake_ga_Osowarenai",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1648/160477.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1648/160477t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1648/160477l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1648/160477.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1648/160477t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1648/160477l.webp"
+                    }
+                },
+                "title": "Zombie no Afureta Sekai de Ore dake ga Osowarenai"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "ky1EjKvGMrA",
+                "url": "https://www.youtube.com/watch?v=ky1EjKvGMrA",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/ky1EjKvGMrA?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/ky1EjKvGMrA/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/ky1EjKvGMrA/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/ky1EjKvGMrA/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/ky1EjKvGMrA/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/ky1EjKvGMrA/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 2",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 65141,
+                "url": "https://myanimelist.net/anime/65141/Kuang_Wang_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446l.webp"
+                    }
+                },
+                "title": "Kuang Wang 2"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "GWyhXG21Bys",
+                "url": "https://www.youtube.com/watch?v=GWyhXG21Bys",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/GWyhXG21Bys?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/GWyhXG21Bys/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/GWyhXG21Bys/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/GWyhXG21Bys/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/GWyhXG21Bys/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/GWyhXG21Bys/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Character PV (Joe Oosaki ver.)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 63640,
+                "url": "https://myanimelist.net/anime/63640/Bless",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015l.webp"
+                    }
+                },
+                "title": "Bless"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "z9lYb0lBwko",
+                "url": "https://www.youtube.com/watch?v=z9lYb0lBwko",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/z9lYb0lBwko?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/z9lYb0lBwko/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/z9lYb0lBwko/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/z9lYb0lBwko/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/z9lYb0lBwko/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/z9lYb0lBwko/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV (Teaser 1)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 63350,
+                "url": "https://myanimelist.net/anime/63350/Doukyo_Shiteiru_Kensei_no_Onna_Shishou_ga_Kawaisugite_Mainichi_Shiawase_desu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1445/159984.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1445/159984t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1445/159984l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1445/159984.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1445/159984t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1445/159984l.webp"
+                    }
+                },
+                "title": "Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "Bh4XDVDUZKc",
+                "url": "https://www.youtube.com/watch?v=Bh4XDVDUZKc",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/Bh4XDVDUZKc?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/Bh4XDVDUZKc/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/Bh4XDVDUZKc/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/Bh4XDVDUZKc/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/Bh4XDVDUZKc/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/Bh4XDVDUZKc/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV (Teaser 1)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 65145,
+                "url": "https://myanimelist.net/anime/65145/Saikon_Shounin_wo_Youkyuu_Shimasu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467l.webp"
+                    }
+                },
+                "title": "Saikon Shounin wo Youkyuu Shimasu"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "PC0Lt_4naHs",
+                "url": "https://www.youtube.com/watch?v=PC0Lt_4naHs",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/PC0Lt_4naHs?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/PC0Lt_4naHs/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/PC0Lt_4naHs/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/PC0Lt_4naHs/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/PC0Lt_4naHs/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/PC0Lt_4naHs/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV (Teaser 1, English sub ver.)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 65145,
+                "url": "https://myanimelist.net/anime/65145/Saikon_Shounin_wo_Youkyuu_Shimasu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1778/160467l.webp"
+                    }
+                },
+                "title": "Saikon Shounin wo Youkyuu Shimasu"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "YZPkH1-IORc",
+                "url": "https://www.youtube.com/watch?v=YZPkH1-IORc",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/YZPkH1-IORc?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/YZPkH1-IORc/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/YZPkH1-IORc/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/YZPkH1-IORc/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/YZPkH1-IORc/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/YZPkH1-IORc/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 2",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 63763,
+                "url": "https://myanimelist.net/anime/63763/Zatsuyou_Fuyo_Jutsushi_ga_Jibun_no_Saikyou_ni_Kizuku_made",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp"
+                    }
+                },
+                "title": "Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "yqvAv5li9Pw",
+                "url": "https://www.youtube.com/watch?v=yqvAv5li9Pw",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/yqvAv5li9Pw?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/yqvAv5li9Pw/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/yqvAv5li9Pw/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/yqvAv5li9Pw/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/yqvAv5li9Pw/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/yqvAv5li9Pw/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Teaser Trailer",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 60230,
+                "url": "https://myanimelist.net/anime/60230/Kidou_Senshi_Gundam_SEED_Freedom_Zero",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.webp"
+                    }
+                },
+                "title": "Kidou Senshi Gundam SEED Freedom Zero"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "_PTSJJdqLB8",
+                "url": "https://www.youtube.com/watch?v=_PTSJJdqLB8",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/_PTSJJdqLB8?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/_PTSJJdqLB8/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/_PTSJJdqLB8/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/_PTSJJdqLB8/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/_PTSJJdqLB8/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/_PTSJJdqLB8/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV (Teaser 1)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 64544,
+                "url": "https://myanimelist.net/anime/64544/Here_U_Are",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852l.webp"
+                    }
+                },
+                "title": "Here U Are"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "eLOgR_sPNeQ",
+                "url": "https://www.youtube.com/watch?v=eLOgR_sPNeQ",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/eLOgR_sPNeQ?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/eLOgR_sPNeQ/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/eLOgR_sPNeQ/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/eLOgR_sPNeQ/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/eLOgR_sPNeQ/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/eLOgR_sPNeQ/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV (Teaser 2)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 64544,
+                "url": "https://myanimelist.net/anime/64544/Here_U_Are",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1735/158852l.webp"
+                    }
+                },
+                "title": "Here U Are"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "RtnTjbY6ofg",
+                "url": "https://www.youtube.com/watch?v=RtnTjbY6ofg",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/RtnTjbY6ofg?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/RtnTjbY6ofg/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/RtnTjbY6ofg/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/RtnTjbY6ofg/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/RtnTjbY6ofg/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/RtnTjbY6ofg/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Announcement PV",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 65144,
+                "url": "https://myanimelist.net/anime/65144/The_Boxer",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/160460.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1794/160460t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1794/160460l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1794/160460.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1794/160460t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1794/160460l.webp"
+                    }
+                },
+                "title": "The Boxer"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "Y6pedL99rcY",
+                "url": "https://www.youtube.com/watch?v=Y6pedL99rcY",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/Y6pedL99rcY?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/Y6pedL99rcY/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/Y6pedL99rcY/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/Y6pedL99rcY/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/Y6pedL99rcY/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/Y6pedL99rcY/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV (Teaser 1)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 64059,
+                "url": "https://myanimelist.net/anime/64059/Boushoku_no_Berserk_2nd_Season",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1578/157088.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1578/157088t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1578/157088l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1578/157088.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1578/157088t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1578/157088l.webp"
+                    }
+                },
+                "title": "Boushoku no Berserk 2nd Season"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "BVz1EyrHILk",
+                "url": "https://www.youtube.com/watch?v=BVz1EyrHILk",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/BVz1EyrHILk?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/BVz1EyrHILk/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/BVz1EyrHILk/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/BVz1EyrHILk/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/BVz1EyrHILk/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/BVz1EyrHILk/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV (Teaser 1)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 65080,
+                "url": "https://myanimelist.net/anime/65080/Houkago_no_Idol_ni_wa_Himitsu_ga_Aru",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1709/160280.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1709/160280t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1709/160280l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1709/160280.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1709/160280t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1709/160280l.webp"
+                    }
+                },
+                "title": "Houkago no Idol ni wa Himitsu ga Aru"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "rzzXtu4QMCY",
+                "url": "https://www.youtube.com/watch?v=rzzXtu4QMCY",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/rzzXtu4QMCY?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/rzzXtu4QMCY/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/rzzXtu4QMCY/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/rzzXtu4QMCY/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/rzzXtu4QMCY/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/rzzXtu4QMCY/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Announcement",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 61872,
+                "url": "https://myanimelist.net/anime/61872/Nyuugaku_Youhei",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/160456.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160456t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160456l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/160456.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160456t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160456l.webp"
+                    }
+                },
+                "title": "Nyuugaku Youhei"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "FB0yqIHGWSs",
+                "url": "https://www.youtube.com/watch?v=FB0yqIHGWSs",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/FB0yqIHGWSs?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/FB0yqIHGWSs/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/FB0yqIHGWSs/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/FB0yqIHGWSs/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/FB0yqIHGWSs/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/FB0yqIHGWSs/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 1",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 61035,
+                "url": "https://myanimelist.net/anime/61035/Kininatteru_Hito_ga_Otoko_ja_Nakatta",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854l.webp"
+                    }
+                },
+                "title": "Kininatteru Hito ga Otoko ja Nakatta"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "kLO7KyjhGR0",
+                "url": "https://www.youtube.com/watch?v=kLO7KyjhGR0",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/kLO7KyjhGR0?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/kLO7KyjhGR0/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/kLO7KyjhGR0/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/kLO7KyjhGR0/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/kLO7KyjhGR0/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/kLO7KyjhGR0/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Trailer (English sub ver.)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 433,
+                "url": "https://myanimelist.net/anime/433/Kumo_no_Mukou_Yakusoku_no_Basho",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1725/133738.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1725/133738t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1725/133738l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1725/133738.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1725/133738t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1725/133738l.webp"
+                    }
+                },
+                "title": "Kumo no Mukou, Yakusoku no Basho"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "b3X0ZSWKOFs",
+                "url": "https://www.youtube.com/watch?v=b3X0ZSWKOFs",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/b3X0ZSWKOFs?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/b3X0ZSWKOFs/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/b3X0ZSWKOFs/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/b3X0ZSWKOFs/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/b3X0ZSWKOFs/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/b3X0ZSWKOFs/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Character PV (Shinpei Gotou ver.)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 63293,
+                "url": "https://myanimelist.net/anime/63293/Hotaru_no_Yomeiri",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893l.webp"
+                    }
+                },
+                "title": "Hotaru no Yomeiri"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "zLRhnD8saLc",
+                "url": "https://www.youtube.com/watch?v=zLRhnD8saLc",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/zLRhnD8saLc?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/zLRhnD8saLc/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/zLRhnD8saLc/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/zLRhnD8saLc/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/zLRhnD8saLc/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/zLRhnD8saLc/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Character PV (Satoko Kirigaya ver.)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 63293,
+                "url": "https://myanimelist.net/anime/63293/Hotaru_no_Yomeiri",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893l.webp"
+                    }
+                },
+                "title": "Hotaru no Yomeiri"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "j2TXPro5Xf0",
+                "url": "https://www.youtube.com/watch?v=j2TXPro5Xf0",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/j2TXPro5Xf0?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/j2TXPro5Xf0/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/j2TXPro5Xf0/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/j2TXPro5Xf0/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/j2TXPro5Xf0/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/j2TXPro5Xf0/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 1",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 63601,
+                "url": "https://myanimelist.net/anime/63601/Hone_Dragon_no_Mana_Musume",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1587/160468.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1587/160468t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1587/160468l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1587/160468.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1587/160468t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1587/160468l.webp"
+                    }
+                },
+                "title": "Hone Dragon no Mana Musume"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "9ZWHPzgpLSY",
+                "url": "https://www.youtube.com/watch?v=9ZWHPzgpLSY",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/9ZWHPzgpLSY?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/9ZWHPzgpLSY/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/9ZWHPzgpLSY/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/9ZWHPzgpLSY/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/9ZWHPzgpLSY/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/9ZWHPzgpLSY/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 1",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 64064,
+                "url": "https://myanimelist.net/anime/64064/Hokuhokusei_ni_Kumo_to_Ike",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1044/160453.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1044/160453t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1044/160453l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1044/160453.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1044/160453t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1044/160453l.webp"
+                    }
+                },
+                "title": "Hokuhokusei ni Kumo to Ike"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "iCL7RtWf8c0",
+                "url": "https://www.youtube.com/watch?v=iCL7RtWf8c0",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/iCL7RtWf8c0?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/iCL7RtWf8c0/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/iCL7RtWf8c0/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/iCL7RtWf8c0/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/iCL7RtWf8c0/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/iCL7RtWf8c0/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 1",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 65141,
+                "url": "https://myanimelist.net/anime/65141/Kuang_Wang_2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1702/160446l.webp"
+                    }
+                },
+                "title": "Kuang Wang 2"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "5s3q5YtZTI8",
+                "url": "https://www.youtube.com/watch?v=5s3q5YtZTI8",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/5s3q5YtZTI8?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/5s3q5YtZTI8/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/5s3q5YtZTI8/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/5s3q5YtZTI8/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/5s3q5YtZTI8/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/5s3q5YtZTI8/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV 1",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 60301,
+                "url": "https://myanimelist.net/anime/60301/Amayo_no_Tsuki",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1343/154728.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1343/154728t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1343/154728l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1343/154728.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1343/154728t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1343/154728l.webp"
+                    }
+                },
+                "title": "Amayo no Tsuki"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "Q-W1E8Y9Jv0",
+                "url": "https://www.youtube.com/watch?v=Q-W1E8Y9Jv0",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/Q-W1E8Y9Jv0?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/Q-W1E8Y9Jv0/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/Q-W1E8Y9Jv0/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/Q-W1E8Y9Jv0/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/Q-W1E8Y9Jv0/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/Q-W1E8Y9Jv0/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Trailer (Nocturn: Kono Grotesque na Yoru ni ver.)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 59217,
+                "url": "https://myanimelist.net/anime/59217/Grotesqqque",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895l.webp"
+                    }
+                },
+                "title": "Grotesqqque"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "6yOCpx1XKxU",
+                "url": "https://www.youtube.com/watch?v=6yOCpx1XKxU",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/6yOCpx1XKxU?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/6yOCpx1XKxU/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/6yOCpx1XKxU/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/6yOCpx1XKxU/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/6yOCpx1XKxU/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/6yOCpx1XKxU/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV (Teaser 1)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 60739,
+                "url": "https://myanimelist.net/anime/60739/Otome_Game_no_Heroine_de_Saikyou_Survival",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/160425.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160425t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160425l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/160425.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160425t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160425l.webp"
+                    }
+                },
+                "title": "Otome Game no Heroine de Saikyou Survival"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "DGPf04O404Y",
+                "url": "https://www.youtube.com/watch?v=DGPf04O404Y",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/DGPf04O404Y?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/DGPf04O404Y/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/DGPf04O404Y/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/DGPf04O404Y/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/DGPf04O404Y/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/DGPf04O404Y/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "PV (Teaser 2)",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 64467,
+                "url": "https://myanimelist.net/anime/64467/Sudachi_no_Maoujou",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423l.webp"
+                    }
+                },
+                "title": "Sudachi no Maoujou"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "BXcu-Z3SEYo",
+                "url": "https://www.youtube.com/watch?v=BXcu-Z3SEYo",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/BXcu-Z3SEYo?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/BXcu-Z3SEYo/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/BXcu-Z3SEYo/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/BXcu-Z3SEYo/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/BXcu-Z3SEYo/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/BXcu-Z3SEYo/maxresdefault.jpg"
+                }
+            }
+        },
+        {
+            "@class": "Jikan\\Model\\Watch\\PromotionalVideoListItem",
+            "title": "Trailer 1",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 59217,
+                "url": "https://myanimelist.net/anime/59217/Grotesqqque",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895.jpg",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895t.jpg",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895l.jpg"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895.webp",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895t.webp",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1865/158895l.webp"
+                    }
+                },
+                "title": "Grotesqqque"
+            },
+            "trailer": {
+                "@class": "Jikan\\Model\\Common\\YoutubeMeta",
+                "youtubeId": "s4dAQP5MlCs",
+                "url": "https://www.youtube.com/watch?v=s4dAQP5MlCs",
+                "embedUrl": "https://www.youtube-nocookie.com/embed/s4dAQP5MlCs?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\YoutubeImageResource",
+                    "imageUrl": "https://img.youtube.com/vi/s4dAQP5MlCs/default.jpg",
+                    "smallImageUrl": "https://img.youtube.com/vi/s4dAQP5MlCs/sddefault.jpg",
+                    "mediumImageUrl": "https://img.youtube.com/vi/s4dAQP5MlCs/mqdefault.jpg",
+                    "largeImageUrl": "https://img.youtube.com/vi/s4dAQP5MlCs/hqdefault.jpg",
+                    "maximumImageUrl": "https://img.youtube.com/vi/s4dAQP5MlCs/maxresdefault.jpg"
+                }
+            }
+        }
+    ]
+}

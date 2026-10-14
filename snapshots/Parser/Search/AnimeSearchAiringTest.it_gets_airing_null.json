@@ -1,0 +1,1507 @@
+{
+    "@class": "Jikan\\Model\\Search\\AnimeSearch",
+    "hasNextPage": true,
+    "lastVisiblePage": 20,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 39078,
+            "url": "https://myanimelist.net/anime/39078/Aikatsu_Friends__Kagayaki_no_Jewel",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1391/100465.jpg?s=a668f3556e7ff1caf4c3227c11e7c9c3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1391/100465t.jpg?s=a668f3556e7ff1caf4c3227c11e7c9c3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1391/100465l.jpg?s=a668f3556e7ff1caf4c3227c11e7c9c3"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1391/100465.webp?s=a668f3556e7ff1caf4c3227c11e7c9c3",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1391/100465t.webp?s=a668f3556e7ff1caf4c3227c11e7c9c3",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1391/100465l.webp?s=a668f3556e7ff1caf4c3227c11e7c9c3"
+                }
+            },
+            "title": "Aikatsu Friends!: Kagayaki no Jewel",
+            "airing": false,
+            "synopsis": "The story takes place two years after Aikatsu Friends! with Aine Yuuki now in high school. One day she has an encounter with the mysterious idol Hibiki Tenshou who wears the shining Jeweling Dress.",
+            "type": "TV",
+            "episodes": 26,
+            "score": 7.13,
+            "startDate": "2019-04-04T00:00:00+00:00",
+            "endDate": "2019-09-26T00:00:00+00:00",
+            "members": 6682,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 37204,
+            "url": "https://myanimelist.net/anime/37204/Aikatsu_Friends",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1198/90430.jpg?s=d5ff39ae6932fc20c69f96e8d1dc3b32",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1198/90430t.jpg?s=d5ff39ae6932fc20c69f96e8d1dc3b32",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1198/90430l.jpg?s=d5ff39ae6932fc20c69f96e8d1dc3b32"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1198/90430.webp?s=d5ff39ae6932fc20c69f96e8d1dc3b32",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1198/90430t.webp?s=d5ff39ae6932fc20c69f96e8d1dc3b32",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1198/90430l.webp?s=d5ff39ae6932fc20c69f96e8d1dc3b32"
+                }
+            },
+            "title": "Aikatsu Friends!",
+            "airing": false,
+            "synopsis": "Aine Yuuki, who is a regular student at Star Harmony Academy's normal division, meets Mio Minato from the idol division, who invites her to join Aikatsu to fulfill Aine's goal to make friends. She als...",
+            "type": "TV",
+            "episodes": 50,
+            "score": 7.19,
+            "startDate": "2018-04-05T00:00:00+00:00",
+            "endDate": "2019-03-28T00:00:00+00:00",
+            "members": 13576,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 21327,
+            "url": "https://myanimelist.net/anime/21327/Isshuukan_Friends",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/61891.jpg?s=9b20bbfa3ae77c39ea945c6aff358216",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/61891t.jpg?s=9b20bbfa3ae77c39ea945c6aff358216",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/61891l.jpg?s=9b20bbfa3ae77c39ea945c6aff358216"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/61891.webp?s=9b20bbfa3ae77c39ea945c6aff358216",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/61891t.webp?s=9b20bbfa3ae77c39ea945c6aff358216",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/61891l.webp?s=9b20bbfa3ae77c39ea945c6aff358216"
+                }
+            },
+            "title": "Isshuukan Friends.",
+            "airing": false,
+            "synopsis": "Sixteen-year-old Yuuki Hase finally finds the courage to speak to his crush and ask her if she wants to become friends. The object of his affection, Kaori Fujimiya, is a quiet and reserved girl who cu...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.52,
+            "startDate": "2014-04-07T00:00:00+00:00",
+            "endDate": "2014-06-23T00:00:00+00:00",
+            "members": 331470,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 31537,
+            "url": "https://myanimelist.net/anime/31537/Manaria_Friends",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1287/111373.jpg?s=008b02cabc7bbcbd2c51ff5b3aceb3b4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1287/111373t.jpg?s=008b02cabc7bbcbd2c51ff5b3aceb3b4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1287/111373l.jpg?s=008b02cabc7bbcbd2c51ff5b3aceb3b4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1287/111373.webp?s=008b02cabc7bbcbd2c51ff5b3aceb3b4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1287/111373t.webp?s=008b02cabc7bbcbd2c51ff5b3aceb3b4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1287/111373l.webp?s=008b02cabc7bbcbd2c51ff5b3aceb3b4"
+                }
+            },
+            "title": "Manaria Friends",
+            "airing": false,
+            "synopsis": "Mysteria Academy is a prestigious magic school that teaches magic without discrimination to the three factions (men, gods, demons), who usually are engaged in battle with each other. Two of the academ...",
+            "type": "TV",
+            "episodes": 10,
+            "score": 6.68,
+            "startDate": "2019-01-21T00:00:00+00:00",
+            "endDate": "2019-03-25T00:00:00+00:00",
+            "members": 135147,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34295,
+            "url": "https://myanimelist.net/anime/34295/Choboraunyopomi_Gekijou_Dai_San_Maku_Ai_Mai_Mii__Surgical_Friends",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/83846.jpg?s=795ddca4edf13d5d051dd4b6a2979ec7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/83846t.jpg?s=795ddca4edf13d5d051dd4b6a2979ec7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/83846l.jpg?s=795ddca4edf13d5d051dd4b6a2979ec7"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/83846.webp?s=795ddca4edf13d5d051dd4b6a2979ec7",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/83846t.webp?s=795ddca4edf13d5d051dd4b6a2979ec7",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/83846l.webp?s=795ddca4edf13d5d051dd4b6a2979ec7"
+                }
+            },
+            "title": "Choboraunyopomi Gekijou Dai San Maku Ai Mai Mii: Surgical Friends",
+            "airing": false,
+            "synopsis": "Ai, Mai, Mii, and Ponoka continue to make the most of their high school years working on manga, engaging in friendly competition with each other, and going toe-to-toe with fierce rivals. As they conti...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.05,
+            "startDate": "2017-01-03T00:00:00+00:00",
+            "endDate": "2017-03-21T00:00:00+00:00",
+            "members": 11574,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 4081,
+            "url": "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg?s=539875b65ff54a7d3e8ea8e40cd47a85",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1681/108439t.jpg?s=539875b65ff54a7d3e8ea8e40cd47a85",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1681/108439l.jpg?s=539875b65ff54a7d3e8ea8e40cd47a85"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1681/108439.webp?s=539875b65ff54a7d3e8ea8e40cd47a85",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1681/108439t.webp?s=539875b65ff54a7d3e8ea8e40cd47a85",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp?s=539875b65ff54a7d3e8ea8e40cd47a85"
+                }
+            },
+            "title": "Natsume Yuujinchou",
+            "airing": false,
+            "synopsis": "Due to an unusual ability to see strange creatures called youkai, Takashi Natsume has never fit in. Passed around from one foster home to another, he was left isolated and lonely. Over time, he has ac...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.3,
+            "startDate": "2008-07-08T00:00:00+00:00",
+            "endDate": "2008-09-30T00:00:00+00:00",
+            "members": 582263,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 35434,
+            "url": "https://myanimelist.net/anime/35434/Konbini_Kareshi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86243.jpg?s=aa9730a546969ef8c7723a1a11a8c168",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/86243t.jpg?s=aa9730a546969ef8c7723a1a11a8c168",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86243l.jpg?s=aa9730a546969ef8c7723a1a11a8c168"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86243.webp?s=aa9730a546969ef8c7723a1a11a8c168",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/86243t.webp?s=aa9730a546969ef8c7723a1a11a8c168",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86243l.webp?s=aa9730a546969ef8c7723a1a11a8c168"
+                }
+            },
+            "title": "Konbini Kareshi",
+            "airing": false,
+            "synopsis": "The lives of high school freshmen Haruki Mishima and Towa Honda revolve around studying, clubs, and girls. Amid their hectic routines, romance is certainly budding for the two best friends. Since chil...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.26,
+            "startDate": "2017-07-07T00:00:00+00:00",
+            "endDate": "2017-09-29T00:00:00+00:00",
+            "members": 105816,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10115,
+            "url": "https://myanimelist.net/anime/10115/Friends__Mononoke_Shima_no_Naki",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/35815.jpg?s=9bb5f475111d1484afe0fb816d609165",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/35815t.jpg?s=9bb5f475111d1484afe0fb816d609165",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/35815l.jpg?s=9bb5f475111d1484afe0fb816d609165"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/35815.webp?s=9bb5f475111d1484afe0fb816d609165",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/35815t.webp?s=9bb5f475111d1484afe0fb816d609165",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/35815l.webp?s=9bb5f475111d1484afe0fb816d609165"
+                }
+            },
+            "title": "Friends: Mononoke Shima no Naki",
+            "airing": false,
+            "synopsis": "On an island, legend has it that monsters have lived there since ancient times. Because of this, the residents have named the island “Monster Island.” In actuality, the monsters living on the island a...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.96,
+            "startDate": "2011-12-17T00:00:00+00:00",
+            "endDate": "2011-12-17T00:00:00+00:00",
+            "members": 1548,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 24855,
+            "url": "https://myanimelist.net/anime/24855/Girlfriend_Kari",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/67045.jpg?s=4a728fea4dea6bb77a7fcafa7e65d0e8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/67045t.jpg?s=4a728fea4dea6bb77a7fcafa7e65d0e8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/67045l.jpg?s=4a728fea4dea6bb77a7fcafa7e65d0e8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/67045.webp?s=4a728fea4dea6bb77a7fcafa7e65d0e8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/67045t.webp?s=4a728fea4dea6bb77a7fcafa7e65d0e8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/67045l.webp?s=4a728fea4dea6bb77a7fcafa7e65d0e8"
+                }
+            },
+            "title": "Girlfriend (Kari)",
+            "airing": false,
+            "synopsis": "A TV anime adaptation of the Girlfriend (Kari) a mobile game where players can have girlfriends through playing the game. Shiina Kokomi is a hard working but even tempered high school girl who is the...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 5.91,
+            "startDate": "2014-10-13T00:00:00+00:00",
+            "endDate": "2014-12-29T00:00:00+00:00",
+            "members": 45512,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34403,
+            "url": "https://myanimelist.net/anime/34403/Hajimete_no_Gal",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86826.jpg?s=223997903a1151cbb00763b7d89a4ef8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/86826t.jpg?s=223997903a1151cbb00763b7d89a4ef8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/86826l.jpg?s=223997903a1151cbb00763b7d89a4ef8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/86826.webp?s=223997903a1151cbb00763b7d89a4ef8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/86826t.webp?s=223997903a1151cbb00763b7d89a4ef8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/86826l.webp?s=223997903a1151cbb00763b7d89a4ef8"
+                }
+            },
+            "title": "Hajimete no Gal",
+            "airing": false,
+            "synopsis": "Following a prank pulled by his perverse friends, Junichi Hashiba asks a gal out in an attempt to change the fact that he's a hopeless virgin. Yukana Yame, the girl in question, is disgusted by Junich...",
+            "type": "TV",
+            "episodes": 10,
+            "score": 6.27,
+            "startDate": "2017-07-12T00:00:00+00:00",
+            "endDate": "2017-09-13T00:00:00+00:00",
+            "members": 590331,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 11665,
+            "url": "https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/37449.jpg?s=2bb045b3120e6a3a23257bb39689ae30",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/37449t.jpg?s=2bb045b3120e6a3a23257bb39689ae30",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/37449l.jpg?s=2bb045b3120e6a3a23257bb39689ae30"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/37449.webp?s=2bb045b3120e6a3a23257bb39689ae30",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/37449t.webp?s=2bb045b3120e6a3a23257bb39689ae30",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/37449l.webp?s=2bb045b3120e6a3a23257bb39689ae30"
+                }
+            },
+            "title": "Natsume Yuujinchou Shi",
+            "airing": false,
+            "synopsis": "Takashi Natsume, the timid youkai expert and master of the Book of Friends, continues his journey towards self-understanding and acceptance with the help of friends both new and old. His most importan...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.63,
+            "startDate": "2012-01-03T00:00:00+00:00",
+            "endDate": "2012-03-27T00:00:00+00:00",
+            "members": 263905,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 32983,
+            "url": "https://myanimelist.net/anime/32983/Natsume_Yuujinchou_Go",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/81755.jpg?s=54d7dafe4652b04b40d97d5d6d97d18d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/81755t.jpg?s=54d7dafe4652b04b40d97d5d6d97d18d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/81755l.jpg?s=54d7dafe4652b04b40d97d5d6d97d18d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/81755.webp?s=54d7dafe4652b04b40d97d5d6d97d18d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/81755t.webp?s=54d7dafe4652b04b40d97d5d6d97d18d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/81755l.webp?s=54d7dafe4652b04b40d97d5d6d97d18d"
+                }
+            },
+            "title": "Natsume Yuujinchou Go",
+            "airing": false,
+            "synopsis": "Blessed with eyes that are able to perceive the otherwise invisible youkai, Takashi Natsume hides his ability from his newfound family and friends to protect everyone's peaceful daily life. Nonetheles...",
+            "type": "TV",
+            "episodes": 11,
+            "score": 8.56,
+            "startDate": "2016-10-05T00:00:00+00:00",
+            "endDate": "2016-12-21T00:00:00+00:00",
+            "members": 203745,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 43969,
+            "url": "https://myanimelist.net/anime/43969/Kanojo_mo_Kanojo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/117119.jpg?s=1db43bb14cedc0c9d0455cbecf5a6041",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1713/117119t.jpg?s=1db43bb14cedc0c9d0455cbecf5a6041",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1713/117119l.jpg?s=1db43bb14cedc0c9d0455cbecf5a6041"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1713/117119.webp?s=1db43bb14cedc0c9d0455cbecf5a6041",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1713/117119t.webp?s=1db43bb14cedc0c9d0455cbecf5a6041",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1713/117119l.webp?s=1db43bb14cedc0c9d0455cbecf5a6041"
+                }
+            },
+            "title": "Kanojo mo Kanojo",
+            "airing": false,
+            "synopsis": "Naoya Mukai is having the time of his life after his childhood friend Saki Saki finally accepts one of his countless confessions. Ensuring that their relationship will stay strong, he spares no effort...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.51,
+            "startDate": "2021-07-03T00:00:00+00:00",
+            "endDate": "2021-09-18T00:00:00+00:00",
+            "members": 417224,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 40839,
+            "url": "https://myanimelist.net/anime/40839/Kanojo_Okarishimasu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1902/128382.jpg?s=072fe6235bc832ce29d5bca2b793b4f1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1902/128382t.jpg?s=072fe6235bc832ce29d5bca2b793b4f1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1902/128382l.jpg?s=072fe6235bc832ce29d5bca2b793b4f1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1902/128382.webp?s=072fe6235bc832ce29d5bca2b793b4f1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1902/128382t.webp?s=072fe6235bc832ce29d5bca2b793b4f1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1902/128382l.webp?s=072fe6235bc832ce29d5bca2b793b4f1"
+                }
+            },
+            "title": "Kanojo, Okarishimasu",
+            "airing": false,
+            "synopsis": "Kazuya Kinoshita is a 20-year-old college student who has a wonderful girlfriend: the bright and sunny Mami Nanami. But suddenly, he does not. Without warning, Mami breaks up with him, leaving him utt...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.86,
+            "startDate": "2020-07-11T00:00:00+00:00",
+            "endDate": "2020-09-26T00:00:00+00:00",
+            "members": 1074027,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34591,
+            "url": "https://myanimelist.net/anime/34591/Natsume_Yuujinchou_Roku",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/84416.jpg?s=931f8a6bfc42adf9257eeb7641bad75e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/84416t.jpg?s=931f8a6bfc42adf9257eeb7641bad75e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/84416l.jpg?s=931f8a6bfc42adf9257eeb7641bad75e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/84416.webp?s=931f8a6bfc42adf9257eeb7641bad75e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/84416t.webp?s=931f8a6bfc42adf9257eeb7641bad75e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/84416l.webp?s=931f8a6bfc42adf9257eeb7641bad75e"
+                }
+            },
+            "title": "Natsume Yuujinchou Roku",
+            "airing": false,
+            "synopsis": "Takashi Natsume has grown accustomed to his encounters with youkai through the Book of Friends, which contains the names of youkai whom his grandmother, Reiko Natsume, has sealed in contracts. These e...",
+            "type": "TV",
+            "episodes": 11,
+            "score": 8.61,
+            "startDate": "2017-04-12T00:00:00+00:00",
+            "endDate": "2017-06-21T00:00:00+00:00",
+            "members": 203814,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 37982,
+            "url": "https://myanimelist.net/anime/37982/Domestic_na_Kanojo",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1021/95670.jpg?s=ff4a2ecd5c7b66a332333ac7c08ece94",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1021/95670t.jpg?s=ff4a2ecd5c7b66a332333ac7c08ece94",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1021/95670l.jpg?s=ff4a2ecd5c7b66a332333ac7c08ece94"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1021/95670.webp?s=ff4a2ecd5c7b66a332333ac7c08ece94",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1021/95670t.webp?s=ff4a2ecd5c7b66a332333ac7c08ece94",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1021/95670l.webp?s=ff4a2ecd5c7b66a332333ac7c08ece94"
+                }
+            },
+            "title": "Domestic na Kanojo",
+            "airing": false,
+            "synopsis": "In their teenage years, few things can hurt people more than the heartaches that come with unrequited love. Such is the case for Natsuo Fujii, who has found himself entranced by his school's ever-chee...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.62,
+            "startDate": "2019-01-12T00:00:00+00:00",
+            "endDate": "2019-03-30T00:00:00+00:00",
+            "members": 819030,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36538,
+            "url": "https://myanimelist.net/anime/36538/Natsume_Yuujinchou_Movie__Utsusemi_ni_Musubu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846.jpg?s=186bc126139583f2a56bb80c6575ce80",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846t.jpg?s=186bc126139583f2a56bb80c6575ce80",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg?s=186bc126139583f2a56bb80c6575ce80"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846.webp?s=186bc126139583f2a56bb80c6575ce80",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846t.webp?s=186bc126139583f2a56bb80c6575ce80",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846l.webp?s=186bc126139583f2a56bb80c6575ce80"
+                }
+            },
+            "title": "Natsume Yuujinchou Movie: Utsusemi ni Musubu",
+            "airing": false,
+            "synopsis": "Takashi Natsume and his spirit companion Madara, nicknamed \"Nyanko,\" continue returning the names of spirits from the Book of Friends given by his late grandmother Reiko Natsume. On his way back from...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 8.42,
+            "startDate": "2018-09-29T00:00:00+00:00",
+            "endDate": "2018-09-29T00:00:00+00:00",
+            "members": 82904,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36167,
+            "url": "https://myanimelist.net/anime/36167/Yuhuwa_Chingudeul",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/134875.jpg?s=3b373d87876d12bfe2f67717ce65cee1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1409/134875t.jpg?s=3b373d87876d12bfe2f67717ce65cee1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1409/134875l.jpg?s=3b373d87876d12bfe2f67717ce65cee1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1409/134875.webp?s=3b373d87876d12bfe2f67717ce65cee1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1409/134875t.webp?s=3b373d87876d12bfe2f67717ce65cee1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1409/134875l.webp?s=3b373d87876d12bfe2f67717ce65cee1"
+                }
+            },
+            "title": "Yuhuwa Chingudeul",
+            "airing": false,
+            "synopsis": "The characters are species at risk of extinction who take a journey together to find new friends on other continents. The show is designed to teach children about environmental protection and preserva...",
+            "type": "TV",
+            "episodes": 26,
+            "score": 0.0,
+            "startDate": "2009-07-07T00:00:00+00:00",
+            "endDate": "2009-12-18T00:00:00+00:00",
+            "members": 381,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 12467,
+            "url": "https://myanimelist.net/anime/12467/Nazo_no_Kanojo_X",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/75205.jpg?s=f13b36ea598c510bdd89775d3791aa37",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/75205t.jpg?s=f13b36ea598c510bdd89775d3791aa37",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/75205l.jpg?s=f13b36ea598c510bdd89775d3791aa37"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/75205.webp?s=f13b36ea598c510bdd89775d3791aa37",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/75205t.webp?s=f13b36ea598c510bdd89775d3791aa37",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/75205l.webp?s=f13b36ea598c510bdd89775d3791aa37"
+                }
+            },
+            "title": "Nazo no Kanojo X",
+            "airing": false,
+            "synopsis": "First encounters are always memorable because regardless of the outcome, new experiences are sure to happen. For Akira Tsubaki, a young boy who knows next to nothing about girls, and new transfer stud...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 7.22,
+            "startDate": "2012-04-08T00:00:00+00:00",
+            "endDate": "2012-07-01T00:00:00+00:00",
+            "members": 350819,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 43007,
+            "url": "https://myanimelist.net/anime/43007/Osananajimi_ga_Zettai_ni_Makenai_Love_Comedy",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1111/113327.jpg?s=178874859ab8c4b533e09450056060d1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1111/113327t.jpg?s=178874859ab8c4b533e09450056060d1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1111/113327l.jpg?s=178874859ab8c4b533e09450056060d1"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1111/113327.webp?s=178874859ab8c4b533e09450056060d1",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1111/113327t.webp?s=178874859ab8c4b533e09450056060d1",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1111/113327l.webp?s=178874859ab8c4b533e09450056060d1"
+                }
+            },
+            "title": "Osananajimi ga Zettai ni Makenai Love Comedy",
+            "airing": false,
+            "synopsis": "Sueharu Maru is childhood best friends with one of Hozumino High School's most popular girls, Kuroha Shida. Cute, outgoing, and affectionate, Kuroha is the perfect older sister type. She has boys cons...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.06,
+            "startDate": "2021-04-14T00:00:00+00:00",
+            "endDate": "2021-06-30T00:00:00+00:00",
+            "members": 289827,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 23277,
+            "url": "https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1329/142757.jpg?s=6145191571630a85d3bf604f49a0f085",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1329/142757t.jpg?s=6145191571630a85d3bf604f49a0f085",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1329/142757l.jpg?s=6145191571630a85d3bf604f49a0f085"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1329/142757.webp?s=6145191571630a85d3bf604f49a0f085",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1329/142757t.webp?s=6145191571630a85d3bf604f49a0f085",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1329/142757l.webp?s=6145191571630a85d3bf604f49a0f085"
+                }
+            },
+            "title": "Saenai Heroine no Sodatekata",
+            "airing": false,
+            "synopsis": "Tomoya Aki, an otaku, has been obsessed with collecting anime and light novels for years, attaching himself to various series with captivating stories and characters. Now, he wants to have a chance of...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.47,
+            "startDate": "2015-01-16T00:00:00+00:00",
+            "endDate": "2015-03-27T00:00:00+00:00",
+            "members": 708893,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 30727,
+            "url": "https://myanimelist.net/anime/30727/Saenai_Heroine_no_Sodatekata_♭",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/84797.jpg?s=b7b1a9dcf8a06cb4eceee74ef1e89038",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/84797t.jpg?s=b7b1a9dcf8a06cb4eceee74ef1e89038",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/84797l.jpg?s=b7b1a9dcf8a06cb4eceee74ef1e89038"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/84797.webp?s=b7b1a9dcf8a06cb4eceee74ef1e89038",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/84797t.webp?s=b7b1a9dcf8a06cb4eceee74ef1e89038",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/84797l.webp?s=b7b1a9dcf8a06cb4eceee74ef1e89038"
+                }
+            },
+            "title": "Saenai Heroine no Sodatekata ♭",
+            "airing": false,
+            "synopsis": "After finally completing the first route of his visual novel, Blessing Software's producer Tomoya Aki is optimistic about the future of his team and achieving their goal of creating the best game of t...",
+            "type": "TV",
+            "episodes": 11,
+            "score": 7.75,
+            "startDate": "2017-04-14T00:00:00+00:00",
+            "endDate": "2017-06-23T00:00:00+00:00",
+            "members": 395062,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 6609,
+            "url": "https://myanimelist.net/anime/6609/Pucca_TV",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/15145.jpg?s=8be572356d3be8e5f3855b7d4e77ae2c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/15145t.jpg?s=8be572356d3be8e5f3855b7d4e77ae2c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/15145l.jpg?s=8be572356d3be8e5f3855b7d4e77ae2c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/15145.webp?s=8be572356d3be8e5f3855b7d4e77ae2c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/15145t.webp?s=8be572356d3be8e5f3855b7d4e77ae2c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/15145l.webp?s=8be572356d3be8e5f3855b7d4e77ae2c"
+                }
+            },
+            "title": "Pucca (TV)",
+            "airing": false,
+            "synopsis": "Pucca is the young daughter of a Chinese noodle house owner and she is hopelessly in love with the ninja Garu. He tries desperately to avoid Pucca's advances and usually does not return her affection....",
+            "type": "TV",
+            "episodes": 26,
+            "score": 6.74,
+            "startDate": "2006-09-18T00:00:00+00:00",
+            "endDate": "2007-05-14T00:00:00+00:00",
+            "members": 19646,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 35338,
+            "url": "https://myanimelist.net/anime/35338/Saenai_Heroine_no_Sodatekata_♭__Koi_to_Junjou_no_Service-kai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/85115.jpg?s=bb2ca5a56a8e2814763710c5d54f3ef6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/85115t.jpg?s=bb2ca5a56a8e2814763710c5d54f3ef6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/85115l.jpg?s=bb2ca5a56a8e2814763710c5d54f3ef6"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/85115.webp?s=bb2ca5a56a8e2814763710c5d54f3ef6",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/85115t.webp?s=bb2ca5a56a8e2814763710c5d54f3ef6",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/85115l.webp?s=bb2ca5a56a8e2814763710c5d54f3ef6"
+                }
+            },
+            "title": "Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai",
+            "airing": false,
+            "synopsis": "For the production of their game's poolside scene, Blessing Software's illustrator Eriri Spencer Sawamura wants Megumi Katou to model in a swimsuit for her sketches of the game's heroine. However, Meg...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 7.37,
+            "startDate": "2017-04-06T00:00:00+00:00",
+            "endDate": "2017-04-06T00:00:00+00:00",
+            "members": 137204,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33222,
+            "url": "https://myanimelist.net/anime/33222/Fudanshi_Koukou_Seikatsu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/80966.jpg?s=5ec6e7af0ffd9c213282d9a2481143f2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/80966t.jpg?s=5ec6e7af0ffd9c213282d9a2481143f2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/80966l.jpg?s=5ec6e7af0ffd9c213282d9a2481143f2"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/80966.webp?s=5ec6e7af0ffd9c213282d9a2481143f2",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/80966t.webp?s=5ec6e7af0ffd9c213282d9a2481143f2",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/80966l.webp?s=5ec6e7af0ffd9c213282d9a2481143f2"
+                }
+            },
+            "title": "Fudanshi Koukou Seikatsu",
+            "airing": false,
+            "synopsis": "Ryou Sakaguchi is a totally normal high school student, aside from his single unusual hobby. Sakaguchi is a fudanshi—a man who loves reading \"boys' love\" manga, and fantasizing about the gay potential...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.51,
+            "startDate": "2016-07-05T00:00:00+00:00",
+            "endDate": "2016-09-20T00:00:00+00:00",
+            "members": 77700,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 57993,
+            "url": "https://myanimelist.net/anime/57993/Oomuro-ke__Dear_Friends",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1613/141223.jpg?s=098f655eb871017eb0b780e534921917",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1613/141223t.jpg?s=098f655eb871017eb0b780e534921917",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1613/141223l.jpg?s=098f655eb871017eb0b780e534921917"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1613/141223.webp?s=098f655eb871017eb0b780e534921917",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1613/141223t.webp?s=098f655eb871017eb0b780e534921917",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1613/141223l.webp?s=098f655eb871017eb0b780e534921917"
+                }
+            },
+            "title": "Oomuro-ke: Dear Friends",
+            "airing": false,
+            "synopsis": "Part two of the spin-off of Yuru Yuri featuring Sakurako and her sisters.",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 7.77,
+            "startDate": "2024-06-21T00:00:00+00:00",
+            "endDate": "2024-06-21T00:00:00+00:00",
+            "members": 9538,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10379,
+            "url": "https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/82394.jpg?s=f3bc38aa1e6c10580687828856d8dc28",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/82394t.jpg?s=f3bc38aa1e6c10580687828856d8dc28",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/82394l.jpg?s=f3bc38aa1e6c10580687828856d8dc28"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/82394.webp?s=f3bc38aa1e6c10580687828856d8dc28",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/82394t.webp?s=f3bc38aa1e6c10580687828856d8dc28",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/82394l.webp?s=f3bc38aa1e6c10580687828856d8dc28"
+                }
+            },
+            "title": "Natsume Yuujinchou San",
+            "airing": false,
+            "synopsis": "Natsume Yuujinchou San follows Takashi Natsume, a boy who is able to see youkai. Natsume and his bodyguard Madara, nicknamed Nyanko-sensei, continue on their quest to release youkai from their contrac...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.56,
+            "startDate": "2011-07-05T00:00:00+00:00",
+            "endDate": "2011-09-27T00:00:00+00:00",
+            "members": 270201,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 5300,
+            "url": "https://myanimelist.net/anime/5300/Zoku_Natsume_Yuujinchou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/79738.jpg?s=dbd5bb99becb12fa6d689196afefa1ff",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/79738t.jpg?s=dbd5bb99becb12fa6d689196afefa1ff",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/79738l.jpg?s=dbd5bb99becb12fa6d689196afefa1ff"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/4/79738.webp?s=dbd5bb99becb12fa6d689196afefa1ff",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/79738t.webp?s=dbd5bb99becb12fa6d689196afefa1ff",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/79738l.webp?s=dbd5bb99becb12fa6d689196afefa1ff"
+                }
+            },
+            "title": "Zoku Natsume Yuujinchou",
+            "airing": false,
+            "synopsis": "As with its prequel, Zoku Natsume Yuujinchou is about Takashi Natsume, a boy who has had the ability to see youkai since he was young, and his bodyguard youkai Madara, nicknamed Nyanko-sensei. Natsume...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 8.53,
+            "startDate": "2009-01-06T00:00:00+00:00",
+            "endDate": "2009-03-31T00:00:00+00:00",
+            "members": 264593,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 59369,
+            "url": "https://myanimelist.net/anime/59369/Lycoris_Recoil__Friends_Are_Thieves_of_Time",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/147593.jpg?s=ff88519c946b8c9c945ed30be1158c04",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1314/147593t.jpg?s=ff88519c946b8c9c945ed30be1158c04",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1314/147593l.jpg?s=ff88519c946b8c9c945ed30be1158c04"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/147593.webp?s=ff88519c946b8c9c945ed30be1158c04",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1314/147593t.webp?s=ff88519c946b8c9c945ed30be1158c04",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1314/147593l.webp?s=ff88519c946b8c9c945ed30be1158c04"
+                }
+            },
+            "title": "Lycoris Recoil: Friends Are Thieves of Time.",
+            "airing": false,
+            "synopsis": "Six short movies featuring the daily lives of Chisato, Takina, and their friends. Each movie will have a different director and storyboard.",
+            "type": "ONA",
+            "episodes": 6,
+            "score": 7.71,
+            "startDate": "2025-04-16T00:00:00+00:00",
+            "endDate": "2025-05-21T00:00:00+00:00",
+            "members": 56048,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33185,
+            "url": "https://myanimelist.net/anime/33185/Peace_Maker_Kurogane_Movie_1__Omou_Michi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1379/91338.jpg?s=c5113b26e755ad02001ac25936bfe4fd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1379/91338t.jpg?s=c5113b26e755ad02001ac25936bfe4fd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1379/91338l.jpg?s=c5113b26e755ad02001ac25936bfe4fd"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1379/91338.webp?s=c5113b26e755ad02001ac25936bfe4fd",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1379/91338t.webp?s=c5113b26e755ad02001ac25936bfe4fd",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1379/91338l.webp?s=c5113b26e755ad02001ac25936bfe4fd"
+                }
+            },
+            "title": "Peace Maker Kurogane Movie 1: Omou Michi",
+            "airing": false,
+            "synopsis": "Although traumatized by witnessing the murder of his parents by one of the Choushuu, Ichimura Tetsunosuke's thirst for revenge leads him to desire strength. At the age of 15, Tetsunosuke approached th...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.64,
+            "startDate": "2018-06-02T00:00:00+00:00",
+            "endDate": "2018-06-02T00:00:00+00:00",
+            "members": 8069,
+            "rated": "R"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 55823,
+            "url": "https://myanimelist.net/anime/55823/Natsume_Yuujinchou_Shichi",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1270/145168.jpg?s=3b0fa15afccbf18fc78891693ce68e78",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1270/145168t.jpg?s=3b0fa15afccbf18fc78891693ce68e78",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1270/145168l.jpg?s=3b0fa15afccbf18fc78891693ce68e78"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1270/145168.webp?s=3b0fa15afccbf18fc78891693ce68e78",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1270/145168t.webp?s=3b0fa15afccbf18fc78891693ce68e78",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1270/145168l.webp?s=3b0fa15afccbf18fc78891693ce68e78"
+                }
+            },
+            "title": "Natsume Yuujinchou Shichi",
+            "airing": false,
+            "synopsis": "As a young child, Takashi Natsume believed his ability to see youkai to be nothing but a curse. Now a high school student, Natsume has managed to heal from his old wounds and form unbreakable bonds wi...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 8.58,
+            "startDate": "2024-10-08T00:00:00+00:00",
+            "endDate": "2024-12-24T00:00:00+00:00",
+            "members": 56003,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 25013,
+            "url": "https://myanimelist.net/anime/25013/Akatsuki_no_Yona",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/64225.jpg?s=737ae431d2d534df34adc4da74b55d32",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/64225t.jpg?s=737ae431d2d534df34adc4da74b55d32",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/64225l.jpg?s=737ae431d2d534df34adc4da74b55d32"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/64225.webp?s=737ae431d2d534df34adc4da74b55d32",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/64225t.webp?s=737ae431d2d534df34adc4da74b55d32",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/64225l.webp?s=737ae431d2d534df34adc4da74b55d32"
+                }
+            },
+            "title": "Akatsuki no Yona",
+            "airing": false,
+            "synopsis": "The kingdom of Kouka is blessed with a beautiful princess whose childlike innocence charms all who come across her. Named Yona, she has grown up sheltered in the royal palace, shielded from any danger...",
+            "type": "TV",
+            "episodes": 24,
+            "score": 8.04,
+            "startDate": "2014-10-07T00:00:00+00:00",
+            "endDate": "2015-03-24T00:00:00+00:00",
+            "members": 926232,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 15323,
+            "url": "https://myanimelist.net/anime/15323/One_Piece__Episode_of_Nami_-_Koukaishi_no_Namida_to_Nakama_no_Kizuna",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/41415.jpg?s=a361909199c47e119eae1657912630dc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/41415t.jpg?s=a361909199c47e119eae1657912630dc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/41415l.jpg?s=a361909199c47e119eae1657912630dc"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/41415.webp?s=a361909199c47e119eae1657912630dc",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/41415t.webp?s=a361909199c47e119eae1657912630dc",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/41415l.webp?s=a361909199c47e119eae1657912630dc"
+                }
+            },
+            "title": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+            "airing": false,
+            "synopsis": "Nami betrays the Straw Hat crew and steals their ship and treasures, escaping to Arlong Park. Luffy and his crew follow her, only to come face to face with the infamous pirate Arlong, a ruthless fish-...",
+            "type": "TV Special",
+            "episodes": 1,
+            "score": 8.1,
+            "startDate": "2012-08-25T00:00:00+00:00",
+            "endDate": "2012-08-25T00:00:00+00:00",
+            "members": 75983,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33018,
+            "url": "https://myanimelist.net/anime/33018/Katsugeki_Touken_Ranbu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/87984.jpg?s=a3e8ba1571f202f4ff3498524dd8464d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/87984t.jpg?s=a3e8ba1571f202f4ff3498524dd8464d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/87984l.jpg?s=a3e8ba1571f202f4ff3498524dd8464d"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/12/87984.webp?s=a3e8ba1571f202f4ff3498524dd8464d",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/87984t.webp?s=a3e8ba1571f202f4ff3498524dd8464d",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/87984l.webp?s=a3e8ba1571f202f4ff3498524dd8464d"
+                }
+            },
+            "title": "Katsugeki/Touken Ranbu",
+            "airing": false,
+            "synopsis": "In 1863, Izuminokami Kanesada and his partner, Horikawa Kunihiro, arrive in the streets of Edo from the future to investigate their master's reports of an upcoming enemy invasion. As humanoid manifest...",
+            "type": "TV",
+            "episodes": 13,
+            "score": 6.73,
+            "startDate": "2017-07-02T00:00:00+00:00",
+            "endDate": "2017-09-24T00:00:00+00:00",
+            "members": 130378,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 33089,
+            "url": "https://myanimelist.net/anime/33089/Kemono_Friends",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/83518.jpg?s=6799143d12abffb4a8b7f19e532c51cf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/83518t.jpg?s=6799143d12abffb4a8b7f19e532c51cf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/83518l.jpg?s=6799143d12abffb4a8b7f19e532c51cf"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/2/83518.webp?s=6799143d12abffb4a8b7f19e532c51cf",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/83518t.webp?s=6799143d12abffb4a8b7f19e532c51cf",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/83518l.webp?s=6799143d12abffb4a8b7f19e532c51cf"
+                }
+            },
+            "title": "Kemono Friends",
+            "airing": false,
+            "synopsis": "Japari Park is an untamed paradise where many humanoid animals, known as \"Friends,\" live their everyday lives in all corners of the natural environmental park. One lazy afternoon in the savannah area,...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.51,
+            "startDate": "2017-01-11T00:00:00+00:00",
+            "endDate": "2017-03-29T00:00:00+00:00",
+            "members": 86480,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36119,
+            "url": "https://myanimelist.net/anime/36119/Uma_no_Friends",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87272.jpg?s=4fb65571d0e2d7cf69c2a8e4fc7cfab4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/87272t.jpg?s=4fb65571d0e2d7cf69c2a8e4fc7cfab4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/87272l.jpg?s=4fb65571d0e2d7cf69c2a8e4fc7cfab4"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/87272.webp?s=4fb65571d0e2d7cf69c2a8e4fc7cfab4",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/87272t.webp?s=4fb65571d0e2d7cf69c2a8e4fc7cfab4",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/87272l.webp?s=4fb65571d0e2d7cf69c2a8e4fc7cfab4"
+                }
+            },
+            "title": "Uma no Friends",
+            "airing": false,
+            "synopsis": "An anime collaboration between Kemono Friends and the Japan Racing Association.",
+            "type": "ONA",
+            "episodes": 1,
+            "score": 6.21,
+            "startDate": "2017-08-08T00:00:00+00:00",
+            "endDate": "2017-08-08T00:00:00+00:00",
+            "members": 4410,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 20651,
+            "url": "https://myanimelist.net/anime/20651/Natsume_Yuujinchou__Itsuka_Yuki_no_Hi_ni",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/79742.jpg?s=75845af879606bdd39df23f88e029330",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/79742t.jpg?s=75845af879606bdd39df23f88e029330",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg?s=75845af879606bdd39df23f88e029330"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/11/79742.webp?s=75845af879606bdd39df23f88e029330",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/79742t.webp?s=75845af879606bdd39df23f88e029330",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/79742l.webp?s=75845af879606bdd39df23f88e029330"
+                }
+            },
+            "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+            "airing": false,
+            "synopsis": "As the first delicate snowflake touches the cold ground, Nyanko-sensei dozes on his hot-water bottle next to Takashi Natsume. While his aunt prepares a warm dinner, Natsume takes a walk, welcoming the...",
+            "type": "OVA",
+            "episodes": 1,
+            "score": 8.33,
+            "startDate": "2014-02-05T00:00:00+00:00",
+            "endDate": "2014-02-05T00:00:00+00:00",
+            "members": 86407,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 15061,
+            "url": "https://myanimelist.net/anime/15061/Aikatsu",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/74783.jpg?s=2dc9ef087f1fe6f031bb8c149e42a37c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/74783t.jpg?s=2dc9ef087f1fe6f031bb8c149e42a37c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/74783l.jpg?s=2dc9ef087f1fe6f031bb8c149e42a37c"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/6/74783.webp?s=2dc9ef087f1fe6f031bb8c149e42a37c",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/74783t.webp?s=2dc9ef087f1fe6f031bb8c149e42a37c",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/74783l.webp?s=2dc9ef087f1fe6f031bb8c149e42a37c"
+                }
+            },
+            "title": "Aikatsu!",
+            "airing": false,
+            "synopsis": "An idol's brilliance illuminates the dreams of humanity. Starlight Academy, a holy ground for celebrities in training, seeks to realize this belief. Behind its rigorous entrance requirements lie not o...",
+            "type": "TV",
+            "episodes": 178,
+            "score": 7.49,
+            "startDate": "2012-10-08T00:00:00+00:00",
+            "endDate": "2016-03-31T00:00:00+00:00",
+            "members": 47692,
+            "rated": "PG"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 10719,
+            "url": "https://myanimelist.net/anime/10719/Boku_wa_Tomodachi_ga_Sukunai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/32873.jpg?s=cf5e93cefc5a6b78a49d21780faa9706",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/32873t.jpg?s=cf5e93cefc5a6b78a49d21780faa9706",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/32873l.jpg?s=cf5e93cefc5a6b78a49d21780faa9706"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/8/32873.webp?s=cf5e93cefc5a6b78a49d21780faa9706",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/32873t.webp?s=cf5e93cefc5a6b78a49d21780faa9706",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/32873l.webp?s=cf5e93cefc5a6b78a49d21780faa9706"
+                }
+            },
+            "title": "Boku wa Tomodachi ga Sukunai",
+            "airing": false,
+            "synopsis": "When Kodaka Hasegawa finds out that he will be transferring to a new school, he is determined to make a positive impression, and maybe even some friends. However, Kodaka discovers he is out of luck wh...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.13,
+            "startDate": "2011-10-07T00:00:00+00:00",
+            "endDate": "2011-12-23T00:00:00+00:00",
+            "members": 847271,
+            "rated": "R+"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 35313,
+            "url": "https://myanimelist.net/anime/35313/Kemono_Friends_2",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/100471.jpg?s=e0da31bcbcb219cdc84c3e5175348d15",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/100471t.jpg?s=e0da31bcbcb219cdc84c3e5175348d15",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/100471l.jpg?s=e0da31bcbcb219cdc84c3e5175348d15"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/100471.webp?s=e0da31bcbcb219cdc84c3e5175348d15",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/100471t.webp?s=e0da31bcbcb219cdc84c3e5175348d15",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/100471l.webp?s=e0da31bcbcb219cdc84c3e5175348d15"
+                }
+            },
+            "title": "Kemono Friends 2",
+            "airing": false,
+            "synopsis": "Serval and Caracal find a \"human\" child in the forest. As they travel with the child, they meet new Friends, uncover the secrets of Japari Park, and become involved in an event that will \"shake the ea...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 5.81,
+            "startDate": "2019-01-15T00:00:00+00:00",
+            "endDate": "2019-04-02T00:00:00+00:00",
+            "members": 19431,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 18849,
+            "url": "https://myanimelist.net/anime/18849/Natsume_Yuujinchou__Nyanko-sensei_to_Hajimete_no_Otsukai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/51431.jpg?s=0ad0a19ae7db399e164c2bcbbf2dfbef",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/51431t.jpg?s=0ad0a19ae7db399e164c2bcbbf2dfbef",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/51431l.jpg?s=0ad0a19ae7db399e164c2bcbbf2dfbef"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/5/51431.webp?s=0ad0a19ae7db399e164c2bcbbf2dfbef",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/51431t.webp?s=0ad0a19ae7db399e164c2bcbbf2dfbef",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/51431l.webp?s=0ad0a19ae7db399e164c2bcbbf2dfbef"
+                }
+            },
+            "title": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+            "airing": false,
+            "synopsis": "Madara, nicknamed \"Nyanko-sensei,\" runs into two young children when he gets separated from his temporary owner Takashi Natsume. Unequipped to handle kids, Nyanko-sensei tries to wriggle his way out;...",
+            "type": "Special",
+            "episodes": 1,
+            "score": 7.64,
+            "startDate": "2013-12-15T00:00:00+00:00",
+            "endDate": "2013-12-15T00:00:00+00:00",
+            "members": 38809,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 14967,
+            "url": "https://myanimelist.net/anime/14967/Boku_wa_Tomodachi_ga_Sukunai_Next",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/44724.jpg?s=e659ed49d3f4e3ebfda3581dea74e4ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/44724t.jpg?s=e659ed49d3f4e3ebfda3581dea74e4ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/44724l.jpg?s=e659ed49d3f4e3ebfda3581dea74e4ec"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/44724.webp?s=e659ed49d3f4e3ebfda3581dea74e4ec",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/44724t.webp?s=e659ed49d3f4e3ebfda3581dea74e4ec",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/44724l.webp?s=e659ed49d3f4e3ebfda3581dea74e4ec"
+                }
+            },
+            "title": "Boku wa Tomodachi ga Sukunai Next",
+            "airing": false,
+            "synopsis": "The Neighbor's Club—a club founded for the purpose of making friends, where misfortunate boys and girls with few friends live out their regrettable lives. Although Yozora Mikazuki faced a certain inci...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.26,
+            "startDate": "2013-01-11T00:00:00+00:00",
+            "endDate": "2013-03-29T00:00:00+00:00",
+            "members": 555727,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 3199,
+            "url": "https://myanimelist.net/anime/3199/Nanatsu_no_Umi_no_Tico",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/69547.jpg?s=90609033aa0166c216eb06986dca3ad0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/69547t.jpg?s=90609033aa0166c216eb06986dca3ad0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/69547l.jpg?s=90609033aa0166c216eb06986dca3ad0"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/9/69547.webp?s=90609033aa0166c216eb06986dca3ad0",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/69547t.webp?s=90609033aa0166c216eb06986dca3ad0",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/69547l.webp?s=90609033aa0166c216eb06986dca3ad0"
+                }
+            },
+            "title": "Nanatsu no Umi no Tico",
+            "airing": false,
+            "synopsis": "Nanami Simpson is a young girl. Her mother dies when she is young, and she goes to live with her father, Scott Simpson, on board a marine research vessel, the Peperonchino. Her father is a marine biol...",
+            "type": "TV",
+            "episodes": 39,
+            "score": 7.37,
+            "startDate": "1994-01-16T00:00:00+00:00",
+            "endDate": "1994-12-18T00:00:00+00:00",
+            "members": 7050,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 36275,
+            "url": "https://myanimelist.net/anime/36275/Natsume_Yuujinchou_Roku_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/87615.jpg?s=7fa0a56172c0fceaaaa8769d87d4d927",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/87615t.jpg?s=7fa0a56172c0fceaaaa8769d87d4d927",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/87615l.jpg?s=7fa0a56172c0fceaaaa8769d87d4d927"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/87615.webp?s=7fa0a56172c0fceaaaa8769d87d4d927",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/87615t.webp?s=7fa0a56172c0fceaaaa8769d87d4d927",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/87615l.webp?s=7fa0a56172c0fceaaaa8769d87d4d927"
+                }
+            },
+            "title": "Natsume Yuujinchou Roku Specials",
+            "airing": false,
+            "synopsis": "Suzunaru no Kirikabu On a hot summer day, Takashi Natsume and his feline companion Madara take a walk to buy jelly. Suddenly a truck passes the two, running over an old, masked man who asks Natsume fo...",
+            "type": "Special",
+            "episodes": 2,
+            "score": 8.4,
+            "startDate": "2017-09-27T00:00:00+00:00",
+            "endDate": "2017-10-25T00:00:00+00:00",
+            "members": 53380,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 34534,
+            "url": "https://myanimelist.net/anime/34534/Natsume_Yuujinchou_Go_Specials",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/84887.jpg?s=bceafc2d8f76576934e823f76aebdd7e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/84887t.jpg?s=bceafc2d8f76576934e823f76aebdd7e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/84887l.jpg?s=bceafc2d8f76576934e823f76aebdd7e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/3/84887.webp?s=bceafc2d8f76576934e823f76aebdd7e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/84887t.webp?s=bceafc2d8f76576934e823f76aebdd7e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/84887l.webp?s=bceafc2d8f76576934e823f76aebdd7e"
+                }
+            },
+            "title": "Natsume Yuujinchou Go Specials",
+            "airing": false,
+            "synopsis": "One Night Sake Cup On his way back home from an errand, Takashi Natsume gets lost in the forest. Luckily, he is rescued by a traveling youkai couple who make sake cups for a living. Taking a sip of wa...",
+            "type": "Special",
+            "episodes": 2,
+            "score": 8.31,
+            "startDate": "2017-03-30T00:00:00+00:00",
+            "endDate": "2017-04-26T00:00:00+00:00",
+            "members": 51943,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 42894,
+            "url": "https://myanimelist.net/anime/42894/Natsume_Yuujinchou__Ishi_Okoshi_to_Ayashiki_Raihousha",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/111560.jpg?s=d128b6a08b242a8f7ceb4ebd98e9726e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1992/111560t.jpg?s=d128b6a08b242a8f7ceb4ebd98e9726e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1992/111560l.jpg?s=d128b6a08b242a8f7ceb4ebd98e9726e"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/111560.webp?s=d128b6a08b242a8f7ceb4ebd98e9726e",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1992/111560t.webp?s=d128b6a08b242a8f7ceb4ebd98e9726e",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1992/111560l.webp?s=d128b6a08b242a8f7ceb4ebd98e9726e"
+                }
+            },
+            "title": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+            "airing": false,
+            "synopsis": "Ishi Okoshi While searching for Nyanko-sensei, Takashi Natsume encounters meek and small-looking youkai Mitsumi. Mitsumi was entrusted by his leader Gantetsu, a powerful and strong ayakashi, to be the...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 8.17,
+            "startDate": "2021-01-16T00:00:00+00:00",
+            "endDate": "2021-01-16T00:00:00+00:00",
+            "members": 53140,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 31370,
+            "url": "https://myanimelist.net/anime/31370/Tonkatsu_DJ_Agetarou",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/78559.jpg?s=da5ff45d3d1a3891a04943df5f51a9c8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/78559t.jpg?s=da5ff45d3d1a3891a04943df5f51a9c8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/78559l.jpg?s=da5ff45d3d1a3891a04943df5f51a9c8"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/10/78559.webp?s=da5ff45d3d1a3891a04943df5f51a9c8",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/78559t.webp?s=da5ff45d3d1a3891a04943df5f51a9c8",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/78559l.webp?s=da5ff45d3d1a3891a04943df5f51a9c8"
+                }
+            },
+            "title": "Tonkatsu DJ Agetarou",
+            "airing": false,
+            "synopsis": "Tonkatsu chef by day, professional DJ by night—this is the aspiration of Agetarou Katsumata, whose family owns a small tonkatsu shop in Shibuya. One night, Agetarou delivers an order to a staff member...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 7.13,
+            "startDate": "2016-04-10T00:00:00+00:00",
+            "endDate": "2016-06-26T00:00:00+00:00",
+            "members": 15525,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 52709,
+            "url": "https://myanimelist.net/anime/52709/Danjo_no_Yuujou_wa_Seiritsu_suru_Iya_Shinai",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/150067.jpg?s=750f1e4cd21bf96cf877304ccb55a652",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1429/150067t.jpg?s=750f1e4cd21bf96cf877304ccb55a652",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1429/150067l.jpg?s=750f1e4cd21bf96cf877304ccb55a652"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/150067.webp?s=750f1e4cd21bf96cf877304ccb55a652",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1429/150067t.webp?s=750f1e4cd21bf96cf877304ccb55a652",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1429/150067l.webp?s=750f1e4cd21bf96cf877304ccb55a652"
+                }
+            },
+            "title": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+            "airing": false,
+            "synopsis": "Yuu Natsume met Himari Inuzuka in middle school while trying to sell his accessories made with preserved flowers. When Yuu told her about his dream to open a shop to sell his creations, Himari decided...",
+            "type": "TV",
+            "episodes": 12,
+            "score": 6.54,
+            "startDate": "2025-04-04T00:00:00+00:00",
+            "endDate": "2025-06-20T00:00:00+00:00",
+            "members": 143370,
+            "rated": "PG-13"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 54001,
+            "url": "https://myanimelist.net/anime/54001/Love_My_Friends",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1734/132099.jpg?s=de837273e7e2dca3eae9a178e7bc9f91",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1734/132099t.jpg?s=de837273e7e2dca3eae9a178e7bc9f91",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1734/132099l.jpg?s=de837273e7e2dca3eae9a178e7bc9f91"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1734/132099.webp?s=de837273e7e2dca3eae9a178e7bc9f91",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1734/132099t.webp?s=de837273e7e2dca3eae9a178e7bc9f91",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1734/132099l.webp?s=de837273e7e2dca3eae9a178e7bc9f91"
+                }
+            },
+            "title": "Love My Friends",
+            "airing": false,
+            "synopsis": "Music video for the song love my friends by MindaRyn.",
+            "type": "Music",
+            "episodes": 1,
+            "score": 0.0,
+            "startDate": "2021-04-13T00:00:00+00:00",
+            "endDate": "2021-04-13T00:00:00+00:00",
+            "members": 157,
+            "rated": "G"
+        },
+        {
+            "@class": "Jikan\\Model\\Search\\AnimeSearchListItem",
+            "malId": 37969,
+            "url": "https://myanimelist.net/anime/37969/Youkai_Watch_Movie_5__Forever_Friends",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1870/100547.jpg?s=c73fb6c53d7e6874069bc2b051062568",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1870/100547t.jpg?s=c73fb6c53d7e6874069bc2b051062568",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1870/100547l.jpg?s=c73fb6c53d7e6874069bc2b051062568"
+                },
+                "webp": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                    "imageUrl": "https://cdn.myanimelist.net/images/anime/1870/100547.webp?s=c73fb6c53d7e6874069bc2b051062568",
+                    "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1870/100547t.webp?s=c73fb6c53d7e6874069bc2b051062568",
+                    "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1870/100547l.webp?s=c73fb6c53d7e6874069bc2b051062568"
+                }
+            },
+            "title": "Youkai Watch Movie 5: Forever Friends",
+            "airing": false,
+            "synopsis": "1960s --- Tokyo. Shin is a boy who lived happily despite being poor, loses his mother who is his only family member, and falls into deep misfortune. Itsuki, a boy who saves Shin also lost his older si...",
+            "type": "Movie",
+            "episodes": 1,
+            "score": 6.9,
+            "startDate": "2018-12-14T00:00:00+00:00",
+            "endDate": "2018-12-14T00:00:00+00:00",
+            "members": 2127,
+            "rated": "PG"
+        }
+    ]
+}
