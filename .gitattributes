@@ -1,0 +1,4 @@
+# Recorded responses are served byte-for-byte: never let a checkout rewrite their line endings.
+fixtures/** -text
+# Snapshots are compared as text and generated with LF on every platform.
+snapshots/** text eol=lf
