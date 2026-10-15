@@ -1,0 +1,577 @@
+{
+    "@class": "Jikan\\Model\\News\\ResourceNewsList",
+    "hasNextPage": true,
+    "lastVisiblePage": 2,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 74622488,
+            "url": "https://myanimelist.net/news/74622488",
+            "title": "Two New 'One Piece' Anime Movies Announced for 2027 and 2029",
+            "date": "2026-08-23T03:46:00+00:00",
+            "authorUsername": "Syureria",
+            "authorUrl": "https://myanimelist.net/profile/Syureria",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2276544",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1787481900-810cd9206d47e89f58b621bea82d6313.jpeg?s=8acbd6f98841c8b00ef9b9c5d1b07c91"
+                }
+            },
+            "comments": 13,
+            "excerpt": "The second day of the \"One Piece Day '26\" event at Makuhari Messe in Chiba announced on Sunday that Eiichiro Oda's One Piece manga is receiving ..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 74549344,
+            "url": "https://myanimelist.net/news/74549344",
+            "title": "North American Anime & Manga Releases for August",
+            "date": "2026-08-02T11:44:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2274359",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1785694377-5af0a12d7043ade432cf8243fdd13461.jpeg?s=5a9e1bdb32d482a1cc15288e34c46daa"
+                }
+            },
+            "comments": 7,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for August. Week 1: August 4 - 10 Anime Releases All You Need Is Kill Blu-ray Niwatori Fighter (Ro..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 74054145,
+            "url": "https://myanimelist.net/news/74054145",
+            "title": "North American Anime & Manga Releases for April",
+            "date": "2026-03-31T04:58:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2258875",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1774956064-942f46ba5d5b50bed3a1c6774766089c.jpeg?s=82c0bcbf01bd88009e8982ba9a9e5374"
+                }
+            },
+            "comments": 1,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for April. Week 1: April 7 - 13 Anime Releases Captain Tsubasa (2018) DVD Captain Tsubasa Season 2..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 73684906,
+            "url": "https://myanimelist.net/news/73684906",
+            "title": "North American Anime & Manga Releases for January",
+            "date": "2026-01-04T10:20:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2247864",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1767546347-553dd79b6fee2c344d083f533a49f549.jpeg?s=558f4a4e767e1abeb2f18c51e1d5c437"
+                }
+            },
+            "comments": 1,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for January. Week 1: January 6 - 12 Anime Releases [Oshi no Ko] 2nd Season Blu-ray [Oshi no Ko] 2n..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 73456555,
+            "url": "https://myanimelist.net/news/73456555",
+            "title": "North American Anime & Manga Releases for November",
+            "date": "2025-11-01T12:56:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2239281",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1762025878-2e3797fc83485eed7fe40e76f26db75a.jpeg?s=6b1a0b9040f9de307a16a0797a57b8d0"
+                }
+            },
+            "comments": 5,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for November. Week 1: November 4 - 10 Anime Releases Dragon Ball Super: Broly Blu-ray [SteelBook] ..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 73442470,
+            "url": "https://myanimelist.net/news/73442470",
+            "title": "'One Piece' Anime Revises Production Schedule, 'Elbaph-hen' to Begin in April 2026",
+            "date": "2025-10-28T20:15:00+00:00",
+            "authorUsername": "Vindstot",
+            "authorUrl": "https://myanimelist.net/profile/Vindstot",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2238701",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1761707581-9263745fece1bea302b542600179d107.jpeg?s=41194363555cc432ba12807ccb638b21"
+                }
+            },
+            "comments": 27,
+            "excerpt": "The One Piece anime series will enter a revised production and broadcast schedule, with the Elbaph-hen (Elbaph Arc) set to begin airing in April 2026. The announceme..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 73111602,
+            "url": "https://myanimelist.net/news/73111602",
+            "title": "North American Anime & Manga Releases for August",
+            "date": "2025-08-05T10:43:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2227142",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1754413336-b39bf10273adcfcb399c7aa158fc827a.jpeg?s=01cc01a484fe58f3dfd233d619c73d4f"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for August. Week 1: August 5 - 11 Anime Releases Made in Abyss: Retsujitsu no Ougonkyou (incl. Pap..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 72814610,
+            "url": "https://myanimelist.net/news/72814610",
+            "title": "North American Anime & Manga Releases for June",
+            "date": "2025-06-02T05:04:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2217070",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1748865347-8bbda6fe8dc260c206c79f4ea6278ffa.jpeg?s=95bb10413426cab719b36ed3e3cdaecf"
+                }
+            },
+            "comments": 1,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for June. Week 1: June 3 - 9 Anime Releases Bokura wa Minna Kawai-sou (incl. Hajimete no) (The Kaw..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 72704614,
+            "url": "https://myanimelist.net/news/72704614",
+            "title": "North American Anime & Manga Releases for May",
+            "date": "2025-05-04T05:58:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2213168",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1746362599-0e574d4b9d71257a4d44159c9415dba5.jpeg?s=ea1eb865d48b459c697837ddfd524cdd"
+                }
+            },
+            "comments": 3,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for May. Week 1: May 6 - 12 Anime Releases Yumekui Merry (Dream Eater Merry) Complete Collection B..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 72458105,
+            "url": "https://myanimelist.net/news/72458105",
+            "title": "North American Anime & Manga Releases for March",
+            "date": "2025-03-09T09:27:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2205240",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1741532906-cf128d2c718ee770004145041dd9b687.jpeg?s=47c583eeeb477c1767b358340b08e62d"
+                }
+            },
+            "comments": 5,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for March. Week 1: March 4 - 10 Anime Releases Akira 4K + Blu-ray [SteelBook] Bakeneko Anzu-chan (..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 72317942,
+            "url": "https://myanimelist.net/news/72317942",
+            "title": "North American Anime & Manga Releases for February",
+            "date": "2025-02-01T15:29:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2200479",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1738449841-0acb6eb0143142a08a3ce66ce821fdc7.jpeg?s=ec34d78f3f574ebfead949331b2728de"
+                }
+            },
+            "comments": 2,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for February. Week 1: February 4 - 10 Anime Releases Mato Seihei no Slave (Chained Soldier) Comple..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 72087196,
+            "url": "https://myanimelist.net/news/72087196",
+            "title": "North American Anime & Manga Releases for December",
+            "date": "2024-12-04T15:13:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2192009",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1733351999-3a341f0d78671d8ea3a78949c4e5fd96.png?s=60e926d589dc5c223dc1dd76a4a0ef01"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for December. Week 1: December 3 - 9 Anime Releases Boku ga Aishita Subete no Kimi e + Kimi wo Ais..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 71757278,
+            "url": "https://myanimelist.net/news/71757278",
+            "title": "North American Anime & Manga Releases for October",
+            "date": "2024-09-29T12:06:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2181764",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1727625802-aa331cb67e33b428e6773df79aa17913.jpeg?s=3ee4450823e271377d61f87465ed5cdd"
+                }
+            },
+            "comments": 1,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for October. Week 1: October 1 - 7 Anime Releases Outbreak Company Complete Collection Blu-ray Man..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 71526273,
+            "url": "https://myanimelist.net/news/71526273",
+            "title": "North American Anime & Manga Releases for August",
+            "date": "2024-08-10T08:00:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2173629",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1723297261-5a9a6cdb73c0d3504767bbaa19f1375d.jpeg?s=0a4deb3b1eb1909910ee07fc0adcaf05"
+                }
+            },
+            "comments": 1,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for August. Week 1: August 6 - 12 Anime Releases Gochuumon wa Usagi desu ka? Bloom (Is the Order a..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 71320797,
+            "url": "https://myanimelist.net/news/71320797",
+            "title": "North American Anime & Manga Releases for July",
+            "date": "2024-07-01T15:21:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2167226",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1719869911-97af9629ca1f98bb50c4369f653ba02d.jpeg?s=e461f2288b838df20d6a311a80b202bd"
+                }
+            },
+            "comments": 1,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for July. Week 1: July 2 - 8 Anime Releases Bungou Stray Dogs 4th Season (Bungo Stray Dogs 4) Comp..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 71000087,
+            "url": "https://myanimelist.net/news/71000087",
+            "title": "North American Anime & Manga Releases for May",
+            "date": "2024-05-05T10:47:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2158704",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1714928788-264c5c4cfa6b9b676d6a243e4661fb04.jpeg?s=5c39eebf21bede0b12c73b383b65b2cd"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for May. Week 1: May 7 - 13 Anime Releases Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade ..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 70693563,
+            "url": "https://myanimelist.net/news/70693563",
+            "title": "North American Anime & Manga Releases for March",
+            "date": "2024-03-12T09:00:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2150310",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1710256916-51eb3e66b10b5d249b35f81af04ab2ac.jpeg?s=c437ab34da1b0164ae5b8bd47bb6dbf5"
+                }
+            },
+            "comments": 1,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for March. Week 1: March 5 - 11 Anime Releases Kaifuku Jutsushi no Yarinaoshi (Redo of Healer) Com..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 70624307,
+            "url": "https://myanimelist.net/news/70624307",
+            "title": "North American Anime & Manga Releases for February",
+            "date": "2024-02-24T10:01:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2147422",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1708794961-9290624206932792a0266d2bf81707be.jpeg?s=b532dd98ed0cb068715e43bb089e8247"
+                }
+            },
+            "comments": 4,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for February. Week 1: February 6 - 12 Anime Releases Benriya Saitou-san, Isekai ni Iku (Handyman S..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 70466025,
+            "url": "https://myanimelist.net/news/70466025",
+            "title": "North American Anime & Manga Releases for January",
+            "date": "2024-01-19T09:22:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2141810",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1705682457-2379f9fe9e6ab3b583359f27e11b073c.jpeg?s=47f5e3419821adfd94c7c75e9f669c18"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for January. Week 1: January 2 - 8 Anime Releases 5-toubun no Hanayome Movie (The Quintessential Q..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 70343491,
+            "url": "https://myanimelist.net/news/70343491",
+            "title": "North American Anime & Manga Releases for December",
+            "date": "2023-12-28T08:44:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2137784",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1703779599-2e9083ad0c052fe0071a8776d96b2922.jpeg?s=3d20d17750122f4e32ca1745f14e03e5"
+                }
+            },
+            "comments": 3,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for December. Week 1: December 5 - 11 Anime Releases Code Geass: Hangyaku no Lelouch (incl. Hangya..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 70295814,
+            "url": "https://myanimelist.net/news/70295814",
+            "title": "'One Piece' Anime Gets Remake by WIT Studio",
+            "date": "2023-12-17T08:13:00+00:00",
+            "authorUsername": "Hyperion_PS",
+            "authorUrl": "https://myanimelist.net/profile/Hyperion_PS",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2135915",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1702829521-d2d1259f85cc26ab976ceaac9202e94f.jpeg?s=15c71108c2e3b2dc4328ed6ba665b903"
+                }
+            },
+            "comments": 85,
+            "excerpt": "The Jump Super Stage Red at Jump Festa 2024 announced on Sunday that the television anime adapting Eiichiro Oda's One Piece manga is receiving a remake titled T..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 69801071,
+            "url": "https://myanimelist.net/news/69801071",
+            "title": "North American Anime & Manga Releases for September",
+            "date": "2023-09-05T09:22:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2115479",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1693928400-87d19c21b50e4ada789b828a6364dab7.jpeg?s=3c07e47c8a93feda2aa1cb56419724ea"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for September. Week 1: September 5 - 11 Anime Releases Shinobi no Ittoki Complete Season Blu-ray T..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 69676130,
+            "url": "https://myanimelist.net/news/69676130",
+            "title": "North American Anime & Manga Releases for August",
+            "date": "2023-08-10T08:49:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2111323",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1691678682-9c64de80451357dc061f93e75f36e0ae.jpeg?s=889c61a631702ccbbc69902a0edadcfa"
+                }
+            },
+            "comments": 1,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for August. Week 1: August 1 - 7 Anime Releases Dragon Ball Z Season 1-9 Collection Blu-ray [2023 ..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 69485927,
+            "url": "https://myanimelist.net/news/69485927",
+            "title": "North American Anime & Manga Releases for July",
+            "date": "2023-07-06T09:58:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2104554",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1688659093-aee680439a505a664f56ea147ceee2a6.jpeg?s=a0ca698517811730c59407ee36de4098"
+                }
+            },
+            "comments": 3,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for July. Week 1: July 4 - 10 Anime Releases Obey Me! Season 2 (Obey Me! The Anime: Season 2) Comp..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 68944601,
+            "url": "https://myanimelist.net/news/68944601",
+            "title": "North American Anime & Manga Releases for April",
+            "date": "2023-04-03T12:28:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2085951",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1680548192-1bab9dda6c4361bca1dabf3a36eefb60.jpeg?s=e070ba24ac1c31bae536e9397e941bc3"
+                }
+            },
+            "comments": 3,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for April. Week 1: April 4 - 10 Anime Releases Cowboy Bebop Complete Series Blu-ray Cowboy Bebop C..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 68784397,
+            "url": "https://myanimelist.net/news/68784397",
+            "title": "North American Anime & Manga Releases for March",
+            "date": "2023-03-10T12:40:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2081238",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1678478977-f8b58316d9a7b9f762bbf1b5cd351f45.jpeg?s=6dfeee872b1574eef2edb913befed2b1"
+                }
+            },
+            "comments": 1,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for March. Week 1: March 7 - 13 Anime Releases Koi to Uso (Love and Lies) Complete Collection Blu-..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 67622139,
+            "url": "https://myanimelist.net/news/67622139",
+            "title": "North American Anime & Manga Releases for October",
+            "date": "2022-10-03T11:16:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2049207",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664818204-66a0d9db79819d365964376a1e8772ff.jpeg?s=944fbab1a2afed83931e7e51e4283cc2"
+                }
+            },
+            "comments": 0,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for October. Week 1: October 4 - 10 Anime Releases Fate/kaleid liner Prisma☆Illya Movie: Licht - N..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 67040251,
+            "url": "https://myanimelist.net/news/67040251",
+            "title": "North American Anime & Manga Releases for August",
+            "date": "2022-08-01T09:16:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2034624",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1659366479-28a0bb95377c68fb097f3adfc7a98a0d.jpeg?s=f8ac3da9552d99563894bd21f13f0f6c"
+                }
+            },
+            "comments": 2,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for August. Week 1: August 2 - 8 Anime Releases Fushigi no Umi no Nadia (Nadia: The Secret of Blue..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 66796371,
+            "url": "https://myanimelist.net/news/66796371",
+            "title": "North American Anime & Manga Releases for July",
+            "date": "2022-07-06T05:57:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2028036",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1657109280-760183d0c2c55df63fd70b8cf7116bc9.jpeg?s=f24cd52eadc40d1c996bec67d75f6121"
+                }
+            },
+            "comments": 8,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for July. Week 1: July 5 - 11 Anime Releases Amnesia Complete Collection Blu-ray [2022 Re-release]..."
+        },
+        {
+            "@class": "Jikan\\Model\\News\\ResourceNewsListItem",
+            "malId": 66551059,
+            "url": "https://myanimelist.net/news/66551059",
+            "title": "North American Anime & Manga Releases for June",
+            "date": "2022-06-07T10:13:00+00:00",
+            "authorUsername": "Aiimee",
+            "authorUrl": "https://myanimelist.net/profile/Aiimee",
+            "forumUrl": "https://myanimelist.net/forum/?topicid=2021236",
+            "images": {
+                "@class": "Jikan\\Model\\Resource\\WrapImageResource\\WrapImageResource",
+                "jpg": {
+                    "@class": "Jikan\\Model\\Resource\\WrapImageResource\\Jpg",
+                    "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1654619921-e35019ed609c163606cb2b3339e670ed.jpeg?s=48b1f06a2752f1a1cb1ebd0d4a049451"
+                }
+            },
+            "comments": 2,
+            "excerpt": "Here are the North American anime, manga, and light novel releases for June Week 1: June 7 - 13 Anime Releases Bem (BEM: Become Human) Blu-ray Btooom! (incl. Bakusat..."
+        }
+    ]
+}
