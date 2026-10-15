@@ -1,0 +1,1957 @@
+{
+    "@class": "Jikan\\Model\\Manga\\MangaUserUpdates",
+    "hasNextPage": true,
+    "lastVisiblePage": 2,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Cet4cean",
+                "url": "https://myanimelist.net/profile/Cet4cean",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/125f41a1-393b-4f27-8cb5-89b4b68fe961_42x62_i?s=261934da5bf4da9e7d84e258e7804437"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/125f41a1-393b-4f27-8cb5-89b4b68fe961_42x62_i?s=261934da5bf4da9e7d84e258e7804437"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Plan to Read",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T19:02:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "anonimowy6543643",
+                "url": "https://myanimelist.net/profile/anonimowy6543643",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f75a9743-8b7e-4c0f-a9d2-3f2505de8491_42x62_i?s=5e2f7c7dd8a475f320a9c5881321e801"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f75a9743-8b7e-4c0f-a9d2-3f2505de8491_42x62_i?s=5e2f7c7dd8a475f320a9c5881321e801"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 2,
+            "volumesTotal": null,
+            "chaptersRead": 6,
+            "chaptersTotal": null,
+            "date": "2026-10-15T19:01:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Animelove_26",
+                "url": "https://myanimelist.net/profile/Animelove_26",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 341,
+            "chaptersTotal": null,
+            "date": "2026-10-15T19:00:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "tdkumon",
+                "url": "https://myanimelist.net/profile/tdkumon",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e512086c-b51b-478c-bca2-f9f4cbd578c2_42x62_i?s=22777b8b0ef8c79dc7eb753b6f87c99f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e512086c-b51b-478c-bca2-f9f4cbd578c2_42x62_i?s=22777b8b0ef8c79dc7eb753b6f87c99f"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 15,
+            "volumesTotal": null,
+            "chaptersRead": 126,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:43:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Quissenguele22",
+                "url": "https://myanimelist.net/profile/Quissenguele22",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 168,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:39:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "MoxieMudkip",
+                "url": "https://myanimelist.net/profile/MoxieMudkip",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e4ff0c7c-bb97-48cd-9ace-e4ed7818ce97_42x62_i?s=0d901196be76a506e62b822466aa6bd1"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e4ff0c7c-bb97-48cd-9ace-e4ed7818ce97_42x62_i?s=0d901196be76a506e62b822466aa6bd1"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 306,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:38:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ApplyDirectly",
+                "url": "https://myanimelist.net/profile/ApplyDirectly",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/b30db937-06b8-42ab-831f-068b9c4c87e0_42x62_i?s=ac4105916aa119473b2a559a056c7f73"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/b30db937-06b8-42ab-831f-068b9c4c87e0_42x62_i?s=ac4105916aa119473b2a559a056c7f73"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:35:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "gutty6396",
+                "url": "https://myanimelist.net/profile/gutty6396",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 2,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:31:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Laythenxvi",
+                "url": "https://myanimelist.net/profile/Laythenxvi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/73fdbd99-c036-46ee-bb05-0b8a9f83171b_42x62_i?s=07716f80920187df252a24d9c9ad2621"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/73fdbd99-c036-46ee-bb05-0b8a9f83171b_42x62_i?s=07716f80920187df252a24d9c9ad2621"
+                    }
+                }
+            },
+            "score": null,
+            "status": "On-Hold",
+            "volumesRead": 43,
+            "volumesTotal": null,
+            "chaptersRead": 386,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:28:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "BLASE_Manga",
+                "url": "https://myanimelist.net/profile/BLASE_Manga",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7f096ce4-138d-43f5-bd26-2ab8cd4d243f_42x62_i?s=b77eb223e5b19cd0b2747652403406a4"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7f096ce4-138d-43f5-bd26-2ab8cd4d243f_42x62_i?s=b77eb223e5b19cd0b2747652403406a4"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 6,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:28:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Shubhankar05",
+                "url": "https://myanimelist.net/profile/Shubhankar05",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2e1a13fc-ab5b-4212-8d0c-326091e60b8b_42x62_i?s=9d2a4342ad59e57f2096aeb42518ac91"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2e1a13fc-ab5b-4212-8d0c-326091e60b8b_42x62_i?s=9d2a4342ad59e57f2096aeb42518ac91"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 23,
+            "volumesTotal": null,
+            "chaptersRead": 202,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Sanjay835",
+                "url": "https://myanimelist.net/profile/Sanjay835",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/54acd8b6-8cb4-4a49-b9cc-b08a41963ead_42x62_i?s=5c03e28fa3b7eaa3234b6d1c0282b27c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/54acd8b6-8cb4-4a49-b9cc-b08a41963ead_42x62_i?s=5c03e28fa3b7eaa3234b6d1c0282b27c"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 23,
+            "volumesTotal": null,
+            "chaptersRead": 202,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Jenny-J",
+                "url": "https://myanimelist.net/profile/Jenny-J",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 7,
+            "status": "Completed",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Deez_Henok",
+                "url": "https://myanimelist.net/profile/Deez_Henok",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 332,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "jekofox",
+                "url": "https://myanimelist.net/profile/jekofox",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 386,
+            "chaptersTotal": null,
+            "date": "2026-10-15T18:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Schizophrenic_0",
+                "url": "https://myanimelist.net/profile/Schizophrenic_0",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d43cae27-f696-42f4-a96c-6ac9987abbea_42x62_i?s=da318b1cbbdca966d37a8b286895105a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d43cae27-f696-42f4-a96c-6ac9987abbea_42x62_i?s=da318b1cbbdca966d37a8b286895105a"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 379,
+            "volumesTotal": null,
+            "chaptersRead": 375,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "emma_rnt",
+                "url": "https://myanimelist.net/profile/emma_rnt",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/fe6384a7-8d1b-4873-b94e-97aa86a1c83c_42x62_i?s=080ffc55ec19d36fc70bb486947b4302"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/fe6384a7-8d1b-4873-b94e-97aa86a1c83c_42x62_i?s=080ffc55ec19d36fc70bb486947b4302"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 384,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "pigabic",
+                "url": "https://myanimelist.net/profile/pigabic",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/58dbe05c-ba03-4fce-a23f-787fcffcb458_42x62_i?s=3d7b4b472e569ecdc1f0fef31eb73adf"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/58dbe05c-ba03-4fce-a23f-787fcffcb458_42x62_i?s=3d7b4b472e569ecdc1f0fef31eb73adf"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Reading",
+            "volumesRead": 29,
+            "volumesTotal": null,
+            "chaptersRead": 264,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Kimcartman",
+                "url": "https://myanimelist.net/profile/Kimcartman",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2fc63f4b-be34-4933-85e5-d53d41f14187_42x62_i?s=8a3dd456612bbba4f11d6dfdfaa2323f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2fc63f4b-be34-4933-85e5-d53d41f14187_42x62_i?s=8a3dd456612bbba4f11d6dfdfaa2323f"
+                    }
+                }
+            },
+            "score": 7,
+            "status": "On-Hold",
+            "volumesRead": 43,
+            "volumesTotal": null,
+            "chaptersRead": 404,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "MarioDG",
+                "url": "https://myanimelist.net/profile/MarioDG",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 1,
+            "volumesTotal": null,
+            "chaptersRead": 5,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Wigur",
+                "url": "https://myanimelist.net/profile/Wigur",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a137422d-4351-41df-9281-46e8dbf9775f_42x62_i?s=1e1044e077abf236e84e83edc4beef45"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a137422d-4351-41df-9281-46e8dbf9775f_42x62_i?s=1e1044e077abf236e84e83edc4beef45"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 22,
+            "volumesTotal": null,
+            "chaptersRead": 10,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "EUCALI",
+                "url": "https://myanimelist.net/profile/EUCALI",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/41279488-6da6-4be4-a57a-722c98a1f08b_42x62_i?s=ae51f7d8355c6655fa131c62dddc7247"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/41279488-6da6-4be4-a57a-722c98a1f08b_42x62_i?s=ae51f7d8355c6655fa131c62dddc7247"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Reading",
+            "volumesRead": 358,
+            "volumesTotal": null,
+            "chaptersRead": 386,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "michaelbg99",
+                "url": "https://myanimelist.net/profile/michaelbg99",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 321,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Lch_0161",
+                "url": "https://myanimelist.net/profile/Lch_0161",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "mariomario22",
+                "url": "https://myanimelist.net/profile/mariomario22",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Completed",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "HarpySmeagol",
+                "url": "https://myanimelist.net/profile/HarpySmeagol",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 10,
+            "volumesTotal": null,
+            "chaptersRead": 4,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "tuduo",
+                "url": "https://myanimelist.net/profile/tuduo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/0a726081-ee01-4423-bbcd-66e5e06931c4_42x62_i?s=05424a2c04952b58a5a510ba37ed9fd3"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/0a726081-ee01-4423-bbcd-66e5e06931c4_42x62_i?s=05424a2c04952b58a5a510ba37ed9fd3"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Reading",
+            "volumesRead": 19,
+            "volumesTotal": null,
+            "chaptersRead": 177,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "FelipeBr1302",
+                "url": "https://myanimelist.net/profile/FelipeBr1302",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/15f9b415-7d70-484d-a8a1-b6a669ba5bba_42x62_i?s=2c830480859e1aa0964b5dba7022b3ab"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/15f9b415-7d70-484d-a8a1-b6a669ba5bba_42x62_i?s=2c830480859e1aa0964b5dba7022b3ab"
+                    }
+                }
+            },
+            "score": 8,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 66,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Nad_salti",
+                "url": "https://myanimelist.net/profile/Nad_salti",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "GonVieira",
+                "url": "https://myanimelist.net/profile/GonVieira",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/cd013e68-8dd6-4b85-8d0e-d36f5def3d8a_42x62_i?s=a4b9d0de239d8e7030dc783b8ed84965"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/cd013e68-8dd6-4b85-8d0e-d36f5def3d8a_42x62_i?s=a4b9d0de239d8e7030dc783b8ed84965"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 42,
+            "volumesTotal": null,
+            "chaptersRead": 386,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "panties123",
+                "url": "https://myanimelist.net/profile/panties123",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Plan to Read",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Blurbouseus",
+                "url": "https://myanimelist.net/profile/Blurbouseus",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/0e36ec8a-e3e3-46f8-85ac-731d20e47c53_42x62_i?s=ba762fe403a4f65686c045729492fdc7"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/0e36ec8a-e3e3-46f8-85ac-731d20e47c53_42x62_i?s=ba762fe403a4f65686c045729492fdc7"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Plan to Read",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "SaeeKz",
+                "url": "https://myanimelist.net/profile/SaeeKz",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Plan to Read",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T17:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "IamKilljoy42",
+                "url": "https://myanimelist.net/profile/IamKilljoy42",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 41,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T16:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "KroneNguyen",
+                "url": "https://myanimelist.net/profile/KroneNguyen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/42fe8e2a-bf27-4c05-9811-4b3e0d401205_42x62_i?s=58de768a1ec1974dd2b834c03d6ae0b8"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/42fe8e2a-bf27-4c05-9811-4b3e0d401205_42x62_i?s=58de768a1ec1974dd2b834c03d6ae0b8"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "On-Hold",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T16:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "dipanshu040408",
+                "url": "https://myanimelist.net/profile/dipanshu040408",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T16:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Korgyik",
+                "url": "https://myanimelist.net/profile/Korgyik",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2a4e23d0-e68f-47ce-806e-37397272fc11_42x62_i?s=1b9947436496f8cae8c04530ef426f05"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2a4e23d0-e68f-47ce-806e-37397272fc11_42x62_i?s=1b9947436496f8cae8c04530ef426f05"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 42,
+            "volumesTotal": null,
+            "chaptersRead": 386,
+            "chaptersTotal": null,
+            "date": "2026-10-15T16:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "wielkiekruwsko",
+                "url": "https://myanimelist.net/profile/wielkiekruwsko",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/eb56085a-64d3-4716-8c6f-d3fc1f993020_42x62_i?s=08ee3a93f3ebfbc328c6ee3a924df09b"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/eb56085a-64d3-4716-8c6f-d3fc1f993020_42x62_i?s=08ee3a93f3ebfbc328c6ee3a924df09b"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 14,
+            "volumesTotal": null,
+            "chaptersRead": 95,
+            "chaptersTotal": null,
+            "date": "2026-10-15T16:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "iDeMoN9",
+                "url": "https://myanimelist.net/profile/iDeMoN9",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/794ad733-87c6-4525-a24e-fcaf92ad8c21_42x62_i?s=e75ffa69f597fa58e47a13ddff5798a4"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/794ad733-87c6-4525-a24e-fcaf92ad8c21_42x62_i?s=e75ffa69f597fa58e47a13ddff5798a4"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Completed",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 10,
+            "chaptersTotal": null,
+            "date": "2026-10-15T16:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "RonitM",
+                "url": "https://myanimelist.net/profile/RonitM",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Completed",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T16:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Night_Rose_94",
+                "url": "https://myanimelist.net/profile/Night_Rose_94",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d56657e4-4c63-4475-b8f2-a747876bb79e_42x62_i?s=2adf4e32f7452d38b582f2c88945e981"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d56657e4-4c63-4475-b8f2-a747876bb79e_42x62_i?s=2adf4e32f7452d38b582f2c88945e981"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 47,
+            "chaptersTotal": null,
+            "date": "2026-10-15T16:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "TheRat",
+                "url": "https://myanimelist.net/profile/TheRat",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 386,
+            "chaptersTotal": null,
+            "date": "2026-10-15T16:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "yongbi_001",
+                "url": "https://myanimelist.net/profile/yongbi_001",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 378,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Losetruth",
+                "url": "https://myanimelist.net/profile/Losetruth",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a3965c16-074f-4865-aa98-8c760ea888ae_42x62_i?s=efb831ea3a55a0bf3a7b23152ccb0ca3"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a3965c16-074f-4865-aa98-8c760ea888ae_42x62_i?s=efb831ea3a55a0bf3a7b23152ccb0ca3"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 209,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "fmz1",
+                "url": "https://myanimelist.net/profile/fmz1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/3e5767b5-b3a9-4c17-8029-82b78b6faa37_42x62_i?s=ac06dc2884ec041ce82f61f06945752f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/3e5767b5-b3a9-4c17-8029-82b78b6faa37_42x62_i?s=ac06dc2884ec041ce82f61f06945752f"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Patrick_STAAR",
+                "url": "https://myanimelist.net/profile/Patrick_STAAR",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Completed",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Froonp7",
+                "url": "https://myanimelist.net/profile/Froonp7",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d73c9557-45e5-42f1-a8f6-2e3d8a378a5a_42x62_i?s=5c84c7230c0b637601e284b3441e44a9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d73c9557-45e5-42f1-a8f6-2e3d8a378a5a_42x62_i?s=5c84c7230c0b637601e284b3441e44a9"
+                    }
+                }
+            },
+            "score": 8,
+            "status": "Reading",
+            "volumesRead": 1,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "36d01e390004d00f",
+                "url": "https://myanimelist.net/profile/36d01e390004d00f",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "BananaPizzaPear",
+                "url": "https://myanimelist.net/profile/BananaPizzaPear",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Dropped",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "TrevZed",
+                "url": "https://myanimelist.net/profile/TrevZed",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/396ea506-868f-4b02-86bf-f636a631d5a0_42x62_i?s=d1b59977628803ab44217497ff39adff"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/396ea506-868f-4b02-86bf-f636a631d5a0_42x62_i?s=d1b59977628803ab44217497ff39adff"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 15,
+            "volumesTotal": null,
+            "chaptersRead": 112,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "L-12-2",
+                "url": "https://myanimelist.net/profile/L-12-2",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Completed",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ashutoshvyas00",
+                "url": "https://myanimelist.net/profile/ashutoshvyas00",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/873abba8-7c9c-43a0-ba55-263f42b74f65_42x62_i?s=c716d046bea4c892ef54b3df7aa3dba9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/873abba8-7c9c-43a0-ba55-263f42b74f65_42x62_i?s=c716d046bea4c892ef54b3df7aa3dba9"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "On-Hold",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 100,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "skedda1992",
+                "url": "https://myanimelist.net/profile/skedda1992",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "jebraltar",
+                "url": "https://myanimelist.net/profile/jebraltar",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/3e380c04-bede-4179-b466-4367207d6289_42x62_i?s=eb06daade048c9c49199b59c9e893704"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/3e380c04-bede-4179-b466-4367207d6289_42x62_i?s=eb06daade048c9c49199b59c9e893704"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 28,
+            "volumesTotal": null,
+            "chaptersRead": 246,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "nakedfarias",
+                "url": "https://myanimelist.net/profile/nakedfarias",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/bea05ac8-6472-4993-a5fd-134817501c2f_42x62_i?s=50e54eabb63cde67c9c08b78ea5d5498"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/bea05ac8-6472-4993-a5fd-134817501c2f_42x62_i?s=50e54eabb63cde67c9c08b78ea5d5498"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Reading",
+            "volumesRead": 42,
+            "volumesTotal": null,
+            "chaptersRead": 373,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "bigNotWeeb",
+                "url": "https://myanimelist.net/profile/bigNotWeeb",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/3aeaf2c3-81a5-4473-8e2c-4c425a667cb4_42x62_i?s=ee3b2b856df303a5d57176f02ce61395"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/3aeaf2c3-81a5-4473-8e2c-4c425a667cb4_42x62_i?s=ee3b2b856df303a5d57176f02ce61395"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 8,
+            "volumesTotal": null,
+            "chaptersRead": 55,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "EuVi",
+                "url": "https://myanimelist.net/profile/EuVi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 1,
+            "volumesTotal": null,
+            "chaptersRead": 1,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "malkier1",
+                "url": "https://myanimelist.net/profile/malkier1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 386,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Rokaito",
+                "url": "https://myanimelist.net/profile/Rokaito",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 380,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "k3neki",
+                "url": "https://myanimelist.net/profile/k3neki",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/54f502da-b314-459b-b6d2-49a74cc13a63_42x62_i?s=db33ccb2f45df6ffc68e6b55f7fee1cf"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/54f502da-b314-459b-b6d2-49a74cc13a63_42x62_i?s=db33ccb2f45df6ffc68e6b55f7fee1cf"
+                    }
+                }
+            },
+            "score": null,
+            "status": "On-Hold",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "agenuinedream",
+                "url": "https://myanimelist.net/profile/agenuinedream",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Plan to Read",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "petruskii",
+                "url": "https://myanimelist.net/profile/petruskii",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2597787c-00fa-45da-972b-77d16e77ab21_42x62_i?s=7e21c1319086464b84d3621d9c9f387b"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2597787c-00fa-45da-972b-77d16e77ab21_42x62_i?s=7e21c1319086464b84d3621d9c9f387b"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 387,
+            "chaptersTotal": null,
+            "date": "2026-10-15T15:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "mcnsdkdk",
+                "url": "https://myanimelist.net/profile/mcnsdkdk",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Completed",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "matu_kzv",
+                "url": "https://myanimelist.net/profile/matu_kzv",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e7f2568d-294e-4d08-a836-46713330c72e_42x62_i?s=663a6a0c6fe5af3f6b681e25ec1939d5"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e7f2568d-294e-4d08-a836-46713330c72e_42x62_i?s=663a6a0c6fe5af3f6b681e25ec1939d5"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Reading",
+            "volumesRead": 43,
+            "volumesTotal": null,
+            "chaptersRead": 382,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "dodolovesrezero",
+                "url": "https://myanimelist.net/profile/dodolovesrezero",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/54c37b4f-632c-4b20-b069-5d788f872d04_42x62_i?s=7b3c32ec2a4c66430f8db59ca0cdbc72"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/54c37b4f-632c-4b20-b069-5d788f872d04_42x62_i?s=7b3c32ec2a4c66430f8db59ca0cdbc72"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Plan to Read",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Jamikus",
+                "url": "https://myanimelist.net/profile/Jamikus",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/efa3827e-f9ad-4c7e-b278-8d20ba6d7a3a_42x62_i?s=12dd95ab14497a4618c7ccb1563964d9"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/efa3827e-f9ad-4c7e-b278-8d20ba6d7a3a_42x62_i?s=12dd95ab14497a4618c7ccb1563964d9"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 20,
+            "volumesTotal": null,
+            "chaptersRead": 172,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "MEL0MAN",
+                "url": "https://myanimelist.net/profile/MEL0MAN",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/705aaf54-a61a-4054-bb3c-74f08f6b247e_42x62_i?s=e363dba15651f8cc46c33e95f4fd3bae"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/705aaf54-a61a-4054-bb3c-74f08f6b247e_42x62_i?s=e363dba15651f8cc46c33e95f4fd3bae"
+                    }
+                }
+            },
+            "score": null,
+            "status": "On-Hold",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 5,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ecoTM",
+                "url": "https://myanimelist.net/profile/ecoTM",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e6bf47ac-9fbb-480d-89b1-42e5d04fa215_42x62_i?s=358c7fdbbd0bb516877c1ee29a76589b"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e6bf47ac-9fbb-480d-89b1-42e5d04fa215_42x62_i?s=358c7fdbbd0bb516877c1ee29a76589b"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Reading",
+            "volumesRead": 21,
+            "volumesTotal": null,
+            "chaptersRead": 176,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "rugusama",
+                "url": "https://myanimelist.net/profile/rugusama",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 386,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Hamid_Sensei",
+                "url": "https://myanimelist.net/profile/Hamid_Sensei",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/93ed9b52-1483-4948-a326-7c107a759220_42x62_i?s=b8b0daab90185537402f8795c92dceb7"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/93ed9b52-1483-4948-a326-7c107a759220_42x62_i?s=b8b0daab90185537402f8795c92dceb7"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Completed",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": null,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Olib93",
+                "url": "https://myanimelist.net/profile/Olib93",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e37e41fd-1239-4f54-83bf-3ae5ee8a389a_42x62_i?s=ff3a865add379ad957bb274530cf8a7c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e37e41fd-1239-4f54-83bf-3ae5ee8a389a_42x62_i?s=ff3a865add379ad957bb274530cf8a7c"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": 37,
+            "volumesTotal": null,
+            "chaptersRead": 333,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "RabuBombur",
+                "url": "https://myanimelist.net/profile/RabuBombur",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/fd180246-670d-465d-a4d4-71c8df2e66e0_42x62_i?s=e462c281244080eb1552ba648521d886"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/fd180246-670d-465d-a4d4-71c8df2e66e0_42x62_i?s=e462c281244080eb1552ba648521d886"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Reading",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 34,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ZebitasAlchemist",
+                "url": "https://myanimelist.net/profile/ZebitasAlchemist",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/bbd7faa1-5ac0-4e1e-8c4c-cae4eb90ccc0_42x62_i?s=daa132473731b530de19cdbd9b93cd72"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/bbd7faa1-5ac0-4e1e-8c4c-cae4eb90ccc0_42x62_i?s=daa132473731b530de19cdbd9b93cd72"
+                    }
+                }
+            },
+            "score": 8,
+            "status": "Reading",
+            "volumesRead": 35,
+            "volumesTotal": null,
+            "chaptersRead": 332,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Kynito",
+                "url": "https://myanimelist.net/profile/Kynito",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "On-Hold",
+            "volumesRead": null,
+            "volumesTotal": null,
+            "chaptersRead": 256,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Tarelois",
+                "url": "https://myanimelist.net/profile/Tarelois",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/1de4f49f-cb7d-4982-bdf2-5ee44a7929ee_42x62_i?s=3b4eda2c5f9f8d2c40c86ddfe77f2149"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/1de4f49f-cb7d-4982-bdf2-5ee44a7929ee_42x62_i?s=3b4eda2c5f9f8d2c40c86ddfe77f2149"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Reading",
+            "volumesRead": 19,
+            "volumesTotal": null,
+            "chaptersRead": 150,
+            "chaptersTotal": null,
+            "date": "2026-10-15T14:11:41+00:00"
+        }
+    ]
+}

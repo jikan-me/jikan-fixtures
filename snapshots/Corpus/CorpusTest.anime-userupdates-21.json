@@ -1,0 +1,1807 @@
+{
+    "@class": "Jikan\\Model\\Anime\\AnimeUserUpdates",
+    "hasNextPage": true,
+    "lastVisiblePage": 2,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "nabuchika",
+                "url": "https://myanimelist.net/profile/nabuchika",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2e7b78e6-88ae-4a16-868d-8781c354ac4a_42x62_i?s=c513b29b50ef878f170edc3aa455247a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2e7b78e6-88ae-4a16-868d-8781c354ac4a_42x62_i?s=c513b29b50ef878f170edc3aa455247a"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1180,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:09:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "kapisiok",
+                "url": "https://myanimelist.net/profile/kapisiok",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f7eb8a78-ef2a-4cdf-b061-7a679673938d_42x62_i?s=cfbbbd3fefae1e5eb96b7a05316b8939"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f7eb8a78-ef2a-4cdf-b061-7a679673938d_42x62_i?s=cfbbbd3fefae1e5eb96b7a05316b8939"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 1060,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:09:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Jessicajonathan",
+                "url": "https://myanimelist.net/profile/Jessicajonathan",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 574,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:09:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "clarasuno",
+                "url": "https://myanimelist.net/profile/clarasuno",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/28a3cd31-3730-49e3-b56f-219871322a14_42x62_i?s=b2c66434d5168131d9ccfa6da0e2e62e"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/28a3cd31-3730-49e3-b56f-219871322a14_42x62_i?s=b2c66434d5168131d9ccfa6da0e2e62e"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 616,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:09:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Stainamou",
+                "url": "https://myanimelist.net/profile/Stainamou",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/cc8fde81-3609-4b27-8b50-ceb6039d1d8c_42x62_i?s=2f3e2c7850eb93008580058b3a8935b6"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/cc8fde81-3609-4b27-8b50-ceb6039d1d8c_42x62_i?s=2f3e2c7850eb93008580058b3a8935b6"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 538,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:09:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Rageryuo",
+                "url": "https://myanimelist.net/profile/Rageryuo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": null,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:09:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "GranolaSnackBar",
+                "url": "https://myanimelist.net/profile/GranolaSnackBar",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/55bd230f-108d-45f2-8351-c88bdf8e001b_42x62_i?s=a1324b0532a3418f14bb0197f53538bd"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/55bd230f-108d-45f2-8351-c88bdf8e001b_42x62_i?s=a1324b0532a3418f14bb0197f53538bd"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "On-Hold",
+            "episodesSeen": 1180,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:09:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Pablodlo",
+                "url": "https://myanimelist.net/profile/Pablodlo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 168,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:08:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "heroesluck",
+                "url": "https://myanimelist.net/profile/heroesluck",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 903,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:08:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "weebluca",
+                "url": "https://myanimelist.net/profile/weebluca",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a7a68066-8633-4f30-b8aa-5c7b0bb05688_42x62_i?s=940021eea300db58ea398fcca59a350b"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a7a68066-8633-4f30-b8aa-5c7b0bb05688_42x62_i?s=940021eea300db58ea398fcca59a350b"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1180,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:08:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "meSamael",
+                "url": "https://myanimelist.net/profile/meSamael",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 92,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:08:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "CeKaTa_Sensei",
+                "url": "https://myanimelist.net/profile/CeKaTa_Sensei",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/9888c6be-13e2-4f89-85fe-4d3eee397841_42x62_i?s=4e7865bab572368ecb45d5ed191a4eb3"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/9888c6be-13e2-4f89-85fe-4d3eee397841_42x62_i?s=4e7865bab572368ecb45d5ed191a4eb3"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Watching",
+            "episodesSeen": 1148,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:07:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Anderaphim",
+                "url": "https://myanimelist.net/profile/Anderaphim",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7519773f-5b0c-442d-8bc2-ab86ea32deef_42x62_i?s=364e1c2a8fb1723c677ab2f1b5ccd22e"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/7519773f-5b0c-442d-8bc2-ab86ea32deef_42x62_i?s=364e1c2a8fb1723c677ab2f1b5ccd22e"
+                    }
+                }
+            },
+            "score": null,
+            "status": "On-Hold",
+            "episodesSeen": 1180,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:07:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ToothySoup",
+                "url": "https://myanimelist.net/profile/ToothySoup",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 731,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:07:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "MF_Nujabes",
+                "url": "https://myanimelist.net/profile/MF_Nujabes",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/aaa55c0a-dcf4-4f6c-b725-20676cefac01_42x62_i?s=3689ab7a0fc47090a95da1f323e9df8f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/aaa55c0a-dcf4-4f6c-b725-20676cefac01_42x62_i?s=3689ab7a0fc47090a95da1f323e9df8f"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1113,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:07:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "truepotential",
+                "url": "https://myanimelist.net/profile/truepotential",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 1114,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:06:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Steppinghen72",
+                "url": "https://myanimelist.net/profile/Steppinghen72",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/ad88f82d-fe0c-4f4a-b678-9096d22bccad_42x62_i?s=d56c7497231167727bf408524e4c9304"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/ad88f82d-fe0c-4f4a-b678-9096d22bccad_42x62_i?s=d56c7497231167727bf408524e4c9304"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 680,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:06:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "EvaColman",
+                "url": "https://myanimelist.net/profile/EvaColman",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/ff304298-dec2-4c4f-ab1b-397d5bfce43b_42x62_i?s=cbab1da34552132cf0a970f2b2186894"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/ff304298-dec2-4c4f-ab1b-397d5bfce43b_42x62_i?s=cbab1da34552132cf0a970f2b2186894"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 14,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:06:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "kimchayoung",
+                "url": "https://myanimelist.net/profile/kimchayoung",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/fcaab7ac-75e5-4763-8aae-5bf760f5eddf_42x62_i?s=f034b07161f0d194239445664dd98a33"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/fcaab7ac-75e5-4763-8aae-5bf760f5eddf_42x62_i?s=f034b07161f0d194239445664dd98a33"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 13,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:05:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Mariasilva1717",
+                "url": "https://myanimelist.net/profile/Mariasilva1717",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 416,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:05:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "EinWal1",
+                "url": "https://myanimelist.net/profile/EinWal1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e4b71314-0c68-4106-8421-c9852c4a7f2f_42x62_i?s=ef55ed4486d139ec2ad07ffa061026cb"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e4b71314-0c68-4106-8421-c9852c4a7f2f_42x62_i?s=ef55ed4486d139ec2ad07ffa061026cb"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 1135,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:05:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "PauF0r32",
+                "url": "https://myanimelist.net/profile/PauF0r32",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 672,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:04:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Mephi03",
+                "url": "https://myanimelist.net/profile/Mephi03",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 7,
+            "status": "Completed",
+            "episodesSeen": null,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:04:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "jenniferreich20",
+                "url": "https://myanimelist.net/profile/jenniferreich20",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 952,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:03:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "DesertMirages",
+                "url": "https://myanimelist.net/profile/DesertMirages",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 17,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:03:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "mrruhal",
+                "url": "https://myanimelist.net/profile/mrruhal",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "On-Hold",
+            "episodesSeen": 35,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:03:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "skcl",
+                "url": "https://myanimelist.net/profile/skcl",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/168556ec-a56f-4ced-8525-ee49a83c0c6f_42x62_i?s=194e1cef4fd9be61d199846a3a715407"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/168556ec-a56f-4ced-8525-ee49a83c0c6f_42x62_i?s=194e1cef4fd9be61d199846a3a715407"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 228,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:03:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ThreeSwordStyle7",
+                "url": "https://myanimelist.net/profile/ThreeSwordStyle7",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e0ca067b-c262-46dc-b86b-392d7cc869fc_42x62_i?s=c14ac86a0670d9b5a1e4c7fb17f60b96"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e0ca067b-c262-46dc-b86b-392d7cc869fc_42x62_i?s=c14ac86a0670d9b5a1e4c7fb17f60b96"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1166,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:02:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "MR_Wafflee0",
+                "url": "https://myanimelist.net/profile/MR_Wafflee0",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f0d28ffe-5022-4a5b-9137-b53e931a2fa6_42x62_i?s=193a46e8b4e00fc946aa512b3f4d16a2"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f0d28ffe-5022-4a5b-9137-b53e931a2fa6_42x62_i?s=193a46e8b4e00fc946aa512b3f4d16a2"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 989,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:02:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "tushar_mal",
+                "url": "https://myanimelist.net/profile/tushar_mal",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 339,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:02:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Fradique",
+                "url": "https://myanimelist.net/profile/Fradique",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/696f7f9f-7a16-4f1e-bf61-59aead7ec3d9_42x62_i?s=b0c9d7c8e02af1d33e2088a3084b7611"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/696f7f9f-7a16-4f1e-bf61-59aead7ec3d9_42x62_i?s=b0c9d7c8e02af1d33e2088a3084b7611"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 377,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:02:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "emnt01",
+                "url": "https://myanimelist.net/profile/emnt01",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1180,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:02:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ItsSarcasm",
+                "url": "https://myanimelist.net/profile/ItsSarcasm",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d83cf842-3ea8-447d-ae27-d9cf6b42eb74_42x62_i?s=60a51c643a4d57a1ee99196b1e8f8ef5"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/d83cf842-3ea8-447d-ae27-d9cf6b42eb74_42x62_i?s=60a51c643a4d57a1ee99196b1e8f8ef5"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1179,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:02:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Robowizard99",
+                "url": "https://myanimelist.net/profile/Robowizard99",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": null,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:02:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Animetembo",
+                "url": "https://myanimelist.net/profile/Animetembo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 954,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:01:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "BluetoothHoover",
+                "url": "https://myanimelist.net/profile/BluetoothHoover",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "On-Hold",
+            "episodesSeen": 1,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:01:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Shadow-Play89",
+                "url": "https://myanimelist.net/profile/Shadow-Play89",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/b00b4013-c37a-48a2-8630-5222b469cf36_42x62_i?s=ef0c757a1037b630ed379bb873c7404c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/b00b4013-c37a-48a2-8630-5222b469cf36_42x62_i?s=ef0c757a1037b630ed379bb873c7404c"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 757,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:01:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "JanusMalacay",
+                "url": "https://myanimelist.net/profile/JanusMalacay",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Dropped",
+            "episodesSeen": null,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:01:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "locowielbie",
+                "url": "https://myanimelist.net/profile/locowielbie",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e5b2b789-aad2-4389-aaf2-f0dc3be19f85_42x62_i?s=1432cdca609cadd1e55a06edad2b1ec7"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/e5b2b789-aad2-4389-aaf2-f0dc3be19f85_42x62_i?s=1432cdca609cadd1e55a06edad2b1ec7"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 968,
+            "episodesTotal": null,
+            "date": "2026-10-15T19:00:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "mrcrisper",
+                "url": "https://myanimelist.net/profile/mrcrisper",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/db61cf5c-f52b-494e-8fad-69d4d8eeecf6_42x62_i?s=72885cf0778a487947371f208ecd605f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/db61cf5c-f52b-494e-8fad-69d4d8eeecf6_42x62_i?s=72885cf0778a487947371f208ecd605f"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 83,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:59:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "CapCor",
+                "url": "https://myanimelist.net/profile/CapCor",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 61,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:59:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Immortal_Stella",
+                "url": "https://myanimelist.net/profile/Immortal_Stella",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f6c9dd66-5516-4361-9033-414b327cfebe_42x62_i?s=40863a8bbb1186b46fbd668fbaf532a8"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f6c9dd66-5516-4361-9033-414b327cfebe_42x62_i?s=40863a8bbb1186b46fbd668fbaf532a8"
+                    }
+                }
+            },
+            "score": 7,
+            "status": "Dropped",
+            "episodesSeen": 1000,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:59:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ligmaballs67",
+                "url": "https://myanimelist.net/profile/ligmaballs67",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 276,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:59:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Rhuan3103",
+                "url": "https://myanimelist.net/profile/Rhuan3103",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/ce7d1e7a-2e24-4a19-8a32-a340ba2e0546_42x62_i?s=efd2f44abbe81ce69419740a64febb63"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/ce7d1e7a-2e24-4a19-8a32-a340ba2e0546_42x62_i?s=efd2f44abbe81ce69419740a64febb63"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Watching",
+            "episodesSeen": 690,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:58:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ratedrforrachel",
+                "url": "https://myanimelist.net/profile/ratedrforrachel",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 345,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:58:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Deepansh_5",
+                "url": "https://myanimelist.net/profile/Deepansh_5",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 1176,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:58:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "dario1891cap1",
+                "url": "https://myanimelist.net/profile/dario1891cap1",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/0f28b363-5c95-469d-b0db-3ed304967e0d_42x62_i?s=47b435b985a27c3c05d47e3a024e05ca"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/0f28b363-5c95-469d-b0db-3ed304967e0d_42x62_i?s=47b435b985a27c3c05d47e3a024e05ca"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 94,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:57:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "zKiji",
+                "url": "https://myanimelist.net/profile/zKiji",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/771bea00-ce99-4f20-a858-b75d64fc9e64_42x62_i?s=fbe72c499fdff756e4a58831d29b2028"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/771bea00-ce99-4f20-a858-b75d64fc9e64_42x62_i?s=fbe72c499fdff756e4a58831d29b2028"
+                    }
+                }
+            },
+            "score": 8,
+            "status": "Watching",
+            "episodesSeen": 207,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:57:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "belentg",
+                "url": "https://myanimelist.net/profile/belentg",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 1137,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:57:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "kattbrownn",
+                "url": "https://myanimelist.net/profile/kattbrownn",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/072f9f25-ce93-4bfb-9619-9e45139b2f44_42x62_i?s=7bfffa2cfae37a63dd50b55dc60429ea"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/072f9f25-ce93-4bfb-9619-9e45139b2f44_42x62_i?s=7bfffa2cfae37a63dd50b55dc60429ea"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1180,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:57:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Lawliet1701",
+                "url": "https://myanimelist.net/profile/Lawliet1701",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/667f6766-7fa6-48a5-b5d6-25549a58a3e6_42x62_i?s=94f813033803968ccc3cb84202428e74"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/667f6766-7fa6-48a5-b5d6-25549a58a3e6_42x62_i?s=94f813033803968ccc3cb84202428e74"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 999,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:57:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Ashenoen",
+                "url": "https://myanimelist.net/profile/Ashenoen",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/4c9670c9-7867-4424-b5b3-971e62e4d724_42x62_i?s=5a1574795f73fdd5cb18015a12e3a474"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/4c9670c9-7867-4424-b5b3-971e62e4d724_42x62_i?s=5a1574795f73fdd5cb18015a12e3a474"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1180,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:56:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "avalaunched",
+                "url": "https://myanimelist.net/profile/avalaunched",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/84dafb45-2138-431a-9963-9fb79fe613bc_42x62_i?s=b57b73bd153c4e7e07332d6aaf29ae86"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/84dafb45-2138-431a-9963-9fb79fe613bc_42x62_i?s=b57b73bd153c4e7e07332d6aaf29ae86"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Watching",
+            "episodesSeen": 1153,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:56:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "shikamaru777",
+                "url": "https://myanimelist.net/profile/shikamaru777",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 840,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:55:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Selphurion",
+                "url": "https://myanimelist.net/profile/Selphurion",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/22d3d0d6-593f-4206-886a-28af1f8bced4_42x62_i?s=68529d20a6f9ab18e869c1209a5024ea"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/22d3d0d6-593f-4206-886a-28af1f8bced4_42x62_i?s=68529d20a6f9ab18e869c1209a5024ea"
+                    }
+                }
+            },
+            "score": 8,
+            "status": "Watching",
+            "episodesSeen": 980,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:55:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Dani_jaeger",
+                "url": "https://myanimelist.net/profile/Dani_jaeger",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/1192aea8-13de-49a4-a774-e7bf4bd6e964_42x62_i?s=4eabe16b5b5cb1a143e01860a67b2b8c"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/1192aea8-13de-49a4-a774-e7bf4bd6e964_42x62_i?s=4eabe16b5b5cb1a143e01860a67b2b8c"
+                    }
+                }
+            },
+            "score": 7,
+            "status": "Watching",
+            "episodesSeen": 852,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:55:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "ItsSuigetsu",
+                "url": "https://myanimelist.net/profile/ItsSuigetsu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/273152e5-2f60-417f-a6be-6a79898b34d1_42x62_i?s=50ba2167e141622a21b26cf0d5e85517"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/273152e5-2f60-417f-a6be-6a79898b34d1_42x62_i?s=50ba2167e141622a21b26cf0d5e85517"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 72,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:54:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "SilencePlox",
+                "url": "https://myanimelist.net/profile/SilencePlox",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 8,
+            "status": "Watching",
+            "episodesSeen": 1018,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:54:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "mentylkl",
+                "url": "https://myanimelist.net/profile/mentylkl",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Watching",
+            "episodesSeen": 1162,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:53:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "kuopattu",
+                "url": "https://myanimelist.net/profile/kuopattu",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 265,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:53:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "benveandre",
+                "url": "https://myanimelist.net/profile/benveandre",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Watching",
+            "episodesSeen": 1180,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:53:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "MadGunner",
+                "url": "https://myanimelist.net/profile/MadGunner",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f30bb49d-6552-4dd9-a357-9e3736e35612_42x62_i?s=73db2e088d3200c4117ae46303d258a1"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f30bb49d-6552-4dd9-a357-9e3736e35612_42x62_i?s=73db2e088d3200c4117ae46303d258a1"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 863,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:52:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Chouuly",
+                "url": "https://myanimelist.net/profile/Chouuly",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2986021e-3345-4501-8e08-7de038f7874d_42x62_i?s=174e61f5f8ef0a9a9ee4e772d09849c4"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2986021e-3345-4501-8e08-7de038f7874d_42x62_i?s=174e61f5f8ef0a9a9ee4e772d09849c4"
+                    }
+                }
+            },
+            "score": 7,
+            "status": "On-Hold",
+            "episodesSeen": 1180,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:52:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Pajulilinkaa",
+                "url": "https://myanimelist.net/profile/Pajulilinkaa",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a9c19619-e9d4-4e86-93c2-833eaf22c3df_42x62_i?s=8865d0e262678bf11e9cc75455f6981f"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a9c19619-e9d4-4e86-93c2-833eaf22c3df_42x62_i?s=8865d0e262678bf11e9cc75455f6981f"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 134,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:51:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Aku_Kogeta",
+                "url": "https://myanimelist.net/profile/Aku_Kogeta",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/ddf2c1b8-6376-437b-ab37-67a50f3fc09d_42x62_i?s=4f29832f9c380f4ae1b0d70ae4f7614a"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/ddf2c1b8-6376-437b-ab37-67a50f3fc09d_42x62_i?s=4f29832f9c380f4ae1b0d70ae4f7614a"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1124,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:51:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "BujdiRicsi",
+                "url": "https://myanimelist.net/profile/BujdiRicsi",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/6ded8e11-12b6-4964-9244-c4cb5f5985c6_42x62_i?s=c626a166b915e69effde3c863fd29cfb"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/6ded8e11-12b6-4964-9244-c4cb5f5985c6_42x62_i?s=c626a166b915e69effde3c863fd29cfb"
+                    }
+                }
+            },
+            "score": 9,
+            "status": "Watching",
+            "episodesSeen": 253,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:51:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "drevoredo",
+                "url": "https://myanimelist.net/profile/drevoredo",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 877,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:51:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Kags_Xox",
+                "url": "https://myanimelist.net/profile/Kags_Xox",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a8e85432-c832-4eb9-abb8-476060a4dbe3_42x62_i?s=7caff14518dfea4cc06de1555f8501f4"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/a8e85432-c832-4eb9-abb8-476060a4dbe3_42x62_i?s=7caff14518dfea4cc06de1555f8501f4"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 509,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:51:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Giacomo04",
+                "url": "https://myanimelist.net/profile/Giacomo04",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 905,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:50:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Dzl_Becca",
+                "url": "https://myanimelist.net/profile/Dzl_Becca",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 8,
+            "status": "On-Hold",
+            "episodesSeen": 950,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:49:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "MatheusPdoN",
+                "url": "https://myanimelist.net/profile/MatheusPdoN",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 818,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:49:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "Berto0093",
+                "url": "https://myanimelist.net/profile/Berto0093",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": 8,
+            "status": "Watching",
+            "episodesSeen": 160,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:49:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "dabeast8849",
+                "url": "https://myanimelist.net/profile/dabeast8849",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": null
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": null
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 707,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:49:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "EeveeTheVee",
+                "url": "https://myanimelist.net/profile/EeveeTheVee",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f6042831-8c10-4bd0-b580-8ba319913304_42x62_i?s=7a58ad9a326319b8af1714737f7608b5"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/f6042831-8c10-4bd0-b580-8ba319913304_42x62_i?s=7a58ad9a326319b8af1714737f7608b5"
+                    }
+                }
+            },
+            "score": 10,
+            "status": "Watching",
+            "episodesSeen": 1016,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:48:39+00:00"
+        },
+        {
+            "@class": "Jikan\\Model\\Anime\\AnimeRecentlyUpdatedByUser",
+            "user": {
+                "@class": "Jikan\\Model\\Common\\UserMeta",
+                "username": "rachebartmoss",
+                "url": "https://myanimelist.net/profile/rachebartmoss",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\UserImageResource\\UserImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2e2c0900-fc51-4bea-86fc-3dd8300f66d7_42x62_i?s=54e5dc331f3f70834419c4df740069fe"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\UserImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/s/common/userimages/2e2c0900-fc51-4bea-86fc-3dd8300f66d7_42x62_i?s=54e5dc331f3f70834419c4df740069fe"
+                    }
+                }
+            },
+            "score": null,
+            "status": "Watching",
+            "episodesSeen": 943,
+            "episodesTotal": null,
+            "date": "2026-10-15T18:48:39+00:00"
+        }
+    ]
+}
