@@ -1,6 +1,6 @@
 {
     "@class": "Jikan\\Model\\User\\Reviews\\UserReviews",
-    "hasNextPage": true,
+    "hasNextPage": false,
     "lastVisiblePage": 1,
     "results": [
         {
