@@ -27198,7 +27198,7 @@
     "animeStaffPositions": [
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP2)",
+            "position": "Theme Song Performance (OP2)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 7647,
@@ -27223,7 +27223,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP3)",
+            "position": "Theme Song Performance (OP3)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 5081,
@@ -27248,7 +27248,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 30091,
@@ -27273,7 +27273,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED), Inserted Song Performance (ep 15)",
+            "position": "Theme Song Performance (ED), Inserted Song Performance (ep 15)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 293,
@@ -27298,7 +27298,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1757,
@@ -27323,7 +27323,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1756,
@@ -27348,7 +27348,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP 2-3, ED 2-5)",
+            "position": "Theme Song Performance (OP 2-3, ED 2-5)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1683,
@@ -27373,7 +27373,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1755,
@@ -27398,7 +27398,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1754,
@@ -27423,7 +27423,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1752,
@@ -27448,7 +27448,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP, ED1, ED6)",
+            "position": "Theme Song Performance (OP, ED1, ED6)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 5670,
@@ -27473,7 +27473,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance",
+            "position": "Theme Song Performance",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 6959,
@@ -27498,7 +27498,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP/ED)",
+            "position": "Theme Song Performance (OP/ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 383,
@@ -27523,7 +27523,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP/ED)",
+            "position": "Theme Song Performance (OP/ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 653,
@@ -27548,7 +27548,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP/ED2)",
+            "position": "Theme Song Performance (OP/ED2)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 655,
@@ -27573,7 +27573,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP/ED)",
+            "position": "Theme Song Performance (OP/ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 652,
@@ -27598,7 +27598,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 456,
@@ -27623,7 +27623,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP/ED)",
+            "position": "Theme Song Performance (OP/ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2494,
@@ -27648,7 +27648,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Inserted Song Performance (19)",
+            "position": "Inserted Song Performance (19)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 8425,
@@ -27673,7 +27673,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance",
+            "position": "Theme Song Performance",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 21855,
@@ -27698,7 +27698,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP)",
+            "position": "Theme Song Performance (OP)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 8217,
@@ -27723,7 +27723,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Inserted Song Performance (8)",
+            "position": "Inserted Song Performance (8)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 14467,
@@ -27748,7 +27748,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP4)",
+            "position": "Theme Song Performance (OP4)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 32268,
@@ -27773,7 +27773,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 38720,
@@ -27798,7 +27798,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED), Inserted Song Performance",
+            "position": "Theme Song Performance (ED), Inserted Song Performance",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 35857,
@@ -27823,7 +27823,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP8)",
+            "position": "Theme Song Performance (OP8)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1546,
@@ -27848,7 +27848,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance",
+            "position": "Theme Song Performance",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 19815,
@@ -27873,7 +27873,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED2), Inserted Song Performance (ep 18)",
+            "position": "Theme Song Performance (ED2), Inserted Song Performance (ep 18)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 607,
@@ -27898,7 +27898,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1597,
@@ -27923,7 +27923,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED1, ED8)",
+            "position": "Theme Song Performance (ED1, ED8)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 16397,
@@ -27948,7 +27948,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 162,
@@ -27973,7 +27973,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP)",
+            "position": "Theme Song Performance (OP)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2605,
@@ -27998,7 +27998,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP)",
+            "position": "Theme Song Performance (OP)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 34289,
@@ -28023,7 +28023,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 17821,
@@ -28048,7 +28048,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 3667,
@@ -28073,7 +28073,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (ED)",
+            "position": "Theme Song Performance (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 6381,
@@ -28098,7 +28098,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance",
+            "position": "Theme Song Performance",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 9751,
@@ -28123,7 +28123,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Inserted Song Performance (ep 9)",
+            "position": "Inserted Song Performance (ep 9)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 10321,
@@ -28148,7 +28148,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Inserted Song Performance (Le petit jarden)",
+            "position": "Inserted Song Performance (Le petit jarden)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1718,
@@ -28173,7 +28173,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance",
+            "position": "Theme Song Performance",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 7044,
@@ -28198,7 +28198,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Theme Song Performance (OP/ED)",
+            "position": "Theme Song Performance (OP/ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 3228,
