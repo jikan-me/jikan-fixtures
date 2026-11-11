@@ -83,7 +83,7 @@
     "members": 1557922,
     "favorites": 23648,
     "synopsis": "High school student Issei Hyoudou is your run-of-the-mill pervert who does nothing productive with his life, peeping on women and dreaming of having his own harem one day. Things seem to be looking up for Issei when a beautiful girl asks him out on a date, although she turns out to be a fallen angel who brutally kills him! However, he gets a second chance at life when beautiful senior student Rias Gremory, who is a top-class devil, revives him as her servant, recruiting Issei into the ranks of the school's Occult Research club.\n\nSlowly adjusting to his new life, Issei must train and fight in order to survive in the violent world of angels and devils. Each new adventure leads to many hilarious (and risqué) moments with his new comrades, all the while keeping his new life a secret from his friends and family in High School DxD!\n\n[Written by MAL Rewrite]",
-    "background": "",
+    "background": null,
     "premiered": "Winter 2012",
     "broadcast": "Fridays at 11:00 (JST)",
     "related": {
@@ -290,11 +290,6 @@
             "@class": "Jikan\\Model\\Common\\Url",
             "name": "Animation Digital Network",
             "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJBbmltYXRpb24gRGlnaXRhbCBOZXR3b3JrIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJFVVIiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjQxNSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjoyODAxMCwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMyODAxMCIsInNlYXNvbk51bWJlciI6MSwiandSYXdFbnRpdHlJZCI6InRzczM4OTQyIn19XX0&r=https%3A%2F%2Fanimationdigitalnetwork.com%2Fvideo%2F699-high-school-dxd%2F14347-episode-2&uct_country=fr"
-        },
-        {
-            "@class": "Jikan\\Model\\Common\\Url",
-            "name": "",
-            "url": "https://www.justwatch.com"
         }
     ]
 }

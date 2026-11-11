@@ -831,11 +831,6 @@
             "@class": "Jikan\\Model\\Common\\Url",
             "name": "BBC iPlayer",
             "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJCQkMgaVBsYXllciIsIm1vbmV0aXphdGlvblR5cGUiOiJmcmVlIiwicHJlc2VudGF0aW9uVHlwZSI6InNkIiwiY3VycmVuY3kiOiJHQlAiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjM4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0zLTAiLCJkYXRhIjp7InRpdGxlSWQiOjUyOTcwMywib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHM1Mjk3MDMiLCJzZWFzb25OdW1iZXIiOjEsImp3UmF3RW50aXR5SWQiOiJ0c3M1Njc3NjkifX1dfQ&r=http%3A%2F%2Fwww.bbc.co.uk%2Fiplayer%2Fepisode%2Fm0021y6n&uct_country=gb"
-        },
-        {
-            "@class": "Jikan\\Model\\Common\\Url",
-            "name": "",
-            "url": "https://www.justwatch.com"
         }
     ]
 }
