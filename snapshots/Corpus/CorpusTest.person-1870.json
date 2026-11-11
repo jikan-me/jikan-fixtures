@@ -108,7 +108,7 @@
     "animeStaffPositions": [
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Storyboard",
+            "position": "Storyboard",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 11275,
@@ -133,7 +133,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Setting (eps 1-15), Layout (eps 1-15)",
+            "position": "Setting (eps 1-15), Layout (eps 1-15)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 283,
@@ -158,7 +158,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation",
+            "position": "Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 3843,
@@ -183,7 +183,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation (OP), Setting (eps 1-52), Layout (eps 1-52)",
+            "position": "Key Animation (OP), Setting (eps 1-52), Layout (eps 1-52)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2225,
@@ -208,7 +208,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation (eps. 4-6, 10, 12-22, 24-28)",
+            "position": "Key Animation (eps. 4-6, 10, 12-22, 24-28)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2576,
@@ -233,7 +233,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Planning",
+            "position": "Planning",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 42143,
@@ -258,7 +258,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Script, Planning, Screenplay",
+            "position": "Script, Planning, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 8632,
@@ -283,7 +283,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Planning, Screenplay",
+            "position": "Planning, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 10029,
@@ -308,7 +308,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation",
+            "position": "Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 3842,
@@ -333,7 +333,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation",
+            "position": "Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2553,
@@ -358,7 +358,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Animation Director, Executive Producer (English/Japanese versions), Screenplay",
+            "position": "Director, Script, Animation Director, Executive Producer (English/Japanese versions), Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2890,
@@ -383,7 +383,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director",
+            "position": "Director",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 24975,
@@ -408,7 +408,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Script (Concept of Final Scene), In-Between Animation",
+            "position": "Script (Concept of Final Scene), In-Between Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2833,
@@ -433,7 +433,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Layout",
+            "position": "Layout",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1663,
@@ -458,7 +458,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Executive Producer, Planning",
+            "position": "Executive Producer, Planning",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1030,
@@ -483,7 +483,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation (44, 61)",
+            "position": "Key Animation (44, 61)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 3285,
@@ -508,7 +508,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Screenplay",
+            "position": "Director, Script, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 6463,
@@ -533,7 +533,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Executive Producer, Screenplay",
+            "position": "Director, Script, Executive Producer, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 431,
@@ -558,7 +558,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation",
+            "position": "Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 19681,
@@ -583,7 +583,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Original Character Design",
+            "position": "Original Character Design",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 10889,
@@ -608,7 +608,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Script (Plan & Script), Planning, Screenplay",
+            "position": "Script (Plan & Script), Planning, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 7711,
@@ -633,7 +633,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Original Creator, Character Design, Screenplay",
+            "position": "Director, Script, Original Creator, Character Design, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 572,
@@ -658,7 +658,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Original Creator, Screenplay",
+            "position": "Director, Original Creator, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 16662,
@@ -683,7 +683,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Original Creator",
+            "position": "Director, Script, Original Creator",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 32133,
@@ -708,7 +708,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Storyboard, Original Creator, Screenplay",
+            "position": "Director, Storyboard, Original Creator, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 36699,
@@ -733,7 +733,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Screenplay",
+            "position": "Director, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 6975,
@@ -758,7 +758,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Storyboard (ep 15, 18 (cleanup)), Key Animation",
+            "position": "Storyboard (ep 15, 18 (cleanup)), Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 4597,
@@ -783,7 +783,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Storyboard, Screenplay",
+            "position": "Director, Storyboard, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2895,
@@ -808,7 +808,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Storyboard, Original Creator, Editing, Screenplay",
+            "position": "Director, Storyboard, Original Creator, Editing, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 416,
@@ -833,7 +833,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Original Creator, Screenplay",
+            "position": "Director, Script, Original Creator, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 19401,
@@ -858,7 +858,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Episode Director (eps 9, 14-19, 21, 23), Key Animation (eps 9, 14-19, 21, 23)",
+            "position": "Episode Director (eps 9, 14-19, 21, 23), Key Animation (eps 9, 14-19, 21, 23)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1412,
@@ -883,7 +883,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Storyboard, Character Design",
+            "position": "Director, Script, Storyboard, Character Design",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1430,
@@ -908,7 +908,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director (145, 155), Storyboard (145,155), Episode Director (Eps 145, 155), Screenplay (145, 155)",
+            "position": "Director (145, 155), Storyboard (145,155), Episode Director (Eps 145, 155), Screenplay (145, 155)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1425,
@@ -933,7 +933,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation (77, 80)",
+            "position": "Key Animation (77, 80)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 3356,
@@ -958,7 +958,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Producer",
+            "position": "Director, Script, Producer",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 512,
@@ -983,7 +983,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Creator, Screenplay",
+            "position": "Director, Creator, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2488,
@@ -1008,7 +1008,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director (eps 3-5, 9-11), Script (3), Storyboard (3-5, 9-10), Episode Director (3-5, 9-10)",
+            "position": "Director (eps 3-5, 9-11), Script (3), Storyboard (3-5, 9-10), Episode Director (3-5, 9-10)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1972,
@@ -1033,7 +1033,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director",
+            "position": "Director",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 15347,
@@ -1058,7 +1058,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director",
+            "position": "Director",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 20441,
@@ -1083,7 +1083,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Storyboard, Creator, Producer, Screenplay",
+            "position": "Storyboard, Creator, Producer, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 585,
@@ -1108,7 +1108,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script (3-4, 8, 12, 15, 17), Storyboard (1-4, 8, 15-19, 22-26), Episode Director (eps 1-26), Character Design, Mechanical Design, Key Animation (ED)",
+            "position": "Director, Script (3-4, 8, 12, 15, 17), Storyboard (1-4, 8, 15-19, 22-26), Episode Director (eps 1-26), Character Design, Mechanical Design, Key Animation (ED)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 302,
@@ -1133,7 +1133,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Character Design",
+            "position": "Director, Character Design",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2614,
@@ -1158,7 +1158,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script",
+            "position": "Director, Script",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 4306,
@@ -1183,7 +1183,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Creator, Theme Song Lyrics, Screenplay",
+            "position": "Director, Creator, Theme Song Lyrics, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 164,
@@ -1208,7 +1208,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation (24)",
+            "position": "Key Animation (24)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 8234,
@@ -1233,7 +1233,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Storyboard, Key Animation",
+            "position": "Storyboard, Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2279,
@@ -1258,7 +1258,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Key Animation",
+            "position": "Director, Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2897,
@@ -1283,7 +1283,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Executive Producer",
+            "position": "Executive Producer",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 597,
@@ -1308,7 +1308,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Original Character Design (Logo Design)",
+            "position": "Original Character Design (Logo Design)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 28149,
@@ -1333,7 +1333,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Executive Producer",
+            "position": "Executive Producer",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1029,
@@ -1358,7 +1358,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Screenplay",
+            "position": "Director, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1047,
@@ -1383,7 +1383,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add In-Between Animation",
+            "position": "In-Between Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 17521,
@@ -1408,7 +1408,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Original Character Design, Key Animation, Screenplay",
+            "position": "Original Character Design, Key Animation, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2611,
@@ -1433,7 +1433,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Storyboard",
+            "position": "Director, Script, Storyboard",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 9798,
@@ -1458,7 +1458,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation (34, 38)",
+            "position": "Key Animation (34, 38)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 9438,
@@ -1483,7 +1483,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation (1)",
+            "position": "Key Animation (1)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 9916,
@@ -1508,7 +1508,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation",
+            "position": "Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 6311,
@@ -1533,7 +1533,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Storyboard, Original Creator",
+            "position": "Director, Script, Storyboard, Original Creator",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 199,
@@ -1558,7 +1558,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation",
+            "position": "Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 13307,
@@ -1583,7 +1583,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Storyboard",
+            "position": "Director, Script, Storyboard",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2616,
@@ -1608,7 +1608,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation",
+            "position": "Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2811,
@@ -1633,7 +1633,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Layout",
+            "position": "Layout",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 11561,
@@ -1658,7 +1658,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation",
+            "position": "Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 2452,
@@ -1683,7 +1683,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation, Setting",
+            "position": "Key Animation, Setting",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 1044,
@@ -1708,7 +1708,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Planning",
+            "position": "Planning",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 12267,
@@ -1733,7 +1733,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Character Design, Theme Song Lyrics, Screenplay",
+            "position": "Director, Character Design, Theme Song Lyrics, Screenplay",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 513,
@@ -1758,7 +1758,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Key Animation (eps 8, 18)",
+            "position": "Key Animation (eps 8, 18)",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 4208,
@@ -1783,7 +1783,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Storyboard, Original Creator",
+            "position": "Director, Script, Storyboard, Original Creator",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 523,
@@ -1808,7 +1808,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add In-Between Animation",
+            "position": "In-Between Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 9228,
@@ -1833,7 +1833,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director, Script, Storyboard, Key Animation",
+            "position": "Director, Script, Storyboard, Key Animation",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 3570,
@@ -1858,7 +1858,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Planning",
+            "position": "Planning",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 25291,
@@ -1883,7 +1883,7 @@
         },
         {
             "@class": "Jikan\\Model\\Person\\AnimeStaffPosition",
-            "position": "add Director",
+            "position": "Director",
             "anime": {
                 "@class": "Jikan\\Model\\Common\\AnimeMeta",
                 "malId": 15021,
