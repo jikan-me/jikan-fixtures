@@ -264,11 +264,6 @@
             "@class": "Jikan\\Model\\Common\\Url",
             "name": "Neon TV",
             "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJOZW9uIFRWIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJOWkQiLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjI3MywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjozNDQzNSwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzNDQzNSIsInNlYXNvbk51bWJlciI6MSwiandSYXdFbnRpdHlJZCI6InRzczUxOTIzIn19XX0&r=https%3A%2F%2Fwww.neontv.co.nz%2Fseries%2Fcowboy-bebop&uct_country=nz"
-        },
-        {
-            "@class": "Jikan\\Model\\Common\\Url",
-            "name": "",
-            "url": "https://www.justwatch.com/pk/tv-show/cowboy-bebop-1998/season-1"
         }
     ]
 }

@@ -367,11 +367,6 @@
             "@class": "Jikan\\Model\\Common\\Url",
             "name": "Filmstriben",
             "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiJGaWxtc3RyaWJlbiIsIm1vbmV0aXphdGlvblR5cGUiOiJmcmVlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJES0siLCJwYXJ0bmVySWQiOjI0OTAsInByb3ZpZGVySWQiOjQ0MywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0ODI5Nywib2JqZWN0VHlwZSI6Im1vdmllIiwiandFbnRpdHlJZCI6InRtNDgyOTcifX1dfQ&r=https%3A%2F%2Ffjernleje.filmstriben.dk%2Ffilm%2F9000006171%2Fchihiro-og-heksene&uct_country=dk"
-        },
-        {
-            "@class": "Jikan\\Model\\Common\\Url",
-            "name": "",
-            "url": "https://www.justwatch.com/pk/movie/spirited-away"
         }
     ]
 }

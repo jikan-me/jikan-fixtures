@@ -101,7 +101,7 @@
     "members": 3745413,
     "favorites": 246386,
     "synopsis": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.\n\nThe brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing \"automail,\" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.\n\nAs Edward becomes an infamous alchemist and gains the nickname \"Fullmetal,\" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.\n\n[Written by MAL Rewrite]",
-    "background": "",
+    "background": null,
     "premiered": "Spring 2009",
     "broadcast": "Sundays at 17:00 (JST)",
     "related": {
@@ -340,11 +340,6 @@
             "@class": "Jikan\\Model\\Common\\Url",
             "name": "3Cat",
             "url": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMiIsImRhdGEiOnsicHJvdmlkZXIiOiIzQ2F0IiwibW9uZXRpemF0aW9uVHlwZSI6ImZyZWUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInBhcnRuZXJJZCI6MjQ5MCwicHJvdmlkZXJJZCI6MjIzNywiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMy0wIiwiZGF0YSI6eyJ0aXRsZUlkIjoyMTQ4Miwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMyMTQ4MiIsInNlYXNvbk51bWJlciI6MSwiandSYXdFbnRpdHlJZCI6InRzczI1OTIxIn19XX0&r=https%3A%2F%2Fwww.3cat.cat%2F3cat%2Ft1xc15---l-emissari-d-orient%2Fvideo%2F6397891%2F&uct_country=es"
-        },
-        {
-            "@class": "Jikan\\Model\\Common\\Url",
-            "name": "",
-            "url": "https://www.justwatch.com"
         }
     ]
 }
