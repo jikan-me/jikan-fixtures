@@ -1,0 +1,25 @@
+name: Validate
+
+# These recordings are consumed by jikan's test suite through `composer link-fixtures`, so a malformed
+# snapshot or an orphaned page otherwise fails in a jikan run whose diff does not contain the cause.
+# Checking it here reports it against the commit that introduced it.
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 5
+    name: recordings
+    steps:
+      - name: Checkout changes
+        uses: actions/checkout@v7
+
+      - name: Check snapshots and page recordings
+        run: python3 scripts/validate.py
