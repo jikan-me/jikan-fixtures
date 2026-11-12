@@ -1,0 +1,55 @@
+{
+    "@class": "Jikan\\Model\\User\\Reviews\\UserReviews",
+    "hasNextPage": false,
+    "lastVisiblePage": 1,
+    "results": [
+        {
+            "@class": "Jikan\\Model\\User\\Reviews\\UserAnimeReview",
+            "entry": {
+                "@class": "Jikan\\Model\\Common\\AnimeMeta",
+                "malId": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "images": {
+                    "@class": "Jikan\\Model\\Resource\\CommonImageResource\\CommonImageResource",
+                    "jpg": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Jpg",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=9048793011a93ae6989515289f567c10",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644t.jpg?s=9048793011a93ae6989515289f567c10",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg?s=9048793011a93ae6989515289f567c10"
+                    },
+                    "webp": {
+                        "@class": "Jikan\\Model\\Resource\\CommonImageResource\\Webp",
+                        "imageUrl": "https://cdn.myanimelist.net/images/anime/4/19644.webp?s=9048793011a93ae6989515289f567c10",
+                        "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644t.webp?s=9048793011a93ae6989515289f567c10",
+                        "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/19644l.webp?s=9048793011a93ae6989515289f567c10"
+                    }
+                },
+                "title": "Cowboy Bebop"
+            },
+            "episodesWatched": null,
+            "malId": 515938,
+            "url": "https://myanimelist.net/reviews.php?id=515938",
+            "type": "anime",
+            "reactions": {
+                "@class": "Jikan\\Model\\Reviews\\Reactions",
+                "overall": 88,
+                "nice": 37,
+                "loveIt": 4,
+                "funny": 11,
+                "confusing": 33,
+                "informative": 0,
+                "wellWritten": 3,
+                "creative": 0
+            },
+            "date": "2024-02-17T01:08:00+00:00",
+            "review": "Don't understand the hype. Except the music and style it was super boring. The ''deep meanings' and ''symbolism'' don't hit if that is ALL there is. Each episode felt like filler with maybe 1 good scene. Julia is insufferable. Her final scene has zero impact. You can't honestly tell me you care this much about such an empty character that you get no exposure to. Even if it impacts Spike, as a viewer, it doesn't hit. Her presence was more annoying than anything else. Spike was a an amazing character until they decided to strip all the good stuff off of him and literally makehim into an air-head who is completely useless and suddenly seems to have lost all his brain-cells. \nEd is just...there. Only actually active in like 2 episodes and then get's a terrible resolution. It literally made no sense. Why would Ed leave with someone who clearly doesn't care if they are even there? \nFay was cool until you realized that she follows the same formula every.single.time. \nJustice for Ain. He deserves his own show. Had more charisma and character than any of the other 4. \nVicious is just an empty villain in his peak emo phase. \nI understand that for it's time it was a masterpiece but the plot is not cutting it. Sorry. \nIt had so much potential to be amazing, but it wasn't. You have those amazing characters and beautiful animation with great music and yet it STILL ended up feeling like staring at wall-paint dry.",
+            "score": 4,
+            "tags": [
+                "Not Recommended",
+                "Spoiler"
+            ],
+            "isSpoiler": true,
+            "isPreliminary": false
+        }
+    ]
+}
