@@ -7828,7 +7828,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [
                 {
                     "@class": "Jikan\\Model\\Common\\MalUrl",
@@ -8065,7 +8065,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [],
             "score": null,
             "r18": false,
@@ -8633,7 +8633,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [],
             "score": null,
             "r18": false,
@@ -8794,7 +8794,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [],
             "score": null,
             "r18": false,
@@ -12718,7 +12718,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [],
             "score": null,
             "r18": false,
@@ -12909,7 +12909,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [],
             "score": null,
             "r18": false,
@@ -14082,7 +14082,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [
                 {
                     "@class": "Jikan\\Model\\Common\\MalUrl",
@@ -15210,7 +15210,7 @@
                     "url": "https://myanimelist.net/anime/genre/15/Kids"
                 }
             ],
-            "source": "",
+            "source": null,
             "producers": [],
             "score": null,
             "r18": false,
@@ -15300,7 +15300,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [],
             "score": null,
             "r18": false,
@@ -15389,7 +15389,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [],
             "score": null,
             "r18": false,
@@ -16508,7 +16508,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [
                 {
                     "@class": "Jikan\\Model\\Common\\MalUrl",

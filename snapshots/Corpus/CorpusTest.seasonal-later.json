@@ -13675,7 +13675,7 @@
             "explicitGenres": [],
             "themes": [],
             "demographics": [],
-            "source": "",
+            "source": null,
             "producers": [
                 {
                     "@class": "Jikan\\Model\\Common\\MalUrl",
