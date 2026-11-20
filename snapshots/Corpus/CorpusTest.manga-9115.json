@@ -187,6 +187,26 @@
             "url": "https://myanimelist.net/people/7456/Juu_Ayakura"
         }
     ],
+    "authorsWithRoles": [
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaAuthor",
+            "author": {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Hasekura, Isuna",
+                "url": "https://myanimelist.net/people/3595/Isuna_Hasekura"
+            },
+            "role": "Story"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaAuthor",
+            "author": {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Ayakura, Juu",
+                "url": "https://myanimelist.net/people/7456/Juu_Ayakura"
+            },
+            "role": "Art"
+        }
+    ],
     "serializations": [],
     "externalLinks": [
         {
