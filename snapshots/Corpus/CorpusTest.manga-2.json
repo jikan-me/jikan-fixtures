@@ -185,6 +185,26 @@
             "url": "https://myanimelist.net/people/49592/Studio_Gaga"
         }
     ],
+    "authorsWithRoles": [
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaAuthor",
+            "author": {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Miura, Kentarou",
+                "url": "https://myanimelist.net/people/1868/Kentarou_Miura"
+            },
+            "role": "Story & Art"
+        },
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaAuthor",
+            "author": {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Studio Gaga",
+                "url": "https://myanimelist.net/people/49592/Studio_Gaga"
+            },
+            "role": "Art"
+        }
+    ],
     "serializations": [
         {
             "@class": "Jikan\\Model\\Common\\MalUrl",

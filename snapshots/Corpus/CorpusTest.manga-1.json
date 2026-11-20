@@ -116,6 +116,17 @@
             "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
         }
     ],
+    "authorsWithRoles": [
+        {
+            "@class": "Jikan\\Model\\Manga\\MangaAuthor",
+            "author": {
+                "@class": "Jikan\\Model\\Common\\MalUrl",
+                "name": "Urasawa, Naoki",
+                "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+            },
+            "role": "Story & Art"
+        }
+    ],
     "serializations": [
         {
             "@class": "Jikan\\Model\\Common\\MalUrl",
